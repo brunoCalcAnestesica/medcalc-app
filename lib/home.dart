@@ -71,13 +71,23 @@ class _HomePageState extends State<HomePage> {
   String _sexoSelecionado = 'Masculino';
 
   void _atualizarDados() {
-    // Limpar espaços em branco e validar campos
-    String idadeText = _idadeController.text.trim();
+    print('=== INÍCIO DA ATUALIZAÇÃO ===');
+    
+    // Obter valores dos campos
     String pesoText = _pesoAtualController.text.trim();
+    String idadeText = _idadeController.text.trim();
     String alturaText = _alturaController.text.trim();
+    
+    print('Valores dos campos:');
+    print('Peso: "$pesoText"');
+    print('Idade: "$idadeText"');
+    print('Altura: "$alturaText"');
+    print('Tipo: $_idadeTipo');
+    print('Sexo: $_sexoSelecionado');
 
     // Verificar se os campos não estão vazios
-    if (idadeText.isEmpty || pesoText.isEmpty || alturaText.isEmpty) {
+    if (pesoText.isEmpty || idadeText.isEmpty || alturaText.isEmpty) {
+      print('ERRO: Campos vazios');
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Por favor, preencha todos os campos.'),
@@ -88,95 +98,71 @@ class _HomePageState extends State<HomePage> {
       return;
     }
 
-    // Converter para double com tratamento de vírgula
-    double? idadeBruta = double.tryParse(idadeText.replaceAll(',', '.'));
-    double? pesoBruto = double.tryParse(pesoText.replaceAll(',', '.'));
-    double? alturaBruta = double.tryParse(alturaText.replaceAll(',', '.'));
+    // Converter para double
+    double? peso = double.tryParse(pesoText.replaceAll(',', '.'));
+    double? idade = double.tryParse(idadeText.replaceAll(',', '.'));
+    double? altura = double.tryParse(alturaText.replaceAll(',', '.'));
 
-    setState(() {
-      if (idadeBruta == null || pesoBruto == null || alturaBruta == null) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Por favor, insira valores numéricos válidos.'),
-            backgroundColor: Colors.redAccent,
-            behavior: SnackBarBehavior.floating,
-          ),
-        );
-        return;
-      }
+    print('Valores convertidos:');
+    print('Peso: $peso');
+    print('Idade: $idade');
+    print('Altura: $altura');
 
-      // Validações específicas
-      if (pesoBruto <= 0 || pesoBruto > 200) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Peso deve estar entre 0.1 e 200 kg.'),
-            backgroundColor: Colors.redAccent,
-            behavior: SnackBarBehavior.floating,
-          ),
-        );
-        return;
-      }
-
-      if (alturaBruta <= 0 || alturaBruta > 220) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Altura deve estar entre 0.1 e 220 cm.'),
-            backgroundColor: Colors.redAccent,
-            behavior: SnackBarBehavior.floating,
-          ),
-        );
-        return;
-      }
-
-      if (idadeBruta <= 0) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Idade deve ser maior que zero.'),
-            backgroundColor: Colors.redAccent,
-            behavior: SnackBarBehavior.floating,
-          ),
-        );
-        return;
-      }
-
-      // Peso e Altura
-      SharedData.peso = pesoBruto;
-      SharedData.altura = alturaBruta;
-
-      // Idade convertida
-      if (_idadeTipo == 'dias') {
-        SharedData.idade = idadeBruta / 365.0;
-      } else if (_idadeTipo == 'meses') {
-        SharedData.idade = idadeBruta / 12.0;
-      } else {
-        SharedData.idade = idadeBruta;
-      }
-
-      // Sexo e tipo de idade
-      SharedData.sexo = _sexoSelecionado;
-      SharedData.idadeTipo = _idadeTipo;
-
-      // Faixa etária
-      _faixaEtaria = SharedData.faixaEtaria;
-
-      // Salvar no dispositivo
-      _savePacientePreferences();
-
-      // Garante que o teclado virtual seja fechado após preencher os campos e atualizar os dados.
-      FocusScope.of(context).unfocus();
-
-      // Mostrar confirmação
+    if (peso == null || idade == null || altura == null) {
+      print('ERRO: Valores inválidos');
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
-          content: Text('Dados atualizados com sucesso!'),
-          backgroundColor: Colors.green,
+          content: Text('Por favor, insira valores numéricos válidos.'),
+          backgroundColor: Colors.redAccent,
           behavior: SnackBarBehavior.floating,
         ),
       );
+      return;
+    }
 
-      // Ir para próxima aba
-      _currentIndex = 1;
+    // Atualizar SharedData
+    SharedData.peso = peso;
+    SharedData.altura = altura;
+    
+    // Converter idade baseado no tipo
+    if (_idadeTipo == 'dias') {
+      SharedData.idade = idade / 365.0;
+    } else if (_idadeTipo == 'meses') {
+      SharedData.idade = idade / 12.0;
+    } else {
+      SharedData.idade = idade;
+    }
+    
+    SharedData.sexo = _sexoSelecionado;
+    SharedData.idadeTipo = _idadeTipo;
+
+    print('SharedData atualizado:');
+    print('Peso: ${SharedData.peso}');
+    print('Idade: ${SharedData.idade}');
+    print('Altura: ${SharedData.altura}');
+    print('Sexo: ${SharedData.sexo}');
+
+    // Atualizar UI
+    setState(() {
+      _faixaEtaria = SharedData.faixaEtaria;
     });
+
+    // Salvar no dispositivo
+    _savePacientePreferences();
+
+    // Fechar teclado
+    FocusScope.of(context).unfocus();
+
+    // Mostrar confirmação
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('Dados atualizados com sucesso!'),
+        backgroundColor: Colors.green,
+        behavior: SnackBarBehavior.floating,
+      ),
+    );
+
+    print('=== ATUALIZAÇÃO CONCLUÍDA ===');
   }
 
 
@@ -294,7 +280,7 @@ class _HomePageState extends State<HomePage> {
         padding: const EdgeInsets.all(16.0),
         child: ConstrainedBox(
           constraints: const BoxConstraints(
-            maxWidth: 400, // Limita o tamanho para não ficar esticado em telas grandes
+            maxWidth: 400,
           ),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -306,171 +292,156 @@ class _HomePageState extends State<HomePage> {
               ),
               const SizedBox(height: 20),
 
-
-
-              // << Peso, Idade e Tipo na mesma linha
-              Row(
-                children: [
-                  Expanded(
-                    child: TextField(
-                      controller: _pesoAtualController,
-                      keyboardType: const TextInputType.numberWithOptions(decimal: true),
-                      inputFormatters: [
-                        PesoMaximo200Com3DecimaisFormatter(),
-                      ],
-                      decoration: const InputDecoration(
-                        labelText: 'Peso (kg)',
-                        prefixIcon: Icon(Icons.monitor_weight),
-                        hintText: 'Ex: 70.5',
-                        border: OutlineInputBorder(),
-                        filled: true,
-                        fillColor: Colors.white,
-                      ),
-                      onChanged: (value) {
-                        setState(() {
-                          SharedData.peso = double.tryParse(value.replaceAll(',', '.'));
-                        });
-                      },
-                    ),
-                  ),
-                  const SizedBox(width: 8),
-                  Expanded(
-                    child: TextField(
-                      controller: _idadeController,
-                      keyboardType: const TextInputType.numberWithOptions(decimal: true),
-                      inputFormatters: [
-                        IdadeFormatter(),
-                      ],
-                      decoration: const InputDecoration(
-                        labelText: 'Idade',
-                        prefixIcon: Icon(Icons.cake),
-                        hintText: 'Ex: 30',
-                        border: OutlineInputBorder(),
-                        filled: true,
-                        fillColor: Colors.white,
-                      ),
-                      onChanged: (value) {
-                        setState(() {
-                          double? idade = double.tryParse(value.replaceAll(',', '.'));
-                          if (idade != null) {
-                            if (_idadeTipo == 'dias') {
-                              SharedData.idade = idade / 365.0;
-                            } else if (_idadeTipo == 'meses') {
-                              SharedData.idade = idade / 12.0;
-                            } else {
-                              SharedData.idade = idade;
-                            }
-                          }
-                        });
-                      },
-                    ),
-                  ),
-                  const SizedBox(width: 8),
-                  Expanded(
-                    child: DropdownButtonFormField<String>(
-                      value: _idadeTipo,
-                      decoration: const InputDecoration(
-                        labelText: 'D/M/A',
-                        prefixIcon: Icon(Icons.calendar_today),
-                        border: OutlineInputBorder(),
-                        filled: true,
-                        fillColor: Colors.white,
-                      ),
-                      borderRadius: BorderRadius.circular(10),
-                      isExpanded: true,
-                      items: const [
-                        DropdownMenuItem(value: 'dias', child: Text('Dias')),
-                        DropdownMenuItem(value: 'meses', child: Text('Meses')),
-                        DropdownMenuItem(value: 'anos', child: Text('Anos')),
-                      ],
-                      onChanged: (value) {
-                        setState(() {
-                          _idadeTipo = value!;
-                        });
-                      },
-                    ),
-                  ),
-                ],
+              // Campo Peso
+              TextField(
+                controller: _pesoAtualController,
+                keyboardType: const TextInputType.numberWithOptions(decimal: true),
+                decoration: const InputDecoration(
+                  labelText: 'Peso (kg)',
+                  prefixIcon: Icon(Icons.monitor_weight),
+                  hintText: 'Ex: 70.5',
+                  border: OutlineInputBorder(),
+                  filled: true,
+                  fillColor: Colors.white,
+                ),
+                onChanged: (value) {
+                  print('Peso digitado: $value'); // Debug
+                  setState(() {
+                    SharedData.peso = double.tryParse(value.replaceAll(',', '.'));
+                  });
+                },
               ),
 
-              const SizedBox(height: 20),
+              const SizedBox(height: 16),
 
-              // << Altura e Sexo na mesma linha
-              Row(
-                children: [
-                  Expanded(
-                    child: TextField(
-                      controller: _alturaController,
-                      keyboardType: const TextInputType.numberWithOptions(decimal: true),
-                      inputFormatters: [
-                        AlturaMaxima220Com3DecimaisFormatter(),
+              // Campo Idade
+              TextField(
+                controller: _idadeController,
+                keyboardType: const TextInputType.numberWithOptions(decimal: true),
+                decoration: const InputDecoration(
+                  labelText: 'Idade',
+                  prefixIcon: Icon(Icons.cake),
+                  hintText: 'Ex: 30',
+                  border: OutlineInputBorder(),
+                  filled: true,
+                  fillColor: Colors.white,
+                ),
+                onChanged: (value) {
+                  print('Idade digitada: $value'); // Debug
+                  setState(() {
+                    double? idade = double.tryParse(value.replaceAll(',', '.'));
+                    if (idade != null) {
+                      if (_idadeTipo == 'dias') {
+                        SharedData.idade = idade / 365.0;
+                      } else if (_idadeTipo == 'meses') {
+                        SharedData.idade = idade / 12.0;
+                      } else {
+                        SharedData.idade = idade;
+                      }
+                    }
+                  });
+                },
+              ),
+
+              const SizedBox(height: 16),
+
+              // Campo Altura
+              TextField(
+                controller: _alturaController,
+                keyboardType: const TextInputType.numberWithOptions(decimal: true),
+                decoration: const InputDecoration(
+                  labelText: 'Altura (cm)',
+                  hintText: 'Ex: 175.5',
+                  prefixIcon: Icon(Icons.straighten),
+                  border: OutlineInputBorder(),
+                  filled: true,
+                  fillColor: Colors.white,
+                ),
+                onChanged: (value) {
+                  print('Altura digitada: $value'); // Debug
+                  setState(() {
+                    SharedData.altura = double.tryParse(value.replaceAll(',', '.'));
+                  });
+                },
+              ),
+
+              const SizedBox(height: 16),
+
+              // Tipo de Idade
+              DropdownButtonFormField<String>(
+                value: _idadeTipo,
+                decoration: const InputDecoration(
+                  labelText: 'Tipo de Idade',
+                  prefixIcon: Icon(Icons.calendar_today),
+                  border: OutlineInputBorder(),
+                  filled: true,
+                  fillColor: Colors.white,
+                ),
+                items: const [
+                  DropdownMenuItem(value: 'dias', child: Text('Dias')),
+                  DropdownMenuItem(value: 'meses', child: Text('Meses')),
+                  DropdownMenuItem(value: 'anos', child: Text('Anos')),
+                ],
+                onChanged: (value) {
+                  print('Tipo de idade selecionado: $value'); // Debug
+                  setState(() {
+                    _idadeTipo = value!;
+                  });
+                },
+              ),
+
+              const SizedBox(height: 16),
+
+              // Sexo
+              DropdownButtonFormField<String>(
+                value: _sexoSelecionado,
+                decoration: const InputDecoration(
+                  labelText: 'Sexo',
+                  border: OutlineInputBorder(),
+                  filled: true,
+                  fillColor: Colors.white,
+                ),
+                items: const [
+                  DropdownMenuItem(
+                    value: 'Masculino',
+                    child: Row(
+                      children: [
+                        Icon(Icons.male, color: Colors.blue),
+                        SizedBox(width: 8),
+                        Text('Masculino'),
                       ],
-                      decoration: InputDecoration(
-                        labelText: 'Altura (cm)',
-                        hintText: 'Ex: 175.5',
-                        prefixIcon: Transform.rotate(
-                          angle: 90 * 3.14159 / 180, // 90 graus em radianos
-                          child: Icon(Icons.straighten),
-                        ),
-                        border: OutlineInputBorder(),
-                        filled: true,
-                        fillColor: Colors.white,
-                      ),
-                      onChanged: (value) {
-                        setState(() {
-                          SharedData.altura = double.tryParse(value.replaceAll(',', '.'));
-                        });
-                      },
                     ),
                   ),
-                  const SizedBox(width: 8),
-                  Expanded(
-                    child: DropdownButtonFormField<String>(
-                      value: _sexoSelecionado,
-                      decoration: const InputDecoration(
-                        labelText: 'Sexo',
-                        border: OutlineInputBorder(),
-                        filled: true,
-                        fillColor: Colors.white,
-                      ),
-                      borderRadius: BorderRadius.circular(10),
-                      isExpanded: true,
-                      items: const [
-                        DropdownMenuItem(
-                          value: 'Masculino',
-                          child: Row(
-                            children: [
-                              Icon(Icons.male, color: Colors.blue),
-                              SizedBox(width: 8),
-                              Text('Masculino'),
-                            ],
-                          ),
-                        ),
-                        DropdownMenuItem(
-                          value: 'Feminino',
-                          child: Row(
-                            children: [
-                              Icon(Icons.female, color: Colors.pink),
-                              SizedBox(width: 8),
-                              Text('Feminino'),
-                            ],
-                          ),
-                        ),
+                  DropdownMenuItem(
+                    value: 'Feminino',
+                    child: Row(
+                      children: [
+                        Icon(Icons.female, color: Colors.pink),
+                        SizedBox(width: 8),
+                        Text('Feminino'),
                       ],
-                      onChanged: (value) {
-                        setState(() {
-                          _sexoSelecionado = value!;
-                        });
-                      },
                     ),
                   ),
                 ],
+                onChanged: (value) {
+                  print('Sexo selecionado: $value'); // Debug
+                  setState(() {
+                    _sexoSelecionado = value!;
+                  });
+                },
               ),
 
               const SizedBox(height: 30),
 
+              // Botão de Atualizar
               ElevatedButton.icon(
-                onPressed: _atualizarDados,
+                onPressed: () {
+                  print('Botão pressionado!'); // Debug
+                  print('Peso: ${_pesoAtualController.text}');
+                  print('Idade: ${_idadeController.text}');
+                  print('Altura: ${_alturaController.text}');
+                  _atualizarDados();
+                },
                 icon: const Icon(Icons.check_circle),
                 label: const Text('Atualizar Dados'),
                 style: ElevatedButton.styleFrom(
@@ -478,6 +449,31 @@ class _HomePageState extends State<HomePage> {
                   foregroundColor: Colors.white,
                   padding: const EdgeInsets.symmetric(vertical: 16),
                   shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+                ),
+              ),
+
+              const SizedBox(height: 20),
+
+              // Debug info
+              Container(
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  color: Colors.grey[100],
+                  borderRadius: BorderRadius.circular(8),
+                ),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text('Debug Info:', style: TextStyle(fontWeight: FontWeight.bold)),
+                    Text('Peso: ${_pesoAtualController.text}'),
+                    Text('Idade: ${_idadeController.text}'),
+                    Text('Altura: ${_alturaController.text}'),
+                    Text('Tipo: $_idadeTipo'),
+                    Text('Sexo: $_sexoSelecionado'),
+                    Text('SharedData.peso: ${SharedData.peso}'),
+                    Text('SharedData.idade: ${SharedData.idade}'),
+                    Text('SharedData.altura: ${SharedData.altura}'),
+                  ],
                 ),
               ),
 

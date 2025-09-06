@@ -296,6 +296,7 @@ class _HomePageState extends State<HomePage> {
               TextField(
                 controller: _pesoAtualController,
                 keyboardType: const TextInputType.numberWithOptions(decimal: true),
+                textInputAction: TextInputAction.next,
                 decoration: const InputDecoration(
                   labelText: 'Peso (kg)',
                   prefixIcon: Icon(Icons.monitor_weight),
@@ -318,6 +319,7 @@ class _HomePageState extends State<HomePage> {
               TextField(
                 controller: _idadeController,
                 keyboardType: const TextInputType.numberWithOptions(decimal: true),
+                textInputAction: TextInputAction.next,
                 decoration: const InputDecoration(
                   labelText: 'Idade',
                   prefixIcon: Icon(Icons.cake),
@@ -349,6 +351,7 @@ class _HomePageState extends State<HomePage> {
               TextField(
                 controller: _alturaController,
                 keyboardType: const TextInputType.numberWithOptions(decimal: true),
+                textInputAction: TextInputAction.done,
                 decoration: const InputDecoration(
                   labelText: 'Altura (cm)',
                   hintText: 'Ex: 175.5',

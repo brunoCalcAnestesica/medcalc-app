@@ -49,8 +49,8 @@ class MedCalcApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       initialRoute: termoAceito ? '/' : '/consentimento',
       routes: {
-        '/': (context) => const TestForm(), // Temporário para teste
-        '/splash': (context) => const SplashScreen(),
+        '/': (context) => const SplashScreen(),
+        '/test': (context) => const TestForm(), // Para teste
         '/consentimento': (context) => const ConsentimentoPage(),
         '/bulario': (context) {
           final args = ModalRoute.of(context)!.settings.arguments as String?;

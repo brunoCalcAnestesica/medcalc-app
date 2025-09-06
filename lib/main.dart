@@ -4,6 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'splash_screen.dart';
 import 'consentimento_page.dart';
 import 'bulario_page.dart';
+import 'test_form.dart';
 
 late bool termoAceito;
 
@@ -48,7 +49,8 @@ class MedCalcApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       initialRoute: termoAceito ? '/' : '/consentimento',
       routes: {
-        '/': (context) => const SplashScreen(),
+        '/': (context) => const TestForm(), // Temporário para teste
+        '/splash': (context) => const SplashScreen(),
         '/consentimento': (context) => const ConsentimentoPage(),
         '/bulario': (context) {
           final args = ModalRoute.of(context)!.settings.arguments as String?;

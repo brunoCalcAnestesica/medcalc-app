@@ -1,0 +1,215 @@
+{
+  "PT": {
+    "titulo": "Queimadura de Face e Pescoço",
+    "definicao": "As queimaduras de face e pescoço são lesões térmicas ou químicas que envolvem regiões anatômicas críticas com alto risco de comprometimento funcional, respiratório e estético. Representam uma emergência clínica devido à proximidade com as vias aéreas superiores, olhos e estruturas vasculonervosas, além do potencial de progressão rápida para insuficiência respiratória aguda por edema de partes moles. Demandam avaliação imediata, manejo multidisciplinar e seguimento prolongado para reabilitação estética e funcional.",
+    "epidemiologia": "Queimaduras faciais ocorrem em até 30% dos pacientes atendidos em centros especializados e frequentemente estão associadas a inalação de fumaça, explosões ou queimaduras químicas. Crianças e idosos são grupos particularmente vulneráveis. A presença de lesão facial aumenta o risco de lesão inalatória em até 60% dos casos, sendo frequentemente necessária intubação precoce. Queimaduras cervicais aumentam o risco de obstrução respiratória por edema compressivo e comprometem a mobilidade cervical.",
+    "fisiopatologia": "A queimadura térmica desencadeia necrose tecidual, vasodilatação, aumento da permeabilidade capilar e inflamação intensa. Na face e pescoço, o edema pode comprometer precocemente a via aérea superior. A lesão por inalação de fumaça pode causar necrose da mucosa laringotraqueal, broncoconstrição, hipersecreção, atelectasia e evolução para SDRA. Lesões químicas podem apresentar progressão tardia e causar necrose profunda. A lesão térmica ocular associada é uma emergência oftalmológica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão em queimaduras extensas com perda volêmica significativa.",
+        "Taquicardia como resposta inflamatória e dor intensa.",
+        "Sinais de choque hipovolêmico ou distributivo em queimaduras profundas extensas."
+      ],
+      "respiratorias": [
+        "Estridor, rouquidão, taquipneia e uso de musculatura acessória.",
+        "Queimaduras de vibrissas, fuligem em orofaringe e escarro carbonáceo.",
+        "Hipoxemia progressiva, broncoespasmo e dispneia — indicativos de lesão inalatória.",
+        "Parada respiratória súbita por obstrução de via aérea superior."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento de consciência por hipóxia, intoxicação por monóxido de carbono ou lesão cerebral associada.",
+        "Acidose metabólica em queimaduras extensas com hipoperfusão tecidual.",
+        "Ansiedade intensa, agitação psicomotora e dor desproporcional nas queimaduras profundas."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A avaliação segue o protocolo ABCDE com atenção especial à via aérea e à respiração. Sinais clínicos como rouquidão, escarro carbonáceo, queimaduras nas narinas e presença de fuligem na orofaringe são altamente sugestivos de lesão inalatória. Intubação precoce deve ser considerada para prevenir colapso da via aérea. A extensão e profundidade das queimaduras devem ser classificadas conforme a Regra dos Nove ou Lund-Browder.",
+      "exames_essenciais": [
+        "Gasometria arterial com co-oximetria para dosagem de carboxi-hemoglobina e detecção de hipóxia silenciosa.",
+        "Fibrobroncoscopia ou laringoscopia precoce para avaliação direta da via aérea superior.",
+        "Radiografia e tomografia de tórax para investigação de lesão pulmonar e inalação de fumaça.",
+        "Dosagem de lactato sérico, carboxi-Hb e cianeto em vítimas de incêndios em ambiente fechado.",
+        "Avaliação oftalmológica urgente em queimaduras oculares ou periorbitárias.",
+        "Classificação da área corporal queimada: superfície de área corporal queimada (SCQ), profundidade (1º, 2º, 3º grau)."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Sinais de lesão inalatória: estridor, rouquidão, fuligem nasal, escarro escurecido.",
+      "Alteração do nível de consciência com risco de aspiração.",
+      "Hipoxemia refratária mesmo com oxigenoterapia de alto fluxo.",
+      "Edema cervical em progressão com sinais de obstrução respiratória iminente.",
+      "Necessidade de ventilação protetora em casos com SDRA."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Intubação orotraqueal precoce nos casos com risco de comprometimento de via aérea.",
+        "Oxigenoterapia com FiO₂ 100% até confirmação da ausência de intoxicação por CO.",
+        "Reposição volêmica conforme fórmula de Parkland: 4 mL x peso (kg) x %SCQ em 24h.",
+        "Analgesia multimodal com opioides, cetamina e sedativos em queimaduras extensas.",
+        "Curativos estéreis, úmidos, com solução salina ou antissépticos (clorexidina, sulfadiazina de prata).",
+        "Proteção ocular com pomadas oftálmicas e oclusão para prevenção de úlceras corneanas.",
+        "Avaliar necessidade de escarotomia cervical ou torácica em casos de síndrome compartimental.",
+        "Encaminhamento precoce a centro de referência em queimados com suporte intensivo e cirúrgico."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Queimaduras de face e pescoço apresentam prognóstico variável conforme extensão, profundidade e presença de lesão inalatória. A intubação precoce é fator protetor contra obstrução aguda de via aérea. Sequelas funcionais e estéticas são comuns, exigindo reabilitação multidisciplinar prolongada. Complicações respiratórias, como pneumonia e SDRA, aumentam a morbimortalidade."
+    },
+    "notas_adicionais": [
+      "Documentar fotograficamente as lesões iniciais para monitoramento e peritagem legal.",
+      "Monitorar níveis de COHb mesmo em pacientes com SpO₂ normal após exposição a fumaça.",
+      "Evitar desbridamento imediato agressivo em face — priorizar abordagem conservadora nas primeiras 48–72h.",
+      "Utilizar malhas compressivas e máscaras modeladas a partir da fase de granulação para remodelação cicatricial.",
+      "Incluir equipe de cirurgia plástica e oftalmologia na condução de casos complexos."
+    ],
+    "fontes_bibliograficas": [
+      "American Burn Association – Guidelines for Burn Care. 2023.",
+      "UpToDate. Management of the airway and inhalation injury in burn patients. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 80 – Burn Injury.",
+      "Diretrizes da Sociedade Brasileira de Queimaduras. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  },
+  "US": {
+    "title": "Facial and Neck Burns",
+    "definition": "Facial and neck burns are critical injuries resulting from thermal, chemical, or electrical exposure involving anatomically vital areas with significant functional, respiratory, and aesthetic implications. Due to proximity to the upper airway, eyes, and cervical vasculature, these burns are associated with a high risk of acute airway compromise, inhalation injury, and long-term disfigurement. Early recognition, airway protection, and multidisciplinary management are essential to minimize complications and optimize outcomes.",
+    "epidemiology": "Facial burns occur in up to 30% of patients admitted to burn centers, commonly associated with smoke inhalation, flame exposure, and chemical injuries. Children and elderly individuals are particularly vulnerable. Inhalation injury is present in 60% of cases with facial burns and correlates with increased morbidity and mortality. Cervical involvement increases the risk of airway edema and mechanical restriction of neck mobility, further complicating respiratory management.",
+    "pathophysiology": "Thermal injury to the face and neck causes coagulative necrosis, intense inflammatory response, capillary leak, and progressive soft tissue edema. Inhalation of smoke and heated gases damages the mucosa of the oropharynx, larynx, and tracheobronchial tree, leading to sloughing, bronchospasm, mucus plugging, and increased risk of ARDS. Chemical burns may cause delayed deep tissue necrosis. Ocular burns require urgent intervention due to the risk of corneal ulceration and vision loss.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Hypotension in extensive burns due to fluid loss and third spacing.",
+        "Tachycardia as a response to pain, hypovolemia, or systemic inflammation.",
+        "Signs of burn shock in deep or large surface area injuries."
+      ],
+      "respiratory": [
+        "Stridor, hoarseness, tachypnea, and accessory muscle use.",
+        "Singed nasal hairs, soot in oropharynx, carbonaceous sputum.",
+        "Progressive hypoxemia and bronchospasm suggesting inhalation injury.",
+        "Acute respiratory failure due to upper airway obstruction."
+      ],
+      "neurologic_and_metabolic": [
+        "Altered mental status due to hypoxia, carbon monoxide poisoning, or associated head injury.",
+        "Metabolic acidosis in large burns from tissue hypoperfusion.",
+        "Severe anxiety, restlessness, and disproportionate pain in deep burns."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Evaluation follows the ABCDE trauma protocol with early focus on airway integrity and breathing. Clinical indicators of inhalation injury—hoarseness, stridor, soot, burned nasal hairs—warrant early intubation. The extent and depth of facial and neck burns should be classified using the Rule of Nines or the Lund-Browder chart. Ocular and airway injuries require prompt specialist assessment.",
+      "essential_tests": [
+        "Arterial blood gas with co-oximetry for carboxyhemoglobin levels and silent hypoxia detection.",
+        "Early fiberoptic bronchoscopy or laryngoscopy to assess airway patency and mucosal damage.",
+        "Chest X-ray and CT scan to evaluate pulmonary involvement or associated trauma.",
+        "Serum lactate, carboxyhemoglobin, and cyanide levels in victims of closed-space fires.",
+        "Urgent ophthalmologic evaluation for periorbital or globe involvement.",
+        "Burn surface area and depth assessment: TBSA estimation and degree classification."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Signs of inhalation injury: stridor, hoarseness, soot in nasal passages, carbonaceous sputum.",
+      "Decreased consciousness with aspiration risk.",
+      "Hypoxemia refractory to high-flow oxygen.",
+      "Progressive cervical edema threatening airway patency.",
+      "Need for protective ventilation in patients with ARDS."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Early orotracheal intubation in suspected airway involvement.",
+        "100% oxygen therapy until carbon monoxide poisoning is ruled out.",
+        "Fluid resuscitation per Parkland formula: 4 mL × body weight (kg) × %TBSA burned over 24 hours.",
+        "Multimodal analgesia: opioids, ketamine, and sedatives as needed.",
+        "Moist sterile dressings with saline or antiseptics (e.g., chlorhexidine, silver sulfadiazine).",
+        "Ocular protection with lubricants and shields to prevent corneal damage.",
+        "Assessment for cervical or thoracic escharotomy in circumferential burns.",
+        "Early referral to a burn center for comprehensive surgical and rehabilitative care."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on the extent and depth of burns, airway involvement, and early intervention. Early intubation prevents fatal airway obstruction. Facial and neck burns often result in functional and aesthetic sequelae, requiring long-term multidisciplinary rehabilitation. Inhalation injury significantly increases morbidity and mortality."
+    },
+    "additional_notes": [
+      "Photographic documentation of facial burns is essential for clinical and legal purposes.",
+      "Monitor COHb levels in all smoke exposure cases, regardless of initial SpO₂.",
+      "Avoid aggressive early facial debridement—conservative management is preferred in the first 48–72 hours.",
+      "Use pressure garments and custom face masks during the remodeling phase to minimize hypertrophic scarring.",
+      "Involve plastic surgery and ophthalmology specialists early in complex facial burn cases."
+    ],
+    "references": [
+      "American Burn Association – Guidelines for Burn Care. 2023.",
+      "UpToDate. Management of the airway and inhalation injury in burn patients. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 80 – Burn Injury.",
+      "Brazilian Society of Burn Care Guidelines. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Quemaduras de Cara y Cuello",
+    "definicion": "Las quemaduras que afectan la cara y el cuello representan una emergencia crítica debido a la proximidad con las vías respiratorias superiores, los ojos y estructuras neurovasculares cervicales. Estas lesiones, causadas por agentes térmicos, químicos o eléctricos, presentan alto riesgo de compromiso respiratorio agudo, lesiones por inhalación, secuelas estéticas graves y disfunción funcional. Su manejo debe ser inmediato, enfocado en la protección de la vía aérea, control del dolor y evaluación especializada.",
+    "epidemiologia": "Hasta el 30% de los pacientes tratados en unidades especializadas de quemaduras presentan lesiones faciales. La mayoría están relacionadas con exposición a llamas, inhalación de humo, explosiones o agentes químicos. En el 60% de los casos con afectación facial existe lesión por inhalación concomitante. Las quemaduras cervicales, además del riesgo de edema obstructivo, dificultan la movilidad y el posicionamiento, afectando el manejo respiratorio.",
+    "fisiopatologia": "La exposición térmica produce necrosis por coagulación, inflamación intensa, fuga capilar y edema progresivo. El daño inhalatorio a la mucosa respiratoria puede provocar desprendimiento epitelial, broncoespasmo, formación de tapones mucosos y riesgo de síndrome de dificultad respiratoria aguda (SDRA). Las quemaduras químicas pueden causar necrosis profunda tardía. Las lesiones oculares requieren intervención urgente debido al riesgo de úlcera corneal y pérdida visual.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión en quemaduras extensas por pérdida de líquidos.",
+        "Taquicardia por dolor, hipovolemia o inflamación sistémica.",
+        "Signos de shock en quemaduras profundas y extensas."
+      ],
+      "respiratorias": [
+        "Estridor, disfonía, taquipnea y uso de músculos accesorios.",
+        "Vibrisas nasales chamuscadas, hollín en la orofaringe, esputo carbonáceo.",
+        "Hipoxemia progresiva y broncoespasmo indicativos de lesión por inhalación.",
+        "Obstrucción aguda de vía aérea superior."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Alteración del estado mental por hipoxia, intoxicación por monóxido de carbono o trauma craneal.",
+        "Acidosis metabólica por hipoperfusión en quemaduras extensas.",
+        "Ansiedad extrema, inquietud, dolor intenso en quemaduras profundas."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Se debe realizar la evaluación inicial siguiendo el protocolo ABCDE, con énfasis en la vía aérea y la respiración. La presencia de signos como disfonía, estridor, esputo carbonáceo o lesiones en vibrisas nasales justifica la intubación temprana. La extensión y profundidad de las quemaduras deben clasificarse con la Regla de los Nueves o el método de Lund-Browder.",
+      "examenes_esenciales": [
+        "Gasometría arterial con cooximetría para detectar carboxihemoglobina e hipoxia silente.",
+        "Broncoscopia o laringoscopia temprana para evaluar integridad de la vía aérea.",
+        "Radiografía y tomografía torácica en sospecha de afectación pulmonar.",
+        "Lactato sérico, carboxihemoglobina y cianuro en víctimas de incendios en espacios cerrados.",
+        "Evaluación oftalmológica urgente en quemaduras periorbitarias u oculares.",
+        "Estimación de superficie corporal quemada (SCQ) y profundidad de la lesión."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Signos de lesión por inhalación: estridor, disfonía, hollín nasal, esputo carbonáceo.",
+      "Disminución del nivel de conciencia con riesgo de aspiración.",
+      "Hipoxemia refractaria con oxígeno de alto flujo.",
+      "Edema cervical en progresión con amenaza de obstrucción de vía aérea.",
+      "Necesidad de ventilación protectora en casos de SDRA."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Intubación orotraqueal temprana ante sospecha de compromiso de vía aérea.",
+        "Oxigenoterapia con FiO₂ al 100% hasta descartar intoxicación por monóxido de carbono.",
+        "Reanimación con líquidos según fórmula de Parkland: 4 mL × peso (kg) × % SCQ en 24 h.",
+        "Analgesia multimodal: opioides, ketamina y sedantes según necesidad.",
+        "Curaciones con apósitos estériles húmedos con solución salina o antisépticos (clorhexidina, sulfadiazina de plata).",
+        "Protección ocular con lubricantes y apósitos oclusivos.",
+        "Evaluación para escarotomía cervical o torácica en quemaduras circunferenciales.",
+        "Referencia precoz a unidad especializada en quemaduras para atención integral."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende de la extensión, profundidad de las lesiones y compromiso de la vía aérea. La intubación precoz reduce el riesgo de obstrucción fatal. Las quemaduras faciales frecuentemente dejan secuelas funcionales y estéticas, que requieren rehabilitación prolongada. La lesión por inhalación aumenta significativamente la morbimortalidad."
+    },
+    "notas_adicionales": [
+      "Documentar fotográficamente las lesiones faciales para fines clínicos y legales.",
+      "Monitorizar COHb en todas las víctimas de inhalación de humo, incluso si la SpO₂ es normal.",
+      "Evitar desbridamiento facial agresivo en las primeras 48–72 horas.",
+      "Utilizar prendas compresivas y máscaras personalizadas en la fase de remodelación cicatricial.",
+      "Incluir especialistas en cirugía plástica y oftalmología desde el inicio en casos complejos."
+    ],
+    "referencias": [
+      "American Burn Association – Guidelines for Burn Care. 2023.",
+      "UpToDate. Manejo de la vía aérea y lesiones por inhalación en pacientes con quemaduras. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 80 – Lesiones por Quemaduras.",
+      "Sociedad Brasileña de Quemaduras – Guías clínicas. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  }
+}

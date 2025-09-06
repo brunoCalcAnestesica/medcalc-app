@@ -1,0 +1,206 @@
+{
+  "ES": {
+    "titulo": "Síncope con Riesgo Inminente de Evento Grave",
+    "definicion": "La síncope con riesgo inminente de evento grave se refiere a la pérdida transitoria de conciencia (LTC) causada por condiciones cardiovasculares, neurológicas o sistémicas potencialmente mortales. A diferencia de la síncope vasovagal o ortostática, la síncope de alto riesgo suele ser súbita, sin pródromos y puede tener consecuencias fatales. Requiere evaluación hospitalaria urgente, monitoreo continuo e intervención precoz.",
+    "epidemiologia": "La síncope representa hasta el 3% de las consultas de emergencia y el 6% de las hospitalizaciones clínicas. Se estima que hasta el 10% de los casos tienen etiología cardíaca de alto riesgo. Los pacientes ancianos, con antecedentes de enfermedad cardíaca estructural, síncope durante el esfuerzo o en decúbito, o con alteraciones en el ECG, tienen mayor riesgo de muerte súbita. La mortalidad al año puede superar el 30% en casos no tratados.",
+    "fisiopatologia": "La síncope de alto riesgo resulta de una hipoperfusión cerebral abrupta debida a mecanismos como taquiarritmias ventriculares, bloqueos AV avanzados, estenosis aórtica crítica, miocardiopatía dilatada, disfunción sistólica severa o eventos embólicos. Estos comprometen el gasto cardíaco y el flujo cerebral, provocando una pérdida de conciencia súbita, generalmente sin aviso previo.",
+    "manifestaciones_clinicas": {
+      "signos_alarma": [
+        "Síncope durante el ejercicio o en posición supina.",
+        "Pérdida de conciencia sin síntomas prodrómicos (náuseas, sudoración, visión borrosa).",
+        "Síncope con trauma o caída significativa.",
+        "Palpitaciones o dolor torácico precediendo la pérdida de conciencia.",
+        "Disnea asociada (sugiere embolia pulmonar).",
+        "Antecedente personal o familiar de muerte súbita.",
+        "Soplo sistólico significativo en la auscultación.",
+        "ECG con anomalías: bloqueo de rama, QT largo, BAV, TVNS, patrón de Brugada, WPW, signos de isquemia o hipertrofia."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Debe realizarse una anamnesis detallada, examen físico con énfasis en sistemas cardiovascular y neurológico, y un ECG de 12 derivaciones. Los pacientes con factores de alto riesgo deben ser hospitalizados para investigación etiológica y monitoreo continuo.",
+      "examenes_esenciales": [
+        "ECG de reposo y monitoreo cardíaco continuo (telemetría).",
+        "Troponinas, electrolitos, función renal, glucemia, hemograma.",
+        "Ecocardiograma transtorácico (función ventricular, valvulopatías).",
+        "Holter 24–72 h o registrador implantable en síncope recurrente inexplicada.",
+        "Prueba de esfuerzo en síncope inducida por ejercicio.",
+        "Test de inclinación y masaje del seno carotídeo solo tras descartar causas graves.",
+        "Angio-TC (si se sospecha embolia pulmonar o disección aórtica).",
+        "EEG solo en casos con sospecha de convulsiones o signos neurológicos focales."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Rebajamiento prolongado de la conciencia sin protección de vía aérea.",
+      "Hipotensión refractaria o shock cardiogénico.",
+      "Bradicardia grave o pausas &gt; 3 segundos con síntomas.",
+      "Taquiarritmias ventriculares sostenidas.",
+      "Hipoxemia aguda por embolia pulmonar masiva o insuficiencia cardíaca descompensada.",
+      "Necesidad de sedación para cardioversión eléctrica o implante de marcapasos."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Admisión hospitalaria en unidad de emergencia o cuidados intensivos.",
+        "Monitoreo continuo con ECG y oximetría de pulso.",
+        "Acceso venoso calibroso, oxígeno si SpO₂ &lt; 94%.",
+        "Corrección de desequilibrios electrolíticos (hipokalemia, hipomagnesemia, hipocalcemia).",
+        "Suspensión de fármacos proarrítmicos o que prolonguen el QT.",
+        "Tratamiento específico según etiología: antiarrítmicos, cardioversión, marcapaso temporal o CDI, anticoagulación, cirugía.",
+        "Interconsulta con cardiología, electrofisiología, neurología o cirugía vascular según necesidad.",
+        "Educación al paciente sobre signos de alerta y restricciones temporales (ej.: evitar conducir durante 6 meses si la etiología no se esclarece)."
+      ]
+    },
+    "pronostico": {
+      "comentario": "La síncope de origen cardíaco conlleva alto riesgo de muerte súbita y recurrencia temprana. La hospitalización precoz y la estratificación cuidadosa mejoran el pronóstico. El tratamiento de anomalías estructurales o eléctricas (CDI, marcapasos, ablación, reemplazo valvular) puede reducir significativamente la mortalidad en pacientes de alto riesgo."
+    },
+    "notas_adicionales": [
+      "Un ECG normal no excluye causas graves — el juicio clínico es clave.",
+      "La ausencia de pródromos y la presentación durante el esfuerzo son predictores fuertes de causa cardíaca.",
+      "Escalas como EGSYS y Calgary ayudan en la evaluación ambulatoria pero no reemplazan el juicio clínico.",
+      "Grabaciones en video pueden ser útiles para diferenciar entre síncope y convulsiones.",
+      "Las restricciones legales u ocupacionales (conducción) deben documentarse y explicarse claramente al paciente."
+    ],
+    "fuentes_bibliograficas": [
+      "Guías para el diagnóstico y manejo de la síncope – Sociedad Europea de Cardiología (ESC) 2018.",
+      "UpToDate. Abordaje del paciente adulto con síncope. 2024.",
+      "Harrison’s Principios de Medicina Interna. 21ª ed.",
+      "Sociedad Brasileña de Cardiología – Guía de Síncope. 2023.",
+      "Revista Brasileña de Terapia Intensiva – Síncope de alto riesgo en emergencias. 2021."
+    ]
+  },
+  "PT": {
+    "titulo": "Síncope com Risco Iminente de Evento Grave",
+    "definicao": "Síncope com risco iminente de evento grave é definida como a perda transitória de consciência (LTC) resultante de causas cardíacas, vasculares ou neurológicas potencialmente fatais. Representa uma condição de alto risco, especialmente em pacientes com cardiopatias estruturais, arritmias malignas, embolia pulmonar, dissecção de aorta, hipovolemia grave ou distúrbios eletrolíticos críticos. A abordagem imediata e hospitalização são essenciais para prevenir desfechos adversos como morte súbita ou reinternações precoces.",
+    "epidemiologia": "A síncope representa até 3% das admissões em serviços de emergência e 6% das hospitalizações clínicas. Estima-se que até 10% dos casos tenham etiologia cardíaca de alto risco. Pacientes com idade avançada, história de cardiopatia estrutural, síncope durante esforço ou em posição supina, sem pródromos, ou com ECG anormal estão sob maior risco de eventos fatais. A mortalidade em um ano pode ultrapassar 30% em casos de síncope de origem cardíaca não tratada.",
+    "fisiopatologia": "Ao contrário das formas benignas (vasovagal ou ortostática), a síncope de alto risco decorre de hipoperfusão cerebral abrupta causada por mecanismos graves como taquiarritmias ventriculares, bloqueios atrioventriculares avançados, estenose aórtica crítica, miocardiopatia dilatada, disfunção sistólica grave ou eventos tromboembólicos. Essas condições comprometem o débito cardíaco e o fluxo cerebral, levando à perda de consciência súbita, geralmente sem sinais prodrômicos.",
+    "manifestações_clinicas": {
+      "sinais_alarme": [
+        "Síncope durante exercício físico ou em posição supina.",
+        "LTC sem sintomas prodrômicos (ex.: náusea, sudorese, escurecimento visual).",
+        "Síncope com trauma ou queda significativa.",
+        "Palpitações ou dor torácica imediatamente antes da perda de consciência.",
+        "Dispneia associada ao episódio (suspeita de TEP).",
+        "História pessoal ou familiar de morte súbita.",
+        "Sopro sistólico significativo em ausculta.",
+        "ECG com anormalidades: bloqueios de ramo, QT prolongado, BAV, TVNS, padrão Brugada, pré-excitação (WPW), sinais de sobrecarga ou isquemia."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Deve-se realizar anamnese detalhada, exame físico completo com ênfase cardiovascular e neurológica, além de ECG de 12 derivações como parte da triagem inicial. Casos com fatores de risco devem ser hospitalizados para investigação etiológica com monitorização contínua e avaliação por especialistas.",
+      "exames_essenciais": [
+        "ECG de repouso e monitorização contínua com telemetria.",
+        "Troponinas, eletrólitos, função renal, glicemia, hemograma.",
+        "Ecocardiograma transtorácico (avaliar função ventricular e valvopatias).",
+        "Holter 24–72h ou loop recorder implantável em casos de síncope recorrente não explicada.",
+        "Teste ergométrico em síncope induzida por esforço.",
+        "Tilt test e massagem do seio carotídeo apenas após exclusão de causas graves.",
+        "Angiotomografia de tórax (suspeita de embolia pulmonar ou dissecção de aorta).",
+        "Eletroencefalograma apenas em pacientes com sintomas neurológicos ou crises convulsivas associadas."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Síncope com rebaixamento prolongado da consciência.",
+      "Instabilidade hemodinâmica com hipotensão refratária.",
+      "Bradicardia extrema ou pausas &gt; 3 segundos com repercussão clínica.",
+      "Taquiarritmias ventriculares sustentadas.",
+      "Hipoxemia associada a insuficiência cardíaca aguda ou embolia pulmonar maciça.",
+      "Necessidade de sedação para cardioversão elétrica ou implante de marca-passo/CDI."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Internação imediata em unidade de emergência ou terapia intensiva.",
+        "Monitorização cardíaca e oximétrica contínua.",
+        "Acesso venoso calibroso, oxigenoterapia se SpO₂ &lt; 94%.",
+        "Correção de distúrbios hidroeletrolíticos (hipocalemia, hipomagnesemia, hipocalcemia).",
+        "Suspensão de fármacos pró-arrítmicos ou que prolongam o intervalo QT.",
+        "Terapias específicas conforme a etiologia: antiarrítmicos, cardioversão elétrica, implante de marcapasso temporário ou CDI, anticoagulação, cirurgia vascular.",
+        "Avaliação por cardiologia, eletrofisiologia, neurologia e/ou cirurgia vascular.",
+        "Educação do paciente sobre sinais de alerta e limitações temporárias (ex.: suspensão de direção veicular por 6 meses em etiologia não resolvida)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A síncope de origem cardíaca está associada a risco elevado de morte súbita e recorrência precoce. A internação precoce e a estratificação cuidadosa são fundamentais para o diagnóstico etiológico e prevenção de novos eventos. O tratamento das causas estruturais ou elétricas subjacentes (CDI, marcapasso, ablação, troca valvar) pode reduzir significativamente a mortalidade em pacientes de alto risco."
+    },
+    "notas_adicionais": [
+      "Um ECG normal não exclui causa grave — a avaliação clínica é primordial.",
+      "A ausência de pródromos e a ocorrência durante esforço são preditores independentes de causa cardíaca.",
+      "Os escores EGSYS e Calgary auxiliam na estratificação ambulatorial, mas não substituem o julgamento clínico.",
+      "O uso de gravação em vídeo de episódios pode ser útil na diferenciação entre síncope e crises epilépticas.",
+      "Condutas e restrições legais (ex.: direção de veículos) devem ser registradas e comunicadas ao paciente."
+    ],
+    "fontes_bibliograficas": [
+      "Guidelines for the diagnosis and management of syncope – European Society of Cardiology (ESC) 2018.",
+      "UpToDate. Approach to the adult with syncope. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Cardiologia – Diretrizes de Síncope. 2023.",
+      "Revista Brasileira de Terapia Intensiva – Síncope de alto risco em emergência. 2021."
+    ]
+  },
+  "US": {
+    "title": "Syncope with Imminent Risk of Serious Event",
+    "definition": "Syncope with imminent risk of serious event refers to transient loss of consciousness (TLOC) caused by life-threatening cardiovascular, neurological, or systemic conditions. Unlike benign vasovagal or orthostatic syncope, high-risk syncope is usually sudden, often without prodromes, and may result in morbidity or mortality. It demands urgent hospital-based evaluation and continuous monitoring.",
+    "epidemiology": "Syncope accounts for 3% of emergency visits and up to 6% of hospital admissions. Approximately 10% of cases have a high-risk cardiac origin. Elderly patients, those with a history of structural heart disease, syncope during exertion or while supine, or those with abnormal ECG findings are at greater risk of sudden cardiac death. The one-year mortality can exceed 30% in untreated high-risk cases.",
+    "pathophysiology": "High-risk syncope results from abrupt cerebral hypoperfusion due to mechanisms like ventricular tachyarrhythmias, advanced AV blocks, critical aortic stenosis, dilated cardiomyopathy, severe systolic dysfunction, or embolic events. These disrupt cardiac output and cerebral perfusion, often without autonomic compensation, leading to sudden and complete LOC.",
+    "clinical_manifestations": {
+      "red_flags": [
+        "Syncope during exertion or while supine.",
+        "TLOC without prodromal symptoms (e.g., nausea, diaphoresis, visual dimming).",
+        "Syncope with trauma or significant injury from fall.",
+        "Palpitations or chest pain preceding LOC.",
+        "Associated dyspnea (suggesting pulmonary embolism).",
+        "Personal or family history of sudden cardiac death.",
+        "Significant systolic murmur on auscultation.",
+        "Abnormal ECG: bundle branch blocks, prolonged QT, AV block, NSVT, Brugada pattern, WPW, signs of ischemia or hypertrophy."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Detailed history, physical examination (with cardiac and neurological focus), and a 12-lead ECG should be performed. High-risk patients require hospital admission for etiologic workup and continuous telemetry.",
+      "essential_tests": [
+        "Resting ECG and continuous cardiac telemetry.",
+        "Troponin, electrolytes, renal function, glucose, CBC.",
+        "Transthoracic echocardiogram (LV function, valvular disease).",
+        "24–72h Holter or implantable loop recorder for recurrent unexplained episodes.",
+        "Exercise testing in exertional syncope.",
+        "Tilt-table test and carotid sinus massage only after ruling out high-risk causes.",
+        "CT angiography (if pulmonary embolism or aortic dissection is suspected).",
+        "EEG only for suspected seizures or focal neurologic signs."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Prolonged unconsciousness with inability to maintain airway.",
+      "Refractory hypotension or cardiogenic shock.",
+      "Severe bradycardia or pauses &gt; 3 seconds with symptoms.",
+      "Sustained ventricular tachyarrhythmias.",
+      "Acute hypoxemia due to massive PE or decompensated heart failure.",
+      "Sedation for cardioversion or temporary pacing in unstable arrhythmias."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Hospital admission to emergency or intensive care unit.",
+        "Continuous ECG and pulse oximetry monitoring.",
+        "Large-bore IV access, oxygen if SpO₂ &lt; 94%.",
+        "Correction of electrolyte imbalances (hypokalemia, hypomagnesemia, hypocalcemia).",
+        "Discontinuation of proarrhythmic drugs or QT-prolonging agents.",
+        "Etiology-specific treatments: antiarrhythmics, electrical cardioversion, temporary pacing or ICD, anticoagulation, surgical repair.",
+        "Consultation with cardiology, electrophysiology, neurology or vascular surgery as appropriate.",
+        "Patient education on alarm symptoms and temporary restrictions (e.g., no driving for 6 months if diagnosis is unresolved)."
+      ]
+    },
+    "prognosis": {
+      "comment": "Cardiac syncope carries high risk of sudden death and early recurrence. Hospitalization and early risk stratification improve prognosis. Treatment of underlying structural or electrical abnormalities (ICD, pacemaker, ablation, valve surgery) can significantly reduce mortality in high-risk patients."
+    },
+    "additional_notes": [
+      "A normal ECG does not rule out life-threatening cause — clinical judgment is paramount.",
+      "Absence of prodromes and exertional onset are strong predictors of cardiac origin.",
+      "Scoring systems like EGSYS and Calgary aid outpatient risk stratification but do not replace clinical assessment.",
+      "Video recordings of events can help differentiate syncope from seizures.",
+      "Legal and occupational restrictions (e.g., driving) should be documented and discussed clearly with the patient."
+    ],
+    "references": [
+      "Guidelines for the diagnosis and management of syncope – ESC 2018.",
+      "UpToDate. Approach to the adult with syncope. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Cardiology – Syncope Guidelines. 2023.",
+      "Brazilian Journal of Intensive Care – High-risk syncope in the emergency setting. 2021."
+    ]
+  }
+}

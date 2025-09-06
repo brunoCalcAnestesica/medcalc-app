@@ -1,0 +1,194 @@
+{
+  "PT": {
+    "titulo": "Crise Miastênica",
+    "definicao": "Crise miastênica é uma exacerbação grave da miastenia gravis caracterizada por insuficiência respiratória aguda devido à fraqueza dos músculos respiratórios, com ou sem comprometimento bulbar, frequentemente necessitando de ventilação mecânica. É uma emergência neurológica potencialmente fatal e pode ser precipitada por infecções, intervenções cirúrgicas, suspensão abrupta de medicamentos anticolinesterásicos ou uso de agentes bloqueadores neuromusculares.",
+    "epidemiologia": "A crise miastênica ocorre em 15% a 20% dos pacientes com miastenia gravis durante o curso da doença, com maior frequência nos dois primeiros anos após o diagnóstico. Pode ocorrer em qualquer faixa etária, mas é mais comum em adultos jovens com miastenia generalizada. Fatores precipitantes incluem infecções respiratórias, urinárias, procedimentos cirúrgicos, alterações medicamentosas e estresse metabólico.",
+    "fisiopatologia": "A miastenia gravis é uma doença autoimune caracterizada por autoanticorpos contra receptores de acetilcolina na junção neuromuscular. Durante uma crise, há falência na transmissão neuromuscular por redução crítica de receptores funcionais ou interferência imunológica ativa, resultando em fraqueza progressiva dos músculos respiratórios e bulbares. O estresse sistêmico ou medicamentos inibidores da liberação de acetilcolina exacerbam esse processo.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão por hipoventilação prolongada e sepse associada",
+        "Taquicardia e sinais de instabilidade autonômica"
+      ],
+      "respiratorias": [
+        "Taquipneia, uso de musculatura acessória, tiragem intercostal",
+        "Tosse ineficaz, retenção de secreções e sibilos respiratórios",
+        "Gasometria com hipercapnia e acidose respiratória"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Ptose palpebral bilateral e diplopia",
+        "Disfagia, disartria, voz nasalada (sinais bulbares)",
+        "Fraqueza de membros e fadiga muscular rapidamente progressiva",
+        "Diminuição da capacidade vital forçada (CVF < 15 mL/kg)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é clínico, baseado em paciente com diagnóstico prévio de miastenia gravis que evolui com dispneia e sintomas bulbares progressivos. Parâmetros como CVF, PImáx e gasometria são essenciais para avaliar a necessidade de suporte ventilatório.",
+      "exames_essenciais": [
+        "CVF seriada e monitoramento da PImáx e PEmáx",
+        "Gasometria arterial com hipercapnia (PaCO2 > 45 mmHg)",
+        "Imagem de tórax para avaliar infecção ou aspiração",
+        "Hemograma, eletrólitos, PCR e culturas para identificação de fatores precipitantes",
+        "Dosagem de anticorpos anti-AChR ou anti-MuSK (se ainda não realizados)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "CVF < 15 mL/kg ou queda rápida em menos de 12 horas",
+      "PImáx < –30 cmH2O ou PEmáx < 40 cmH2O",
+      "Gasometria com pH < 7,35 e PaCO2 > 45 mmHg",
+      "Rebaixamento de consciência, sinais de falência respiratória ou aspiração"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Admissão em UTI com monitoramento contínuo de função respiratória",
+        "Ventilação mecânica invasiva com parâmetros protetores se indicada",
+        "Terapia imunomoduladora de resgate: imunoglobulina intravenosa (2 g/kg em 5 dias) ou plasmaférese (5 sessões em dias alternados)",
+        "Correção e tratamento da causa precipitante (antibióticos, ajuste de eletrólitos, retirada de medicações ofensivas)",
+        "Reintrodução gradual de inibidores da acetilcolinesterase quando estabilizado",
+        "Evitar sedativos e drogas que afetam a transmissão neuromuscular"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A taxa de sobrevida em centros especializados ultrapassa 85–90% com suporte ventilatório adequado e tratamento imunológico precoce. A recuperação pode ser lenta, exigindo reabilitação prolongada. Recorrências são comuns se a causa precipitante não for abordada ou o controle imunológico for inadequado."
+    },
+    "notas_adicionais": [
+      "Manter comunicação contínua com neurologia para decisão terapêutica",
+      "Evitar uso de bloqueadores neuromusculares não despolarizantes",
+      "Realizar fisioterapia motora e respiratória desde o início da recuperação",
+      "Planejar imunossupressão de manutenção a longo prazo com corticoides e agentes poupadores"
+    ],
+    "fontes_bibliograficas": [
+      "Silvestri NJ, Wolfe GI. Myasthenic crisis. Seminars in Neurology. 2012.",
+      "Juel VC. Myasthenia gravis: Management of myasthenic crisis and perioperative care. Continuum (Minneap Minn). 2019.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Brasil. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Miastenia Gravis. 2021."
+    ]
+  },
+  "US": {
+    "titulo": "Myasthenic Crisis",
+    "definicao": "Myasthenic crisis is a life-threatening complication of myasthenia gravis defined by acute respiratory failure due to severe weakness of respiratory and/or bulbar muscles, requiring ventilatory support. It typically occurs due to infection, surgical stress, withdrawal of anticholinesterase drugs, or exposure to medications that impair neuromuscular transmission.",
+    "epidemiologia": "Myasthenic crisis affects 15–20% of patients with myasthenia gravis at some point in their disease. It is more frequent in the first 2 years after diagnosis and in patients with generalized disease. Common triggers include pulmonary infections, urinary tract infections, sepsis, surgery, pregnancy, or the use of aminoglycosides and beta-blockers.",
+    "fisiopatologia": "Myasthenia gravis is an autoimmune disorder in which antibodies block or destroy acetylcholine receptors at the neuromuscular junction. During crisis, there is critical loss of neuromuscular transmission, leading to progressive weakness of respiratory and bulbar muscles. Superimposed systemic stress or medications that inhibit acetylcholine release exacerbate the crisis.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hypotension secondary to hypoventilation and sepsis",
+        "Autonomic instability with tachycardia or labile blood pressure"
+      ],
+      "respiratorias": [
+        "Tachypnea, use of accessory muscles, paradoxical breathing",
+        "Weak cough, secretion retention, risk of aspiration pneumonia",
+        "Hypercapnia and respiratory acidosis on arterial blood gas"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Bilateral ptosis and diplopia",
+        "Dysphagia, nasal voice, dysarthria (bulbar signs)",
+        "Rapidly progressive generalized weakness",
+        "Decreased vital capacity (< 15 mL/kg) or reduced inspiratory pressures"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is clinical and based on known myasthenia gravis with respiratory or bulbar deterioration. Pulmonary function tests and ABG are key to assessing the need for ventilation. Trigger identification is crucial.",
+      "exames_essenciais": [
+        "Serial vital capacity and maximum inspiratory/expiratory pressures",
+        "Arterial blood gas: PaCO2 > 45 mmHg, pH < 7.35",
+        "Chest X-ray or CT for aspiration or infection",
+        "CBC, electrolytes, CRP, blood and urine cultures",
+        "Anti-AChR or anti-MuSK antibodies if not previously tested"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Vital capacity < 15 mL/kg or rapid decline",
+      "Max inspiratory pressure < –30 cmH2O or expiratory < 40 cmH2O",
+      "Arterial blood gas showing acidosis and hypercapnia",
+      "Altered mental status or overt signs of respiratory fatigue"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "ICU admission with continuous respiratory monitoring",
+        "Early mechanical ventilation if criteria met",
+        "Immunomodulation with IVIG (2 g/kg over 5 days) or plasmapheresis (5 sessions)",
+        "Treat underlying trigger (antibiotics, fluid resuscitation, electrolyte correction)",
+        "Hold anticholinesterase drugs temporarily if worsening secretions or instability",
+        "Avoid neuromuscular blocking agents and respiratory depressants"
+      ]
+    },
+    "prognostico": {
+      "comentario": "With prompt ventilatory and immunologic support, survival exceeds 85–90% in specialized centers. Prolonged recovery and risk of recurrence are common. Multidisciplinary rehabilitation and long-term immunosuppression are often required."
+    },
+    "notas_adicionais": [
+      "Close coordination with neurology for treatment decisions",
+      "Consider tracheostomy in cases of prolonged ventilation",
+      "Initiate early motor and respiratory physiotherapy",
+      "Long-term planning of immunosuppression (steroids, steroid-sparing agents)"
+    ],
+    "fontes_bibliograficas": [
+      "Silvestri NJ, Wolfe GI. Myasthenic crisis. Semin Neurol. 2012.",
+      "Juel VC. Management of myasthenic crisis. Continuum (Minneap Minn). 2019.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Howard JF. Myasthenia Gravis: The Role of the Neurologist in Diagnosis and Treatment. Neurologist. 2018."
+    ]
+  },
+  "ES": {
+    "titulo": "Crisis Miasténica",
+    "definicao": "La crisis miasténica es una complicación potencialmente mortal de la miastenia gravis caracterizada por insuficiencia respiratoria aguda secundaria a debilidad severa de los músculos respiratorios y/o bulbares. Generalmente requiere soporte ventilatorio invasivo. Puede ser desencadenada por infecciones, estrés quirúrgico, suspensión abrupta de fármacos anticolinesterásicos o el uso de medicamentos que interfieren con la transmisión neuromuscular.",
+    "epidemiologia": "Afecta al 15–20% de los pacientes con miastenia gravis, especialmente en los primeros dos años posteriores al diagnóstico. Es más frecuente en pacientes con enfermedad generalizada. Los desencadenantes más comunes incluyen infecciones respiratorias o urinarias, cirugía, embarazo y el uso de aminoglucósidos, betabloqueadores o magnesio.",
+    "fisiopatologia": "La miastenia gravis es una enfermedad autoinmune donde autoanticuerpos (anti-AChR o anti-MuSK) bloquean o destruyen los receptores de acetilcolina en la unión neuromuscular. En la crisis, hay una disminución crítica en la transmisión neuromuscular, con debilidad progresiva de la musculatura respiratoria y bulbar. Factores sistémicos superpuestos o medicamentos que interfieren con la liberación de acetilcolina agravan el cuadro.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión relacionada con hipoventilación o sepsis",
+        "Inestabilidad autonómica con taquicardia o presión arterial lábil"
+      ],
+      "respiratorias": [
+        "Taquipnea, uso de musculatura accesoria, respiración paradójica",
+        "Tos débil, retención de secreciones, riesgo de neumonía por aspiración",
+        "Hipercapnia y acidosis respiratoria en gasometría arterial"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Ptosis bilateral, diplopía",
+        "Disfagia, disartria, voz nasal (signos bulbares)",
+        "Debilidad generalizada de rápida progresión",
+        "Capacidad vital forzada < 15 mL/kg o presión inspiratoria máxima reducida"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico es clínico, basado en el antecedente de miastenia gravis y el deterioro respiratorio o bulbar progresivo. La evaluación de la CVF, PImáx y la gasometría arterial es clave para decidir el soporte ventilatorio. Es esencial identificar y tratar el desencadenante.",
+      "exames_essenciais": [
+        "CVF seriada y presiones inspiratorias/espiratorias máximas",
+        "Gasometría arterial: PaCO2 > 45 mmHg, pH < 7,35",
+        "Radiografía o TC de tórax para evaluar aspiración o infección",
+        "Hemograma, electrólitos, PCR, cultivos sanguíneos y urinarios",
+        "Detección de anticuerpos anti-AChR o anti-MuSK si aún no se ha realizado"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "CVF < 15 mL/kg o descenso rápido",
+      "PImáx < –30 cmH2O o PEmáx < 40 cmH2O",
+      "Acidosis respiratoria con hipercapnia",
+      "Alteración del estado mental o signos evidentes de fatiga respiratoria"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Admisión en UCI con monitorización respiratoria continua",
+        "Ventilación mecánica precoz si se cumplen los criterios",
+        "Inmunoterapia de rescate con IVIG (2 g/kg en 5 días) o plasmaféresis (5 sesiones)",
+        "Tratamiento de la causa desencadenante (antibióticos, fluidos, corrección de electrolitos)",
+        "Suspensión temporal de anticolinesterásicos si hay riesgo de secreciones o inestabilidad",
+        "Evitar bloqueadores neuromusculares y depresores respiratorios"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Con soporte ventilatorio e inmunoterapia adecuada, la supervivencia supera el 85–90% en centros especializados. La recuperación puede ser prolongada y son frecuentes las recurrencias. Se requiere rehabilitación multidisciplinaria e inmunosupresión a largo plazo."
+    },
+    "notas_adicionais": [
+      "Coordinación estrecha con neurología para ajustes terapéuticos",
+      "Considerar traqueostomía si la ventilación prolongada es necesaria",
+      "Iniciar fisioterapia motora y respiratoria temprana",
+      "Planificar inmunosupresión de mantenimiento (corticoides y agentes ahorradores)"
+    ],
+    "fontes_bibliograficas": [
+      "Silvestri NJ, Wolfe GI. Myasthenic crisis. Semin Neurol. 2012.",
+      "Juel VC. Management of myasthenic crisis. Continuum (Minneap Minn). 2019.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Howard JF. Myasthenia Gravis: The Role of the Neurologist in Diagnosis and Treatment. Neurologist. 2018."
+    ]
+  }
+}

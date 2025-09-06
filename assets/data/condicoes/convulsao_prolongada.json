@@ -1,0 +1,200 @@
+{
+  "PT": {
+    "titulo": "Convulsão Prolongada",
+    "definicao": "A convulsão prolongada é definida como qualquer crise epiléptica com duração maior que 5 minutos ou duas ou mais crises consecutivas sem recuperação completa da consciência entre elas. Trata-se de uma condição crítica que pode evoluir para estado de mal epiléptico, causando lesão neuronal irreversível, edema cerebral, disfunção autonômica e morte. O reconhecimento precoce e o início imediato do tratamento são determinantes para o prognóstico.",
+    "epidemiologia": "As convulsões prolongadas ocorrem tanto em pacientes com epilepsia prévia quanto em indivíduos sem história conhecida. São comuns em crianças pequenas, especialmente no contexto de febre (convulsão febril complexa), em idosos, em situações de insulto cerebral agudo (AVC, TCE, infecções, tumores) e intoxicações. Estima-se que até 10% das convulsões atendidas em emergências ultrapassem 5 minutos.",
+    "fisiopatologia": "A crise prolongada promove hiperatividade sináptica glutamatérgica com liberação exacerbada de neurotransmissores excitatórios (glutamato, aspartato), bloqueio dos mecanismos inibitórios GABAérgicos e alterações na permeabilidade iônica celular. Há intensa demanda metabólica cerebral, hipoxemia, acidose láctica e comprometimento da autorregulação cerebral, levando a isquemia, edema citotóxico e disfunção autonômica progressiva.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Ativação autonômica com taquicardia, hipertensão e midríase iniciais",
+        "Instabilidade hemodinâmica com hipotensão em crises prolongadas",
+        "Arritmias ou choque neurogênico em casos refratários"
+      ],
+      "respiratorias": [
+        "Hiperventilação no início da crise",
+        "Depressão respiratória central em crises prolongadas ou após uso de benzodiazepínicos",
+        "Risco de broncoaspiração e obstrução de vias aéreas"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Movimentos clônicos, tônicos ou tônico-clônicos generalizados",
+        "Perda de consciência, salivação excessiva, trismo",
+        "Acidose metabólica, hiperglicemia de estresse ou hipoglicemia associada",
+        "Estado pós-ictal com sonolência ou coma prolongado"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnóstico clínico baseado na observação do tempo de duração da crise e da ausência de retorno ao estado basal de consciência. É mandatório investigar causas precipitantes e iniciar tratamento empírico antes de exames complementares.",
+      "exames_essenciais": [
+        "Glicemia capilar e eletrólitos séricos (sódio, potássio, cálcio, magnésio)",
+        "Gasometria arterial com lactato e pH",
+        "TC de crânio em pacientes com suspeita de lesão estrutural, trauma, febre ou primeira crise",
+        "EEG precoce para detecção de crises não convulsivas ou estado de mal epiléptico não convulsivo",
+        "Função renal/hepática e triagem toxicológica (intoxicação por álcool, benzodiazepínicos, cocaína, etc.)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow ≤ 8 ou coma profundo pós-ictal",
+      "Comprometimento da via aérea com secreções abundantes, vômitos ou sangramento",
+      "Apneia ou hipoventilação após uso de benzodiazepínicos",
+      "Refratariedade ao tratamento inicial com risco de status epiléptico anestésico"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Garantir via aérea pérvia, oxigenar, monitorizar e obter acesso venoso",
+        "Tratar hipoglicemia com glicose 50% e tiamina EV se necessário",
+        "Administrar benzodiazepínico IV: diazepam (0,15–0,25 mg/kg) ou midazolam (0,1–0,2 mg/kg)",
+        "Caso não haja resposta, iniciar anticonvulsivante de segunda linha: fenitoína (20 mg/kg), valproato (20–40 mg/kg), levetiracetam (60 mg/kg)",
+        "Monitorar ECG, pressão arterial, respiração e oximetria continuamente",
+        "Encaminhar à UTI e considerar sedação contínua (midazolam, propofol ou tiopental) em casos refratários"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Quanto maior a duração da convulsão, maior o risco de danos neuronais e pior prognóstico. Convulsões que excedem 30 minutos aumentam consideravelmente o risco de morte ou sequelas neurológicas. Fatores prognósticos negativos incluem idade avançada, etiologia estrutural, estado de mal refratário e demora no início do tratamento."
+    },
+    "notas_adicionais": [
+      "Sempre documentar duração exata e tempo de início da crise",
+      "Evitar excesso de doses de benzodiazepínicos sem suporte ventilatório adequado",
+      "Avaliar necessidade de anticonvulsivantes de manutenção e seguimento ambulatorial",
+      "Consultar neurologia e realizar investigação etiológica completa em casos novos ou atípicos"
+    ],
+    "fontes_bibliograficas": [
+      "Trinka E, Cock H, Hesdorffer D, et al. A definition and classification of status epilepticus – Report of the ILAE Task Force. Epilepsia. 2015.",
+      "Lowenstein DH, Bleck T, Macdonald RL. It's time to revise the definition of status epilepticus. Epilepsia. 1999.",
+      "Chang BS, Lowenstein DH. Practice Parameter: Treatment of Convulsive Status Epilepticus in Children and Adults. Neurology. 2006.",
+      "Guyton AC, Hall JE. Tratado de Fisiologia Médica. 14ª ed. Elsevier; 2021.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017."
+    ]
+  },
+  "US": {
+    "titulo": "Prolonged Seizure",
+    "definicao": "A prolonged seizure is defined as a seizure lasting more than 5 minutes or multiple seizures occurring without a return to baseline consciousness in between. It is a neurological emergency that may progress to status epilepticus, neuronal injury, cerebral edema, autonomic dysfunction, and death. Prompt recognition and immediate treatment initiation are critical for prognosis.",
+    "epidemiologia": "Prolonged seizures can occur in patients with a history of epilepsy or de novo in previously healthy individuals. They are common in children (especially febrile seizures), the elderly, and patients with acute brain insults such as stroke, traumatic brain injury, CNS infections, tumors, or drug intoxications. Approximately 10% of emergency seizures last more than 5 minutes.",
+    "fisiopatologia": "The prolonged seizure leads to excessive glutamatergic synaptic activity, with release of excitatory neurotransmitters (glutamate, aspartate), impaired GABAergic inhibition, and disruption of ion channel regulation. This induces severe cerebral metabolic demand, hypoxia, lactic acidosis, and autoregulatory failure, causing cytotoxic edema, ischemia, and progressive neuronal dysfunction.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Initial autonomic activation: tachycardia, hypertension, mydriasis",
+        "Progressive hypotension in prolonged seizures",
+        "Arrhythmias or neurogenic shock in refractory cases"
+      ],
+      "respiratorias": [
+        "Early hyperventilation during seizure onset",
+        "Central respiratory depression due to seizure or benzodiazepines",
+        "Risk of aspiration and upper airway obstruction"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Generalized clonic, tonic or tonic-clonic movements",
+        "Prolonged unconsciousness, hypersalivation, jaw clenching",
+        "Metabolic acidosis, stress hyperglycemia or associated hypoglycemia",
+        "Postictal state with prolonged somnolence or coma"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is clinical, based on duration of the event and lack of return to baseline consciousness. Empirical treatment should not be delayed by diagnostic testing. Prompt search for underlying causes is essential.",
+      "exames_essenciais": [
+        "Point-of-care glucose and serum electrolytes (sodium, potassium, calcium, magnesium)",
+        "Arterial blood gas with lactate and pH",
+        "Non-contrast head CT in cases of trauma, fever, first seizure, or suspected lesion",
+        "EEG to detect non-convulsive status epilepticus or ongoing epileptiform activity",
+        "Liver/renal function and toxicology screening (alcohol, benzodiazepines, cocaine, etc.)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow Coma Scale ≤ 8 or prolonged postictal coma",
+      "Compromised airway due to excessive secretions, vomiting, or bleeding",
+      "Apnea or hypoventilation post-benzodiazepine use",
+      "Refractory seizures requiring anesthetic agents"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Secure airway, provide oxygen, monitor continuously, obtain IV access",
+        "Treat hypoglycemia with 50% dextrose and IV thiamine if needed",
+        "Administer IV benzodiazepine: diazepam (0.15–0.25 mg/kg) or midazolam (0.1–0.2 mg/kg)",
+        "If seizure persists, start second-line AED: phenytoin (20 mg/kg), valproate (20–40 mg/kg), or levetiracetam (60 mg/kg)",
+        "Continuous monitoring of ECG, BP, respiratory rate and oxygen saturation",
+        "Admit to ICU and consider continuous sedation (midazolam, propofol, thiopental) for refractory cases"
+      ]
+    },
+    "prognostico": {
+      "comentario": "The longer a seizure persists, the greater the risk of neuronal damage and poor outcome. Seizures lasting over 30 minutes significantly increase the risk of death or neurological sequelae. Poor prognostic factors include advanced age, structural etiology, refractory status epilepticus, and treatment delays."
+    },
+    "notas_adicionais": [
+      "Always document exact onset time and duration of seizure",
+      "Avoid excessive dosing of benzodiazepines without airway protection",
+      "Reassess long-term AED therapy and ensure follow-up care",
+      "Consult neurology and perform comprehensive etiological investigation for new or atypical cases"
+    ],
+    "fontes_bibliograficas": [
+      "Trinka E, Cock H, Hesdorffer D, et al. A definition and classification of status epilepticus – Report of the ILAE Task Force. Epilepsia. 2015.",
+      "Lowenstein DH, Bleck T, Macdonald RL. It's time to revise the definition of status epilepticus. Epilepsia. 1999.",
+      "Chang BS, Lowenstein DH. Practice Parameter: Treatment of Convulsive Status Epilepticus in Children and Adults. Neurology. 2006.",
+      "Guyton AC, Hall JE. Textbook of Medical Physiology. 14th ed. Elsevier; 2021.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017."
+    ]
+  },
+  "ES": {
+    "titulo": "Convulsión Prolongada",
+    "definicao": "Una convulsión prolongada se define como una crisis epiléptica que dura más de 5 minutos o múltiples crisis sin recuperación completa de la conciencia entre ellas. Representa una emergencia neurológica con alto riesgo de evolucionar a estado epiléptico, daño neuronal irreversible, edema cerebral, disfunción autonómica y muerte. El reconocimiento temprano y el tratamiento inmediato son fundamentales para mejorar el pronóstico.",
+    "epidemiologia": "Puede presentarse tanto en pacientes con epilepsia conocida como en individuos sin antecedentes. Es común en niños pequeños (especialmente convulsiones febriles complejas), ancianos y pacientes con lesiones cerebrales agudas como ACV, trauma, infecciones del SNC, tumores o intoxicaciones. Se estima que hasta el 10% de las convulsiones atendidas en urgencias superan los 5 minutos.",
+    "fisiopatologia": "Las convulsiones prolongadas inducen una hiperactividad sináptica glutamatérgica, liberación de neurotransmisores excitadores (glutamato, aspartato), alteración de los mecanismos inhibitorios GABAérgicos y disfunción de los canales iónicos. Esto produce una demanda metabólica cerebral excesiva, hipoxia, acidosis láctica, isquemia y edema citotóxico progresivo.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Activación autonómica inicial: taquicardia, hipertensión, midriasis",
+        "Hipotensión progresiva en crisis prolongadas",
+        "Arritmias o choque neurogénico en casos refractarios"
+      ],
+      "respiratorias": [
+        "Hiperventilación al inicio de la crisis",
+        "Depresión respiratoria central por crisis prolongadas o benzodiacepinas",
+        "Riesgo de aspiración y obstrucción de la vía aérea"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Movimientos clónicos, tónicos o tónico-clónicos generalizados",
+        "Pérdida prolongada de la conciencia, hipersalivación, trismo",
+        "Acidosis metabólica, hiperglucemia por estrés o hipoglucemia asociada",
+        "Estado postictal con somnolencia o coma prolongado"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnóstico clínico basado en la duración de la crisis y la falta de retorno al estado basal. El tratamiento debe iniciarse de forma empírica sin esperar confirmación por pruebas. Es esencial investigar la causa precipitante.",
+      "exames_essenciais": [
+        "Glucemia capilar y electrolitos séricos (sodio, potasio, calcio, magnesio)",
+        "Gasometría arterial con lactato y pH",
+        "TC de cráneo sin contraste en casos de trauma, fiebre, primera crisis o lesión estructural sospechada",
+        "EEG para detectar estado epiléptico no convulsivo o actividad epiléptica persistente",
+        "Función hepática/renal y cribado toxicológico (alcohol, benzodiacepinas, cocaína, etc.)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Escala de Glasgow ≤ 8 o coma prolongado postictal",
+      "Vía aérea comprometida por secreciones, vómito o sangrado",
+      "Apnea o hipoventilación tras uso de benzodiacepinas",
+      "Convulsiones refractarias que requieren agentes anestésicos"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Asegurar la vía aérea, oxigenar, monitorizar continuamente, obtener acceso IV",
+        "Tratar hipoglucemia con dextrosa al 50% y tiamina IV si es necesario",
+        "Administrar benzodiacepina IV: diazepam (0,15–0,25 mg/kg) o midazolam (0,1–0,2 mg/kg)",
+        "Si persiste, administrar anticonvulsivante de segunda línea: fenitoína (20 mg/kg), valproato (20–40 mg/kg), levetiracetam (60 mg/kg)",
+        "Monitoreo continuo de ECG, TA, FR y saturación de oxígeno",
+        "Admisión en UCI y considerar sedación continua (midazolam, propofol o tiopental) en casos refractarios"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A mayor duración de la crisis, mayor riesgo de daño neuronal y peor pronóstico. Las crisis que superan los 30 minutos aumentan significativamente el riesgo de muerte o secuelas neurológicas. Factores de mal pronóstico incluyen edad avanzada, etiología estructural, estado epiléptico refractario y retraso en el inicio del tratamiento."
+    },
+    "notas_adicionais": [
+      "Documentar siempre la hora de inicio y duración exacta de la crisis",
+      "Evitar dosis excesivas de benzodiacepinas sin soporte ventilatorio adecuado",
+      "Reevaluar tratamiento anticonvulsivante crónico y asegurar seguimiento neurológico",
+      "Consultar neurología y realizar estudio etiológico completo en casos nuevos o atípicos"
+    ],
+    "fontes_bibliograficas": [
+      "Trinka E, Cock H, Hesdorffer D, et al. A definition and classification of status epilepticus – Report of the ILAE Task Force. Epilepsia. 2015.",
+      "Lowenstein DH, Bleck T, Macdonald RL. It's time to revise the definition of status epilepticus. Epilepsia. 1999.",
+      "Chang BS, Lowenstein DH. Practice Parameter: Treatment of Convulsive Status Epilepticus in Children and Adults. Neurology. 2006.",
+      "Guyton AC, Hall JE. Tratado de Fisiología Médica. 14ª ed. Elsevier; 2021.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017."
+    ]
+  }
+}

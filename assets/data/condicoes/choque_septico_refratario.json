@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Choque Séptico Refratário",
+    "definicao": "O choque séptico refratário é uma condição crítica definida pela persistência de hipotensão arterial, hipoperfusão tecidual e elevação dos níveis de lactato (> 2 mmol/L), mesmo após adequada reposição volêmica e uso de vasopressores. É uma forma avançada do choque séptico que reflete uma profunda disfunção do controle vasomotor e falência orgânica múltipla em resposta à infecção sistêmica grave.",
+    "epidemiologia": "O choque séptico refratário acomete uma proporção significativa dos pacientes admitidos em unidades de terapia intensiva (UTI) com sepse grave, especialmente aqueles com múltiplas comorbidades, idade avançada ou imunossupressão. A mortalidade pode exceder 50–60%, mesmo com terapia intensiva otimizada. Sua incidência está correlacionada com infecções bacterianas graves, especialmente por germes multirresistentes.",
+    "fisiopatologia": "Caracteriza-se por vasodilatação sistêmica não responsiva a catecolaminas, permeabilidade capilar aumentada, ativação endotelial, coagulopatia de consumo, disfunção mitocondrial e apoptose celular. A liberação maciça de mediadores inflamatórios (TNF-alfa, IL-1, IL-6), ativação de neutrófilos e formação de microtrombos contribuem para lesão tecidual e falência de órgãos. Há frequentemente resistência à noradrenalina e vasopressina, e a disfunção adrenal relativa pode agravar o quadro.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial refratária (PAS < 65 mmHg) apesar de reposição volêmica e uso de noradrenalina.",
+        "Hipoperfusão periférica: pele fria, tempo de enchimento capilar prolongado, extremidades cianóticas.",
+        "Lactato sérico persistentemente elevado (> 2–4 mmol/L)."
+      ],
+      "respiratorias": [
+        "Taquipneia, dispneia e hipoxemia.",
+        "Síndrome da angústia respiratória aguda (SARA) em casos avançados.",
+        "Necessidade de ventilação mecânica invasiva com altos parâmetros."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência (encefalopatia séptica).",
+        "Distúrbios glicêmicos: hipoglicemia ou hiperglicemia graves.",
+        "Acidose metabólica láctica com pH < 7,2 e bicarbonato < 18 mEq/L."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspeita clínica em pacientes com sepse que permanecem hipotensos mesmo após 30 mL/kg de cristaloides e requerem vasopressores para manter PAM ≥ 65 mmHg, com lactato elevado. Avaliação rápida do foco infeccioso, perfusão e disfunção orgânica associada é essencial.",
+      "exames_essenciais": [
+        "Gasometria arterial com lactato seriado.",
+        "Culturas (sangue periférico e central, urina, escarro, líquidos cavitários).",
+        "Hemograma, coagulograma, função hepática e renal.",
+        "Dosagens de PCR, procalcitonina, cortisol basal (quando disponível).",
+        "Ecocardiograma para avaliação de disfunção miocárdica séptica.",
+        "Ultrassonografia à beira-leito para avaliar volemia e congestão venosa."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Insuficiência respiratória aguda hipoxêmica (PaO2/FiO2 < 200).",
+      "Redução do nível de consciência com risco de aspiração.",
+      "Comprometimento pulmonar por pneumonia grave ou SARA associada à sepse."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Antibioticoterapia empírica precoce, preferencialmente em até 1 hora após diagnóstico clínico.",
+        "Reanimação volêmica inicial com 30 mL/kg de cristaloide balanceado.",
+        "Noradrenalina em bomba de infusão contínua para manter PAM ≥ 65 mmHg.",
+        "Vasopressina como segunda droga vasopressora (0,03 U/min).",
+        "Adição de hidrocortisona EV 200 mg/dia se refratariedade persistente.",
+        "Correção de distúrbios eletrolíticos, principalmente potássio, cálcio e magnésio.",
+        "Controle glicêmico intensivo: manter entre 140–180 mg/dL.",
+        "Ventilação mecânica protetora em caso de SARA.",
+        "Considerar uso de terapia de substituição renal contínua se houver disfunção renal grave com sobrecarga volêmica.",
+        "Avaliação precoce do foco: drenagem de abscessos, remoção de cateteres infectados, abordagem cirúrgica se indicada."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico é reservado, com mortalidade superior a 50% nos casos refratários. A identificação precoce, administração imediata de antibióticos e manejo agressivo com suporte intensivo são os principais determinantes da sobrevida. Escalas como SOFA e lactato seriado são úteis para estratificação de risco."
+    },
+    "notas_adicionais": [
+      "Incluir equipe multiprofissional (enfermagem, infectologia, cirurgia, nefrologia) no manejo integrado.",
+      "Revisar esquemas antimicrobianos conforme resultados microbiológicos e evolução clínica.",
+      "Evitar sobrecarga volêmica após reanimação inicial.",
+      "Considerar imunoglobulina intravenosa em casos selecionados (sepse por estreptococo ou choque tóxico).",
+      "Monitorar perfusão com capnografia venosa, SvO2 e índice de choque (FC/PAS)."
+    ],
+    "fontes_bibliograficas": [
+      "Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016.",
+      "Rhodes A, Evans LE, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2016. Intensive Care Med. 2017.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Guyton AC, Hall JE. Tratado de Fisiologia Médica. 14ª ed. Elsevier; 2021.",
+      "Marik PE. Surviving Sepsis: Going Beyond the Guidelines. Ann Intensive Care. 2017."
+    ]
+  },
+  "US": {
+    "titulo": "Refractory Septic Shock",
+    "definicao": "Refractory septic shock is a critical condition defined by persistent arterial hypotension, tissue hypoperfusion, and elevated lactate levels (> 2 mmol/L) despite adequate fluid resuscitation and vasopressor support. It represents the most severe form of septic shock with profound dysregulation of vascular tone and multiple organ failure in response to a severe systemic infection.",
+    "epidemiologia": "Refractory septic shock affects a significant proportion of ICU patients with severe sepsis, particularly those with advanced age, multiple comorbidities, or immunosuppression. Mortality rates exceed 50–60% even with optimal intensive care. It is most often associated with infections by multidrug-resistant organisms.",
+    "fisiopatologia": "The condition is marked by systemic vasodilation unresponsive to catecholamines, increased capillary permeability, endothelial activation, consumptive coagulopathy, mitochondrial dysfunction, and cellular apoptosis. Massive cytokine release (e.g., TNF-alpha, IL-1, IL-6), neutrophil activation, and microthrombus formation contribute to tissue injury and organ failure. Resistance to norepinephrine and vasopressin is common, and relative adrenal insufficiency may further worsen the clinical status.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Refractory hypotension (MAP < 65 mmHg) despite fluids and norepinephrine.",
+        "Signs of hypoperfusion: cold extremities, prolonged capillary refill time, cyanosis.",
+        "Persistently elevated lactate (> 2–4 mmol/L)."
+      ],
+      "respiratorias": [
+        "Tachypnea, dyspnea, and hypoxemia.",
+        "Acute respiratory distress syndrome (ARDS) in advanced cases.",
+        "Need for invasive mechanical ventilation with high support."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Altered mental status (septic encephalopathy).",
+        "Severe dysglycemia: hypo- or hyperglycemia.",
+        "Lactic acidosis with pH < 7.2 and bicarbonate < 18 mEq/L."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is based on persistent hemodynamic instability despite 30 mL/kg of fluid resuscitation and vasopressor use to maintain MAP ≥ 65 mmHg, along with elevated lactate. Rapid assessment of infection source, perfusion, and organ dysfunction is critical.",
+      "exames_essenciais": [
+        "Arterial blood gas with serial lactate measurements.",
+        "Cultures (blood, urine, sputum, body fluids).",
+        "CBC, coagulation panel, liver and kidney function tests.",
+        "CRP, procalcitonin, and baseline cortisol if available.",
+        "Echocardiography to assess for septic cardiomyopathy.",
+        "Bedside ultrasound for volume status and venous congestion."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Acute hypoxemic respiratory failure (PaO2/FiO2 < 200).",
+      "Decreased consciousness with aspiration risk.",
+      "Pulmonary involvement from severe pneumonia or ARDS related to sepsis."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Early empirical broad-spectrum antibiotics, ideally within 1 hour of diagnosis.",
+        "Initial fluid resuscitation with 30 mL/kg of balanced crystalloid.",
+        "Continuous infusion of norepinephrine to maintain MAP ≥ 65 mmHg.",
+        "Vasopressin as a second-line vasopressor (0.03 U/min).",
+        "Hydrocortisone 200 mg/day IV for persistent shock.",
+        "Correction of electrolyte disturbances (potassium, calcium, magnesium).",
+        "Tight glucose control: maintain 140–180 mg/dL.",
+        "Protective mechanical ventilation if ARDS is present.",
+        "Consider renal replacement therapy for severe renal failure with volume overload.",
+        "Early source control: drainage of abscesses, removal of infected catheters, or surgical intervention if indicated."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis is poor, with mortality exceeding 50% in refractory cases. Early recognition, timely antibiotics, and aggressive intensive support are key to survival. Tools like SOFA score and serial lactate measurements assist in risk stratification."
+    },
+    "notas_adicionais": [
+      "Involve a multidisciplinary team (nursing, infectious disease, surgery, nephrology).",
+      "Review antimicrobial regimens based on microbiology and clinical response.",
+      "Avoid fluid overload after initial resuscitation phase.",
+      "Consider IV immunoglobulin in selected cases (e.g., streptococcal or toxic shock).",
+      "Monitor perfusion using venous capnography, SvO2, and shock index (HR/MAP)."
+    ],
+    "fontes_bibliograficas": [
+      "Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016.",
+      "Rhodes A, Evans LE, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2016. Intensive Care Med. 2017.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Guyton AC, Hall JE. Textbook of Medical Physiology. 14th ed. Elsevier; 2021.",
+      "Marik PE. Surviving Sepsis: Going Beyond the Guidelines. Ann Intensive Care. 2017."
+    ]
+  },
+  "ES": {
+    "titulo": "Choque Séptico Refractario",
+    "definicao": "El choque séptico refractario es una condición crítica caracterizada por hipotensión arterial persistente, hipoperfusión tisular y niveles elevados de lactato (> 2 mmol/L) a pesar de una reanimación con volumen adecuada y del uso de vasopresores. Representa la forma más grave de choque séptico con una profunda desregulación del tono vascular y falla orgánica múltiple en respuesta a una infección sistémica grave.",
+    "epidemiologia": "Afecta a una proporción significativa de pacientes con sepsis grave en unidades de cuidados intensivos (UCI), especialmente en aquellos con comorbilidades múltiples, edad avanzada o inmunosupresión. La mortalidad supera el 50–60% incluso con cuidados intensivos óptimos. Se asocia frecuentemente con infecciones por microorganismos multirresistentes.",
+    "fisiopatologia": "Involucra vasodilatación sistémica resistente a catecolaminas, aumento de la permeabilidad capilar, activación endotelial, coagulopatía de consumo, disfunción mitocondrial y apoptosis celular. La liberación masiva de citocinas (TNF-alfa, IL-1, IL-6), la activación de neutrófilos y la formación de microtrombos contribuyen a la lesión tisular y al deterioro orgánico. Suele observarse resistencia a noradrenalina y vasopresina, además de insuficiencia suprarrenal relativa.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión arterial refractaria (PAM < 65 mmHg) a pesar de líquidos y noradrenalina.",
+        "Signos de hipoperfusión: extremidades frías, tiempo de llenado capilar prolongado, cianosis.",
+        "Lactato sérico persistentemente elevado (> 2–4 mmol/L)."
+      ],
+      "respiratorias": [
+        "Taquipnea, disnea e hipoxemia.",
+        "Síndrome de distrés respiratorio agudo (SDRA) en fases avanzadas.",
+        "Necesidad de ventilación mecánica invasiva con altos parámetros."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Alteración del estado de conciencia (encefalopatía séptica).",
+        "Trastornos glicémicos graves: hipoglucemia o hiperglucemia.",
+        "Acidosis metabólica láctica con pH < 7,2 y bicarbonato < 18 mEq/L."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Se basa en la presencia de inestabilidad hemodinámica persistente a pesar de la administración de 30 mL/kg de cristaloides y el uso de vasopresores para mantener una PAM ≥ 65 mmHg, junto con lactato elevado. Es fundamental evaluar rápidamente el foco infeccioso, la perfusión y la disfunción orgánica.",
+      "exames_essenciais": [
+        "Gasometría arterial con mediciones seriadas de lactato.",
+        "Cultivos (sangre, orina, esputo, líquidos cavitarios).",
+        "Hemograma, coagulación, función hepática y renal.",
+        "PCR, procalcitonina y cortisol basal (si está disponible).",
+        "Ecocardiograma para valorar miocardiopatía séptica.",
+        "Ecografía a pie de cama para evaluar volemia y congestión venosa."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Insuficiencia respiratoria aguda hipoxémica (PaO2/FiO2 < 200).",
+      "Disminución del nivel de conciencia con riesgo de aspiración.",
+      "Compromiso pulmonar por neumonía grave o SDRA asociado a sepsis."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Inicio precoz de antibióticos de amplio espectro, preferentemente dentro de la primera hora del diagnóstico.",
+        "Reanimación inicial con 30 mL/kg de cristaloides balanceados.",
+        "Infusión continua de noradrenalina para mantener PAM ≥ 65 mmHg.",
+        "Vasopresina como segundo vasopresor (0,03 U/min).",
+        "Hidrocortisona EV 200 mg/día en caso de shock refractario.",
+        "Corrección de alteraciones electrolíticas (potasio, calcio, magnesio).",
+        "Control glucémico estricto: mantener entre 140–180 mg/dL.",
+        "Ventilación mecánica protectora si hay SDRA.",
+        "Considerar terapia de reemplazo renal en insuficiencia renal con sobrecarga de volumen.",
+        "Control precoz del foco: drenaje de abscesos, retiro de catéteres infectados o cirugía si es necesario."
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico es reservado, con mortalidad superior al 50% en casos refractarios. El reconocimiento precoz, el inicio inmediato de antibióticos y un manejo intensivo agresivo son claves para la supervivencia. Herramientas como la escala SOFA y el lactato seriado ayudan en la estratificación de riesgo."
+    },
+    "notas_adicionais": [
+      "Incluir equipo multidisciplinario (enfermería, infectología, cirugía, nefrología) en el manejo integral.",
+      "Revisar el esquema antimicrobiano de acuerdo a resultados microbiológicos y evolución clínica.",
+      "Evitar sobrecarga de volumen después de la reanimación inicial.",
+      "Considerar inmunoglobulina intravenosa en casos seleccionados (estreptococo o shock tóxico).",
+      "Monitorear perfusión con capnografía venosa, SvO2 e índice de choque (FC/PAM)."
+    ],
+    "fontes_bibliograficas": [
+      "Singer M, Deutschman CS, Seymour CW, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016.",
+      "Rhodes A, Evans LE, Alhazzani W, et al. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2016. Intensive Care Med. 2017.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Guyton AC, Hall JE. Tratado de Fisiología Médica. 14ª ed. Elsevier; 2021.",
+      "Marik PE. Surviving Sepsis: Going Beyond the Guidelines. Ann Intensive Care. 2017."
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "PT": {
+    "titulo": "Choque Cardiogênico",
+    "definicao": "O choque cardiogênico é uma síndrome clínica grave de hipoperfusão tecidual sustentada, resultante da falência primária do miocárdio em manter débito cardíaco adequado, mesmo com volemia suficiente. Está associado a altas taxas de mortalidade e caracteriza-se por hipotensão arterial persistente, sinais de hipoperfusão e evidências de disfunção ventricular.",
+    "epidemiologia": "O choque cardiogênico representa aproximadamente 5–10% dos casos de choque nas unidades de terapia intensiva. A causa mais comum é o infarto agudo do miocárdio com elevação do segmento ST (IAMCSST), responsável por até 80% dos casos. A mortalidade pode ultrapassar 50%, especialmente sem reperfusão precoce.",
+    "fisiopatologia": "A redução da contratilidade miocárdica (disfunção sistólica) resulta em queda do volume sistólico e do débito cardíaco. A diminuição da perfusão tecidual ativa mecanismos compensatórios, como liberação de catecolaminas e vasoconstrição sistêmica, que agravam o consumo de oxigênio e pioram a disfunção miocárdica. A elevação da pressão de enchimento ventricular pode causar congestão pulmonar e disfunção diastólica.",
+    "sinais_e_sintomas": [
+      "Hipotensão arterial persistente (PAS < 90 mmHg ou PAM < 65 mmHg por > 30 min)",
+      "Hipoperfusão periférica: pele fria, sudorese, confusão mental, oligúria (< 0,5 mL/kg/h)",
+      "Congestão pulmonar: dispneia, estertores, crepitações, hipoxemia",
+      "Pulso fraco e filiforme, turgência jugular, hepatomegalia"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "Histórico recente de IAM, miocardiopatia dilatada, valvopatia grave ou miocardite",
+        "Exame físico com sinais de choque e congestão",
+        "Resposta inadequada à reposição volêmica"
+      ],
+      "exames_complementares": [
+        "ECG com alterações isquêmicas ou arritmias",
+        "Troponina e CK-MB elevadas em IAM",
+        "Gasometria arterial com acidose metabólica e hiperlactatemia",
+        "Ecocardiograma: fração de ejeção reduzida, disfunção segmentar, valvopatias, tamponamento",
+        "Radiografia de tórax: congestão vascular, cardiomegalia",
+        "Cateter de artéria pulmonar em casos refratários: IC < 2,2 L/min/m², PCP > 15 mmHg"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Oxigenação suplementar ou ventilação mecânica se necessário",
+        "Monitorização contínua com ECG, oximetria, PAM invasiva",
+        "Terapia de reperfusão precoce no IAM (angioplastia primária preferencialmente)",
+        "Drogas vasoativas: noradrenalina para manter perfusão e dobutamina para suporte inotrópico",
+        "Volume cauteloso apenas se hipovolemia absoluta (p. ex., hipovolemia hemorrágica)",
+        "Suporte circulatório mecânico: balão intra-aórtico, Impella, ECMO venoarterial em casos refratários"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Noradrenalina",
+          "uso": "Vasopressor de escolha para manter PAM ≥ 65 mmHg",
+          "dose_mcg_kg_min": "0,05–1,0"
+        },
+        {
+          "nome": "Dobutamina",
+          "uso": "Inotrópico para aumentar débito cardíaco em disfunção sistólica",
+          "dose_mcg_kg_min": "2–20"
+        },
+        {
+          "nome": "Etomidato",
+          "uso": "Indução anestésica em pacientes instáveis",
+          "dose_mg_kg": 0.3
+        },
+        {
+          "nome": "Fentanil",
+          "uso": "Analgesia e sedação durante intubação ou procedimentos",
+          "dose_mcg_kg": "1–2"
+        },
+        {
+          "nome": "Rocurônio",
+          "uso": "Bloqueio neuromuscular para IOT rápida",
+          "dose_mg_kg": 1.0
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "O choque cardiogênico apresenta mortalidade elevada, principalmente quando não tratado precocemente. O prognóstico melhora com diagnóstico rápido, suporte hemodinâmico agressivo, reperfusão miocárdica e uso de dispositivos de assistência circulatória em centros especializados. A presença de disfunção multiorgânica é preditora de pior desfecho."
+    },
+    "fontes_bibliograficas": [
+      "Sociedade Brasileira de Cardiologia – Diretrizes de Insuficiência Cardíaca Aguda",
+      "UpToDate – Cardiogenic shock: Clinical features, diagnosis, and management",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "ESC Guidelines on Acute Heart Failure, 2021"
+    ]
+  },
+  "US": {
+    "titulo": "Cardiogenic Shock",
+    "definicao": "Cardiogenic shock is a critical state of circulatory failure resulting from primary myocardial dysfunction, leading to inadequate tissue perfusion despite adequate intravascular volume. It is most commonly caused by acute myocardial infarction and carries a high mortality rate without timely intervention. It is defined by persistent hypotension, signs of hypoperfusion, and evidence of left or right ventricular failure.",
+    "epidemiologia": "Cardiogenic shock accounts for 5–10% of all shock cases in intensive care units. The leading cause is ST-segment elevation myocardial infarction (STEMI), responsible for up to 80% of cases. Mortality remains high, often exceeding 40–50%, particularly when reperfusion is delayed or unavailable.",
+    "fisiopatologia": "Impaired contractility due to myocardial injury results in decreased stroke volume and cardiac output. Compensatory mechanisms such as increased systemic vascular resistance and catecholamine release initially maintain perfusion but eventually exacerbate myocardial oxygen demand and ischemia. Elevated filling pressures contribute to pulmonary congestion and impaired diastolic function.",
+    "sinais_e_sintomas": [
+      "Systolic blood pressure < 90 mmHg or MAP < 65 mmHg for > 30 minutes",
+      "Cold, clammy extremities, altered mental status, oliguria (< 0.5 mL/kg/h)",
+      "Pulmonary congestion: dyspnea, rales, hypoxemia",
+      "Weak, thready pulse, jugular venous distension, hepatomegaly"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "Recent history of myocardial infarction, dilated cardiomyopathy, severe valvular disease, or myocarditis",
+        "Physical exam showing hypoperfusion and pulmonary congestion",
+        "Poor response to fluid resuscitation"
+      ],
+      "exames_complementares": [
+        "ECG showing ischemic changes or arrhythmias",
+        "Elevated troponin and CK-MB in acute MI",
+        "Arterial blood gas with metabolic acidosis and elevated lactate",
+        "Bedside echocardiography: reduced ejection fraction, wall motion abnormalities, tamponade",
+        "Chest X-ray: vascular congestion, cardiomegaly",
+        "Pulmonary artery catheterization (in refractory cases): CI < 2.2 L/min/m², PCWP > 15 mmHg"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Supplemental oxygen or mechanical ventilation as needed",
+        "Continuous monitoring (ECG, SpO₂, invasive blood pressure)",
+        "Early revascularization in acute MI (preferably percutaneous coronary intervention)",
+        "Vasopressors (norepinephrine) to maintain MAP ≥ 65 mmHg",
+        "Inotropes (dobutamine) for left ventricular systolic dysfunction",
+        "Cautious fluid resuscitation only in cases of hypovolemia",
+        "Mechanical circulatory support: intra-aortic balloon pump, Impella, or venoarterial ECMO in refractory cases"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Norepinephrine",
+          "uso": "First-line vasopressor to maintain MAP ≥ 65 mmHg",
+          "dose_mcg_kg_min": "0.05–1.0"
+        },
+        {
+          "nome": "Dobutamine",
+          "uso": "Inotropic support for low cardiac output",
+          "dose_mcg_kg_min": "2–20"
+        },
+        {
+          "nome": "Etomidate",
+          "uso": "Induction agent for intubation in unstable patients",
+          "dose_mg_kg": 0.3
+        },
+        {
+          "nome": "Fentanyl",
+          "uso": "Analgesia and sedation for intubation and procedures",
+          "dose_mcg_kg": "1–2"
+        },
+        {
+          "nome": "Rocuronium",
+          "uso": "Neuromuscular blockade for rapid sequence intubation",
+          "dose_mg_kg": 1.0
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "Cardiogenic shock is associated with high mortality, especially without early reperfusion or advanced mechanical support. Prompt recognition, aggressive hemodynamic management, revascularization, and access to circulatory assist devices improve outcomes. Multiorgan dysfunction portends a worse prognosis."
+    },
+    "fontes_bibliograficas": [
+      "American Heart Association – Management of Cardiogenic Shock",
+      "UpToDate – Cardiogenic shock: Clinical features, diagnosis, and management",
+      "Marino PL. The ICU Book. 4th ed.",
+      "ESC Guidelines for the Management of Acute Heart Failure, 2021"
+    ]
+  },
+  "ES": {
+    "titulo": "Choque Cardiogénico",
+    "definicao": "El choque cardiogénico es una forma de insuficiencia circulatoria aguda causada por disfunción cardíaca primaria, que resulta en una perfusión tisular inadecuada a pesar de una volemia adecuada. Se caracteriza por hipotensión persistente, signos de hipoperfusión y evidencia de disfunción ventricular. Es una de las causas de shock con mayor mortalidad y requiere intervención precoz intensiva.",
+    "epidemiologia": "Representa entre el 5 y el 10% de los casos de shock en cuidados intensivos. La causa más frecuente es el infarto agudo de miocardio con elevación del segmento ST (IAMCEST), responsable de hasta el 80% de los casos. La mortalidad puede superar el 50%, especialmente sin reperfusión precoz.",
+    "fisiopatologia": "La disfunción sistólica del ventrículo izquierdo lleva a una reducción del volumen sistólico y del gasto cardíaco. La hipoperfusión tisular activa mecanismos compensatorios (aumento de la resistencia vascular sistémica y liberación de catecolaminas) que agravan la isquemia miocárdica. El aumento de las presiones de llenado contribuye a la congestión pulmonar y al edema alveolar.",
+    "sinais_e_sintomas": [
+      "Presión arterial sistólica < 90 mmHg o PAM < 65 mmHg por más de 30 minutos",
+      "Extremidades frías, piel pálida, alteración del sensorio, oliguria (< 0,5 mL/kg/h)",
+      "Congestión pulmonar: disnea, estertores, hipoxemia",
+      "Pulso débil y filiforme, ingurgitación yugular, hepatomegalia"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "Antecedente de infarto, miocardiopatía dilatada, valvulopatía severa o miocarditis",
+        "Exploración física con hallazgos de hipoperfusión y congestión",
+        "Ausencia de respuesta adecuada a la reposición de volumen"
+      ],
+      "exames_complementares": [
+        "ECG: cambios isquémicos, arritmias",
+        "Troponinas y CK-MB elevadas en IAM",
+        "Gasometría arterial con acidosis metabólica e hiperlactatemia",
+        "Ecocardiografía: FEVI reducida, anomalías de la motilidad, taponamiento",
+        "Radiografía de tórax: congestión vascular, cardiomegalia",
+        "Catéter de arteria pulmonar en casos refractarios: IC < 2,2 L/min/m², PCP > 15 mmHg"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Oxigenoterapia o ventilación mecánica si es necesario",
+        "Monitoreo continuo (ECG, oximetría, presión arterial invasiva)",
+        "Reperfusión precoz en IAM (preferentemente angioplastia primaria)",
+        "Vasopresores (noradrenalina) para mantener PAM ≥ 65 mmHg",
+        "Inotrópicos (dobutamina) para disfunción sistólica",
+        "Reposición cuidadosa de volumen solo si hay hipovolemia absoluta",
+        "Soporte circulatorio mecánico en casos refractarios: balón intraaórtico, Impella, ECMO VA"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Noradrenalina",
+          "uso": "Vasopresor de elección para mantener la perfusión",
+          "dose_mcg_kg_min": "0,05–1,0"
+        },
+        {
+          "nome": "Dobutamina",
+          "uso": "Inotrópico para aumentar el gasto cardíaco",
+          "dose_mcg_kg_min": "2–20"
+        },
+        {
+          "nome": "Etomidato",
+          "uso": "Inducción anestésica en pacientes inestables",
+          "dose_mg_kg": 0.3
+        },
+        {
+          "nome": "Fentanilo",
+          "uso": "Analgesia y sedación para intubación y procedimientos",
+          "dose_mcg_kg": "1–2"
+        },
+        {
+          "nome": "Rocuronio",
+          "uso": "Bloqueo neuromuscular para intubación de secuencia rápida",
+          "dose_mg_kg": 1.0
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "El choque cardiogénico presenta una alta mortalidad, especialmente sin reperfusión precoz ni soporte circulatorio avanzado. La identificación precoz, el manejo hemodinámico intensivo y el acceso a terapias de reperfusión o dispositivos de asistencia ventricular mejoran el pronóstico. La disfunción multiorgánica es un marcador de mal desenlace."
+    },
+    "fontes_bibliograficas": [
+      "Sociedad Europea de Cardiología – Guías de Insuficiencia Cardíaca Aguda 2021",
+      "UpToDate – Choque cardiogénico: características clínicas, diagnóstico y manejo",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "Asociación Americana del Corazón – Manejo del choque cardiogénico"
+    ]
+  }
+}

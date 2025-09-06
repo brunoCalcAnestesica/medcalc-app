@@ -1,0 +1,205 @@
+{
+  "PT": {
+    "titulo": "Angioedema Grave \n (Alérgico ou por IECA)",
+    "definicao": "Angioedema grave é uma condição emergencial caracterizada por edema abrupto, assimétrico e de rápido agravamento das camadas subcutâneas e/ou submucosas, acometendo tipicamente regiões como lábios, língua, palato, faringe, laringe e, em casos severos, glote. Os mecanismos fisiopatológicos são distintos: o angioedema histaminérgico (mediado por IgE) ocorre geralmente em reações alérgicas imediatas, enquanto o bradicinina-mediado está associado ao uso de inibidores da enzima conversora da angiotensina (IECA) ou deficiência de inibidor de C1. Ambos podem representar risco imediato de obstrução de via aérea e requerem avaliação e intervenção imediata.",
+    "epidemiologia": "O angioedema histaminérgico é mais prevalente, associado a quadros de anafilaxia, urticária e alergias alimentares ou medicamentosas. O tipo bradicinina-mediado representa 0,1–0,7% dos casos em usuários de IECA, especialmente entre homens, idosos e indivíduos afrodescendentes. O angioedema hereditário (AEH), relacionado à deficiência ou disfunção do inibidor de C1-esterase, é raro (prevalência de 1:50.000), mas tem expressividade clínica importante, com episódios recorrentes e risco vital.",
+    "fisiopatologia": "O angioedema histaminérgico resulta da ativação de mastócitos com liberação de histamina e outros mediadores inflamatórios, promovendo vasodilatação e extravasamento de fluido para os tecidos. Já o angioedema bradicinina-mediado decorre da inibição da degradação da bradicinina (por IECA) ou da deficiência funcional do inibidor de C1, levando a acúmulo de bradicinina e aumento da permeabilidade vascular. Essa forma não responde a adrenalina, anti-histamínicos ou corticoides, o que exige diagnóstico e conduta específica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Em formas isoladas, sinais vitais normais.",
+        "Hipotensão e colapso circulatório em anafilaxia com angioedema associado."
+      ],
+      "respiratorias": [
+        "Edema de língua, laringe, palato ou glote.",
+        "Voz abafada, estridor inspiratório, dispneia ou sensação de sufocação.",
+        "Sinais clínicos de obstrução de via aérea superior iminente: tiragem, uso de musculatura acessória, cianose."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitação, ansiedade, confusão ou sonolência (hipóxia).",
+        "Saturação < 90% mesmo com oxigênio suplementar.",
+        "Acidose respiratória e hipercapnia em estágios avançados."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnóstico essencialmente clínico. Requer anamnese detalhada, inspeção orofaríngea e laringoscopia em ambiente seguro, com atenção à história de uso de IECA, episódios prévios e presença de urticária/prurido (sugestivo de forma alérgica).",
+      "exames_essenciais": [
+        "Gasometria arterial: avaliação de troca gasosa e acidose.",
+        "Dosagem de C4 e C1-INH quantitativo e funcional (em casos recorrentes ou suspeita de AEH).",
+        "Oximetria contínua, capnografia (se disponível) e ECG.",
+        "Laringoscopia ou nasofibroscopia para avaliação de obstrução estrutural."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Presença de estridor ou uso de musculatura acessória.",
+      "Edema progressivo de língua, palato ou glote com sinais de obstrução iminente.",
+      "Diminuição do nível de consciência por hipóxia ou hipercapnia."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitoramento cardiorrespiratório contínuo com cabeceira elevada.",
+        "Oxigenoterapia com máscara de alto fluxo ou VNI conforme tolerância.",
+        "Adrenalina IM (0,3–0,5 mg) a cada 5 a 15 minutos, se alérgico.",
+        "Antihistamínicos H1 (dexclorfeniramina) e H2 (ranitidina), e corticoides EV (metilprednisolona ou hidrocortisona).",
+        "Suspensão imediata de IECA em qualquer suspeita de angioedema bradicinina-mediado.",
+        "Icatibanto 30 mg SC ou concentrado de C1-INH 20 UI/kg EV (formas bradicinina-mediadas).",
+        "Via aérea cirúrgica (cricotireoidotomia) se falha em intubação ou evidência de obstrução total.",
+        "Evitar sedativos ou bloqueadores neuromusculares antes de proteger via aérea.",
+        "Encaminhamento precoce para UTI e equipe de alergologia/imunologia."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O desfecho depende do reconhecimento precoce e da intervenção eficaz. A forma histaminérgica costuma responder rapidamente às terapias convencionais. O angioedema bradicinina-mediado possui curso mais prolongado, maior risco de recorrência e menor resposta à adrenalina, necessitando medidas específicas. Formas hereditárias não tratadas adequadamente aumentam significativamente a mortalidade."
+    },
+    "notas_adicionais": [
+      "Após episódio bradicinina-mediado, contraindicar IECA permanentemente.",
+      "AEH deve ser confirmado laboratorialmente e tratado com profilaxia (androgênios atenuantes, ácido tranexâmico, lanadelumabe).",
+      "Família de pacientes com AEH deve ser rastreada com exames de função de C1-INH.",
+      "Paciente com AEH deve portar plano de emergência com prescrição de icatibanto domiciliar.",
+      "Observar pacientes por no mínimo 24–48 horas após resolução clínica, mesmo sem complicações."
+    ],
+    "fontes_bibliograficas": [
+      "Guyton AC, Hall JE. Tratado de Fisiologia Médica. 14ª ed. Elsevier; 2021.",
+      "Kaplan AP. Angioedema. World Allergy Organ J. 2008.",
+      "Zuraw BL. Clinical practice: Hereditary angioedema. N Engl J Med. 2008.",
+      "Marino PL. The ICU Book. 4ª ed. Lippincott Williams & Wilkins; 2014.",
+      "Aygören-Pürsün E et al. Global registry data on hereditary angioedema (HAE): the Icatibant Outcome Survey. Ann Allergy Asthma Immunol. 2018.",
+      "Brasil. Protocolo Clínico e Diretrizes Terapêuticas - Angioedema Hereditário. Ministério da Saúde, 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Angioedema Grave \n (Alérgico o Inducido por IECA)",
+    "definicao": "El angioedema grave es una emergencia médica caracterizada por un edema súbito, asimétrico y potencialmente mortal de los tejidos subcutáneos y/o submucosos. Comúnmente afecta labios, lengua, paladar, faringe, laringe y glotis, y puede conducir a obstrucción de la vía aérea superior. Los mecanismos fisiopatológicos incluyen formas mediadas por histamina (reacciones alérgicas mediadas por IgE) y por bradicinina (usualmente inducidas por inhibidores de la enzima convertidora de angiotensina - IECA - o por deficiencia hereditaria del inhibidor de C1).",
+    "epidemiologia": "El angioedema histaminérgico es común en individuos con antecedentes de atopia, alergias alimentarias o medicamentosas. El angioedema mediado por bradicinina ocurre en 0,1–0,7% de los usuarios de IECA, especialmente en hombres, ancianos y personas afrodescendientes. El angioedema hereditario (AEH) es una enfermedad rara (~1:50.000) con episodios recurrentes y riesgo vital. El retraso en el diagnóstico incrementa la morbimortalidad.",
+    "fisiopatologia": "El angioedema histaminérgico resulta de la activación de mastocitos y liberación de histamina, que provoca vasodilatación y aumento de la permeabilidad vascular. En el angioedema mediado por bradicinina, el acúmulo de bradicinina —ya sea por inhibición de su degradación (IECA) o por deficiencia funcional de C1-INH— causa extravasación de fluido sin respuesta a adrenalina, antihistamínicos ni corticoides. El AEH es causado por una deficiencia o disfunción heredada del inhibidor de C1.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Signos vitales normales en casos aislados.",
+        "Hipotensión o colapso circulatorio si se asocia a anafilaxia."
+      ],
+      "respiratorias": [
+        "Edema de lengua, faringe, paladar o glotis.",
+        "Disfonía, estridor, dificultad respiratoria o sensación de ahogo.",
+        "Signos clínicos de obstrucción inminente: uso de musculatura accesoria, retracciones, cianosis."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitación, confusión o somnolencia por hipoxia.",
+        "SatO2 < 90% a pesar de oxígeno suplementario.",
+        "Acidosis respiratoria e hipercapnia en etapas avanzadas."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico es fundamentalmente clínico, basado en historia clínica detallada (uso de IECA, episodios previos, alergias) y examen físico, incluyendo inspección de la vía aérea. La ausencia de prurito o urticaria sugiere forma no alérgica.",
+      "exames_essenciais": [
+        "Gasometría arterial (intercambio gaseoso, acidosis).",
+        "Dosificación de C4 e inhibidor de C1 (funcional y cuantitativo) en sospecha de AEH.",
+        "Oximetría de pulso, ECG y capnografía si está disponible.",
+        "Laringoscopia o nasofibroscopia flexible para valorar la vía aérea en ambiente controlado."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Edema progresivo con signos de obstrucción de vía aérea.",
+      "Presencia de estridor o fatiga respiratoria.",
+      "Disminución del nivel de conciencia por hipoxia o hipercapnia."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitoreo continuo con cabecera elevada y NPO.",
+        "Oxigenoterapia de alto flujo o VNI si se tolera.",
+        "Adrenalina IM (0,3–0,5 mg) cada 5–15 minutos en casos alérgicos.",
+        "Antihistamínicos H1 (ej: difenhidramina), H2 (ej: ranitidina) y corticoides IV (ej: metilprednisolona).",
+        "Suspensión inmediata del IECA si está en uso.",
+        "Icatibant 30 mg SC o concentrado de C1-INH 20 UI/kg IV en formas mediadas por bradicinina.",
+        "Intubación orotraqueal precoz con tubo del menor calibre posible; considerar videolaringoscopia.",
+        "Cricotirotomía de urgencia si la intubación falla o hay obstrucción total.",
+        "Evitar sedantes o bloqueantes neuromusculares antes de asegurar la vía aérea.",
+        "Ingreso urgente en UCI y derivación a inmunoalergología."
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico depende de la etiología y del tiempo de intervención. Las formas histaminérgicas responden bien a adrenalina y tratamiento adyuvante. Las formas mediadas por bradicinina suelen resolverse lentamente, son refractarias al tratamiento estándar y conllevan riesgo de recurrencia. El AEH requiere manejo especializado a largo plazo."
+    },
+    "notas_adicionais": [
+      "El uso de IECA está contraindicado permanentemente tras un episodio mediado por bradicinina.",
+      "Confirmar AEH con estudios de laboratorio y considerar profilaxis (ej: lanadelumab, andrógenos atenuados).",
+      "Tamizaje familiar en casos confirmados de AEH.",
+      "Los pacientes con AEH deben portar plan de emergencia con icatibant autoadministrable.",
+      "Observar por al menos 24–48 horas tras la resolución clínica."
+    ],
+    "fontes_bibliograficas": [
+      "Guyton AC, Hall JE. Tratado de Fisiología Médica. 14ª ed. Elsevier; 2021.",
+      "Kaplan AP. Angioedema. World Allergy Organ J. 2008.",
+      "Zuraw BL. Clinical practice: Hereditary angioedema. N Engl J Med. 2008.",
+      "Aygören-Pürsün E et al. Datos globales sobre angioedema hereditario: Icatibant Outcome Survey. Ann Allergy Asthma Immunol. 2018.",
+      "Marino PL. The ICU Book. 4ª ed. Lippincott Williams & Wilkins; 2014.",
+      "Ministerio de Sanidad, España. Guía clínica para el manejo del angioedema hereditario. 2022."
+    ]
+  },
+  "US": {
+    "titulo": "Severe Angioedema \n (Allergic or ACE-Inhibitor Induced)",
+    "definicao": "Severe angioedema is a medical emergency characterized by sudden, asymmetric, and potentially life-threatening swelling of subcutaneous and/or submucosal tissues. It frequently involves the lips, tongue, pharynx, larynx, and glottis, with risk of upper airway obstruction. There are two main pathophysiological mechanisms: histamine-mediated (IgE-driven allergic reactions) and bradykinin-mediated, typically triggered by angiotensin-converting enzyme inhibitors (ACEi) or hereditary deficiency of C1 esterase inhibitor.",
+    "epidemiologia": "Histaminergic angioedema is common in patients with atopy, food allergies, or medication allergies. Bradykinin-mediated angioedema occurs in 0.1–0.7% of ACEi users, often in older adults, African Americans, and men. Hereditary angioedema (HAE) is rare (prevalence ~1:50,000) but associated with recurrent and life-threatening episodes. Delayed diagnosis increases morbidity.",
+    "fisiopatologia": "Histamine-mediated angioedema results from mast cell activation and release of histamine and other mediators, leading to vasodilation and increased vascular permeability. Bradykinin-mediated angioedema occurs due to excessive bradykinin accumulation, either by ACEi inhibition or C1-INH deficiency, and is refractory to epinephrine, antihistamines, or corticosteroids. HAE results from inherited deficiency or dysfunction of C1-INH protein.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Stable vitals in isolated cases.",
+        "Hypotension or circulatory collapse in associated anaphylaxis."
+      ],
+      "respiratorias": [
+        "Swelling of tongue, pharynx, palate, or glottis.",
+        "Muffled voice, stridor, dyspnea, or sensation of choking.",
+        "Signs of impending airway obstruction: accessory muscle use, cyanosis, retractions."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitation, confusion, or decreased consciousness due to hypoxia.",
+        "Oxygen saturation < 90% despite supplemental oxygen.",
+        "Hypercapnia and respiratory acidosis in advanced stages."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is primarily clinical. A thorough history (including ACEi use, past episodes, and allergic history), physical exam, and airway inspection are essential. The presence or absence of urticaria or pruritus may help differentiate allergic vs. non-allergic forms.",
+      "exames_essenciais": [
+        "Arterial blood gas (ABG) for acid-base and gas exchange.",
+        "C4 and C1-INH levels (quantitative and functional) in suspected HAE.",
+        "Pulse oximetry, ECG, and capnography if available.",
+        "Flexible laryngoscopy or nasopharyngoscopy in controlled setting to assess airway compromise."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Progressive airway edema (tongue, glottis, palate) with clinical signs of obstruction.",
+      "Presence of stridor or respiratory fatigue.",
+      "Decreased level of consciousness due to hypoxia or hypercapnia."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Continuous monitoring with head elevation and NPO.",
+        "High-flow oxygen therapy or non-invasive ventilation if tolerated.",
+        "IM epinephrine (0.3–0.5 mg) every 5–15 min in allergic cases.",
+        "H1 (e.g., diphenhydramine) and H2 blockers (e.g., ranitidine) plus IV corticosteroids (e.g., methylprednisolone).",
+        "Immediate discontinuation of ACEi if suspected.",
+        "Icatibant 30 mg SC or C1-INH concentrate (20 IU/kg IV) in bradykinin-mediated forms.",
+        "Early orotracheal intubation with smallest appropriate tube; consider video laryngoscopy.",
+        "Emergency cricothyrotomy if intubation fails or complete obstruction occurs.",
+        "Avoid sedatives or paralytics before securing airway.",
+        "Urgent ICU admission and allergy/immunology referral."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis depends on the etiology and timeliness of intervention. Histamine-mediated cases usually respond rapidly to epinephrine and adjunctive therapy. Bradykinin-mediated forms are slower to resolve, often refractory to standard treatment, and carry higher risk of recurrence. Hereditary angioedema requires lifelong specialized management."
+    },
+    "notas_adicionais": [
+      "ACE inhibitors are permanently contraindicated after a bradykinin-mediated episode.",
+      "HAE should be confirmed by lab and managed with on-demand treatment and long-term prophylaxis (e.g., lanadelumab, attenuated androgens).",
+      "Family screening is recommended in confirmed HAE cases.",
+      "HAE patients should carry an emergency action plan including self-administered icatibant.",
+      "Patients should be observed for at least 24–48 hours even after clinical resolution."
+    ],
+    "fontes_bibliograficas": [
+      "Guyton AC, Hall JE. Medical Physiology. 14th ed. Elsevier; 2021.",
+      "Zuraw BL. Clinical practice: Hereditary angioedema. N Engl J Med. 2008.",
+      "Kaplan AP. Angioedema. World Allergy Organ J. 2008.",
+      "Aygören-Pürsün E et al. Global registry data on hereditary angioedema (HAE): the Icatibant Outcome Survey. Ann Allergy Asthma Immunol. 2018.",
+      "Marino PL. The ICU Book. 4th ed. Lippincott Williams & Wilkins; 2014.",
+      "U.S. Hereditary Angioedema Association (HAEA) Medical Advisory Board Guidelines. 2021."
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "PT": {
+    "titulo": "Risco de Colapso Mediastinal",
+    "definicao": "O colapso mediastinal é uma emergência clínica resultante da compressão crítica de estruturas vitais no mediastino por massas ou tumorações mediastinais, em especial localizadas anteriormente. Tal compressão pode atingir vias aéreas centrais (traqueia, brônquios), vasos de grande calibre (veia cava superior, aorta, artérias pulmonares), coração e estruturas nervosas, levando à obstrução ventilatória, choque cardiogênico, parada respiratória ou morte súbita. A ocorrência é mais comum em pacientes com massas volumosas, principalmente linfomas, tumores germinativos e timomas, sendo agravada por anestesia geral, mudança de decúbito e bloqueio neuromuscular.",
+    "epidemiologia": "Massas mediastinais anteriores volumosas são mais frequentes em adultos jovens, pacientes imunossuprimidos ou oncológicos. A prevalência de complicações hemodinâmicas ou ventilatórias agudas em procedimentos anestésicos pode chegar a 10–20% nesses pacientes. O risco aumenta significativamente quando há compressão traqueal superior a 50%, colapso dinâmico observado à broncoscopia, sinais clínicos posturais e diâmetro maior que 10 cm na imagem. Crianças são particularmente vulneráveis por complacência torácica reduzida.",
+    "fisiopatologia": "A obstrução dinâmica ocorre pela perda do tônus da musculatura torácica durante a anestesia ou decúbito dorsal, favorecendo o colapso de estruturas já comprimidas. A via aérea pode colapsar entre a massa e a coluna vertebral. A compressão venosa (principalmente da veia cava superior) reduz o retorno venoso ao coração, causando hipotensão, edema facial e pressão intracraniana aumentada. A compressão direta do coração ou da artéria pulmonar reduz o débito cardíaco. Esses fatores se somam para precipitar colapso cardiorrespiratório catastrófico.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão súbita, síncope, taquicardia reflexa.",
+        "Turgência jugular, edema cervical, cianose facial.",
+        "Sinais de síndrome da veia cava superior e colapso cardiovascular em decúbito dorsal."
+      ],
+      "respiratorias": [
+        "Dispneia progressiva, ortopneia e estridor.",
+        "Tosse seca, sensação de sufocação em posição supina.",
+        "Descompensação ventilatória aguda durante sedação ou anestesia geral."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência por hipoperfusão cerebral ou hipoxemia.",
+        "Hiperemia conjuntival, cefaleia e turvação visual por hipertensão intracraniana.",
+        "Acidose mista (metabólica e respiratória) em colapso ventilatório completo."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A avaliação pré-procedimento deve identificar sinais clínicos de obstrução postural, sintomas progressivos e impacto hemodinâmico em repouso. A história detalhada e o exame físico devem ser correlacionados com achados de imagem. Procedimentos anestésicos devem ser sempre precedidos de planejamento multidisciplinar.",
+      "exames_essenciais": [
+        "Tomografia de tórax com contraste: avaliação anatômica da massa, extensão da compressão, desvio da traqueia, contato com estruturas cardíacas.",
+        "Ressonância magnética do mediastino: útil para caracterizar componentes vasculares e tecidos moles.",
+        "Broncoscopia: identifica colapso dinâmico da via aérea; usar com cautela e apenas com suporte avançado disponível.",
+        "Ecocardiograma (preferencialmente transesofágico): avalia compressão cardíaca, débito e função ventricular.",
+        "Gasometria arterial: avalia oxigenação, hipercapnia e reserva respiratória em pacientes sintomáticos."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Obstrução de via aérea central com risco iminente de colapso ventilatório.",
+      "Hipoxemia refratária (SpO₂ < 90%) em ar ambiente ou com FiO₂ elevada.",
+      "Rebaixamento do nível de consciência com risco de aspiração ou apneia.",
+      "Planejamento de cirurgia, biópsia ou procedimento anestésico com risco de colapso."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Evitar decúbito dorsal — manter paciente em posição sentada ou semifowler sempre que possível.",
+        "Evitar sedação profunda, bloqueadores neuromusculares ou anestesia geral sem preparo avançado.",
+        "Planejar via aérea com antecipação: considerar intubação acordada, ECMO ou circulação extracorpórea como suporte.",
+        "Preferir biópsia guiada por imagem com anestesia local ou sedação leve com suporte intensivo.",
+        "Disponibilizar cirurgia torácica, perfusionistas e suporte cirúrgico para casos de risco extremo.",
+        "Iniciar corticoterapia empírica em linfomas suspeitos como ponte terapêutica até confirmação histológica.",
+        "Tratar a neoplasia de base com quimioterapia ou radioterapia de indução antes de procedimentos invasivos.",
+        "Monitorização contínua com capnografia, gasometria seriada e ecocardiograma à beira-leito em casos críticos."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O colapso mediastinal é potencialmente letal e imprevisível. O reconhecimento precoce do risco, planejamento multidisciplinar, suporte ventilatório antecipado e adaptação da abordagem diagnóstica são os principais determinantes do prognóstico. Pacientes que recebem tratamento oncológico apropriado após estabilização têm boa evolução clínica. Episódios de colapso não antecipado frequentemente resultam em parada cardiorrespiratória de difícil reversão."
+    },
+    "notas_adicionais": [
+      "Solicitar sempre avaliação anestésica especializada antes de qualquer procedimento invasivo em pacientes com massa mediastinal.",
+      "Documentar sintomas posicionais e correlação com achados tomográficos.",
+      "Evitar exames sob sedação profunda em serviços sem suporte intensivo imediato.",
+      "Manter equipe de emergência treinada para via aérea difícil, incluindo cricotireoidotomia e ECMO.",
+      "Utilizar checklists perioperatórios específicos para risco de colapso mediastinal."
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Anterior mediastinal masses and the risk of airway compromise. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 70 – Mediastinal Masses.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Anestesiologia – Diretrizes para via aérea difícil. 2022.",
+      "Critical Care Clinics. Airway Management in Mediastinal Masses. 2020."
+    ]
+  },
+  "US": {
+    "title": "Risk of Mediastinal Collapse",
+    "definition": "Mediastinal collapse is a critical emergency resulting from the compression of vital intrathoracic structures—airways, great vessels, and the heart—by an anterior mediastinal mass. This may lead to dynamic airway obstruction, vascular compromise, and sudden cardiopulmonary collapse, especially under general anesthesia or supine positioning. It is most often associated with bulky mediastinal tumors such as lymphomas, germ cell tumors, or thymomas. Anesthetic interventions, positional changes, and neuromuscular blockade significantly increase the risk of decompensation.",
+    "epidemiology": "Bulky anterior mediastinal masses are more common in young adults and immunocompromised or oncologic patients. Cardiopulmonary compromise may occur in up to 10–20% of patients undergoing procedures under anesthesia. The risk is highest with >50% tracheal compression, dynamic airway collapse on bronchoscopy, positional symptoms, and mass diameter >10 cm. Children are particularly vulnerable due to lower thoracic compliance.",
+    "pathophysiology": "Dynamic obstruction occurs due to reduced chest wall muscle tone and loss of spontaneous ventilation under anesthesia or in the supine position. The trachea may collapse between the mass and spine. Compression of the superior vena cava impairs venous return, resulting in hypotension, facial edema, and increased intracranial pressure. Cardiac or pulmonary artery compression may significantly reduce cardiac output, collectively leading to catastrophic circulatory and ventilatory collapse.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Sudden hypotension, syncope, reflex tachycardia.",
+        "Jugular venous distension, facial edema, cyanosis.",
+        "Signs of superior vena cava syndrome and cardiovascular collapse in the supine position."
+      ],
+      "respiratory": [
+        "Progressive dyspnea, orthopnea, inspiratory stridor.",
+        "Dry cough, sensation of suffocation when supine.",
+        "Acute respiratory decompensation during sedation or general anesthesia."
+      ],
+      "neurologic_and_metabolic": [
+        "Decreased level of consciousness due to cerebral hypoperfusion or hypoxia.",
+        "Conjunctival injection, headache, visual blurring from raised intracranial pressure.",
+        "Mixed (metabolic and respiratory) acidosis during complete ventilatory collapse."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Pre-procedural evaluation should assess for positional symptoms, progressive respiratory or hemodynamic compromise, and correlate clinical findings with imaging. Any anesthetic or invasive procedure requires multidisciplinary planning and specialized support.",
+      "essential_tests": [
+        "Contrast-enhanced chest CT: defines mass size, tracheal compression, airway deviation, and contact with vascular/cardiac structures.",
+        "Mediastinal MRI: helpful for vascular or soft tissue characterization.",
+        "Bronchoscopy: identifies dynamic airway collapse—only with advanced support.",
+        "Echocardiography (preferably transesophageal): assesses cardiac compression and function.",
+        "Arterial blood gas: evaluates oxygenation, CO₂ retention, and respiratory reserve."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Central airway obstruction with imminent ventilatory failure.",
+      "Refractory hypoxemia (SpO₂ &lt; 90%) on room air or high FiO₂.",
+      "Decreased consciousness with aspiration or apnea risk.",
+      "High-risk surgical, biopsy, or anesthetic planning requiring respiratory support."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Avoid supine positioning—maintain upright or semi-Fowler position whenever possible.",
+        "Avoid deep sedation, neuromuscular blockade, or general anesthesia without advanced planning.",
+        "Prepare advanced airway: consider awake intubation, ECMO, or cardiopulmonary bypass as backup.",
+        "Prefer image-guided biopsy under local anesthesia or light sedation with critical care backup.",
+        "Ensure thoracic surgery and perfusion teams are available for high-risk procedures.",
+        "Initiate empiric corticosteroids for suspected lymphoma as a therapeutic bridge until biopsy.",
+        "Treat the underlying malignancy with chemotherapy or induction radiotherapy before invasive procedures.",
+        "Continuous monitoring with capnography, serial ABGs, and bedside echocardiography in critical patients."
+      ]
+    },
+    "prognosis": {
+      "comment": "Mediastinal collapse is unpredictable and often fatal without preemptive management. Early risk recognition, multidisciplinary planning, proactive ventilatory support, and adapted diagnostic strategy are key determinants of outcome. Patients receiving appropriate oncologic therapy after stabilization generally do well. Unanticipated collapse events are often rapidly fatal and difficult to reverse."
+    },
+    "additional_notes": [
+      "Always request preoperative anesthetic evaluation in patients with mediastinal masses.",
+      "Document positional symptoms and correlate with serial imaging.",
+      "Avoid deep sedation in facilities lacking immediate intensive care support.",
+      "Ensure difficult airway readiness, including cricothyrotomy and ECMO availability.",
+      "Use perioperative checklists specific for mediastinal mass risk."
+    ],
+    "references": [
+      "UpToDate. Anterior mediastinal masses and the risk of airway compromise. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 70 – Mediastinal Masses.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Anesthesiology – Guidelines for Difficult Airway. 2022.",
+      "Critical Care Clinics. Airway Management in Mediastinal Masses. 2020."
+    ]
+  },
+  "ES": {
+    "titulo": "Riesgo de Colapso Mediastínico",
+    "definicion": "El colapso mediastínico es una emergencia médica causada por la compresión crítica de estructuras vitales en el mediastino por una masa anterior, con potencial compromiso de las vías respiratorias, grandes vasos, corazón y estructuras nerviosas. Puede generar obstrucción respiratoria aguda, shock cardiovascular y muerte súbita, especialmente en contextos de anestesia general, decúbito supino o relajación neuromuscular. Es más común en pacientes con masas voluminosas, como linfomas, tumores germinales o timomas.",
+    "epidemiologia": "Las masas mediastínicas anteriores voluminosas son más frecuentes en adultos jóvenes, inmunocomprometidos y pacientes oncológicos. La descompensación ventilatoria o hemodinámica aguda ocurre en hasta 10–20% de los casos sometidos a anestesia general. El riesgo aumenta con compresión traqueal &gt; 50%, colapso dinámico observado en broncoscopia, síntomas posturales y diámetro mayor a 10 cm en imagen. Los niños presentan mayor riesgo por la menor rigidez torácica.",
+    "fisiopatologia": "Durante la anestesia o en decúbito supino, la pérdida del tono muscular torácico favorece el colapso de la tráquea entre la masa y la columna. La compresión de la vena cava superior reduce el retorno venoso, generando hipotensión, edema facial e hipertensión intracraneal. La compresión cardíaca o de la arteria pulmonar disminuye el gasto cardíaco. Estos factores combinados pueden desencadenar colapso cardiorrespiratorio abrupto.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión súbita, síncope, taquicardia refleja.",
+        "Ingurgitación yugular, edema cervicofacial, cianosis.",
+        "Síndrome de la vena cava superior y colapso circulatorio en posición supina."
+      ],
+      "respiratorias": [
+        "Disnea progresiva, ortopnea, estridor inspiratorio.",
+        "Tos seca, sensación de asfixia en posición supina.",
+        "Descompensación respiratoria aguda bajo sedación o anestesia general."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Disminución del nivel de conciencia por hipoxia o hipoperfusión cerebral.",
+        "Hiperemia conjuntival, cefalea, visión borrosa por hipertensión endocraneana.",
+        "Acidosis mixta (metabólica y respiratoria) en colapso ventilatorio total."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "La evaluación preprocedimiento debe identificar síntomas posturales, signos de obstrucción progresiva y compromiso hemodinámico. La historia clínica debe correlacionarse con los hallazgos de imagen. Procedimientos anestésicos o invasivos requieren planificación con un equipo multidisciplinario.",
+      "examenes_esenciales": [
+        "Tomografía de tórax con contraste: define el tamaño, extensión y relación con estructuras vasculares y vías aéreas.",
+        "Resonancia magnética mediastinal: útil en caracterización vascular o de tejidos blandos.",
+        "Broncoscopia: identifica colapso dinámico de la vía aérea (realizar con soporte avanzado).",
+        "Ecocardiografía (preferentemente transesofágica): evalúa compresión cardíaca y función ventricular.",
+        "Gasometría arterial: valora oxigenación, hipercapnia y reserva respiratoria."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Obstrucción de vía aérea central con riesgo inminente de fallo ventilatorio.",
+      "Hipoxemia refractaria (SpO₂ &lt; 90%) en aire ambiente o con FiO₂ alta.",
+      "Disminución del nivel de conciencia con riesgo de aspiración o apnea.",
+      "Planificación de procedimientos quirúrgicos o invasivos de alto riesgo ventilatorio."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Evitar posición supina — preferir posición sentada o semifowler.",
+        "Evitar sedación profunda, relajantes musculares o anestesia general sin preparación avanzada.",
+        "Planificar vía aérea anticipadamente: considerar intubación despierto, ECMO o circulación extracorpórea como respaldo.",
+        "Preferir biopsia guiada por imagen bajo anestesia local o sedación mínima con soporte intensivo.",
+        "Contar con cirugía torácica, perfusionistas y soporte quirúrgico disponible para casos de alto riesgo.",
+        "Iniciar corticoides empíricos en sospecha de linfoma como puente terapéutico hasta la confirmación histológica.",
+        "Tratar la neoplasia con quimioterapia o radioterapia de inducción antes de intervenciones invasivas.",
+        "Monitoreo continuo con capnografía, gasometría seriada y ecocardiografía a pie de cama en pacientes críticos."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El colapso mediastínico es potencialmente letal y difícilmente predecible. Su pronóstico depende de la identificación precoz, la planificación multidisciplinaria, la anticipación ventilatoria y la adaptación de la estrategia diagnóstica. Los pacientes que reciben tratamiento oncológico adecuado tras estabilización pueden evolucionar favorablemente. Los eventos de colapso inesperado suelen tener desenlace fatal si no se actúa rápidamente."
+    },
+    "notas_adicionales": [
+      "Siempre solicitar evaluación anestésica especializada antes de procedimientos invasivos.",
+      "Documentar síntomas posturales y correlacionarlos con hallazgos tomográficos.",
+      "Evitar estudios bajo sedación profunda sin soporte intensivo disponible.",
+      "Tener lista una vía aérea de emergencia, incluyendo cricotiroidotomía y acceso a ECMO.",
+      "Usar listas de verificación perioperatorias específicas para masas mediastínicas."
+    ],
+    "referencias": [
+      "UpToDate. Anterior mediastinal masses and the risk of airway compromise. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 70 – Tumores mediastinales.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Anestesiología – Guías para manejo de vía aérea difícil. 2022.",
+      "Critical Care Clinics. Airway Management in Mediastinal Masses. 2020."
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "PT": {
+    "titulo": "AVC Isquêmico Extenso",
+    "definicao": "O acidente vascular cerebral isquêmico extenso é uma condição neurológica aguda grave causada pela obstrução de grandes vasos arteriais cerebrais, principalmente a artéria cerebral média (ACM), artéria carótida interna ou vertebrobasilar, resultando em infartos volumosos. Está associado a alto risco de edema cerebral, hipertensão intracraniana, herniação cerebral e morte precoce. Requer manejo intensivo precoce para garantir perfusão cerebral e limitar complicações.",
+    "epidemiologia": "Responsável por 10 a 20% dos AVCs isquêmicos. Tem maior prevalência em idosos, pacientes com fibrilação atrial, estenose carotídea grave, diabetes, hipertensão e dislipidemia. Infartos hemisféricos malignos ocorrem em até 8% dos AVCs isquêmicos da ACM. A mortalidade chega a 80% sem intervenção cirúrgica em pacientes jovens com edema cerebral progressivo.",
+    "fisiopatologia": "A interrupção do fluxo sanguíneo em grandes territórios cerebrais leva à necrose tecidual, disfunção da barreira hematoencefálica, edema citotóxico e vasogênico. O aumento da PIC reduz a pressão de perfusão cerebral (PPC = PAM - PIC), comprometendo ainda mais a oxigenação neuronal e favorecendo deslocamentos estruturais como herniação uncal, central ou tonsilar.",
+    "manifestações_clinicas": {
+      "neurologicas": [
+        "Déficit motor denso contralateral (hemiplegia)",
+        "Afasia global (AVC hemisférico dominante) ou negligência hemisférica (não dominante)",
+        "Glasgow < 13 nas primeiras horas do evento",
+        "Desvio do olhar conjugado, crises epilépticas, edema cerebral progressivo"
+      ],
+      "hemodinamicas": [
+        "Hipertensão reativa com PAS > 180 mmHg",
+        "Bradicardia e irregularidade respiratória em fases tardias com hipertensão intracraniana"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Paciente com instalação súbita de déficit neurológico grave, escore NIHSS > 15, redução do nível de consciência, sugerindo infarto hemisférico extenso. Requer diferenciação de AVC hemorrágico por neuroimagem.",
+      "exames_essenciais": [
+        "Tomografia de crânio sem contraste – avaliação do ASPECTS, edema, hipodensidade precoce",
+        "Angiotomografia de crânio e pescoço – para detectar oclusões proximais",
+        "Ressonância com difusão – se diagnóstico duvidoso ou fora da janela terapêutica convencional",
+        "Exames laboratoriais: eletrólitos, TAP, PTT, INR, glicemia, função renal, troponina",
+        "ECG e ecocardiograma transtorácico ou transesofágico (investigação cardioembólica)"
+      ]
+    },
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Garantir via aérea e SpO₂ > 94%, corrigir hipoxemia e hipotensão",
+        "Controle pressórico: PAS < 185 mmHg se elegível para trombólise; PAS < 220 mmHg se não for",
+        "Trombólise IV com alteplase até 4,5h após início dos sintomas (se critérios preenchidos)",
+        "Trombectomia mecânica até 6h (ou até 24h com mismatch clínico-radiológico em imagem perfusional)",
+        "Controle da glicemia, temperatura e eletrólitos – evitar hiperglicemia e febre",
+        "Monitoramento neurológico intensivo com escalas de coma, pupilas, sinais focais",
+        "Considerar craniectomia descompressiva precoce em infartos hemisféricos malignos (em pacientes < 60 anos)",
+        "Iniciar prevenção secundária com antiagregantes, estatinas e anticoagulação conforme etiologia"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Infartos extensos têm prognóstico reservado. A deterioração neurológica ocorre em até 60% nas primeiras 48h. A craniectomia descompressiva melhora a sobrevida em jovens com infartos hemisféricos malignos, mas pode resultar em sequelas motoras e cognitivas importantes. O prognóstico funcional depende da lateralidade, idade, tempo até tratamento e presença de complicações."
+    },
+    "notas_adicionais": [
+      "Avaliar risco-benefício da trombólise em casos com infarto extenso visível à TC",
+      "Sedação excessiva deve ser evitada para permitir avaliação neurológica seriada",
+      "Fazer rastreio de disfagia com teste de água antes da dieta oral",
+      "Encaminhar para reabilitação e equipe multiprofissional precocemente"
+    ],
+    "fontes_bibliograficas": [
+      "Diretrizes da Sociedade Brasileira de Doenças Cerebrovasculares – AVC Isquêmico 2022",
+      "AHA/ASA Guidelines for Early Management of Acute Ischemic Stroke, 2019",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Acute ischemic stroke: Management and prognosis"
+    ]
+  },
+  "US": {
+    "titulo": "Extensive Ischemic Stroke",
+    "definicao": "Extensive ischemic stroke refers to a large infarction involving major cerebral arteries such as the middle cerebral artery (MCA), internal carotid artery, or vertebrobasilar system. It results in substantial neurological impairment, often accompanied by malignant cerebral edema, intracranial hypertension, herniation syndromes, and high risk of death or severe disability. It is a neurocritical emergency that demands immediate intervention.",
+    "epidemiologia": "Extensive infarcts account for approximately 10–20% of ischemic strokes and are associated with increased mortality and long-term disability. Risk factors include atrial fibrillation, carotid stenosis, hypertension, diabetes, dyslipidemia, and advanced age. Malignant MCA infarction occurs in up to 8% of anterior circulation strokes, with mortality exceeding 80% in the absence of decompressive craniectomy.",
+    "fisiopatologia": "Occlusion of large cerebral vessels leads to cessation of blood flow to wide cortical and subcortical territories. Ischemia induces energy failure, cytotoxic and vasogenic edema, disruption of the blood-brain barrier, and progressive increase in intracranial pressure (ICP), reducing cerebral perfusion pressure (CPP = MAP - ICP). This sets off a cascade that may culminate in midline shift, uncal or tonsillar herniation, and brain death.",
+    "manifestações_clinicas": {
+      "neurologicas": [
+        "Dense contralateral hemiplegia",
+        "Global aphasia (dominant hemisphere) or hemispatial neglect (non-dominant hemisphere)",
+        "Depressed level of consciousness (GCS < 13)",
+        "Conjugate gaze deviation, seizures, and signs of cerebral edema"
+      ],
+      "hemodinamicas": [
+        "Reactive hypertension (SBP > 180 mmHg)",
+        "Bradycardia and respiratory pattern changes in late stages with elevated ICP"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspect in patients with acute, severe neurological deficit and NIHSS > 15, especially when consciousness is impaired. Differentiation from hemorrhagic stroke is crucial and requires neuroimaging.",
+      "exames_essenciais": [
+        "Non-contrast CT of the brain – assess ASPECTS, early ischemic changes",
+        "CT angiography of the brain and neck – evaluate for proximal large vessel occlusion",
+        "MRI with diffusion – in selected or unclear cases",
+        "Laboratory workup: electrolytes, INR, glucose, renal function, cardiac enzymes",
+        "ECG and echocardiography (TTE or TEE) to assess for cardioembolic source"
+      ]
+    },
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Secure airway and ensure oxygenation (SpO₂ > 94%)",
+        "Blood pressure management: SBP < 185 mmHg if thrombolysis candidate; < 220 mmHg otherwise",
+        "IV thrombolysis with alteplase within 4.5 hours if eligible",
+        "Mechanical thrombectomy up to 6 hours (or up to 24h with perfusion mismatch criteria)",
+        "Maintain normoglycemia and normothermia",
+        "Intensive neurological monitoring (coma scales, pupils, focal signs)",
+        "Consider early decompressive hemicraniectomy in malignant MCA infarction (especially in patients < 60 y/o)",
+        "Initiate secondary prevention: antiplatelets, statins, anticoagulation as indicated"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Extensive strokes have poor prognosis due to high risk of early neurological deterioration. Decompressive craniectomy improves survival in selected young patients with large infarcts, though functional outcome may be limited. Prognosis depends on infarct volume, age, laterality, time to treatment, and complications."
+    },
+    "notas_adicionais": [
+      "Evaluate risk-benefit of thrombolysis when infarct is visible on initial CT",
+      "Avoid excessive sedation to permit serial neurological assessments",
+      "Screen for dysphagia before initiating oral intake",
+      "Early rehabilitation and interdisciplinary care are essential for recovery"
+    ],
+    "fontes_bibliograficas": [
+      "AHA/ASA Guidelines for Early Management of Acute Ischemic Stroke, 2019",
+      "UpToDate – Acute ischemic stroke: Management and prognosis",
+      "Marino PL. The ICU Book. 4th ed.",
+      "European Stroke Organisation Guidelines for Management of Malignant MCA Infarction"
+    ]
+  },
+  "ES": {
+    "titulo": "ACV Isquémico Extenso",
+    "definicao": "El accidente cerebrovascular (ACV) isquémico extenso se caracteriza por una oclusión de grandes vasos arteriales cerebrales (arteria cerebral media, carótida interna o sistema vertebrobasilar), causando un infarto cerebral voluminoso. Este tipo de ACV se asocia a edema cerebral masivo, hipertensión intracraneal, riesgo de herniación cerebral y elevada mortalidad, especialmente sin intervención oportuna.",
+    "epidemiologia": "Representa entre el 10 y el 20% de los ACVs isquémicos. Es más común en personas mayores y en pacientes con factores de riesgo como fibrilación auricular, hipertensión arterial, diabetes mellitus, dislipidemia y estenosis carotídea. Los infartos hemisféricos malignos se presentan en aproximadamente el 8% de los infartos por oclusión de la ACM. La mortalidad en pacientes jóvenes puede alcanzar el 80% sin descompresión quirúrgica.",
+    "fisiopatologia": "La interrupción del flujo sanguíneo en territorios cerebrales extensos produce necrosis isquémica, disfunción de la barrera hematoencefálica, edema citotóxico y vasogénico, y aumento progresivo de la presión intracraneal (PIC). Esto compromete la presión de perfusión cerebral (PPC = PAM - PIC), agravando la hipoxia tisular y favoreciendo herniaciones cerebrales (uncal, central o tonsilar).",
+    "manifestações_clinicas": {
+      "neurologicas": [
+        "Hemiplejía contralateral severa",
+        "Afasia global (hemisferio dominante) o negligencia espacial (no dominante)",
+        "Disminución del nivel de conciencia (GCS < 13)",
+        "Desviación de la mirada, crisis convulsivas, signos de edema cerebral progresivo"
+      ],
+      "hemodinamicas": [
+        "Hipertensión reactiva (PAS > 180 mmHg)",
+        "Bradicardia y alteraciones respiratorias en fases avanzadas"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Se sospecha en pacientes con inicio brusco de déficit neurológico grave, NIHSS > 15 y compromiso de conciencia. Es imprescindible diferenciarlo del ACV hemorrágico mediante neuroimagen urgente.",
+      "exames_essenciais": [
+        "TC de cráneo sin contraste – evaluar ASPECTS, signos precoces de isquemia",
+        "Angio-TC de cráneo y cuello – detectar oclusiones proximales",
+        "RMN con difusión – en casos seleccionados o fuera de la ventana terapéutica",
+        "Laboratorio: electrolitos, INR, glucemia, función renal, enzimas cardíacas",
+        "ECG y ecocardiograma transtorácico o transesofágico para identificar origen cardioembólico"
+      ]
+    },
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Asegurar vía aérea y oxigenación (SpO₂ > 94%)",
+        "Control de PA: PAS < 185 mmHg si candidato a trombólisis; < 220 mmHg si no lo es",
+        "Trombólisis intravenosa con alteplasa hasta 4,5 h desde el inicio de los síntomas (si elegible)",
+        "Trombectomía mecánica hasta 6 h (hasta 24 h en casos seleccionados con mismatch clínico-radiológico)",
+        "Mantener normoglucemia y normotermia",
+        "Monitoreo neurológico intensivo (escala de coma, pupilas, signos focales)",
+        "Considerar hemicraniectomía descompresiva precoz en infarto maligno de ACM (especialmente en menores de 60 años)",
+        "Iniciar prevención secundaria con antiagregantes, estatinas o anticoagulantes según etiología"
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico es desfavorable en infartos extensos, con alto riesgo de deterioro neurológico temprano. La hemicraniectomía descompresiva mejora la sobrevida en pacientes jóvenes, aunque con riesgo de secuelas funcionales. Los desenlaces dependen del volumen del infarto, la edad, lateralidad, tiempo de intervención y complicaciones asociadas."
+    },
+    "notas_adicionais": [
+      "Evaluar riesgo-beneficio de trombólisis si hay infarto visible extenso en TC",
+      "Evitar sedación excesiva para permitir evaluación neurológica seriada",
+      "Evaluar disfagia antes de iniciar alimentación oral",
+      "Rehabilitación precoz e intervención multidisciplinaria desde la fase aguda"
+    ],
+    "fontes_bibliograficas": [
+      "Guías AHA/ASA 2019 – Manejo precoz del ACV isquémico agudo",
+      "UpToDate – Manejo del ACV isquémico extenso",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "European Stroke Organisation – Guías para infarto maligno de la ACM"
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Acidose Metabólica Grave com Fadiga Muscular Respiratória",
+    "definicao": "A acidose metabólica grave com fadiga muscular respiratória é uma emergência médica caracterizada por acidose metabólica descompensada associada à exaustão da musculatura ventilatória, resultando em hipoventilação, retenção de CO₂ e risco iminente de parada respiratória. Pode coexistir com acidose respiratória, configurando um distúrbio misto, o que demanda suporte ventilatório urgente. A falência ventilatória pode surgir subitamente em pacientes com doença crônica descompensada ou de forma progressiva em quadros de evolução rápida.",
+    "epidemiologia": "Ocorre com maior frequência em pacientes com sepse, insuficiência renal, cetoacidose diabética e intoxicações. A fadiga muscular respiratória é mais comum em indivíduos com doença pulmonar prévia, acidose grave (pH < 7,1) ou ventilação ineficaz. A prevalência é maior em unidades de terapia intensiva (UTI), com risco aumentado em pacientes imunocomprometidos, diabéticos ou com doença renal crônica. A mortalidade associada à acidemia grave (pH < 7,0) é elevada, especialmente quando não corrigida rapidamente.",
+    "fisiopatologia": "A acidose metabólica grave resulta da acumulação de ácidos fixos (como ácido láctico ou cetoácidos) ou perda de bicarbonato, levando à queda do pH arterial. Quando associada à fadiga muscular respiratória, há incapacidade de manter a ventilação alveolar eficaz, o que agrava a acidose pela retenção de CO₂ (acidose respiratória secundária). A disfunção diafragmática e a hipoperfusão muscular comprometem a ventilação espontânea. A acidose metabólica grave interfere na contratilidade miocárdica, sensibilidade aos catecolaminas e na condução elétrica cardíaca, predispondo a arritmias ventriculares. Além disso, compromete a resposta imunológica e acarreta vasodilatação periférica, agravando a hipotensão.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial e taquicardia compensatória.",
+        "Perfusão periférica prejudicada com extremidades frias.",
+        "Pulsos filiformes e tempo de enchimento capilar prolongado."
+      ],
+      "respiratorias": [
+        "Respiração rápida e superficial, evoluindo para bradipneia.",
+        "Uso de musculatura acessória.",
+        "Sinais de fadiga: apneia intermitente, torpor respiratório, dessaturação progressiva."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Alteração do nível de consciência.",
+        "Confusão, agitação ou sonolência.",
+        "pH < 7,1 com bicarbonato < 10 mEq/L e lactato elevado."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico baseia-se na avaliação clínica de sinais de exaustão ventilatória e gasometria arterial compatível com acidose metabólica grave. Deve-se avaliar a reserva respiratória e o risco de parada ventilatória iminente.",
+      "exames_essenciais": [
+        "Gasometria arterial: pH < 7,1, HCO₃⁻ < 10 mEq/L, PCO₂ em ascensão.",
+        "Lactato sérico: geralmente > 4 mmol/L em casos graves.",
+        "Eletrólitos, função renal e glicemia para identificar causas.",
+        "ECG: alterações secundárias à hipercalemia ou acidose grave.",
+        "Radiografia de tórax: para avaliar congestão pulmonar ou causas associadas.",
+        "USG à beira-leito: avaliação de sobrecarga hídrica, função cardíaca e pulmonar.",
+        "Delta gap (AG - 12 - [HCO₃ - 24]): útil na caracterização de distúrbios mistos.",
+        "Anion gap: geralmente aumentado quando há acúmulo de ácidos orgânicos (lático, cetoácidos)."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Sinais de fadiga respiratória com respiração ineficaz.",
+      "Hipoxemia refratária ao oxigênio suplementar.",
+      "pH < 7,1 com sinais de instabilidade hemodinâmica.",
+      "Declínio do nível de consciência com risco de aspiração."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxigenação com máscara de alto fluxo ou ventilação não invasiva, se tolerada.",
+        "Intubação orotraqueal e ventilação mecânica nos casos de falência respiratória.",
+        "Correção gradual da acidose com bicarbonato de sódio em pH < 7,0.",
+        "Tratamento da causa base (ex: antibióticos para sepse, insulinoterapia em cetoacidose diabética).",
+        "Monitorização contínua hemodinâmica e ventilatória.",
+        "Evitar hipoventilação durante o transporte e manuseio do paciente.",
+        "Avaliação contínua do drive respiratório e resposta à terapêutica.",
+        "Considerar hemodiálise em acidose refratária com disfunção renal concomitante."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico depende da causa de base, da rapidez na identificação e do suporte ventilatório precoce. A presença de acidemia grave persistente está associada a alta mortalidade, especialmente quando há atraso na intubação e suporte intensivo."
+    },
+    "notas_adicionais": [
+      "A intubação deve ser considerada precocemente em pacientes com exaustão ventilatória iminente.",
+      "A infusão de bicarbonato deve ser lenta e sempre acompanhada de avaliação gasométrica.",
+      "Evite hiperventilação pós-intubação: pode causar alcalose respiratória e piora da perfusão cerebral.",
+      "Sedação e bloqueio neuromuscular devem ser individualizados conforme estabilidade e esforço ventilatório prévio.",
+      "O uso de bicarbonato deve ser criterioso em acidose lática e cetoacidose diabética: seu uso excessivo pode gerar alcalose paradoxal intracelular e sobrecarga de sódio.",
+      "O manejo deve sempre considerar o tempo de instalação, reserva fisiológica e causa base da acidose."
+    ],
+    "fontes_bibliograficas": [
+      "Marino P. The ICU Book. 4th ed. Wolters Kluwer Health; 2014.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Kraut JA, Madias NE. Metabolic Acidosis: Pathophysiology, Diagnosis and Management. Nat Rev Nephrol. 2010."
+    ]
+  },
+  "ES": {
+    "titulo": "Acidosis Metabólica Grave con Fatiga Muscular Respiratoria",
+    "definicao": "La acidosis metabólica grave con fatiga muscular respiratoria es una emergencia médica caracterizada por acidosis metabólica descompensada asociada al agotamiento de la musculatura ventilatoria, lo que resulta en hipoventilación, retención de CO₂ y riesgo inminente de paro respiratorio. Puede coexistir con acidosis respiratoria, configurando un trastorno mixto que requiere soporte ventilatorio urgente. La insuficiencia ventilatoria puede surgir súbitamente en enfermedades crónicas descompensadas o progresivamente en cuadros de rápida evolución.",
+    "epidemiologia": "Ocurre con mayor frecuencia en pacientes con sepsis, insuficiencia renal, cetoacidosis diabética e intoxicaciones. La fatiga muscular respiratoria es más común en individuos con enfermedad pulmonar previa, acidosis grave (pH < 7,1) o ventilación ineficaz. La prevalencia es mayor en unidades de cuidados intensivos (UCI), con riesgo incrementado en pacientes inmunocomprometidos, diabéticos o con enfermedad renal crónica. La mortalidad asociada a acidemia grave (pH < 7,0) es elevada, especialmente cuando no se corrige rápidamente.",
+    "fisiopatologia": "La acidosis metabólica grave resulta de la acumulación de ácidos fijos (como ácido láctico o cetoácidos) o de la pérdida de bicarbonato, llevando a la disminución del pH arterial. Cuando se asocia a fatiga muscular respiratoria, hay incapacidad para mantener una ventilación alveolar eficaz, lo que agrava la acidosis por retención de CO₂ (acidosis respiratoria secundaria). La disfunción diafragmática y la hipoperfusión muscular comprometen la ventilación espontánea. La acidosis metabólica grave interfiere en la contractilidad miocárdica, la sensibilidad a catecolaminas y la conducción eléctrica cardíaca, predisponiendo a arritmias ventriculares. Además, compromete la respuesta inmunológica y causa vasodilatación periférica, agravando la hipotensión.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión arterial y taquicardia compensatoria.",
+        "Perfusión periférica comprometida con extremidades frías.",
+        "Pulsos filiformes y tiempo de relleno capilar prolongado."
+      ],
+      "respiratorias": [
+        "Respiración rápida y superficial, evolucionando a bradipnea.",
+        "Uso de musculatura accesoria.",
+        "Signos de fatiga: apnea intermitente, sopor respiratorio, desaturación progresiva."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Alteración del nivel de conciencia.",
+        "Confusión, agitación o somnolencia.",
+        "pH < 7,1 con bicarbonato < 10 mEq/L y lactato elevado."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico se basa en la evaluación clínica de signos de agotamiento ventilatorio y gasometría arterial compatible con acidosis metabólica grave. Se debe valorar la reserva respiratoria y el riesgo de paro ventilatorio inminente.",
+      "exames_essenciais": [
+        "Gasometría arterial: pH < 7,1, HCO₃⁻ < 10 mEq/L, PCO₂ en ascenso.",
+        "Lactato sérico: generalmente > 4 mmol/L en casos graves.",
+        "Electrolitos, función renal y glucemia para identificar causas.",
+        "ECG: alteraciones secundarias a hiperpotasemia o acidosis grave.",
+        "Radiografía de tórax: para evaluar congestión pulmonar o causas asociadas.",
+        "Ecografía a pie de cama: evaluación de sobrecarga hídrica, función cardíaca y pulmonar.",
+        "Delta gap (AG - 12 - [HCO₃ - 24]): útil para la caracterización de trastornos mixtos.",
+        "Anion gap: generalmente aumentado cuando hay acumulación de ácidos orgánicos (láctico, cetoácidos)."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Signos de fatiga respiratoria con respiración ineficaz.",
+      "Hipoxemia refractaria al oxígeno suplementario.",
+      "pH < 7,1 con signos de inestabilidad hemodinámica.",
+      "Disminución del nivel de conciencia con riesgo de aspiración."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxigenación con mascarilla de alto flujo o ventilación no invasiva, si es tolerada.",
+        "Intubación orotraqueal y ventilación mecánica en casos de insuficiencia respiratoria.",
+        "Corrección gradual de la acidosis con bicarbonato de sodio si pH < 7,0.",
+        "Tratamiento de la causa subyacente (ej: antibióticos para sepsis, insulinoterapia en cetoacidosis diabética).",
+        "Monitorización continua hemodinámica y ventilatoria.",
+        "Evitar hipoventilación durante el transporte y la manipulación del paciente.",
+        "Evaluación continua del drive respiratorio y de la respuesta terapéutica.",
+        "Considerar hemodiálisis en acidosis refractaria con disfunción renal concomitante."
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico depende de la causa subyacente, la rapidez en la identificación y el soporte ventilatorio precoz. La presencia de acidemia grave persistente se asocia a alta mortalidad, especialmente cuando hay retraso en la intubación y el soporte intensivo."
+    },
+    "notas_adicionais": [
+      "La intubación debe considerarse precozmente en pacientes con agotamiento ventilatorio inminente.",
+      "La infusión de bicarbonato debe ser lenta y siempre acompañada de evaluación gasométrica.",
+      "Evitar hiperventilación post-intubación: puede causar alcalosis respiratoria y empeorar la perfusión cerebral.",
+      "La sedación y el bloqueo neuromuscular deben individualizarse según la estabilidad y el esfuerzo ventilatorio previo.",
+      "El uso de bicarbonato debe ser criterioso en acidosis láctica y cetoacidosis diabética: su uso excesivo puede generar alcalosis intracelular paradójica y sobrecarga de sodio.",
+      "El manejo siempre debe considerar el tiempo de instauración, la reserva fisiológica y la causa subyacente de la acidosis."
+    ],
+    "fontes_bibliograficas": [
+      "Marino P. The ICU Book. 4th ed. Wolters Kluwer Health; 2014.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Kraut JA, Madias NE. Metabolic Acidosis: Pathophysiology, Diagnosis and Management. Nat Rev Nephrol. 2010."
+    ]
+  },
+  "US": {
+    "titulo": "Severe Metabolic Acidosis with Respiratory Muscle Fatigue",
+    "definicao": "Severe metabolic acidosis with respiratory muscle fatigue is a medical emergency characterized by decompensated metabolic acidosis associated with exhaustion of the ventilatory musculature, resulting in hypoventilation, CO₂ retention, and imminent risk of respiratory arrest. It may coexist with respiratory acidosis, constituting a mixed disorder that requires urgent ventilatory support. Ventilatory failure can arise suddenly in decompensated chronic disease or progressively in rapidly evolving conditions.",
+    "epidemiologia": "Occurs more frequently in patients with sepsis, renal failure, diabetic ketoacidosis, and intoxications. Respiratory muscle fatigue is more common in individuals with pre-existing pulmonary disease, severe acidosis (pH < 7.1), or ineffective ventilation. The prevalence is higher in intensive care units (ICU), with increased risk in immunocompromised patients, diabetics, or those with chronic kidney disease. Mortality associated with severe acidemia (pH < 7.0) is high, especially when not rapidly corrected.",
+    "fisiopatologia": "Severe metabolic acidosis results from the accumulation of fixed acids (such as lactic acid or ketoacids) or loss of bicarbonate, leading to a decrease in arterial pH. When associated with respiratory muscle fatigue, there is an inability to maintain effective alveolar ventilation, which worsens acidosis due to CO₂ retention (secondary respiratory acidosis). Diaphragmatic dysfunction and muscular hypoperfusion impair spontaneous ventilation. Severe metabolic acidosis interferes with myocardial contractility, catecholamine sensitivity, and cardiac electrical conduction, predisposing to ventricular arrhythmias. In addition, it impairs immune response and causes peripheral vasodilation, worsening hypotension.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Arterial hypotension and compensatory tachycardia.",
+        "Impaired peripheral perfusion with cold extremities.",
+        "Thready pulses and prolonged capillary refill time."
+      ],
+      "respiratorias": [
+        "Rapid and shallow breathing, evolving to bradypnea.",
+        "Use of accessory muscles.",
+        "Signs of fatigue: intermittent apnea, respiratory torpor, progressive desaturation."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Altered level of consciousness.",
+        "Confusion, agitation, or drowsiness.",
+        "pH < 7.1 with bicarbonate < 10 mEq/L and elevated lactate."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is based on clinical assessment of signs of ventilatory exhaustion and arterial blood gas compatible with severe metabolic acidosis. Respiratory reserve and imminent risk of ventilatory arrest should be evaluated.",
+      "exames_essenciais": [
+        "Arterial blood gas: pH < 7.1, HCO₃⁻ < 10 mEq/L, rising PCO₂.",
+        "Serum lactate: generally > 4 mmol/L in severe cases.",
+        "Electrolytes, renal function, and blood glucose to identify causes.",
+        "ECG: changes secondary to hyperkalemia or severe acidosis.",
+        "Chest X-ray: to assess pulmonary congestion or associated causes.",
+        "Bedside ultrasound: assessment of fluid overload, cardiac and pulmonary function.",
+        "Delta gap (AG - 12 - [HCO₃ - 24]): useful for characterizing mixed disorders.",
+        "Anion gap: generally increased when there is accumulation of organic acids (lactic, ketoacids)."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Signs of respiratory fatigue with ineffective breathing.",
+      "Hypoxemia refractory to supplemental oxygen.",
+      "pH < 7.1 with signs of hemodynamic instability.",
+      "Decline in level of consciousness with risk of aspiration."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxygenation with high-flow mask or noninvasive ventilation, if tolerated.",
+        "Orotracheal intubation and mechanical ventilation in cases of respiratory failure.",
+        "Gradual correction of acidosis with sodium bicarbonate if pH < 7.0.",
+        "Treatment of the underlying cause (e.g., antibiotics for sepsis, insulin therapy in diabetic ketoacidosis).",
+        "Continuous hemodynamic and ventilatory monitoring.",
+        "Avoid hypoventilation during transport and patient handling.",
+        "Continuous assessment of respiratory drive and therapeutic response.",
+        "Consider hemodialysis in refractory acidosis with concomitant renal dysfunction."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis depends on the underlying cause, speed of identification, and early ventilatory support. The presence of persistent severe acidemia is associated with high mortality, especially when there is delay in intubation and intensive support."
+    },
+    "notas_adicionais": [
+      "Intubation should be considered early in patients with imminent ventilatory exhaustion.",
+      "Bicarbonate infusion should be slow and always accompanied by blood gas monitoring.",
+      "Avoid post-intubation hyperventilation: it may cause respiratory alkalosis and worsen cerebral perfusion.",
+      "Sedation and neuromuscular blockade should be individualized according to stability and previous ventilatory effort.",
+      "Bicarbonate use should be judicious in lactic acidosis and diabetic ketoacidosis: excessive use may cause paradoxical intracellular alkalosis and sodium overload.",
+      "Management should always consider the onset time, physiological reserve, and underlying cause of acidosis."
+    ],
+    "fontes_bibliograficas": [
+      "Marino P. The ICU Book. 4th ed. Wolters Kluwer Health; 2014.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Kraut JA, Madias NE. Metabolic Acidosis: Pathophysiology, Diagnosis and Management. Nat Rev Nephrol. 2010."
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "PT": {
+    "titulo": "Doença Neuromuscular Descompensada (ex: ELA)",
+    "definicao": "Doenças neuromusculares descompensadas, como a Esclerose Lateral Amiotrófica (ELA), envolvem comprometimento progressivo da função motora, especialmente dos músculos respiratórios, bulbares e periféricos, levando à falência ventilatória e risco aumentado de complicações anestésicas. Em contextos agudos ou perioperatórios, representam risco elevado de hipoventilação, aspiração, resposta atípica a fármacos e mortalidade precoce.",
+    "epidemiologia": "A ELA afeta entre 2 e 3 indivíduos por 100.000 habitantes por ano. É mais comum em homens, com pico de incidência entre 55 e 75 anos. Outras doenças neuromusculares relevantes incluem distrofias musculares, miopatias inflamatórias, miastenia gravis, e síndromes desmielinizantes (ex: Guillain-Barré), todas com risco variável de instabilidade respiratória, fraqueza generalizada e complicações anestésicas.",
+    "fisiopatologia": "A destruição de motoneurônios, falência de condução neuromuscular ou lesão muscular primária compromete a ventilação espontânea e a proteção das vias aéreas. Ocorre redução da capacidade vital, complacência torácica e aumento da resistência da via aérea. A resposta imprevisível a anestésicos e bloqueadores neuromusculares inclui hipersensibilidade e prolongamento do bloqueio, com risco de paralisia persistente.",
+    "manifestacoes_clinicas": [
+      "Disartria, disfagia e sialorreia com risco elevado de broncoaspiração",
+      "Fraqueza muscular simétrica e progressiva, incluindo musculatura respiratória",
+      "Insuficiência ventilatória noturna, ortopneia, hipoventilação e acidose crônica",
+      "Sensibilidade aumentada a depressores centrais e bloqueadores neuromusculares",
+      "Ansiedade e labilidade emocional (sinal pseudobulbar em ELA)"
+    ],
+    "avaliacao_preoperatoria": [
+      "Espirometria com CVF, PImáx e PEmáx seriadas",
+      "Gasometria arterial para PaCO2, bicarbonato e lactato",
+      "Avaliação da deglutição com videodeglutograma ou avaliação fonoaudiológica",
+      "Planejamento de via aérea difícil em caso de fraqueza bulbar ou deformidades",
+      "Discussão antecipada de diretivas avançadas e possibilidades de suporte ventilatório prolongado"
+    ],
+    "estrategias_anteriores_ao_ato": [
+      "Evitar succinilcolina (risco de hipercalemia e parada cardíaca)",
+      "Reduzir em até 50% a dose de bloqueadores não despolarizantes (rocurônio, atracúrio)",
+      "Preferir agentes de indução de curta duração (propofol, etomidato)",
+      "Evitar pré-medicação com benzodiazepínicos ou opioides sempre que possível",
+      "Titulagem individualizada de anestesia com monitorização neuromuscular (TOF)"
+    ],
+    "cuidados_pos_operatorios": [
+      "Monitorização em unidade com suporte ventilatório imediato (UTI ou RPA com ventilação não invasiva)",
+      "Extubação planejada com critérios clínicos e espirométricos rigorosos",
+      "Aspiração de vias aéreas frequente por incapacidade de expectoração",
+      "Terapia fonoaudiológica precoce para prevenção de broncoaspiração",
+      "Mobilização precoce e fisioterapia respiratória intensiva"
+    ],
+    "medicamentos_mais_usados": [
+      {
+        "nome": "Midazolam",
+        "dose_mg_kg": 0.02,
+        "comentario": "Usar com extrema cautela; depressão respiratória aumentada."
+      },
+      {
+        "nome": "Rocurônio",
+        "dose_mg_kg": 0.3,
+        "comentario": "Dose reduzida em 50% devido a sensibilidade prolongada ao bloqueio."
+      },
+      {
+        "nome": "Propofol",
+        "dose_mg_kg": 1.0,
+        "comentario": "Indução preferida por curta duração e fácil titulação."
+      },
+      {
+        "nome": "Sugamadex",
+        "dose_mg_kg": 2.0,
+        "comentario": "Reversão eficaz do bloqueio neuromuscular não despolarizante."
+      },
+      {
+        "nome": "Etomidato",
+        "dose_mg_kg": 0.2,
+        "comentario": "Opção segura em pacientes hemodinamicamente instáveis ou com função respiratória borderline."
+      }
+    ],
+    "fontes_bibliograficas": [
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed.",
+      "Miller RD. Miller’s Anesthesia. 8ª ed.",
+      "UpToDate. Anesthesia for patients with neuromuscular disease. 2023.",
+      "ABRAELA. Associação Brasileira de Esclerose Lateral Amiotrófica.",
+      "Weinstein MS, Dobkin BH. Neuromuscular disorders and anesthesia. Neurol Clin. 2021."
+    ]
+  },
+  "US": {
+    "titulo": "Decompensated Neuromuscular Disease (e.g., ALS)",
+    "definicao": "Decompensated neuromuscular diseases, such as Amyotrophic Lateral Sclerosis (ALS), involve progressive motor dysfunction, particularly of the respiratory, bulbar, and peripheral musculature. In acute settings or perioperative contexts, these patients are at high risk of respiratory failure, aspiration, altered drug sensitivity, and anesthesia-related complications.",
+    "epidemiologia": "ALS affects 2–3 per 100,000 people annually, predominantly men aged 55–75. Other significant neuromuscular diseases include muscular dystrophies, inflammatory myopathies, myasthenia gravis, and demyelinating syndromes like Guillain-Barré. All pose varying degrees of risk for perioperative respiratory compromise and neuromuscular drug sensitivity.",
+    "fisiopatologia": "Loss of motor neurons, neuromuscular transmission failure, or primary muscle damage leads to progressive decline in ventilatory capacity and airway protection. Reduced vital capacity, decreased chest compliance, and altered drug responses are hallmark features. These patients are often hypersensitive to sedatives and neuromuscular blockers, with potential for prolonged paralysis.",
+    "manifestacoes_clinicas": [
+      "Dysarthria, dysphagia, sialorrhea, and high aspiration risk",
+      "Progressive symmetric muscle weakness including diaphragm involvement",
+      "Nocturnal hypoventilation, orthopnea, chronic respiratory acidosis",
+      "Increased sensitivity to sedatives and neuromuscular blocking agents",
+      "Emotional lability or pseudobulbar affect (common in ALS)"
+    ],
+    "avaliacao_preoperatoria": [
+      "Spirometry with FVC, MIP, and MEP (serial assessments)",
+      "Arterial blood gas to assess PaCO2, bicarbonate, and lactate",
+      "Swallowing evaluation via videofluoroscopy or speech pathology",
+      "Airway assessment and planning in case of bulbar dysfunction or anatomical abnormalities",
+      "Early discussion of advanced directives and mechanical ventilation planning"
+    ],
+    "estrategias_anteriores_ao_ato": [
+      "Avoid succinylcholine (risk of life-threatening hyperkalemia)",
+      "Reduce non-depolarizing neuromuscular blockers (e.g., rocuronium) by 50%",
+      "Prefer short-acting induction agents (propofol, etomidate)",
+      "Avoid premedication with benzodiazepines or opioids when possible",
+      "Individualized titration of anesthesia with neuromuscular monitoring (TOF)"
+    ],
+    "cuidados_pos_operatorios": [
+      "Postoperative monitoring in ICU or high-dependency unit with NIV access",
+      "Extubation planning based on strict clinical and spirometric criteria",
+      "Frequent suctioning due to ineffective cough and secretion clearance",
+      "Early speech therapy to assess swallowing and aspiration risk",
+      "Aggressive chest physiotherapy and early mobilization"
+    ],
+    "medicamentos_mais_usados": [
+      {
+        "nome": "Midazolam",
+        "dose_mg_kg": 0.02,
+        "comentario": "Use cautiously due to risk of respiratory depression."
+      },
+      {
+        "nome": "Rocuronium",
+        "dose_mg_kg": 0.3,
+        "comentario": "Reduced dose required; prolonged effect expected."
+      },
+      {
+        "nome": "Propofol",
+        "dose_mg_kg": 1.0,
+        "comentario": "Preferred induction agent due to short duration and rapid titration."
+      },
+      {
+        "nome": "Sugammadex",
+        "dose_mg_kg": 2.0,
+        "comentario": "Effective reversal of non-depolarizing neuromuscular block."
+      },
+      {
+        "nome": "Etomidate",
+        "dose_mg_kg": 0.2,
+        "comentario": "Hemodynamically stable option for induction in fragile patients."
+      }
+    ],
+    "fontes_bibliograficas": [
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed.",
+      "Miller RD. Miller’s Anesthesia. 8th ed.",
+      "UpToDate. Anesthesia for patients with neuromuscular disease. 2023.",
+      "ALS Association Clinical Guidelines.",
+      "Weinstein MS, Dobkin BH. Neuromuscular disorders and anesthesia. Neurol Clin. 2021."
+    ]
+  },
+  "ES": {
+    "titulo": "Enfermedad Neuromuscular Descompensada (ej: ELA)",
+    "definicao": "Las enfermedades neuromusculares descompensadas, como la Esclerosis Lateral Amiotrófica (ELA), implican una disfunción motora progresiva que afecta los músculos respiratorios, bulbares y periféricos. En contextos agudos o perioperatorios, estos pacientes presentan un alto riesgo de insuficiencia respiratoria, broncoaspiración, sensibilidad alterada a medicamentos y complicaciones anestésicas.",
+    "epidemiologia": "La ELA afecta a 2–3 personas por cada 100.000 habitantes al año, con mayor prevalencia en varones entre 55 y 75 años. Otras enfermedades neuromusculares relevantes incluyen distrofias musculares, miopatías inflamatorias, miastenia gravis y síndromes desmielinizantes como el Guillain-Barré. Todas pueden asociarse a complicaciones respiratorias y sensibilidad farmacológica alterada.",
+    "fisiopatologia": "La pérdida de neuronas motoras, la falla en la transmisión neuromuscular o la degeneración muscular directa conduce a una disminución progresiva de la capacidad ventilatoria y la protección de la vía aérea. Hay reducción de la capacidad vital, menor complacencia torácica y alteraciones en la respuesta a anestésicos y bloqueadores neuromusculares, con riesgo de parálisis prolongada.",
+    "manifestacoes_clinicas": [
+      "Disartria, disfagia, sialorrea y alto riesgo de aspiración",
+      "Debilidad muscular simétrica y progresiva, incluyendo afectación diafragmática",
+      "Hipoventilación nocturna, ortopnea, acidosis respiratoria crónica",
+      "Hipersensibilidad a sedantes y bloqueadores neuromusculares",
+      "Labilidad emocional o afecto pseudobulbar (frecuente en ELA)"
+    ],
+    "avaliacao_preoperatoria": [
+      "Espirometría con CVF, PIMáx y PEMáx (evaluaciones seriadas)",
+      "Gasometría arterial con PaCO2, bicarbonato y lactato",
+      "Evaluación de la deglución por videofluoroscopia o fonoaudiología",
+      "Evaluación anticipada de vía aérea difícil en casos de disfunción bulbar",
+      "Discusión temprana de directivas anticipadas y planificación ventilatoria"
+    ],
+    "estrategias_anteriores_ao_ato": [
+      "Evitar succinilcolina (riesgo de hipercalemia grave)",
+      "Reducir dosis de bloqueadores neuromusculares no despolarizantes (rocuronio, atracurio) al 50%",
+      "Preferir agentes de inducción de acción corta (propofol, etomidato)",
+      "Evitar premedicación con benzodiacepinas u opioides si es posible",
+      "Titulación individualizada con monitoreo de bloqueo neuromuscular (TOF)"
+    ],
+    "cuidados_pos_operatorios": [
+      "Monitoreo en UCI o unidad con soporte ventilatorio y acceso a VNI",
+      "Extubación planificada con criterios clínicos y espirométricos estrictos",
+      "Aspiración frecuente por tos ineficaz y secreciones acumuladas",
+      "Terapia fonoaudiológica precoz para prevención de aspiración",
+      "Fisioterapia respiratoria intensiva y movilización precoz"
+    ],
+    "medicamentos_mais_usados": [
+      {
+        "nome": "Midazolam",
+        "dose_mg_kg": 0.02,
+        "comentario": "Usar con extrema precaución por riesgo elevado de depresión respiratoria."
+      },
+      {
+        "nome": "Rocuronio",
+        "dose_mg_kg": 0.3,
+        "comentario": "Dosis reducida debido a sensibilidad prolongada al bloqueo."
+      },
+      {
+        "nome": "Propofol",
+        "dose_mg_kg": 1.0,
+        "comentario": "Inductor preferido por duración corta y fácil titulación."
+      },
+      {
+        "nome": "Sugamadex",
+        "dose_mg_kg": 2.0,
+        "comentario": "Reversión efectiva del bloqueo neuromuscular no despolarizante."
+      },
+      {
+        "nome": "Etomidato",
+        "dose_mg_kg": 0.2,
+        "comentario": "Opción estable hemodinámicamente en pacientes críticos."
+      }
+    ],
+    "fontes_bibliograficas": [
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed.",
+      "Miller RD. Miller’s Anesthesia. 8ª ed.",
+      "UpToDate. Anestesia en pacientes con enfermedades neuromusculares. 2023.",
+      "Asociación ELA España. Guía clínica para profesionales.",
+      "Weinstein MS, Dobkin BH. Neuromuscular disorders and anesthesia. Neurol Clin. 2021."
+    ]
+  }
+}

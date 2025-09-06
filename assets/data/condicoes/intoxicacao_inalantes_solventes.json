@@ -1,0 +1,215 @@
+{
+  "PT": {
+    "titulo": "Intoxicação por Inalantes e Solventes",
+    "definicao": "A intoxicação por inalantes e solventes é uma condição clínica causada pela exposição voluntária ou acidental a compostos químicos voláteis com propriedades psicoativas ou tóxicas sistêmicas. Essas substâncias são comuns em produtos industriais e domésticos, como solventes orgânicos, hidrocarbonetos alifáticos e aromáticos, gases propelentes e aerossóis. A absorção é predominantemente pulmonar, com início rápido dos sintomas e risco elevado de eventos cardiovasculares, neurológicos e respiratórios. O uso recreativo é prevalente em adolescentes e populações vulneráveis, sendo associado a complicações agudas e crônicas graves.",
+    "epidemiologia": "Estudos epidemiológicos mostram que cerca de 15% a 20% dos adolescentes em países em desenvolvimento já experimentaram inalantes ao menos uma vez. No Brasil, o tolueno presente na 'cola de sapateiro' é o principal agente envolvido. O uso tende a ocorrer em ambientes escolares, institucionais ou em situação de rua. A exposição ocupacional também representa um risco em indústrias químicas, gráficas e de limpeza. Intoxicações acidentais podem acometer crianças pequenas ou adultos expostos a ambientes mal ventilados.",
+    "fisiopatologia": "Os solventes e gases inalados rapidamente atravessam a barreira alvéolo-capilar e atingem o sistema nervoso central, promovendo depressão do SNC, alteração de neurotransmissores e modulação dopaminérgica. Muitos compostos sensibilizam o miocárdio à ação de catecolaminas, predispondo a arritmias ventriculares fatais. A exposição repetida pode causar dano oxidativo, disfunção mitocondrial e inflamação crônica. A toxicidade orgânica múltipla inclui lesões hepáticas (necrose centrolobular), renais (necrose tubular aguda) e cerebelares (degeneração de Purkinje).",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia, hipotensão ou hipertensão transitória.",
+        "Arritmias ventriculares, principalmente FV e TV.",
+        "Síndrome da morte súbita associada a sensibilização miocárdica e adrenalina endógena ou exógena."
+      ],
+      "respiratorias": [
+        "Tosse, dispneia, sensação de opressão torácica.",
+        "Broncoespasmo, pneumonite química, hemorragia alveolar.",
+        "Depressão respiratória, hipoventilação e apneia em casos graves."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Euforia, tontura, nistagmo, alucinações auditivas e visuais.",
+        "Ataxia, disartria, rebaixamento do nível de consciência.",
+        "Convulsões, acidose metabólica de ânion gap aumentado, hipocalemia, rabdomiólise, delírio tóxico."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é eminentemente clínico, baseado na suspeita de exposição a substâncias voláteis, principalmente em adolescentes com rebaixamento do nível de consciência, sintomas neurológicos agudos e odor químico característico. A presença de produtos químicos, embalagens de aerossol ou frascos de cola pode ser evidência adicional. A intoxicação ocupacional deve ser considerada em trabalhadores com sintomas respiratórios ou neurológicos após manipulação de solventes.",
+      "exames_essenciais": [
+        "Gasometria arterial: hipoxemia, acidose metabólica (lática), hipocapnia por hiperventilação.",
+        "ECG: alterações de repolarização, prolongamento do QT, arritmias ventriculares.",
+        "Dosagem de eletrólitos (K⁺, Mg²⁺), função hepática (TGO, TGP, bilirrubinas) e renal (ureia, creatinina).",
+        "CK total e mioglobinúria para rastreio de rabdomiólise.",
+        "TC de crânio em pacientes com crise convulsiva ou trauma associado.",
+        "Toxicologia urinária raramente detecta inalantes — o diagnóstico é clínico-epidemiológico.",
+        "Radiografia ou TC de tórax em pacientes com sintomas respiratórios intensos."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Depressão do nível de consciência com GCS ≤ 8.",
+      "Hipoxemia grave refratária à oxigenoterapia (SpO₂ &lt; 90%).",
+      "Presença de pneumonite química ou edema pulmonar.",
+      "Crises convulsivas recorrentes, instabilidade cardiorrespiratória."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Remoção da fonte de exposição e garantia de ambiente ventilado.",
+        "Oxigenoterapia com FiO₂ 100% por máscara de não reinalação.",
+        "Monitorização contínua de ECG, oximetria e sinais vitais.",
+        "Evitar uso de adrenalina, dopamina ou drogas simpaticomiméticas em pacientes com risco de arritmias.",
+        "Correção de distúrbios hidroeletrolíticos: potássio, magnésio, glicemia.",
+        "Hidratação vigorosa e alcalinização urinária (bicarbonato de sódio) em casos de rabdomiólise.",
+        "Benzodiazepínicos para crises convulsivas ou agitação psicomotora.",
+        "Ventilação mecânica protetora em casos de insuficiência respiratória.",
+        "Encaminhamento para avaliação psiquiátrica e suporte psicossocial após estabilização."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A intoxicação aguda por inalantes costuma ter evolução benigna com medidas de suporte, desde que não haja complicações cardiorrespiratórias ou neurológicas. A exposição repetida e crônica pode levar a deterioração neurocognitiva, atrofia cerebral, cardiomiopatia e lesões hepatorrenais irreversíveis. O suporte psiquiátrico é essencial na prevenção de recaídas e reinserção social."
+    },
+    "notas_adicionais": [
+      "Não manipular o paciente bruscamente durante crise hipertensiva ou arritmia — risco de FV.",
+      "Comunicação obrigatória com conselho tutelar em casos de abuso por menores de idade.",
+      "Realizar notificação compulsória para órgãos de vigilância sanitária em exposições ocupacionais.",
+      "Educação da comunidade sobre os riscos do uso recreativo de inalantes deve ser estimulada.",
+      "Considerar internação para desintoxicação em pacientes com histórico de uso recorrente ou tentativa de suicídio."
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Inhalant abuse and intoxication. 2024.",
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 105 – Volatile Substances.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Manual de Toxicologia Clínica – CRAT/SP. 2022.",
+      "Sociedade Brasileira de Toxicologia – Diretrizes sobre abuso de inalantes. 2023."
+    ]
+  },
+  "US": {
+    "title": "Inhalant and Solvent Intoxication",
+    "definition": "Inhalant and solvent intoxication is a clinical condition resulting from the intentional or accidental exposure to volatile chemical substances with psychoactive or systemic toxic properties. These agents are commonly found in industrial and household products such as organic solvents, aliphatic and aromatic hydrocarbons, propellants, and aerosols. Rapid pulmonary absorption leads to fast onset of symptoms, with a high risk of cardiovascular, neurologic, and respiratory complications. Recreational use is prevalent among adolescents and socioeconomically vulnerable populations.",
+    "epidemiology": "Epidemiological studies show that 15–20% of adolescents in developing countries have experimented with inhalants. In Brazil, toluene (found in shoe glue) is the most frequently abused compound. Use typically occurs in school settings, institutions, or among street populations. Occupational exposure is also a concern in chemical, printing, and cleaning industries. Accidental poisonings can affect children and adults in poorly ventilated environments.",
+    "pathophysiology": "Volatile solvents and gases are rapidly absorbed across the alveolar-capillary membrane and reach the central nervous system, causing CNS depression, neurotransmitter imbalance, and dopaminergic modulation. Many inhalants sensitize the myocardium to catecholamines, increasing the risk of fatal arrhythmias. Repeated exposure may cause oxidative stress, mitochondrial dysfunction, and chronic inflammation. Multi-organ toxicity includes hepatic (centrilobular necrosis), renal (acute tubular necrosis), and cerebellar (Purkinje cell degeneration) injury.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Tachycardia, hypotension, or transient hypertension.",
+        "Ventricular arrhythmias, especially VT or VF.",
+        "Sudden sniffing death syndrome related to myocardial sensitization to endogenous or exogenous adrenaline."
+      ],
+      "respiratory": [
+        "Cough, dyspnea, chest tightness.",
+        "Bronchospasm, chemical pneumonitis, alveolar hemorrhage.",
+        "Respiratory depression, hypoventilation, or apnea in severe cases."
+      ],
+      "neurologic_and_metabolic": [
+        "Euphoria, dizziness, nystagmus, auditory and visual hallucinations.",
+        "Ataxia, dysarthria, decreased consciousness.",
+        "Seizures, high anion gap metabolic acidosis, hypokalemia, rhabdomyolysis, toxic delirium."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is primarily clinical, based on suspicion of exposure to volatile agents—particularly in adolescents with acute neurological symptoms and characteristic chemical odors. Presence of aerosol containers, glue cans, or evidence of recreational sniffing strengthens the suspicion. Occupational cases must be considered in workers handling solvents with respiratory or neurological complaints.",
+      "essential_tests": [
+        "Arterial blood gas: hypoxemia, metabolic (lactic) acidosis, hypocapnia from hyperventilation.",
+        "ECG: repolarization abnormalities, QT prolongation, ventricular arrhythmias.",
+        "Serum electrolytes (K⁺, Mg²⁺), liver function (AST, ALT, bilirubin), renal function (urea, creatinine).",
+        "Creatine kinase and urinalysis for myoglobinuria (rhabdomyolysis screening).",
+        "Head CT if seizures or trauma are present.",
+        "Standard urine toxicology screens typically do not detect inhalants—clinical diagnosis is critical.",
+        "Chest X-ray or CT for patients with significant respiratory symptoms."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Depressed mental status with GCS ≤ 8.",
+      "Severe hypoxemia not responsive to oxygen therapy (SpO₂ &lt; 90%).",
+      "Chemical pneumonitis or pulmonary edema.",
+      "Recurrent seizures or cardiopulmonary instability."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediate removal from exposure source and ensure a well-ventilated environment.",
+        "100% oxygen therapy via non-rebreather mask.",
+        "Continuous monitoring of ECG, pulse oximetry, and vital signs.",
+        "Avoid catecholamines (epinephrine, dopamine) in patients at risk for arrhythmias.",
+        "Correct electrolyte disturbances: potassium, magnesium, and glucose.",
+        "Aggressive IV hydration and urinary alkalinization (sodium bicarbonate) for rhabdomyolysis.",
+        "Benzodiazepines for seizures or agitation.",
+        "Protective mechanical ventilation in respiratory failure.",
+        "Psychiatric and social evaluation after stabilization for cases of abuse or suicidal intent."
+      ]
+    },
+    "prognosis": {
+      "comment": "Acute intoxication generally resolves with supportive care, provided there are no cardiopulmonary or neurologic complications. Chronic exposure can lead to neurocognitive decline, cerebral atrophy, cardiomyopathy, and irreversible hepatorenal damage. Psychiatric support is essential for relapse prevention and long-term rehabilitation."
+    },
+    "additional_notes": [
+      "Avoid physical agitation or abrupt maneuvers during hypertensive crises or arrhythmias—risk of VF.",
+      "Mandatory reporting to child protection services in cases involving minors.",
+      "Occupational cases must be reported to health surveillance agencies.",
+      "Community education on recreational inhalant abuse should be encouraged.",
+      "Inpatient detoxification may be necessary for individuals with recurrent use or suicide risk."
+    ],
+    "references": [
+      "UpToDate. Inhalant abuse and intoxication. 2024.",
+      "Goldfrank’s Toxicologic Emergencies. 11th ed. Chapter 105 – Volatile Substances.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "CRAT/SP. Manual de Toxicologia Clínica. 2022.",
+      "Brazilian Society of Toxicology – Inhalant Abuse Guidelines. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Intoxicación por Inhalantes y Disolventes",
+    "definicion": "La intoxicación por inhalantes y disolventes es una condición clínica acuda o crónica causada por la exposición voluntaria o accidental a sustancias químicas volátiles con propiedades psicoactivas o tóxicas sistémicas. Estas sustancias incluyen hidrocarburos alifáticos y aromáticos, solventes orgánicos, gases propelentes y productos en aerosol. Su absorción es rápida por vía pulmonar, con efectos inmediatos sobre el sistema nervioso central, cardiovascular y respiratorio. Su uso recreativo es frecuente en adolescentes, especialmente en contextos de vulnerabilidad social.",
+    "epidemiologia": "El uso de inhalantes es común entre adolescentes de 12 a 17 años, con una prevalencia global estimada del 10–20%. En América Latina, el tolueno (presente en pegamentos) es el principal compuesto implicado. Las exposiciones accidentales pueden ocurrir en ambientes domésticos y laborales, especialmente en industrias de limpieza, pintura, imprenta y laboratorios. Las intoxicaciones infantiles también se reportan por inhalación involuntaria en espacios mal ventilados.",
+    "fisiopatologia": "Los compuestos volátiles se absorben fácilmente a través del epitelio alveolar, alcanzando el sistema nervioso central, donde actúan como depresores del SNC o modificadores del sistema dopaminérgico. Muchos sensibilizan el miocardio a las catecolaminas, provocando arritmias ventriculares malignas. La exposición prolongada o repetitiva puede causar daño oxidativo, disfunción mitocondrial y toxicidad multiorgánica que afecta el hígado, los riñones y el cerebro.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia, hipotensión o hipertensión transitoria.",
+        "Arritmias ventriculares como taquicardia o fibrilación ventricular.",
+        "Síndrome de muerte súbita por sensibilización miocárdica y liberación de adrenalina."
+      ],
+      "respiratorias": [
+        "Disnea, tos, opresión torácica.",
+        "Broncoespasmo, neumonitis química, hemorragia alveolar.",
+        "Depresión respiratoria o apnea en casos graves."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Euforia, vértigo, nistagmo, alucinaciones auditivas o visuales.",
+        "Ataxia, disartria, alteración del estado mental o coma.",
+        "Convulsiones, acidosis metabólica con anión gap aumentado, hipopotasemia, rabdomiólisis, delirio tóxico."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es predominantemente clínico, basado en la sospecha de exposición en adolescentes o adultos con síntomas neurológicos agudos y olor químico característico. La presencia de envases de aerosoles o frascos de pegamento puede servir como evidencia adicional. Las intoxicaciones laborales deben ser consideradas en trabajadores expuestos a solventes.",
+      "examenes_esenciales": [
+        "Gasometría arterial: hipoxemia, acidosis metabólica (láctica), hipocapnia por hiperventilación.",
+        "ECG: prolongación del QT, arritmias ventriculares.",
+        "Electrolitos séricos (K⁺, Mg²⁺), función hepática (TGO, TGP) y renal (urea, creatinina).",
+        "CK total y mioglobinuria para descartar rabdomiólisis.",
+        "TC de cráneo si hay convulsiones o trauma.",
+        "Radiografía o TC de tórax en pacientes con síntomas respiratorios severos.",
+        "Las pruebas toxicológicas estándar suelen no detectar inhalantes — el diagnóstico es clínico."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Depresión del nivel de conciencia con GCS ≤ 8.",
+      "Hipoxemia severa refractaria a oxigenoterapia.",
+      "Neumonitis química o edema pulmonar.",
+      "Convulsiones recurrentes o inestabilidad cardiorrespiratoria."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Retirar al paciente de la fuente de exposición y asegurar buena ventilación.",
+        "Oxigenoterapia con FiO₂ al 100% mediante máscara con reservorio.",
+        "Monitoreo continuo de ECG, oximetría y signos vitales.",
+        "Evitar catecolaminas (adrenalina, dopamina) en pacientes con riesgo de arritmias.",
+        "Corrección de desequilibrios hidroelectrolíticos: potasio, magnesio, glucosa.",
+        "Hidratación intravenosa agresiva y alcalinización urinaria (bicarbonato de sodio) en casos de rabdomiólisis.",
+        "Benzodiacepinas para agitación o convulsiones.",
+        "Ventilación mecánica protectora si hay insuficiencia respiratoria.",
+        "Evaluación psiquiátrica y social tras la estabilización en casos de abuso o intento suicida."
+      ]
+    },
+    "pronostico": {
+      "comentario": "La intoxicación aguda suele resolverse con tratamiento de soporte si no hay complicaciones graves. Sin embargo, la exposición repetida puede causar deterioro neurocognitivo, atrofia cerebral, miocardiopatía y daño hepatorrenal irreversible. El seguimiento psiquiátrico es clave para prevenir recaídas y rehabilitación a largo plazo."
+    },
+    "notas_adicionales": [
+      "Evitar manipulaciones bruscas durante arritmias — riesgo de FV.",
+      "Notificación obligatoria a servicios de protección infantil en menores afectados.",
+      "Notificar a autoridades sanitarias en casos laborales.",
+      "Promover campañas educativas sobre el abuso de inhalantes.",
+      "Considerar hospitalización para desintoxicación en usuarios reincidentes o con riesgo suicida."
+    ],
+    "referencias": [
+      "UpToDate. Inhalant abuse and intoxication. 2024.",
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 105 – Volatile Substances.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Manual de Toxicología Clínica – CRAT/SP. 2022.",
+      "Sociedad Brasileña de Toxicología – Guías sobre abuso de inhalantes. 2023."
+    ]
+  }
+}

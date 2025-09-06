@@ -1,0 +1,217 @@
+{
+  "PT": {
+    "titulo": "Encefalopatia Hepática Grau 3 e 4",
+    "definicao": "A encefalopatia hepática (EH) é uma síndrome neuropsiquiátrica potencialmente reversível, decorrente da insuficiência hepática aguda ou crônica, caracterizada por alterações cognitivas, comportamentais e motoras. Nos graus 3 e 4, há rebaixamento profundo do nível de consciência (estupor e coma), exigindo cuidados intensivos e suporte avançado de vida. O quadro pode evoluir rapidamente para morte se não houver tratamento precoce da causa subjacente e controle das complicações.",
+    "epidemiologia": "A EH ocorre em até 80% dos pacientes com cirrose em algum momento da evolução clínica. Nos casos graves (graus 3 e 4), sua incidência é menor, mas a letalidade é significativamente maior. A EH grau 4 é observada frequentemente em pacientes com insuficiência hepática fulminante, com mortalidade podendo superar 50–80% sem transplante hepático. Em pacientes cirróticos, episódios recorrentes de EH grave indicam mau prognóstico e necessidade de avaliação para transplante.",
+    "fisiopatologia": "A EH decorre da falência do fígado em eliminar toxinas (especialmente amônia) produzidas no intestino e absorvidas pela circulação portal. Com a falência hepática ou o desvio porto-sistêmico, essas substâncias alcançam o sistema nervoso central, alterando a neurotransmissão, promovendo disfunção astrocitária, edema cerebral e inflamação neuroglial. Contribuem para a progressão do quadro distúrbios eletrolíticos (hiponatremia, hipocalemia), constipação, infecções, hemorragias e uso de sedativos.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial com vasodilatação sistêmica e redução da perfusão cerebral.",
+        "Taquicardia compensatória ou bradicardia em casos terminais.",
+        "Pele fria, tempo de enchimento capilar prolongado e sinais de disfunção circulatória sistêmica."
+      ],
+      "respiratorias": [
+        "Bradipneia com hipoventilação central nos estágios avançados.",
+        "Risco de broncoaspiração devido à perda dos reflexos de proteção da via aérea.",
+        "Hipoxemia associada a pneumonia aspirativa, síndrome hepatopulmonar ou edema pulmonar neurogênico."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Grau 3: estupor profundo, resposta verbal mínima e desorientação severa.",
+        "Grau 4: coma sem resposta motora mesmo à dor, podendo haver sinais de decerebração.",
+        "Presença de mioclonias, asterixis ausente, reflexos plantares em extensão bilateral, padrão respiratório irregular."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A avaliação deve considerar histórico de hepatopatia, evolução do estado mental e exclusão de causas alternativas de coma (hipoglicemia, AVC, overdose). A classificação de West Haven orienta o grau clínico. A investigação etiológica e o rastreamento de fatores precipitantes são obrigatórios.",
+      "exames_essenciais": [
+        "Amonemia sérica (em jejum): geralmente > 100–150 mcg/dL em EH grau 3/4.",
+        "Gasometria arterial: pode revelar alcalose respiratória inicial, evoluindo para acidose mista.",
+        "Sódio, potássio, glicemia, ureia, creatinina, bilirrubinas, TAP/INR.",
+        "Hemoculturas, urinocultura, PCR, procalcitonina para investigação de infecção.",
+        "TC de crânio: excluir causas estruturais (sangramento, tumor, AVC).",
+        "EEG: padrão de ondas trifásicas ou lentificação generalizada.",
+        "Punção lombar: indicada apenas se houver suspeita clínica de infecção do SNC."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "GCS ≤ 8, ausência de resposta verbal ou motora adequadas.",
+      "Presença de bradipneia ou apneia intermitente.",
+      "Evidência de aspiração pulmonar, hipoxemia refratária ou hipercapnia grave.",
+      "Pré-requisito para realização de transplante hepático em EH grau 4."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Intubação orotraqueal imediata e sedação leve com agentes de curta duração.",
+        "Lactulose por sonda enteral ou enema, visando 2–3 evacuações/dia (ajustar dose conforme resposta).",
+        "Rifaximina VO 550 mg 12/12h se via oral tolerada (ou SNG).",
+        "Suspensão de agentes depressores do SNC e drogas hepatotóxicas.",
+        "Antibióticoterapia empírica até exclusão de foco infeccioso (pneumonia, PBE, ITU, bacteremia).",
+        "Reposição de eletrólitos (principalmente potássio e magnésio).",
+        "Correção de hiponatremia com cautela (máx. 8 mEq/L em 24h).",
+        "Monitorização em UTI: PAM, SpO₂, diurese, glicemia capilar e sedação.",
+        "Avaliação pela equipe de transplante hepático (em centros especializados)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A EH grau 3 e 4 tem prognóstico reservado, com mortalidade elevada se não houver reversão rápida ou indicação de transplante hepático. A presença de disfunção renal, instabilidade hemodinâmica, refratariedade ao tratamento inicial e amonemia persistentemente elevada são marcadores de pior evolução. Pacientes que sobrevivem a episódios graves requerem seguimento rigoroso para prevenção de recidivas."
+    },
+    "notas_adicionais": [
+      "Evitar jejum prolongado e iniciar nutrição enteral precoce se possível.",
+      "Evitar sedativos sempre que possível — se necessários, preferir dexmedetomidina ou propofol.",
+      "Realizar colonização e vigilância microbiológica em pacientes com transplante hepático candidato.",
+      "Evitar uso de neomicina e metronidazol por toxicidade sistêmica.",
+      "Estabelecer metas terapêuticas individualizadas com foco em reversibilidade, prognóstico e elegibilidade para transplante.",
+      "Reabilitação neurológica precoce nos pacientes que recuperam a consciência com boa resposta funcional."
+    ],
+    "fontes_bibliograficas": [
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "UpToDate. Hepatic encephalopathy in adults: Clinical manifestations and diagnosis. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Cap. 82 – Doença Hepática e Transplante.",
+      "Sociedade Brasileira de Hepatologia. Diretriz de Encefalopatia Hepática. 2022.",
+      "Guyton & Hall. Tratado de Fisiologia Médica. 14ª ed."
+    ]
+  },
+  "US": {
+    "title": "Hepatic Encephalopathy Grade 3 and 4",
+    "definition": "Hepatic encephalopathy (HE) is a potentially reversible neuropsychiatric syndrome caused by acute or chronic liver failure. It results from the accumulation of neurotoxins, especially ammonia, leading to cognitive impairment, motor abnormalities, and altered consciousness. Grades 3 and 4 reflect deep neurological impairment (stupor and coma) and require intensive care and life support. Without prompt intervention, HE can rapidly progress to multiorgan failure and death.",
+    "epidemiology": "HE occurs in up to 80% of patients with cirrhosis at some point during their disease course. Grades 3 and 4 are less frequent but carry a significantly higher mortality. Grade 4 HE is frequently observed in acute liver failure and is associated with mortality rates exceeding 50–80% without liver transplantation. In cirrhotic patients, recurrent HE episodes indicate poor prognosis and the need for liver transplant evaluation.",
+    "pathophysiology": "HE results from the liver’s inability to detoxify substances produced in the gut. Ammonia, along with other neurotoxins like manganese and short-chain fatty acids, crosses the blood-brain barrier and causes astrocyte swelling, cerebral edema, and altered neurotransmission. Common precipitating factors include electrolyte disturbances (hyponatremia, hypokalemia), gastrointestinal bleeding, infections, constipation, and sedative use.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Systemic hypotension due to vasodilation and reduced cerebral perfusion.",
+        "Compensatory tachycardia or terminal bradycardia.",
+        "Cold extremities and delayed capillary refill indicating systemic hypoperfusion."
+      ],
+      "respiratorias": [
+        "Bradypnea or central hypoventilation in advanced stages.",
+        "Aspiration risk due to loss of protective airway reflexes.",
+        "Hypoxemia from aspiration pneumonia, hepatopulmonary syndrome, or neurogenic pulmonary edema."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Grade 3: deep stupor, minimal verbal response, severe disorientation.",
+        "Grade 4: unresponsive coma, no motor reaction to painful stimuli, decerebrate posturing.",
+        "Absent asterixis, myoclonus, extensor plantar reflexes, and irregular respiratory pattern."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Diagnosis is clinical and based on liver disease history, neurologic examination, and exclusion of other coma etiologies (e.g., stroke, hypoglycemia, overdose). The West Haven criteria grade the severity. Identification of precipitating factors is crucial.",
+      "exames_essenciais": [
+        "Serum ammonia (fasting): typically > 100–150 mcg/dL in severe HE.",
+        "Arterial blood gas: may show early respiratory alkalosis progressing to mixed acidosis.",
+        "Serum electrolytes, glucose, renal function, bilirubin, INR.",
+        "Cultures (blood, urine), CRP, and procalcitonin to evaluate for infection.",
+        "Head CT scan to rule out intracranial hemorrhage or ischemia.",
+        "EEG: triphasic waves or diffuse slowing.",
+        "Lumbar puncture only if CNS infection is suspected."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 with absent or inappropriate motor/verbal response.",
+      "Bradypnea, apnea, or signs of respiratory muscle fatigue.",
+      "Confirmed aspiration pneumonia, refractory hypoxemia, or severe hypercapnia.",
+      "Pre-transplant stabilization in candidates with Grade 4 HE."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediate endotracheal intubation with light sedation (short-acting agents).",
+        "Enteral lactulose or rectal enemas targeting 2–3 bowel movements/day.",
+        "Rifaximin 550 mg PO BID if oral route is feasible.",
+        "Discontinue sedatives and hepatotoxic medications.",
+        "Empiric antibiotics pending infection workup (e.g., pneumonia, SBP, UTI, bacteremia).",
+        "Electrolyte repletion (especially potassium and magnesium).",
+        "Slow correction of hyponatremia (< 8 mEq/L in 24h).",
+        "ICU monitoring: MAP, SpO₂, urine output, capillary glucose, sedation level.",
+        "Urgent transplant team consultation for evaluation in fulminant cases."
+      ]
+    },
+    "prognosis": {
+      "comment": "Grades 3 and 4 HE have a guarded prognosis with high short-term mortality, especially in the absence of rapid reversal or liver transplantation. Risk factors for poor outcome include renal dysfunction, hemodynamic instability, lack of treatment response within 48 hours, and persistent hyperammonemia. Survivors of severe HE require close monitoring and recurrence prevention strategies."
+    },
+    "additional_notes": [
+      "Avoid prolonged fasting and initiate early enteral nutrition if possible.",
+      "Minimize sedation; if necessary, prefer dexmedetomidine or propofol.",
+      "Implement infection prevention measures, including strict asepsis and surveillance.",
+      "Avoid neomycin and metronidazole due to systemic toxicity risk.",
+      "Set individualized therapeutic goals focusing on reversibility and transplant candidacy.",
+      "Early neurological rehabilitation should be planned in patients with favorable neurologic recovery."
+    ],
+    "references": [
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "UpToDate. Hepatic encephalopathy in adults: Clinical manifestations and diagnosis. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 82 – Liver Disease and Transplantation.",
+      "Brazilian Society of Hepatology. Hepatic Encephalopathy Guideline. 2022.",
+      "Guyton & Hall. Textbook of Medical Physiology. 14th ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Encefalopatía Hepática Grado 3 y 4",
+    "definicion": "La encefalopatía hepática (EH) es un síndrome neuropsiquiátrico potencialmente reversible causado por insuficiencia hepática aguda o crónica, caracterizado por alteraciones cognitivas, conductuales y motoras. Los grados 3 y 4 corresponden a estados de compromiso neurológico severo (estupor y coma), con alto riesgo de muerte sin intervención médica intensiva o trasplante hepático urgente.",
+    "epidemiologia": "La EH ocurre en hasta el 80% de los pacientes con cirrosis durante su evolución clínica. Los grados 3 y 4 son menos frecuentes, pero presentan una mortalidad significativamente mayor. En pacientes con insuficiencia hepática fulminante, la EH grado 4 puede alcanzar una mortalidad superior al 80%. En pacientes con cirrosis, episodios recurrentes de EH grave indican mal pronóstico y necesidad de evaluación para trasplante hepático.",
+    "fisiopatologia": "La EH resulta de la acumulación de toxinas (especialmente amoníaco) no metabolizadas por el hígado enfermo. Estas atraviesan la barrera hematoencefálica, causando disfunción de astrocitos, edema cerebral y alteración en la neurotransmisión. Factores precipitantes incluyen hiponatremia, hipopotasemia, estreñimiento, hemorragia digestiva, infecciones y uso de sedantes.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión arterial con vasodilatación sistémica e hipoperfusión cerebral.",
+        "Taquicardia compensatoria o bradicardia terminal.",
+        "Extremidades frías y tiempo de relleno capilar prolongado."
+      ],
+      "respiratorias": [
+        "Bradipnea o hipoventilación central en fases avanzadas.",
+        "Alto riesgo de broncoaspiración por pérdida de reflejos protectores.",
+        "Hipoxemia debida a neumonía aspirativa, síndrome hepatopulmonar o edema pulmonar neurogénico."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Grado 3: estupor profundo, desorientación severa, escasa respuesta verbal.",
+        "Grado 4: coma sin respuesta motora al dolor, signos de descerebración.",
+        "Ausencia de asterixis, mioclonías, reflejos plantares en extensión, respiración irregular."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico es clínico, apoyado por antecedentes de hepatopatía y examen neurológico. Es fundamental descartar otras causas de coma (AVC, hipoglucemia, intoxicaciones) y clasificar la EH según los criterios de West Haven.",
+      "exames_essenciais": [
+        "Amoníaco sérico (en ayunas): generalmente > 100–150 mcg/dL en grados avanzados.",
+        "Gasometría arterial: alcalosis respiratoria inicial seguida de acidosis mixta.",
+        "Electrolitos, glucosa, creatinina, bilirrubinas, INR.",
+        "Hemocultivos, urocultivo, PCR y procalcitonina para descartar infección.",
+        "TC cerebral para excluir sangrado, tumor o lesión estructural.",
+        "EEG: ondas trifásicas o enlentecimiento difuso.",
+        "Punción lumbar si se sospecha infección del SNC."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 sin respuesta motora o verbal adecuada.",
+      "Bradipnea, apnea o signos de fatiga respiratoria.",
+      "Neumonía por aspiración confirmada, hipoxemia refractaria o hipercapnia grave.",
+      "Condición previa al trasplante en pacientes con EH grado 4."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Intubación orotraqueal inmediata y sedación ligera con agentes de acción corta.",
+        "Lactulosa por sonda nasogástrica o enemas (2–3 evacuaciones/día).",
+        "Rifaximina 550 mg VO cada 12 horas si se tolera vía oral.",
+        "Suspender sedantes y medicamentos hepatotóxicos.",
+        "Antibióticos empíricos mientras se descarta foco infeccioso.",
+        "Reposición de potasio y magnesio, corrección lenta de hiponatremia (< 8 mEq/L por día).",
+        "Monitoreo en UCI: PAM, SpO₂, diuresis, glucemia capilar, nivel de sedación.",
+        "Consulta precoz con equipo de trasplante hepático si elegible."
+      ]
+    },
+    "prognosis": {
+      "comment": "Los grados 3 y 4 de EH presentan mal pronóstico sin tratamiento intensivo o trasplante hepático. La disfunción renal, la inestabilidad hemodinámica, la hiperonemia persistente y la falta de respuesta en las primeras 48 h son factores de mal pronóstico. Los pacientes que se recuperan deben ser vigilados para evitar recurrencias."
+    },
+    "additional_notes": [
+      "Evitar ayuno prolongado e iniciar nutrición enteral precoz si es posible.",
+      "Minimizar uso de sedantes; si son necesarios, preferir propofol o dexmedetomidina.",
+      "Evitar neomicina y metronidazol por riesgo de toxicidad sistémica.",
+      "Implementar medidas estrictas de prevención de infecciones nosocomiales.",
+      "Evaluar prontamente la elegibilidad para trasplante hepático.",
+      "Planificar rehabilitación neurológica en pacientes que recuperen conciencia."
+    ],
+    "references": [
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "UpToDate. Hepatic encephalopathy in adults: Clinical manifestations and diagnosis. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 82 – Enfermedad Hepática y Trasplante.",
+      "Sociedad Brasileña de Hepatología. Guía de Encefalopatía Hepática. 2022.",
+      "Guyton & Hall. Tratado de Fisiología Médica. 14ª ed."
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "PT": {
+    "titulo": "Hipertensão Intracraniana",
+    "definicao": "Hipertensão intracraniana (HIC) é definida como a elevação sustentada da pressão intracraniana (PIC) acima de 20 mmHg, medida por pelo menos 5 minutos, em adultos. Trata-se de uma emergência neurológica que compromete a perfusão cerebral e aumenta o risco de herniação encefálica e morte. Pode ter causas primárias (trauma, AVC, tumor) ou secundárias (hipercapnia, hiponatremia, edema cerebral difuso).",
+    "epidemiologia": "A HIC ocorre com frequência em pacientes com trauma cranioencefálico grave, hemorragias intracranianas, infartos cerebrais malignos, hidrocefalias, encefalites e tumores intracranianos volumosos. Estima-se que 40–60% dos pacientes com TCE grave apresentem episódios de HIC. A presença de HIC está fortemente associada a desfechos neurológicos desfavoráveis e maior mortalidade.",
+    "fisiopatologia": "Segundo a doutrina de Monro-Kellie, a caixa craniana é um compartimento fechado e inelástico que contém parênquima cerebral, líquor e sangue. O aumento de qualquer um desses componentes sem compensação pelos demais leva à elevação da PIC. Se a PIC ultrapassa a pressão arterial média (PAM), ocorre colapso da perfusão cerebral, isquemia e potencial herniação do tronco cerebral.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Reflexo de Cushing: hipertensão sistêmica e bradicardia.",
+        "Alterações do ritmo cardíaco (extrassístoles, bloqueios AV).",
+        "Perfusão sistêmica preservada inicialmente, mas com risco de deterioração."
+      ],
+      "respiratorias": [
+        "Bradipneia ou respiração irregular (padrão Cheyne-Stokes, ataxia respiratória).",
+        "Comprometimento do drive respiratório em fases avançadas.",
+        "Aspiração pulmonar em pacientes com rebaixamento de consciência."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Glasgow rebaixado (< 8), reatividade pupilar reduzida ou ausente.",
+        "Anisocoria, midríase unilateral fixa (compressão do III par craniano).",
+        "Crises convulsivas, hipertonia, posturas de descerebração ou decorticação.",
+        "Letargia, torpor, coma progressivo."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico de HIC deve ser suspeitado clinicamente em pacientes com sinais neurológicos de deterioração aguda. A confirmação se dá idealmente por meio de monitorização direta da PIC. Em serviços onde isso não está disponível, a TC de crânio e os sinais clínicos são fundamentais para inferência diagnóstica.",
+      "exames_essenciais": [
+        "Tomografia de crânio: desvio de linha média > 5 mm, apagamento de sulcos, colabamento ventricular.",
+        "Monitorização da PIC (cateter intraventricular ou parenquimatoso).",
+        "Cálculo da pressão de perfusão cerebral (PPC = PAM - PIC). Alvo ideal: PPC ≥ 60–70 mmHg.",
+        "Gasometria arterial, osmolaridade sérica, eletrólitos (Na⁺, K⁺), creatinina, função hepática.",
+        "EEG em pacientes com rebaixamento inexplicado ou suspeita de estado epiléptico não convulsivo.",
+        "Resonância magnética: indicada em casos subagudos ou diagnósticos diferenciais não traumáticos."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow ≤ 8 ou deterioração progressiva com risco de aspiração.",
+      "Controle da PaCO₂ para redução transitória da PIC (hiperventilação controlada).",
+      "Ventilação protetora com controle de pressões inspiratórias e oxigenação.",
+      "Necessidade de sedação e bloqueio neuromuscular em HIC refratária."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Cabeceira a 30° com alinhamento cervical neutro (evitar compressão jugular).",
+        "Sedação contínua (propofol, midazolam) e analgesia eficaz (fentanil, morfina).",
+        "Evitar estímulos dolorosos desnecessários e manobras de aspiração frequentes.",
+        "Osmoterapia: manitol 0,25–1 g/kg IV ou salina hipertônica 3–7,5% (avaliar osmolaridade e sódio).",
+        "Hiperventilação leve (PaCO₂ 30–35 mmHg) como medida temporária.",
+        "Drenagem de líquor com cateter ventricular se hidrocefalia.",
+        "Craniotomia descompressiva em casos de HIC refratária com risco de herniação.",
+        "Controle térmico (evitar febre), glicêmico e da natremia (Na⁺ ideal 145–155 mEq/L)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A presença de HIC sustentada está associada a pior prognóstico neurológico. O reconhecimento precoce e tratamento agressivo são fundamentais para a reversibilidade da lesão. A ausência de reatividade pupilar bilateral, Glasgow 3 e sinais de herniação indicam alto risco de evolução para morte encefálica. A monitorização da PIC é uma ferramenta prognóstica e terapêutica essencial em centros especializados."
+    },
+    "notas_adicionais": [
+      "Evitar hiponatremia em pacientes com risco de HIC (preferir salina hipertônica em situações críticas).",
+      "Reavaliar imagem em 6–24h após intervenções ou com piora clínica.",
+      "Evitar transporte de pacientes instáveis sem necessidade crítica.",
+      "Implementar protocolos de HIC baseados em metas de PPC e PIC.",
+      "Equipes de neurointensivismo devem ser envolvidas precocemente.",
+      "Garantir suporte nutricional e prevenção de complicações associadas à ventilação mecânica prolongada."
+    ],
+    "fontes_bibliograficas": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 69 – Hipertensão Intracraniana.",
+      "UpToDate. Evaluation and management of elevated intracranial pressure. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Diretrizes da Sociedade Brasileira de Neurocirurgia – Manejo da HIC. 2022.",
+      "Bratton SL, et al. Guidelines for the management of severe traumatic brain injury. J Neurotrauma. 2007.",
+      "Carney N, et al. Guidelines for the management of severe TBI. Neurosurgery. 2017."
+    ]
+  },
+  "US": {
+    "title": "Intracranial Hypertension",
+    "definition": "Intracranial hypertension (ICH) is defined as a sustained elevation in intracranial pressure (ICP) above 20 mmHg for more than 5 minutes in adults. It represents a critical neurologic emergency associated with reduced cerebral perfusion and increased risk of brain herniation and death. Causes may be primary (trauma, stroke, tumor) or secondary (hypercapnia, hyponatremia, diffuse cerebral edema).",
+    "epidemiology": "ICH frequently occurs in patients with severe traumatic brain injury (TBI), intracranial hemorrhage, malignant ischemic strokes, hydrocephalus, encephalitis, and space-occupying brain tumors. It is present in 40–60% of patients with severe TBI and is a major determinant of poor neurologic outcomes and mortality.",
+    "pathophysiology": "According to the Monro-Kellie doctrine, the cranial vault contains a fixed volume composed of brain tissue, cerebrospinal fluid (CSF), and blood. An increase in one component must be compensated by a reduction in another to maintain ICP. When compensatory mechanisms fail, ICP rises abruptly, compromising cerebral perfusion pressure (CPP) and leading to ischemia and potential brainstem herniation.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Cushing reflex: systemic hypertension and bradycardia.",
+        "Cardiac arrhythmias (e.g., PVCs, AV blocks).",
+        "Initially preserved systemic perfusion, followed by potential decompensation."
+      ],
+      "respiratory": [
+        "Bradypnea or irregular breathing patterns (Cheyne-Stokes, ataxic breathing).",
+        "Depressed respiratory drive in advanced stages.",
+        "Pulmonary aspiration in comatose patients."
+      ],
+      "neurologic_and_metabolic": [
+        "Depressed consciousness (GCS < 8), sluggish or absent pupillary responses.",
+        "Anisocoria or unilateral fixed dilated pupil (cranial nerve III compression).",
+        "Seizures, hypertonia, decerebrate or decorticate posturing.",
+        "Lethargy, stupor, progressive coma."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis should be suspected clinically in patients with acute neurologic deterioration. Definitive confirmation is through direct ICP monitoring. In its absence, head CT and neurologic signs are key tools for clinical inference.",
+      "essential_tests": [
+        "Non-contrast head CT: midline shift > 5 mm, effacement of sulci, ventricular compression.",
+        "ICP monitoring: intraventricular catheter (gold standard) or intraparenchymal probe.",
+        "Cerebral perfusion pressure (CPP = MAP - ICP). Target: ≥ 60–70 mmHg.",
+        "Arterial blood gas, serum osmolarity, electrolytes (Na⁺, K⁺), creatinine, liver function.",
+        "EEG in unexplained coma or suspected non-convulsive status epilepticus.",
+        "Brain MRI: useful in subacute phases or when differential diagnoses are unclear."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 or progressive deterioration with aspiration risk.",
+      "Targeted PaCO₂ control for temporary ICP reduction (mild hyperventilation).",
+      "Protective ventilation with pressure control and oxygenation optimization.",
+      "Need for sedation and neuromuscular blockade in refractory ICH."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Head elevation to 30° with neutral cervical alignment (avoid jugular compression).",
+        "Continuous sedation (propofol, midazolam) and effective analgesia (fentanyl, morphine).",
+        "Minimize noxious stimuli and frequent suctioning.",
+        "Osmotherapy: mannitol 0.25–1 g/kg IV or hypertonic saline (3–7.5%), monitor osmolarity and sodium.",
+        "Mild hyperventilation (PaCO₂ 30–35 mmHg) as temporary measure.",
+        "CSF drainage via ventricular catheter in hydrocephalus or mass effect.",
+        "Decompressive craniectomy in medically refractory ICH with herniation risk.",
+        "Temperature control (prevent fever), glycemic control, serum sodium target: 145–155 mEq/L."
+      ]
+    },
+    "prognosis": {
+      "comment": "Sustained ICH is associated with poor neurologic outcomes. Early recognition and aggressive treatment are crucial for potential reversibility. Bilateral unreactive pupils, GCS 3, and clinical signs of herniation suggest a high risk of brain death. ICP monitoring is essential for both prognosis and therapeutic guidance in neurocritical care centers."
+    },
+    "additional_notes": [
+      "Avoid hyponatremia in patients at risk of ICH; consider hypertonic saline in critical cases.",
+      "Repeat neuroimaging 6–24h after intervention or with clinical worsening.",
+      "Avoid unnecessary transport of unstable patients.",
+      "Implement ICH protocols targeting CPP and ICP thresholds.",
+      "Early involvement of neurocritical care teams is essential.",
+      "Ensure nutritional support and prevention of complications from prolonged mechanical ventilation."
+    ],
+    "references": [
+      "Miller’s Anesthesia. 8th ed. Chapter 69 – Intracranial Hypertension.",
+      "UpToDate. Evaluation and management of elevated intracranial pressure. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Neurosurgery – Intracranial Hypertension Guidelines. 2022.",
+      "Bratton SL, et al. Guidelines for the management of severe traumatic brain injury. J Neurotrauma. 2007.",
+      "Carney N, et al. Guidelines for the management of severe TBI. Neurosurgery. 2017."
+    ]
+  },
+  "ES": {
+    "titulo": "Hipertensión Intracraneal",
+    "definicion": "La hipertensión intracraneal (HIC) se define como un aumento sostenido de la presión intracraneal (PIC) por encima de los 20 mmHg durante más de 5 minutos en adultos. Representa una emergencia neurológica crítica que compromete la perfusión cerebral y aumenta el riesgo de herniación encefálica y muerte. Las causas pueden ser primarias (traumatismo, accidente cerebrovascular, tumor) o secundarias (hipercapnia, hiponatremia, edema cerebral difuso).",
+    "epidemiologia": "La HIC ocurre frecuentemente en pacientes con traumatismo craneoencefálico grave, hemorragias intracraneales, infartos cerebrales malignos, hidrocefalia, encefalitis y tumores cerebrales expansivos. Se estima que entre el 40 y el 60% de los pacientes con TCE grave desarrollan HIC. Su presencia se asocia con una alta mortalidad y peores resultados neurológicos.",
+    "fisiopatologia": "Según la doctrina de Monro-Kellie, el cráneo es una cavidad cerrada con volumen fijo que contiene cerebro, líquido cefalorraquídeo (LCR) y sangre. El aumento de cualquiera de estos componentes debe compensarse con la reducción de otro para evitar el aumento de la PIC. Cuando se sobrepasa este mecanismo de compensación, la presión se eleva rápidamente, disminuyendo la presión de perfusión cerebral (PPC) y provocando isquemia y herniación.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Reflejo de Cushing: hipertensión arterial sistémica y bradicardia.",
+        "Arritmias cardíacas (extrasístoles, bloqueos AV).",
+        "Perfusión sistémica inicialmente conservada, seguida de posible descompensación."
+      ],
+      "respiratorias": [
+        "Bradipnea o patrón respiratorio irregular (Cheyne-Stokes, respiración atáxica).",
+        "Depresión del centro respiratorio en etapas avanzadas.",
+        "Aspiración pulmonar en pacientes comatosos."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Disminución del nivel de conciencia (GCS < 8), respuesta pupilar lenta o ausente.",
+        "Anisocoria o midriasis unilateral fija (compresión del III par craneal).",
+        "Convulsiones, hipertonía, posturas de descerebración o decorticación.",
+        "Letargo, estupor, coma progresivo."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico debe sospecharse clínicamente ante un deterioro neurológico agudo. La confirmación se realiza preferentemente mediante monitoreo directo de la PIC. En su ausencia, la TC de cráneo y la evaluación clínica son fundamentales para la toma de decisiones.",
+      "exames_essenciais": [
+        "TC de cráneo sin contraste: desplazamiento de línea media > 5 mm, borramiento de surcos, colapso ventricular.",
+        "Monitoreo de PIC (catéter intraventricular o sonda parenquimatosa).",
+        "Cálculo de la presión de perfusión cerebral (PPC = PAM - PIC). Objetivo: PPC ≥ 60–70 mmHg.",
+        "Gasometría arterial, osmolaridad sérica, electrolitos (Na⁺, K⁺), creatinina, función hepática.",
+        "EEG si hay coma inexplicado o sospecha de estatus epiléptico no convulsivo.",
+        "RM cerebral: útil en fases subagudas o diagnósticos diferenciales complejos."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 o deterioro progresivo con riesgo de aspiración.",
+      "Control de PaCO₂ como estrategia para reducción temporal de la PIC.",
+      "Ventilación protectora con control de presiones y optimización de la oxigenación.",
+      "Necesidad de sedación y bloqueo neuromuscular en HIC refractaria."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Elevación de la cabecera a 30° con cuello en posición neutra (evitar compresión yugular).",
+        "Sedación continua (propofol, midazolam) y analgesia efectiva (fentanilo, morfina).",
+        "Evitar estímulos dolorosos innecesarios y aspiraciones frecuentes.",
+        "Osmoterapia: manitol 0,25–1 g/kg IV o solución salina hipertónica (3–7,5%); controlar osmolaridad y natremia.",
+        "Hiperventilación moderada (PaCO₂ 30–35 mmHg) como medida transitoria.",
+        "Drenaje de LCR mediante catéter ventricular en caso de hidrocefalia o efecto de masa.",
+        "Craneotomía descompresiva en HIC refractaria con riesgo de herniación.",
+        "Control térmico (evitar fiebre), control glucémico y natremia objetivo: 145–155 mEq/L."
+      ]
+    },
+    "prognosis": {
+      "comment": "La HIC sostenida se asocia con mal pronóstico neurológico. El reconocimiento temprano y el tratamiento agresivo son esenciales para la reversibilidad del daño. La presencia de pupilas no reactivas bilaterales, GCS 3 y signos clínicos de herniación indican alto riesgo de muerte cerebral. El monitoreo de PIC es clave para el pronóstico y guía terapéutica en cuidados neurocríticos."
+    },
+    "additional_notes": [
+      "Evitar hiponatremia en pacientes con riesgo de HIC; considerar solución salina hipertónica.",
+      "Repetir neuroimagen 6–24h tras intervención o ante deterioro clínico.",
+      "Evitar traslados innecesarios en pacientes inestables.",
+      "Implementar protocolos de HIC basados en objetivos de PPC y PIC.",
+      "Involucrar tempranamente al equipo de neurointensivismo.",
+      "Asegurar soporte nutricional y prevenir complicaciones derivadas de ventilación mecánica prolongada."
+    ],
+    "references": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 69 – Hipertensión Intracraneal.",
+      "UpToDate. Evaluación y manejo de la hipertensión intracraneal. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Neurocirugía – Guías de manejo de la HIC. 2022.",
+      "Bratton SL, et al. Directrices para el manejo del traumatismo craneoencefálico grave. J Neurotrauma. 2007.",
+      "Carney N, et al. Guidelines for the management of severe TBI. Neurosurgery. 2017."
+    ]
+  }
+}

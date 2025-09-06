@@ -1,0 +1,197 @@
+{
+  "PT": {
+    "titulo": "Dissecção Aórtica com Instabilidade",
+    "definicao": "A dissecção aórtica com instabilidade hemodinâmica é uma emergência cardiovascular aguda caracterizada pela ruptura da camada íntima da aorta, permitindo o fluxo de sangue entre as camadas da parede arterial. A progressão pode levar à ruptura da aorta, tamponamento cardíaco, isquemia de órgãos vitais, falência multissistêmica e morte. É uma condição de altíssima letalidade que exige diagnóstico e intervenção imediatos.",
+    "epidemiologia": "A dissecção aórtica afeta aproximadamente 3 a 5 pessoas por 100.000 habitantes por ano. Predomina em homens (65–75%) entre a sexta e sétima décadas de vida. Hipertensão arterial sistêmica é o principal fator de risco, presente em até 80% dos casos. Outras condições predisponentes incluem síndrome de Marfan, Loeys-Dietz, Turner, bicúspide aórtica, aneurisma aórtico prévio, vasculites e uso de drogas simpaticomiméticas.",
+    "fisiopatologia": "A ruptura da íntima permite a formação de um falso lúmen entre as camadas da parede aórtica. Esse falso lúmen pode expandir-se retrógrada ou anterogradamente, comprometendo a irrigação de órgãos-alvo por compressão ou oclusão dos ramos aórticos. Quando acomete a aorta ascendente, há risco de tamponamento cardíaco, insuficiência aórtica aguda e infarto do miocárdio. A dissecção tipo B pode evoluir com isquemia de membros, renal ou mesentérica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão, choque obstrutivo ou hipovolêmico",
+        "Assimetria de pulsos ou pressão arterial entre membros",
+        "Sinais de tamponamento cardíaco: turgência jugular, bulhas abafadas, hipotensão"
+      ],
+      "respiratorias": [
+        "Dispneia intensa, taquipneia",
+        "Edema agudo de pulmão (insuficiência aórtica aguda)",
+        "Hemotórax em ruptura para o espaço pleural"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Dor torácica ou dorsal súbita, lancinante, migratória",
+        "Déficits neurológicos (AVC isquêmico, coma, paraplegia)",
+        "Agitação, sudorese, síncope ou rebaixamento do nível de consciência"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Deve-se suspeitar diante de dor torácica ou dorsal súbita e intensa, especialmente associada à hipertensão ou pulso assimétrico. Em instabilidade, o ecocardiograma transesofágico é o exame de escolha. Em estáveis, a angiotomografia de tórax com contraste é o padrão-ouro para localização e classificação.",
+      "exames_essenciais": [
+        "ECG (pode ser normal ou mostrar isquemia)",
+        "Radiografia de tórax: alargamento do mediastino",
+        "Ecocardiograma transtorácico (inicial) ou transesofágico (mais sensível)",
+        "Angiotomografia de tórax com contraste (confirmação e classificação tipo A ou B)",
+        "D-dímero elevado (bom valor preditivo negativo nas primeiras 24h)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Rebaixamento de consciência por hipoperfusão ou hipoxemia",
+      "Hipoxemia refratária (SpO2 < 90%)",
+      "Insuficiência respiratória por edema pulmonar ou hemotórax",
+      "Instabilidade hemodinâmica com risco de parada cardíaca"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitorização intensiva (ECG contínuo, PA invasiva)",
+        "Controle rigoroso da frequência cardíaca com beta-bloqueadores (esmolol, labetalol)",
+        "Redução gradual da pressão arterial (PAS alvo: 100–120 mmHg)",
+        "Sedação e analgesia para controle autonômico (morfina, midazolam)",
+        "Evitar nitroprussiato ou vasodilatadores isolados sem bloqueio beta-adrenérgico",
+        "Cirurgia imediata para dissecções tipo A (substituição ou reparo de aorta ascendente)",
+        "Tratamento clínico inicial para tipo B não complicada, com opção endovascular se complicada (TEVAR)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A dissecção tipo A sem tratamento cirúrgico tem mortalidade de 1–2% por hora nas primeiras 24 horas. O tratamento precoce reduz a mortalidade para 20–30%. Dissecções tipo B têm melhor prognóstico quando não complicadas. A sobrevida depende da prontidão diagnóstica, controle da PA e acesso cirúrgico imediato."
+    },
+    "notas_adicionais": [
+      "Sempre excluir dissecção antes de trombólise em dor torácica atípica com ECG normal",
+      "Evitar transporte inter-hospitalar sem estabilização e diagnóstico",
+      "Investigar envolvimento de ramos viscerais e avaliar perfusão de extremidades",
+      "Manter acompanhamento com imagem seriada e controle estrito da pressão arterial após a alta"
+    ],
+    "fontes_bibliograficas": [
+      "Hiratzka LF et al. 2010 ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/STS/SVM Guidelines for the Diagnosis and Management of Patients With Thoracic Aortic Disease. Circulation. 2010.",
+      "UpToDate. Clinical features and diagnosis of acute aortic dissection. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Ministério da Saúde. Protocolo de Atendimento a Emergências Cardiovasculares. 2022."
+    ]
+  },
+  "US": {
+    "titulo": "Aortic Dissection with Hemodynamic Instability",
+    "definicao": "Aortic dissection with hemodynamic instability is a life-threatening vascular emergency resulting from a tear in the intimal layer of the aorta, allowing blood to enter the medial layer and create a false lumen. This may lead to cardiac tamponade, aortic rupture, malperfusion of vital organs, or sudden death. Immediate diagnosis and surgical or endovascular intervention are crucial to survival.",
+    "epidemiologia": "Incidence is estimated at 3–5 cases per 100,000 person-years. It occurs predominantly in men aged 60–80 years. Risk factors include hypertension (present in over 70% of cases), connective tissue disorders (e.g., Marfan, Loeys-Dietz), bicuspid aortic valve, aortic aneurysm, prior cardiac surgery, and stimulant drug use (e.g., cocaine).",
+    "fisiopatologia": "A tear in the aortic intima allows high-pressure blood to dissect through the media, forming a false lumen. Antegrade or retrograde extension may compromise branch vessel flow, cause aortic insufficiency, myocardial infarction, tamponade (with ascending dissection), or rupture into the pleural or pericardial spaces. Type A dissections involve the ascending aorta and are surgical emergencies.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hypotension or shock",
+        "Pulse deficit or asymmetric blood pressure in limbs",
+        "Signs of cardiac tamponade: jugular venous distension, muffled heart sounds, hypotension"
+      ],
+      "respiratorias": [
+        "Sudden dyspnea, tachypnea",
+        "Acute pulmonary edema (from acute aortic insufficiency)",
+        "Hemothorax in cases of rupture"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Severe, tearing chest or back pain, often migrating",
+        "Neurologic deficits: stroke, spinal cord ischemia, coma",
+        "Diaphoresis, syncope, altered mental status"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspect in patients with acute chest/back pain and hemodynamic compromise. ECG may be normal or show ischemia. Chest X-ray may show mediastinal widening. In unstable patients, bedside transesophageal echocardiography (TEE) is preferred. In stable patients, contrast-enhanced CT angiography is the diagnostic gold standard.",
+      "exames_essenciais": [
+        "ECG (to assess for ischemia or infarction)",
+        "Chest radiograph (mediastinal widening, pleural effusion)",
+        "Transthoracic or transesophageal echocardiography (TEE)",
+        "CT angiography of the chest, abdomen, and pelvis",
+        "D-dimer (high sensitivity, used to rule out dissection in low-risk patients)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Respiratory failure from tamponade or hemothorax",
+      "Severe hypoxemia (SpO2 < 90%) despite oxygen therapy",
+      "Altered consciousness from hypoperfusion",
+      "Signs of impending cardiopulmonary collapse"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Initiate intensive monitoring: continuous ECG and invasive blood pressure",
+        "Heart rate control with IV beta-blockers (esmolol or labetalol) targeting HR < 60 bpm",
+        "After HR control, reduce systolic blood pressure to 100–120 mmHg using vasodilators (e.g., nicardipine)",
+        "Provide analgesia and sedation (e.g., morphine, benzodiazepines)",
+        "Avoid vasodilators alone without beta-blockade",
+        "Emergent surgical repair for Stanford type A dissections",
+        "Medical therapy and/or endovascular repair (TEVAR) for complicated type B dissections"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Untreated type A dissection carries a mortality rate of up to 1–2% per hour in the first 24 hours. Early surgical intervention reduces mortality to 20–30%. Type B dissections have a better prognosis when uncomplicated and medically managed. Prompt recognition and blood pressure control are key determinants of survival."
+    },
+    "notas_adicionais": [
+      "Always rule out aortic dissection before thrombolysis in suspected MI with atypical chest pain",
+      "Avoid interfacility transfer unless diagnosis is confirmed and patient stabilized",
+      "Assess for malperfusion syndromes: renal, mesenteric, spinal, or limb ischemia",
+      "Long-term follow-up with strict blood pressure control and serial imaging is essential"
+    ],
+    "fontes_bibliograficas": [
+      "Hiratzka LF et al. 2010 ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/STS/SVM Guidelines for the Diagnosis and Management of Patients With Thoracic Aortic Disease. Circulation. 2010.",
+      "UpToDate. Clinical features and diagnosis of acute aortic dissection. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Ministério da Saúde. Protocolo de Atendimento a Emergências Cardiovasculares. 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Disección Aórtica con Inestabilidad Hemodinámica",
+    "definicao": "La disección aórtica con inestabilidad hemodinámica es una emergencia cardiovascular aguda caracterizada por la ruptura de la capa íntima de la aorta, permitiendo el paso de sangre a la capa media y formando un lumen falso. Puede provocar taponamiento cardíaco, ruptura aórtica, malperfusión de órganos vitales o muerte súbita. Requiere diagnóstico inmediato e intervención quirúrgica o endovascular urgente.",
+    "epidemiologia": "La incidencia se estima en 3–5 casos por 100.000 personas por año, con mayor frecuencia en hombres entre 60 y 80 años. Los principales factores de riesgo son hipertensión arterial (presente en más del 70% de los casos), síndromes del tejido conectivo (Marfan, Loeys-Dietz), válvula aórtica bicúspide, aneurisma aórtico, cirugía cardíaca previa y uso de drogas estimulantes como la cocaína.",
+    "fisiopatologia": "La ruptura de la íntima aórtica permite la entrada de sangre a presión en la media, creando un lumen falso. La extensión retrógrada o anterógrada puede comprometer los vasos colaterales, provocar insuficiencia aórtica, infarto de miocardio, taponamiento cardíaco (en disecciones ascendentes) o ruptura hacia el espacio pleural o pericárdico.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión o shock",
+        "Déficit de pulso o presión arterial asimétrica",
+        "Signos de taponamiento cardíaco: distensión yugular, ruidos cardíacos apagados, hipotensión"
+      ],
+      "respiratorias": [
+        "Disnea súbita, taquipnea",
+        "Edema agudo de pulmón (por insuficiencia aórtica aguda)",
+        "Hemotórax si hay ruptura hacia el espacio pleural"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Dolor torácico o dorsal súbito, desgarrador, migratorio",
+        "Déficits neurológicos: ACV, isquemia medular, coma",
+        "Diaforesis, síncope, alteración del estado mental"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Debe sospecharse ante dolor torácico o dorsal agudo y compromiso hemodinámico. El ECG puede ser normal o mostrar isquemia. La radiografía de tórax puede mostrar ensanchamiento del mediastino. En pacientes inestables se prefiere ecocardiografía transesofágica (ETE) a pie de cama. En pacientes estables, la angiotomografía con contraste es el estudio de elección.",
+      "exames_essenciais": [
+        "ECG (para evaluar isquemia o infarto)",
+        "Radiografía de tórax (ensanchamiento mediastínico, derrame pleural)",
+        "Ecocardiografía transtorácica o transesofágica (ETE)",
+        "Angio-TC de tórax, abdomen y pelvis con contraste",
+        "Dímero D (alta sensibilidad, útil para descartar disección en bajo riesgo)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Insuficiencia respiratoria por taponamiento o hemotórax",
+      "Hipoxemia severa (SpO2 < 90%) a pesar de oxígeno",
+      "Rebajamiento del estado de conciencia por hipoperfusión",
+      "Signos de colapso cardiovascular inminente"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitoreo intensivo: ECG continuo, presión arterial invasiva",
+        "Control de la frecuencia cardíaca con betabloqueadores IV (esmolol o labetalol), objetivo < 60 lpm",
+        "Luego del control de FC, reducir PAS a 100–120 mmHg con vasodilatadores (p. ej., nicardipino)",
+        "Sedación y analgesia con morfina o benzodiacepinas",
+        "Evitar vasodilatadores sin bloqueo beta previo",
+        "Cirugía urgente para disecciones tipo A (ascendentes)",
+        "Manejo médico o reparación endovascular (TEVAR) para disecciones tipo B complicadas"
+      ]
+    },
+    "prognostico": {
+      "comentario": "La disección tipo A no tratada tiene una mortalidad del 1–2% por hora en las primeras 24 horas. La cirugía precoz reduce la mortalidad a 20–30%. Las disecciones tipo B no complicadas tienen mejor pronóstico con tratamiento médico. La clave es el reconocimiento precoz y el control estricto de la presión arterial."
+    },
+    "notas_adicionais": [
+      "Siempre descartar disección antes de trombólisis en sospecha de IAM con dolor atípico",
+      "Evitar traslado entre centros sin diagnóstico confirmado y paciente estabilizado",
+      "Evaluar síndromes de malperfusión: renal, mesentérica, espinal o de miembros",
+      "Seguimiento a largo plazo con control estricto de la PA e imágenes seriadas"
+    ],
+    "fontes_bibliograficas": [
+      "Hiratzka LF et al. 2010 ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/STS/SVM Guidelines for the Diagnosis and Management of Patients With Thoracic Aortic Disease. Circulation. 2010.",
+      "UpToDate. Clinical features and diagnosis of acute aortic dissection. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Ministerio de Salud. Guía de atención para emergencias cardiovasculares. 2022."
+    ]
+  }
+}

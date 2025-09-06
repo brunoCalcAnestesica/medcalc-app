@@ -1,0 +1,200 @@
+{
+  "PT": {
+    "titulo": "Paciente Pré-operatório de Alto Risco",
+    "definicao": "Paciente pré-operatório de alto risco é aquele cuja condição clínica, fisiológica ou cirúrgica implica risco significativamente elevado de complicações perioperatórias, incluindo eventos adversos como infarto, AVC, sepse, falência respiratória, disfunção orgânica múltipla ou óbito. A classificação baseia-se em parâmetros clínicos, laboratoriais, funcionais e escalas de risco, e orienta decisões estratégicas quanto ao preparo, monitorização e necessidade de suporte intensivo no perioperatório.",
+    "epidemiologia": "Pacientes de alto risco representam cerca de 10–15% dos submetidos a cirurgias, mas concentram mais de 80% da mortalidade cirúrgica. São mais comuns em procedimentos urgentes, vasculares, torácicos, oncológicos e em idosos com comorbidades múltiplas ou fragilidade clínica. A prevalência aumenta com a idade, complexidade cirúrgica e em centros terciários.",
+    "fisiopatologia": "A resposta inflamatória sistêmica à agressão cirúrgica envolve ativação neuroendócrina, liberação de citocinas, catabolismo proteico, hipercoagulabilidade e disfunção endotelial. Pacientes com baixa reserva fisiológica, como cardiopatas, pneumopatas ou nefropatas, são mais suscetíveis a descompensações hemodinâmicas e metabólicas. A interação entre anestesia, hipoperfusão, isquemia-reperfusão e inflamação contribui para eventos adversos como injúria miocárdica, injúria renal aguda, delirium ou sepse.",
+    "manifestações_clinicas": {
+      "fatores_preditores": [
+        "Idade &gt; 75 anos.",
+        "Classificação ASA III, IV ou V.",
+        "Insuficiência cardíaca sintomática ou FEVE &lt; 40%.",
+        "Angina instável ou IAM recente (&lt; 30 dias).",
+        "DPOC GOLD III/IV, fibrose pulmonar, HAP.",
+        "TFG &lt; 30 mL/min, diálise ou proteinúria grave.",
+        "Fragilidade clínica ou sarcopenia.",
+        "Cirurgia com risco cardíaco elevado (&gt; 5%) ou duração &gt; 3h.",
+        "Procedimentos urgentes/emergenciais ou com sangramento esperado elevado."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Inclui anamnese dirigida, avaliação funcional (METs, escalas de fragilidade), e aplicação de scores como RCRI, NSQIP, V-POSSUM ou Gupta. Avaliação multidisciplinar com cardiologia, pneumologia, nefrologia e geriatria pode ser necessária. O risco deve ser estratificado com base em dados objetivos e documentado no plano anestésico.",
+      "exames_essenciais": [
+        "ECG, ecocardiograma, troponina, BNP ou NT-proBNP.",
+        "Espirometria, DLCO ou prova de esforço em pneumopatas.",
+        "Creatinina, eletrólitos, função hepática, Hb, INR, albumina.",
+        "Imagem: TC, RX, USG conforme o tipo de cirurgia.",
+        "Teste de caminhada de 6 min, escada de Duke, escala de fragilidade clínica (CFS).",
+        "Ressonância ou cintilografia miocárdica em casos selecionados de alto risco cardíaco."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "PaCO₂ &gt; 50 mmHg, hipoxemia crônica ou VEF1 &lt; 50%.",
+      "Dependência de oxigênio domiciliar, VNI ou CPAP.",
+      "Fraqueza muscular respiratória (ELA, MG, Guillain-Barré).",
+      "Procedimentos abdominais altos, torácicos ou neurocirúrgicos extensos.",
+      "Volume cirúrgico elevado com risco de derrames ou infecção pulmonar."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Classificar formalmente como paciente de alto risco e documentar no prontuário.",
+        "Revisar medicações crônicas e suspender aquelas de risco (IECA, AAS, anticoagulantes).",
+        "Controlar doenças descompensadas: IC, DPOC, DM, HAS, anemia, distúrbios hidroeletrolíticos.",
+        "Otimizar estado nutricional, mobilidade e cognição (pré-habilitação).",
+        "Planejar monitorização avançada intraoperatória (invasiva, BIS, débito cardíaco).",
+        "Reservar leito de UTI para pós-operatório imediato.",
+        "Aplicar estratégias ERAS (Enhanced Recovery After Surgery) adaptadas à condição clínica.",
+        "Consentimento informado discutindo risco elevado e diretivas antecipadas (DVA, DNT)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Depende da reserva funcional, tipo de cirurgia, controle pré-operatório e monitorização contínua. A mortalidade pode ultrapassar 20% em cirurgias urgentes com pacientes instáveis. Planejamento, comunicação interprofissional, abordagem centrada no paciente e estratégias perioperatórias baseadas em evidência reduzem complicações e melhoram desfechos."
+    },
+    "notas_adicionais": [
+      "Programas de pré-habilitação devem ser considerados em pacientes com sarcopenia ou fragilidade.",
+      "Avaliação geriátrica ampla melhora desfechos em idosos submetidos a cirurgias maiores.",
+      "Checklists perioperatórios e protocolos institucionais aumentam segurança.",
+      "Avaliar risco de delirium pós-operatório e iniciar prevenção precoce.",
+      "Considerar cuidados paliativos quando o risco supera o benefício da intervenção cirúrgica."
+    ],
+    "fontes_bibliograficas": [
+      "American College of Surgeons – NSQIP Surgical Risk Calculator.",
+      "UpToDate. Perioperative risk in elderly patients. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 32 – Preoperative Evaluation.",
+      "Sociedade Brasileira de Geriatria – Avaliação e conduta perioperatória no idoso. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  },
+  "US": {
+    "title": "High-Risk Preoperative Patient",
+    "definition": "A high-risk preoperative patient is one whose clinical, functional, or surgical status significantly increases the risk of perioperative complications, including myocardial infarction, stroke, sepsis, respiratory failure, multi-organ dysfunction, or death. Risk classification is based on a combination of physiological reserve, comorbidities, frailty, surgical invasiveness, and urgency, guiding multidisciplinary decision-making and perioperative management strategies.",
+    "epidemiology": "High-risk patients represent 10–15% of surgical candidates but account for over 80% of perioperative mortality. They are more common in emergency surgeries, vascular and thoracic procedures, cancer operations, and among elderly patients with multiple comorbidities or frailty. The incidence is higher in tertiary care settings and in individuals undergoing prolonged or complex interventions.",
+    "pathophysiology": "Surgical trauma induces systemic inflammation, neuroendocrine activation, catabolism, hypercoagulability, and endothelial dysfunction. Patients with limited cardiopulmonary or renal reserve may be unable to compensate, leading to hypotension, ischemia-reperfusion injury, myocardial strain, or immune dysregulation. Anesthesia and surgical stress can exacerbate subclinical dysfunction, precipitating critical events such as acute kidney injury, delirium, myocardial injury, or pulmonary failure.",
+    "clinical_manifestations": {
+      "predictive_factors": [
+        "Age over 75 years.",
+        "ASA class III–V.",
+        "Symptomatic heart failure or LVEF &lt; 40%.",
+        "Recent unstable angina or MI (&lt; 30 days).",
+        "Severe COPD (GOLD III/IV), pulmonary fibrosis, pulmonary hypertension.",
+        "Chronic kidney disease (eGFR &lt; 30 mL/min), dialysis, or nephrotic-range proteinuria.",
+        "Frailty syndrome, sarcopenia, or dependency in activities of daily living.",
+        "High-risk surgeries (&gt; 5% cardiac risk), duration &gt; 3 hours.",
+        "Urgent or emergency procedures, high expected blood loss."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "A comprehensive assessment includes history, physical exam, frailty and functional capacity scores (e.g., METs, CFS), and validated surgical risk calculators (e.g., RCRI, NSQIP, V-POSSUM, Gupta). Specialist input (cardiology, pulmonology, nephrology, geriatrics) is often required. Risk documentation must be clearly outlined in the anesthetic plan.",
+      "essential_tests": [
+        "ECG, transthoracic echocardiogram, troponin, BNP or NT-proBNP.",
+        "Pulmonary function tests (spirometry, DLCO) or cardiopulmonary exercise testing in selected cases.",
+        "Creatinine, electrolytes, liver enzymes, hemoglobin, INR, albumin.",
+        "Imaging: chest X-ray, CT scans, ultrasound depending on surgical context.",
+        "6-minute walk test, Duke Activity Status Index, Clinical Frailty Scale.",
+        "Myocardial perfusion imaging or cardiac MRI in high-risk cardiac patients."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Hypercapnia (PaCO₂ &gt; 50 mmHg), hypoxemia or FEV1 &lt; 50%.",
+      "Chronic oxygen, CPAP or BiPAP dependency.",
+      "Neuromuscular weakness (ALS, myasthenia gravis, Guillain-Barré).",
+      "High-risk thoracoabdominal or extended neurosurgical procedures.",
+      "Expected significant fluid shifts or pulmonary complications."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Formally classify and document high-risk status in the medical record.",
+        "Review and adjust chronic medications (e.g., hold ACE inhibitors, anticoagulants).",
+        "Stabilize decompensated comorbidities: CHF, COPD, diabetes, anemia, electrolyte imbalances.",
+        "Initiate nutritional and cognitive optimization (prehabilitation programs).",
+        "Plan for advanced intraoperative monitoring (e.g., invasive blood pressure, cardiac output, BIS).",
+        "Pre-book ICU admission for postoperative monitoring.",
+        "Apply ERAS (Enhanced Recovery After Surgery) protocols where appropriate.",
+        "Obtain detailed informed consent including risk disclosure and advance directives (DNR, DNI)."
+      ]
+    },
+    "prognosis": {
+      "comment": "Outcomes depend on physiological reserve, timely preoperative optimization, intraoperative monitoring, and postoperative care. Mortality may exceed 20% in emergency surgeries involving unstable patients. Clear communication, shared decision-making, evidence-based protocols, and multidisciplinary coordination are essential to improving outcomes."
+    },
+    "additional_notes": [
+      "Frailty scoring systems (e.g., CFS), functional capacity assessment (METs), and Lee index are essential tools.",
+      "Elderly patients benefit from comprehensive geriatric assessment and prehabilitation.",
+      "Institutional checklists and perioperative pathways improve patient safety.",
+      "Screening for delirium risk and implementing prevention strategies is critical.",
+      "Palliative consultation should be considered when surgical benefit is marginal or prognosis is poor."
+    ],
+    "references": [
+      "American College of Surgeons – NSQIP Surgical Risk Calculator.",
+      "UpToDate. Perioperative risk in elderly patients. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 32 – Preoperative Evaluation.",
+      "Brazilian Society of Geriatrics – Perioperative assessment in elderly patients. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Paciente Preoperatorio de Alto Riesgo",
+    "definicion": "El paciente preoperatorio de alto riesgo es aquel cuya condición clínica, funcional o quirúrgica implica un riesgo significativamente elevado de complicaciones perioperatorias, tales como infarto de miocardio, accidente cerebrovascular, sepsis, insuficiencia respiratoria, disfunción multiorgánica o muerte. Esta clasificación permite una planificación detallada y decisiones compartidas sobre el manejo anestésico, quirúrgico y postoperatorio.",
+    "epidemiologia": "Aunque representan entre el 10–15% de los pacientes quirúrgicos, concentran más del 80% de la mortalidad postoperatoria. Son frecuentes en cirugías de emergencia, oncológicas, vasculares y torácicas, así como en adultos mayores con múltiples comorbilidades, fragilidad o dependencia funcional. Su prevalencia aumenta en hospitales terciarios y en procedimientos prolongados o invasivos.",
+    "fisiopatologia": "El estrés quirúrgico desencadena una cascada inflamatoria sistémica, activación neuroendocrina, catabolismo, hipercoagulabilidad y disfunción endotelial. En pacientes con reserva fisiológica limitada, estos mecanismos pueden precipitar eventos críticos como lesión miocárdica, injuria renal aguda, delirium, insuficiencia respiratoria o sepsis. La anestesia, junto con hipoperfusión e isquemia-reperfusión, contribuye al daño multiorgánico.",
+    "manifestaciones_clinicas": {
+      "factores_predictores": [
+        "Edad &gt; 75 años.",
+        "Clasificación ASA III, IV o V.",
+        "Insuficiencia cardíaca sintomática o FEVI &lt; 40%.",
+        "Angina inestable o IAM reciente (&lt; 30 días).",
+        "EPOC severo (GOLD III/IV), fibrosis pulmonar, hipertensión pulmonar.",
+        "ERC estadio 4 o 5 (TFG &lt; 30 mL/min), diálisis, proteinuria significativa.",
+        "Fragilidad clínica, sarcopenia o dependencia para actividades básicas.",
+        "Cirugías de alto riesgo (&gt; 5% de riesgo cardíaco), duración &gt; 3 horas.",
+        "Procedimientos de urgencia o emergencia con alto volumen de sangrado esperado."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Debe incluir historia clínica detallada, examen físico, escalas de fragilidad (CFS) y capacidad funcional (METs), y uso de herramientas validadas como el RCRI, NSQIP, V-POSSUM o el índice de Gupta. La evaluación multidisciplinaria (cardiología, neumología, nefrología, geriatría) es fundamental para casos complejos. Toda estratificación de riesgo debe ser registrada en el plan anestésico.",
+      "examenes_esenciales": [
+        "ECG, ecocardiograma, troponina, BNP o NT-proBNP.",
+        "Espirometría, DLCO, o test de esfuerzo en casos seleccionados.",
+        "Creatinina, electrolitos, función hepática, hemoglobina, INR, albúmina.",
+        "Imágenes: radiografía de tórax, tomografía, ecografía según el caso.",
+        "Test de marcha de 6 minutos, índice de Duke, escala de fragilidad clínica.",
+        "Imagen cardíaca funcional (perfusión miocárdica o RMN) si está indicado."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Hipercapnia (PaCO₂ &gt; 50 mmHg), hipoxemia o VEF1 &lt; 50%.",
+      "Dependencia de oxígeno domiciliario, CPAP o BiPAP.",
+      "Debilidad muscular respiratoria (ELA, miastenia gravis, Guillain-Barré).",
+      "Cirugías toracoabdominales extensas o neurocirugías prolongadas.",
+      "Expectativa de desequilibrio hidroelectrolítico o complicaciones pulmonares."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Clasificar formalmente al paciente como alto riesgo y dejar constancia en el expediente.",
+        "Revisar y ajustar medicaciones crónicas (suspender IECA, anticoagulantes, etc.).",
+        "Optimizar comorbilidades descompensadas: IC, EPOC, DM, anemia, trastornos electrolíticos.",
+        "Implementar estrategias de prehabilitación nutricional, física y cognitiva.",
+        "Planificar monitoreo intraoperatorio avanzado (PA invasiva, BIS, gasto cardíaco).",
+        "Reservar cama en UCI para seguimiento postoperatorio inmediato.",
+        "Aplicar protocolos ERAS individualizados según la condición clínica.",
+        "Obtener consentimiento informado detallado incluyendo directivas anticipadas (DNR, DNI)."
+      ]
+    },
+    "pronostico": {
+      "comentario": "Depende de la reserva funcional, tipo de procedimiento, optimización preoperatoria y cuidado postoperatorio. En cirugías de emergencia con pacientes inestables la mortalidad puede superar el 20%. La planificación adecuada, comunicación clara, decisiones compartidas y protocolos basados en evidencia son clave para reducir complicaciones y mejorar resultados."
+    },
+    "notas_adicionales": [
+      "Se deben emplear escalas como CFS, índice de Lee y evaluación de METs.",
+      "Los pacientes mayores frágiles se benefician de una valoración geriátrica integral.",
+      "El uso de listas de verificación y rutas perioperatorias mejora la seguridad.",
+      "Evaluar riesgo de delirium postoperatorio y aplicar medidas preventivas.",
+      "En pacientes con pronóstico limitado, considerar consulta con cuidados paliativos."
+    ],
+    "referencias": [
+      "American College of Surgeons – Calculadora NSQIP.",
+      "UpToDate. Evaluación del riesgo perioperatorio en pacientes mayores. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 32 – Evaluación preoperatoria.",
+      "Sociedad Brasileña de Geriatría – Evaluación prequirúrgica integral. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  }
+}

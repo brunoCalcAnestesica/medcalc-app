@@ -1,0 +1,278 @@
+{
+  "PT": {
+    "titulo": "Broncoespasmo",
+    "definicao": "O broncoespasmo é uma condição clínica aguda caracterizada pela contração do músculo liso brônquico e consequente estreitamento das vias aéreas, resultando em limitação ao fluxo de ar, especialmente na fase expiratória. Pode ser desencadeado por estímulos inflamatórios, alérgicos, químicos ou mecânicos, sendo comum em pacientes asmáticos, portadores de DPOC ou durante anestesia. É um sinal de hiperreatividade brônquica e requer intervenção imediata.",
+    "sinais_e_sintomas": [
+      "Sibilância difusa, especialmente durante a expiração",
+      "Dispneia de instalação súbita ou progressiva",
+      "Taquipneia com uso de musculatura acessória",
+      "Prolongamento do tempo expiratório",
+      "Diminuição da saturação periférica de oxigênio (SpO₂)",
+      "Silêncio auscultatório em obstrução crítica"
+    ],
+    "causas_comuns": [
+      "Asma brônquica",
+      "Doença pulmonar obstrutiva crônica (DPOC)",
+      "Anafilaxia e reações alérgicas graves",
+      "Aspiração pulmonar de conteúdo gástrico ou corpo estranho",
+      "Resposta reflexa à manipulação das vias aéreas (intubação, aspiração)",
+      "Inalação de substâncias irritantes (fumaça, amônia, gases anestésicos)"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "Anamnese com histórico de asma, alergia ou DPOC",
+        "Ausculta pulmonar com sibilos ou ausência de murmúrio vesicular",
+        "Sinais de esforço respiratório e desconforto"
+      ],
+      "exames_complementares": [
+        "Gasometria arterial: pode mostrar hipoxemia e retenção de CO₂ em casos graves",
+        "Oximetria de pulso: monitoramento contínuo da oxigenação",
+        "Radiografia de tórax: para excluir pneumotórax, atelectasias ou pneumonia associada",
+        "Capnografia: útil em pacientes intubados para análise da curva expiratória",
+        "Espirometria (em casos eletivos): padrão obstrutivo com resposta à broncodilatação"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Oxigenoterapia para manter SpO₂ > 92%",
+        "Broncodilatadores beta-2 agonistas de curta ação (ex: salbutamol)",
+        "Anticolinérgicos inalatórios (ex: brometo de ipratrópio)",
+        "Corticoterapia sistêmica precoce (hidrocortisona ou metilprednisolona)",
+        "Sulfato de magnésio IV em crises moderadas a graves",
+        "Sedação com quetamina em pacientes com intubação iminente ou ventilação difícil",
+        "Adrenalina IM em casos de broncoespasmo anafilático",
+        "Ventilação mecânica com estratégia protetora se falência respiratória"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Salbutamol",
+          "via": "inalatória",
+          "dose": "2,5 a 5 mg por nebulização a cada 20 min nas 3 primeiras doses"
+        },
+        {
+          "nome": "Brometo de Ipratrópio",
+          "via": "inalatória",
+          "dose": "0,5 mg por nebulização a cada 6 horas"
+        },
+        {
+          "nome": "Hidrocortisona",
+          "via": "IV",
+          "dose": "100 a 200 mg a cada 6 horas"
+        },
+        {
+          "nome": "Metilprednisolona",
+          "via": "IV",
+          "dose": "1 a 2 mg/kg/dia"
+        },
+        {
+          "nome": "Sulfato de Magnésio",
+          "via": "IV",
+          "dose": "2 g diluído em 100 mL de SG5% em 20 min"
+        },
+        {
+          "nome": "Quetamina",
+          "via": "IV",
+          "dose": "1 a 2 mg/kg em bolus, seguido de 0,5 a 1 mg/kg/h"
+        },
+        {
+          "nome": "Adrenalina",
+          "via": "IM",
+          "dose": "0,3 a 0,5 mg a cada 5 a 15 min (anafilaxia)"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "O broncoespasmo agudo geralmente tem bom prognóstico com tratamento precoce e adequado. Casos graves ou refratários podem evoluir para insuficiência respiratória, necessitando suporte ventilatório invasivo. A recorrência é comum em pacientes com asma mal controlada ou exposição contínua a fatores desencadeantes."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Acute management of bronchospasm",
+      "SBPT – Diretrizes de Asma e DPOC",
+      "Manual de Condutas em Emergência – AMIB"
+    ]
+  },
+  "US": {
+    "titulo": "Bronchospasm",
+    "definicao": "Bronchospasm is an acute clinical condition characterized by constriction of bronchial smooth muscle, leading to narrowing of the airways and airflow limitation, especially during expiration. It is a hallmark of airway hyperreactivity and may occur in asthma, chronic obstructive pulmonary disease (COPD), anaphylaxis, or as a complication during anesthesia and airway manipulation.",
+    "sinais_e_sintomas": [
+      "Diffuse wheezing, especially on expiration",
+      "Acute or progressive shortness of breath",
+      "Tachypnea with use of accessory muscles",
+      "Prolonged expiratory phase",
+      "Reduced peripheral oxygen saturation (SpO₂)",
+      "Silent chest in critical obstruction"
+    ],
+    "causas_comuns": [
+      "Bronchial asthma",
+      "Chronic obstructive pulmonary disease (COPD)",
+      "Severe allergic reactions or anaphylaxis",
+      "Aspiration of gastric contents or foreign body",
+      "Reflex response to airway instrumentation (e.g., intubation, suction)",
+      "Inhalation of irritants (smoke, ammonia, anesthetic gases)"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "History of asthma, allergy, or COPD",
+        "Lung auscultation with wheezing or decreased breath sounds",
+        "Signs of respiratory effort and distress"
+      ],
+      "exames_complementares": [
+        "Arterial blood gas (ABG): hypoxemia and hypercapnia in severe cases",
+        "Pulse oximetry: continuous oxygenation monitoring",
+        "Chest X-ray: rule out pneumothorax, atelectasis, or associated pneumonia",
+        "Capnography: useful in intubated patients to assess expiratory curve",
+        "Spirometry (elective cases): obstructive pattern with bronchodilator response"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Oxygen therapy to maintain SpO₂ > 92%",
+        "Short-acting beta-2 agonists (e.g., salbutamol/albuterol)",
+        "Inhaled anticholinergics (e.g., ipratropium bromide)",
+        "Early systemic corticosteroids (e.g., hydrocortisone or methylprednisolone)",
+        "IV magnesium sulfate in moderate to severe exacerbations",
+        "Ketamine sedation for patients requiring intubation or with severe bronchospasm",
+        "IM epinephrine in anaphylactic bronchospasm",
+        "Mechanical ventilation with lung-protective strategy if respiratory failure occurs"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Albuterol (Salbutamol)",
+          "via": "inhaled",
+          "dose": "2.5 to 5 mg via nebulization every 20 minutes for up to 3 doses"
+        },
+        {
+          "nome": "Ipratropium bromide",
+          "via": "inhaled",
+          "dose": "0.5 mg via nebulization every 6 hours"
+        },
+        {
+          "nome": "Hydrocortisone",
+          "via": "IV",
+          "dose": "100 to 200 mg every 6 hours"
+        },
+        {
+          "nome": "Methylprednisolone",
+          "via": "IV",
+          "dose": "1 to 2 mg/kg/day"
+        },
+        {
+          "nome": "Magnesium sulfate",
+          "via": "IV",
+          "dose": "2 g diluted in 100 mL of D5W over 20 minutes"
+        },
+        {
+          "nome": "Ketamine",
+          "via": "IV",
+          "dose": "1 to 2 mg/kg bolus, followed by 0.5 to 1 mg/kg/h infusion"
+        },
+        {
+          "nome": "Epinephrine",
+          "via": "IM",
+          "dose": "0.3 to 0.5 mg every 5 to 15 minutes (anaphylaxis)"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "Acute bronchospasm generally has a favorable prognosis with prompt and adequate treatment. Severe or refractory cases may progress to respiratory failure requiring mechanical ventilation. Recurrent episodes are common in poorly controlled asthma or persistent exposure to triggering factors."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4th ed.",
+      "UpToDate – Acute management of bronchospasm",
+      "Global Initiative for Asthma (GINA) Guidelines",
+      "American Thoracic Society – Clinical Practice Guidelines"
+    ]
+  },
+  "ES": {
+    "titulo": "Broncoespasmo",
+    "definicao": "El broncoespasmo es una condición clínica aguda caracterizada por la contracción del músculo liso bronquial, que provoca un estrechamiento de las vías respiratorias y una limitación del flujo aéreo, especialmente durante la espiración. Es un signo típico de hiperreactividad bronquial y puede manifestarse en crisis asmáticas, EPOC, anafilaxia o como complicación durante anestesia o manipulación de la vía aérea.",
+    "sinais_e_sintomas": [
+      "Sibilancias difusas, especialmente espiratorias",
+      "Disnea súbita o progresiva",
+      "Taquipnea con uso de músculos accesorios",
+      "Prolongación del tiempo espiratorio",
+      "Disminución de la saturación periférica de oxígeno (SpO₂)",
+      "Silencio auscultatorio en casos de obstrucción crítica"
+    ],
+    "causas_comuns": [
+      "Asma bronquial",
+      "Enfermedad pulmonar obstructiva crónica (EPOC)",
+      "Reacciones alérgicas severas o anafilaxia",
+      "Aspiración de contenido gástrico o cuerpo extraño",
+      "Respuesta refleja a la instrumentación de la vía aérea (intubación, succión)",
+      "Inhalación de irritantes (humo, amoníaco, gases anestésicos)"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "Antecedentes de asma, alergias o EPOC",
+        "Auscultación pulmonar con sibilancias o murmullo vesicular reducido",
+        "Signos de dificultad respiratoria aguda"
+      ],
+      "exames_complementares": [
+        "Gasometría arterial: hipoxemia, hipercapnia en casos graves",
+        "Oximetría de pulso: monitorización continua de la SpO₂",
+        "Radiografía de tórax: descartar neumotórax, atelectasia o neumonía",
+        "Capnografía: útil en pacientes intubados para análisis del patrón espiratorio",
+        "Espirometría (casos electivos): patrón obstructivo reversible con broncodilatadores"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Oxigenoterapia para mantener SpO₂ > 92%",
+        "Agonistas beta-2 de acción corta (ej. salbutamol)",
+        "Anticolinérgicos inhalados (ej. bromuro de ipratropio)",
+        "Corticosteroides sistémicos precoces (hidrocortisona o metilprednisolona)",
+        "Sulfato de magnesio IV en crisis moderadas o severas",
+        "Sedación con ketamina en casos graves o con necesidad de intubación",
+        "Adrenalina IM en broncoespasmo de origen anafiláctico",
+        "Ventilación mecánica con estrategia protectora en insuficiencia respiratoria"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Salbutamol",
+          "via": "inhalatoria",
+          "dose": "2,5 a 5 mg por nebulización cada 20 minutos hasta 3 dosis"
+        },
+        {
+          "nome": "Bromuro de Ipratrópio",
+          "via": "inhalatoria",
+          "dose": "0,5 mg por nebulización cada 6 horas"
+        },
+        {
+          "nome": "Hidrocortisona",
+          "via": "IV",
+          "dose": "100 a 200 mg cada 6 horas"
+        },
+        {
+          "nome": "Metilprednisolona",
+          "via": "IV",
+          "dose": "1 a 2 mg/kg/día"
+        },
+        {
+          "nome": "Sulfato de Magnesio",
+          "via": "IV",
+          "dose": "2 g diluidos en 100 mL de SG5% en 20 minutos"
+        },
+        {
+          "nome": "Ketamina",
+          "via": "IV",
+          "dose": "1 a 2 mg/kg en bolo, seguido de 0,5 a 1 mg/kg/h"
+        },
+        {
+          "nome": "Adrenalina",
+          "via": "IM",
+          "dose": "0,3 a 0,5 mg cada 5 a 15 min (anafilaxia)"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "El broncoespasmo agudo tiene buen pronóstico cuando se trata precozmente. En casos graves o refractarios puede evolucionar hacia insuficiencia respiratoria, requiriendo soporte ventilatorio. Es común la recurrencia en pacientes con asma mal controlada o exposición continua a factores desencadenantes."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Manejo del broncoespasmo agudo",
+      "Guías GEMA – Guía Española para el Manejo del Asma",
+      "SEPAR – Sociedad Española de Neumología"
+    ]
+  }
+}

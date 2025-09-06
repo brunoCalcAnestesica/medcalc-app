@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+    
+<!-- Mirrored from pedajuda.com.br/calc-hidratacaovenosa.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Aug 2023 19:56:25 GMT -->
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>PedAjuda - Condutas e Prescrições Pediátricas</title>
+        
+        <meta name="description" content="Tudo que você precisa saber para manejar de forma correta e tranquila seus pacientes pediátricos, na palma da sua mão." />
+        <meta name="keywords" content="pediatria, calculadora, doses, condutas, prescrições, urgência, emergências, antibióticos, anti-convulsionantes, anti-fúngicos, anti-histamínicos, anti-parasitários, broncodilatadores, laxativos, anti-inflamatórios, hidratação venosa, sintomáticos, anafilaxia, asma, cetoacidose, diabetes, choque" />
+        <meta name="author" content="Lucas de Medeiros Ferreira (lucas.medeiros@icloud.com)"/>
+        
+        <link rel="icon" type="image/png" href="assets/imagens/favicon.png" />
+        
+        <!-- [INI] CSS -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/fontawesome.css">
+        <link rel="stylesheet" href="assets/css/animated.css">
+        <link rel="stylesheet" href="assets/css/estilo.css">
+        <!-- [END] CSS -->
+    </head>
+    
+    <body>
+        
+        <!-- ***** Preloader Start ***** -->
+        <div class="loader-wrapper">
+            <div class="loader animated fadeOutUp">
+                <div class="bubble-1"></div>
+                <div class="bubble-2"></div>
+                <div class="bubble-3"></div>
+            </div>
+        </div>
+        <!-- ***** Preloader End ***** -->
+        
+        <!-- ***** [INI] HEADER ***** -->
+        <header class="header-area branco">
+		<div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        
+                        <a href="index.html" class="logo">
+							<img src="assets/imagens/logo.png" alt="PedAjuda"/>
+						</a>
+
+						<ul class="nav">
+							<li><a href="index.html" class="branco">Página Inicial</a></li>
+                            <li class="submenu">
+                                <a href="javascript:;">Ferramentas <i class="fas fa-angle-down"></i></a>
+								<ul>
+									<li><a href="index.html#categorias">Cálculo de Doses</a></li>
+                                    <li><a href="index.html#puericultura">Puericultura</a></li>
+									<li><a href="index.html#condutas">Condutas em Urgência</a></li>
+								</ul>
+                            </li>
+                            <li><a href="sobre-projeto.html" class="branco">Sobre o Projeto</a></li>
+                            <li><a href="contato.html" class="branco">Contato</a></li>
+						</ul>
+						
+                        <a class="menu-trigger">
+							<span>Menu</span>
+						</a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        </header>
+        <!-- ***** [END] HEADER ***** -->
+        
+        
+        
+        <!-- ***** [INI] SECTION - CAPA ***** -->
+        <section class="section estilo9" id="capa">
+            <div class="container">
+                <div class="row">
+                
+                        <div class="col-lg-12">
+                            <h1 id="titulo">Hidratação Venosa</h1>
+                        </div>
+                
+                        <div class="col-lg-12">
+                            <ol class="breadcrumb">
+                                <li><a href="index.html">Página Inicial</a></li>
+                                <li class="active" id="breadcrumb">Hidratação Venosa</li>
+                            </ol>
+                        </div>
+                    
+                </div>
+            </div>
+        </section>
+        <!-- ***** [END] SECTION - CAPA ***** -->
+        
+        
+        
+        <!-- ***** [INI] SECTION - MEDICACOES ***** --->
+        <section class="section" id="lista-med">
+            <div class="container">
+                
+                <div class="row">
+                    <div class="col-lg-12">
+                            
+                        <div class="input-calculo estilo9">
+				            <div class="search">
+                                <form>
+				                    <input type="number" placeholder="Digite o Peso da Criança (em kg)" id="pesoInput" onkeypress="return isNumberKey(event,this)" step="0.1" >
+								    <button type="submit"><i class="fa fa-calculator"></i></button>
+								</form>
+				            </div>
+				        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="row">
+                    
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        
+                        <div class="box-lista estilo9 scrollHere">
+                            <h4 id="prescTit">Prescrição Médica</h4>
+                            <h5 id="subText"></h5>
+                        
+                            <!-- CONTEUDO DOS RESULTADOS -->
+                            <ul class="lista-prescricao" id="resultado-apresentacoes">
+                                
+                            </ul>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                    
+                        <div class="box-lista estilo9">
+                            <h4>Indicações Clínicas</h4>
+                            <ul class="lista-links" id="resultado-indicacoes">
+                                <!-- RESULTADO INDICACOES -->
+                            </ul>
+                        </div>
+                        <div class="box-lista estilo9">
+                            <h4>Orientações</h4>
+                            <ul class="lista-padrao" id="resultado-contra-indicacoes">
+                                
+                            </ul>
+                        </div>
+                    
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </section>
+        <!-- ***** [END] SECTION - MEDICACOES ***** --->
+        
+        
+        
+        <!-- ***** [INI] RODAPÉ ***** --->
+        <footer>
+            <div class="container">
+                <div class="row infopc">
+                    
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="card h-100">
+                            <img src="assets/imagens/logo.png" width="195" />
+                            <p>Projeto desenvolvido por doutorandos do curso de Medicina da Universidade Federal do Rio Grande do Norte (UFRN) e docentes do Internato de Pediatria.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="card h-100">
+                            <h5>Links Úteis</h5>
+                            <ul class="footer-nav">
+                                <li><a href="http://www.sbp.com.br/" target="_blank"><i class="fa fa-chevron-right"></i><span>SBP</span></a></li>
+                                <li><a href="https://www.nestlenutrition-institute.org/country/br/" target="_blank"><i class="fa fa-chevron-right"></i><span>Nestlé Nutrition</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="card h-100">
+                            <h5>Redes Sociais</h5>
+                            <a href="https://www.facebook.com/pedajuda.med/" target="_blank"><i class="fab fa-facebook-square"></i><p>Facebook</p></a>
+                            <a href="https://www.instagram.com/pedajuda.med" target="_blank"><i class="fab fa-instagram"></i><p>Instagram</p></a>
+                        </div>
+                    </div>
+            
+                </div>
+            
+                <div class="row copyright">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 ">
+                        © 2019 PedAjuda. Todos os Direitos Reservados.
+                    </div>
+                </div>
+                
+            </div>
+        </footer>
+        <!-- ***** [END] RODAPÉ ***** --->
+        
+        
+        
+        <!-- [INI] JS -->
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/notify.js"></script>
+        <script src="assets/js/functions.js"></script>
+        <script src="assets/js/modal.js"></script>
+        
+        <script>
+            
+            function round(value, decimals) {
+                return Number(Math.round(value+'e'+decimals)+'e-'+decimals);
+            }
+            
+            //Proibir entrada de números no Input
+            function isNumberKey(evt, obj) {
+                var charCode = (evt.which) ? evt.which : event.keyCode
+                var value = obj.value;
+                var dotcontains = value.indexOf(".") != -1;
+                if (dotcontains)
+                if (charCode == 46) return false;
+                if (charCode == 46) return true;
+                if (charCode > 31 && (charCode < 48 || charCode > 57))
+                    return false;
+                return true;
+            }
+            
+            
+            function calcularAtaque (peso, idade) {
+                
+                var SF, RL;
+                
+                if(idade == 0) {
+                    
+                    SF = Math.round(peso * 20);
+                    
+                    return '<li><span class="ordem">1</span><p><b>Dieta zero.</b></p></li><li><span class="ordem">2</span><p><b>Soro Fisiológico 0.9% - </b>' + SF + ' mL, EV, correr em 30 minutos. Reavaliar após cada expansão e repetir (se necessário).</p></li><li><span class="ordem">3</span><p><b>Oxigênio - </b>2 L/min, sob cateter nasal, se SaO2 < 95%.</p></li>';
+                    
+                }
+                
+                if(idade == 1) {
+                    
+                    SF = Math.round(peso * 30);
+                    RL = Math.round(peso * 70);
+                    
+                    return '<li><span class="ordem">1</span><p><b>Dieta zero.</b></p></li><li><span class="ordem">1</span><p><b>Soro Fisiológico 0.9% - </b>' + SF + ' mL, EV, correr em 30 minutos.</p></li><li><span class="ordem">2</span><p><b>Soro Ringer Lactato - </b>' + RL + ' mL, EV, correr em 2 horas e 30 minutos.</p></li><li><span class="ordem">3</span><p><b>Oxigênio - </b>2 L/min, sob cateter nasal, se SaO2 < 95%.</p></li>';
+                    
+                }
+                
+            }
+            
+            
+            function calcularManutencao (peso, perdasEst) {
+                
+                var solucao, SF, SG, reposicao, solucaoInicial,
+                    sodio, sodioEst, potassio, potassioEst, K1, K2;
+                var hora = "6/6";
+                
+                if(peso <= 10) {
+                    
+                    solucao = 100 * peso; 
+                        if(solucao > 2400) { solucao = 2400; }
+                    
+                    potassio = solucao / 100;
+                    potassio = Math.trunc(potassio);
+                    potassio = (potassio * 2) / 4;
+                    
+                    solucao = solucao / 5;
+                    
+                    SF = solucao;
+                    SG = (solucao * 4);
+                    
+                    if(perdasEst == 1) {
+                        reposicao = (50 * peso) / 2;
+                        SF = SF + reposicao;
+                        SG = SG + reposicao;
+                    }
+                    
+                    //potassio = parseInt((SF + SG) / 100) * 2;
+                    //potassioEst = parseInt((SF + SG) / 100) * 1;
+                    
+                    SF = SF / 4;
+                    SG = SG / 4;
+                    
+                    SF = round(SF, 0);
+                    SG = round(SG, 0);
+                    
+                }
+                
+                if(peso > 10 && peso <= 20) {
+                    
+                    solucao = 1000 + (50 * (peso - 10));
+                        if(solucao > 2400) { solucao = 2400; }
+                    
+                    solucaoInicial = solucao;
+                    
+                    potassio = solucao / 100;
+                    
+                    solucao = solucao / 5;
+                    
+                    SF = solucao;
+                    SG = (solucao * 4);
+                    
+                    if(perdasEst == 1) {
+                        reposicao = (50 * peso) / 2;
+                        SF = SF + reposicao;
+                        SG = SG + reposicao;
+                    }
+                    
+                    if( (SF + SG) <= 2000) {
+                        hora = "6/6";
+                        SF = SF / 4;
+                        SG = SG / 4;
+                        potassio = (potassio * 2) / 4;
+                    } else {
+                        hora = "4/4";
+                        SF = SF / 6;
+                        SG = SG / 6;
+                        potassio = (potassio * 2) / 6;
+                    }
+                    
+                    potassio = Math.trunc(potassio);
+                    
+                    SF = round(SF, 0);
+                    SG = round(SG, 0);
+                    
+                }
+                
+                if(peso > 20) {
+                    
+                    solucao = 1500 + (20 * (peso - 20));
+                        if(solucao > 2400) { solucao = 2400; }
+                    
+                    potassio = solucao / 100;
+                    
+                    solucao = solucao / 5;
+                    
+                    SF = solucao;
+                    SG = (solucao * 4);
+                    
+                    if(perdasEst == 1) {
+                        reposicao = (50 * peso) / 2;
+                        SF = SF + reposicao;
+                        SG = SG + reposicao;
+                    }
+                    
+                    if( (SF + SG) <= 2000) {
+                        hora = "6/6";
+                        SF = SF / 4;
+                        SG = SG / 4;
+                        potassio = (potassio * 2) / 4;
+                    } else if ( (SF + SG) > 2000 && (SF + SG) <= 3000 ){
+                        hora = "4/4";
+                        SF = SF / 6;
+                        SG = SG / 6;
+                        potassio = (potassio * 2) / 6;
+                    } else if ((SF + SG) > 3000) {
+                        hora = "2/2";
+                        SF = SF / 12;
+                        SG = SG / 12;
+                        potassio = (potassio * 2) / 12;
+                    }
+                    
+                    potassio = Math.trunc(potassio);
+                    
+                    SF = round(SF, 0);
+                    SG = round(SG, 0);
+                    
+                }
+                
+                /*sodio = Math.round(sodio/4);
+                    if (sodio == 0) {
+                        var Na = '<li><span class="ordem">3</span><p><b>Cloreto de Sódio 10% - </b>Não é necessário adicionar sódio para este peso.</p></li>';
+                    } else {
+                        var Na = '<li><span class="ordem">3</span><p><b>Cloreto de Sódio 10% - </b>' + Math.round(sodio / 1.7) + ' mL, diluído no item 1.<br/> - ou - <br/><b>Cloreto de Sódio 20% - </b>' + Math.round(sodio / 3.4) + ' mL, diluído no item 1.</p></li>';
+                    }
+                
+                potassio = ((SF + SG) / 100);
+                potassio = Math.trunc(potassio);
+                potassio = potassio * 2;*/
+                
+                potassioEst = (((SF + SG) / 100) * 3) / 2.56;
+                potassioEst = round(potassioEst, 1);
+                
+                if(potassio == 0) {
+                    K1 = '<b>Cloreto de Potássio - </b>Não é necessário adicionar potássio para este peso.';
+                } else {
+                    K1 = '<b>Cloreto de Potássio 10% - </b>' + potassio + ' mL.';
+                }
+                
+                if(potassioEst == 0) {
+                    K2 = '';
+                } else {
+                    K2 = '<br/> - ou - <br/><b>Cloreto de Potássio 19.1% - </b>' + potassioEst + ' mL.'
+                }
+                
+                var K = '<li><span class="ordem">4</span><p>' + K1 + '</p></li>';
+                
+                var infusao;
+                if(hora == "6/6") {
+                    infusao = (SF + SG + potassio) / (6 * 3);
+                } else if (hora == "4/4") {
+                    infusao = (SF + SG + potassio) / (4 * 3);
+                } else if (hora == "2/2") {
+                    infusao = (SF + SG + potassio) / (2 * 3);
+                }
+                infusao = round(infusao, 0);
+                
+                var impressao = '<li><span class="ordem">1</span><p><b>Soro Fisiológico 0.9% - </b>' + SF + ' mL.</p></li><li><span class="ordem">2</span><p><b>Soro Glicosado 5% - </b>' + SG + ' mL.</p></li>' + K + '<li><span class="ordem">5</span><p>Preparar a solução para infundir em intervalos de ' + hora + ' horas (' + infusao + ' gotas/minuto), por via EV.</p></li>';
+                
+                return impressao;
+                
+            }
+            
+            
+            function calcular(cod) {
+                
+                var resultado;
+                var peso = $("#pesoInput").val();
+                
+                if(cod == 0) {
+                    
+                    resultado = calcularAtaque(peso, 0);
+                    
+                    $("#resultado-indicacoes").html('<li class="active"><a href="#">Fase de Expansão (< 5 anos)</a></li><li><a href="javascript:calcular(1);">Fase de Expansão (> 5 anos)</a></li><li><a href="javascript:calcular(2);">Fase de Manutenção</a></li>');
+                            
+                    $(".box-lista").css("display", "block");
+                    $("#box-lista-perdas").css("display", "none");
+                    $(".input-calculo").removeClass("erro");
+                    $(".input-calculo button").html('<i class="fa fa-undo"></i>');
+                            
+                    $(".resultados").css("display", "block");
+                    $("#resultado-apresentacoes").html(resultado);
+                    
+                    $("#resultado-contra-indicacoes").html('<li><span>Após cada expansão, pelo risco de hiper-hidratação, atentar para sinais de Edema Agudo de Pulmão (creptações na ausculta) e Insuficiência Cardíaca (hepatomegalia).</span></li>');
+                        
+                    $("#prescTit").css("margin-bottom", "20px");
+                    $("#subText").text("");
+                    
+                    scrollTo(".scrollHere");
+                    
+                }
+                
+                if(cod == 1) {
+                    
+                    resultado = calcularAtaque(peso, 1);
+                    
+                    $("#resultado-indicacoes").html('<li><a href="javascript:calcular(0);">Fase de Expansão (< 5 anos)</a></li><li class="active"><a href="#">Fase de Expansão (> 5 anos)</a></li><li><a href="javascript:calcular(2);">Fase de Manutenção</a></li>');
+                            
+                    $(".box-lista").css("display", "block");
+                    $("#box-lista-perdas").css("display", "none");
+                    $(".input-calculo").removeClass("erro");
+                    $(".input-calculo button").html('<i class="fa fa-undo"></i>');
+                            
+                    $(".resultados").css("display", "block");
+                    $("#resultado-apresentacoes").html(resultado);
+                        
+                    $("#subText").text("");
+                    
+                    scrollTo(".scrollHere");
+                    
+                }
+                
+                if(cod == 2) {
+                    
+                    swal({
+                        title: "Estimativa de Perdas",
+                        text: "A criança apresenta algum tipo de perda de líquido importante (diarréia, sudorese, hiperventilação ou febre)?",
+                        icon: "warning",
+                        buttons: ["Não", "Sim"],
+                        dangerMode: true,
+                    })
+                        .then((willDelete) => {
+                            if (willDelete) {
+                                swal("A hidratação venosa de manutenção foi reajustada para um acréscimo de 50 mL/kg/dia como uma média de estimativa de perda diária!", {
+                                    icon: "success",
+                                });
+                                resultado = calcularManutencao(peso, 1);
+                                
+                                $("#resultado-indicacoes").html('<li><a href="javascript:calcular(0);">Fase de Expansão (< 5 anos)</a></li><li><a href="javascript:calcular(1);">Fase de Expansão (> 5 anos)</a></li><li class="active"><a href="#">Fase de Manutenção</a></li>');
+                            
+                    $(".box-lista").css("display", "block");
+                    $(".input-calculo").removeClass("erro");
+                    $(".input-calculo button").html('<i class="fa fa-undo"></i>');
+                            
+                    $(".resultados").css("display", "block");
+                    $("#resultado-apresentacoes").html(resultado);
+                    
+                    $("#resultado-contra-indicacoes").html('<li><span>Durante a fase de manutenção, é fundamental a monitorização do peso, débito urinário, densidade urinária e eletrólitos.</span></li><li><span>Quando o paciente puder beber, geralmente 2 a 3 horas após o início da reidratação venosa, iniciar a reidratação por via oral com SRO, mantendo a reidratação venosa.</span></li><li><span>Interromper a reidratação por via endovenosa somente quando o paciente puder ingerir SRO em quantidade suficiente para se manter hidratado. </span></li>');
+                    
+                    $("#prescTit").css("margin-bottom", "0px");
+                    $("#subText").text("Regra de Holliday-Segar + Reposição (50mL/kg/dia)");
+                            
+                    scrollTo(".scrollHere");
+                                
+                            } else {
+                                resultado = calcularManutencao(peso, 0);
+                                
+                                $("#resultado-indicacoes").html('<li><a href="javascript:calcular(0);">Fase de Expansão (< 5 anos)</a></li><li><a href="javascript:calcular(1);">Fase de Expansão (> 5 anos)</a></li><li class="active"><a href="#">Fase de Manutenção</a></li>');
+                            
+                    $(".box-lista").css("display", "block");
+                    $(".input-calculo").removeClass("erro");
+                    $(".input-calculo button").html('<i class="fa fa-undo"></i>');
+                            
+                    $(".resultados").css("display", "block");
+                    $("#resultado-apresentacoes").html(resultado);
+                    
+                    $("#resultado-contra-indicacoes").html('<li><span>Durante a fase de manutenção, é fundamental a monitorização do peso, débito urinário, densidade urinária e eletrólitos.</span></li><li><span>Quando o paciente puder beber, geralmente 2 a 3 horas após o início da reidratação venosa, iniciar a reidratação por via oral com SRO, mantendo a reidratação venosa.</span></li><li><span>Interromper a reidratação por via endovenosa somente quando o paciente puder ingerir SRO em quantidade suficiente para se manter hidratado. </span></li>');
+                    
+                    $("#prescTit").css("margin-bottom", "0px");
+                    $("#subText").text("(Regra de Holliday-Segar)");
+                            
+                    scrollTo(".scrollHere");
+                                
+                            }
+                    });
+                    
+                    
+                    
+                }
+                
+            }
+            
+            
+            
+            $(document).ready(function() {
+                
+                
+                $("footer").css("display", "none");
+                $("html").css("background-color", "#FFF");
+                
+                $("form").submit(function(event) {
+                    
+                    event.preventDefault();
+                    
+                    var peso = $("#pesoInput").val();
+                    
+                    if(peso == "") {
+                        
+                        $(".input-calculo").addClass("erro");
+                        
+                    } else {
+                        
+                        peso = parseFloat(peso);
+                        if(peso == 0 || peso < 3) {
+                            
+                            $(".box-lista").css("display", "none");
+                            $("#resultado-apresentacoes").html("");
+                            $(".input-calculo").addClass("erro");
+                            return false;
+                            
+                        } else if (peso >= 3) {
+                    
+                            $("footer").css("display", "block");
+                            
+                            $("#resultado-indicacoes").html('<li class="active"><a href="#">Fase de Expansão (< 5 anos)</a></li><li><a href="javascript:calcular(1);">Fase de Expansão (> 5 anos)</a></li><li><a href="javascript:calcular(2);">Fase de Manutenção</a></li>');
+                            
+                            $(".box-lista").css("display", "block");
+                            $("#box-lista-perdas").css("display", "none");
+                            $(".input-calculo").removeClass("erro");
+                            $(".input-calculo button").html('<i class="fa fa-undo"></i>');
+                            
+                            $(".resultados").css("display", "block");
+                            $("#resultado-apresentacoes").html(calcularAtaque(peso, 0));
+                            
+                            $("#resultado-contra-indicacoes").html('<li><span>Após cada expansão, pelo risco de hiper-hidratação, atentar para sinais de Edema Agudo de Pulmão (creptações na ausculta) e Insuficiência Cardíaca (hepatomegalia).</span></li>');
+                            
+                            scrollTo(".scrollHere");
+                            $("input").blur();
+                            
+                            return false;
+                    
+                        }
+                        
+                    }
+                    
+                });
+                
+            });
+            
+        </script>
+        <!-- [END] JS -->
+        
+    </body>
+    
+
+<!-- Mirrored from pedajuda.com.br/calc-hidratacaovenosa.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Aug 2023 19:56:25 GMT -->
+</html>

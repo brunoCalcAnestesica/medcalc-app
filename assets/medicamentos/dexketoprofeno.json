@@ -1,0 +1,71 @@
+{
+  "nome": "Dexketoprofeno",
+  "nomeIngles": "Dexketoprofen",
+  "nomeEspanhol": "Dexketoprofeno",
+  "classificacao": "Anti-inflamatório não esteroidal (AINE); inibidor não seletivo da COX",
+  "mecanismoAcao": "Inibe competitivamente a ciclooxigenase (COX-1 e COX-2), bloqueando a síntese de prostaglandinas pró-inflamatórias. É o enantiômero S ativo do cetoprofeno, com maior potência analgésica.",
+  "farmacocinetica": "Absorção IV/IM rápida, pico 15-30 min (IV), 30-60 min (IM), vida média 1-2h, metabolismo hepático, excreção renal (80%) e fecal (20%).",
+  "farmacodinamica": "Potente anti-inflamatório, analgésico e antipirético. Eficácia analgésica superior ao cetoprofeno racêmico. Reduz inflamação, edema e dor. Efeito máximo em 30-60 min.",
+  "apresentacoes": [
+    {
+      "concentracao": "50 mg/2 mL",
+      "apresentacao": "Ampola 2 mL",
+      "via": "IV/IM"
+    },
+    {
+      "concentracao": "50 mg/1 mL",
+      "apresentacao": "Ampola 1 mL",
+      "via": "IV/IM"
+    }
+  ],
+  "preparacao": "• IV: diluir em 50-100 mL de SF 0,9%\n• IM: administrar diretamente\n• Infusão lenta (15-30 min)\n• Não misturar com outras drogas\n• Proteger da luz",
+  "indicacoesClinicas": [
+    {
+      "indicacao": "Dor aguda moderada a intensa",
+      "dose": "50 mg IV/IM",
+      "frequencia": "8-12h",
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Dor pós-operatória",
+      "dose": "50 mg IV/IM",
+      "frequencia": "8-12h",
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Cólica renal",
+      "dose": "50 mg IV/IM",
+      "frequencia": "8-12h",
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Dor lombar aguda",
+      "dose": "50 mg IV/IM",
+      "frequencia": "8-12h",
+      "duracao": "Máximo 3 dias"
+    }
+  ],
+  "observacoes": "• Disponibilidade restrita no Brasil\n• Monitorar função renal e hepática\n• Cuidado em idosos e pacientes com insuficiência renal\n• Suspender 48h antes de cirurgias eletivas\n• Monitorar sangramento",
+  "metabolismo": "Metabolizado no fígado por conjugação com ácido glucurônico. Forma metabólitos inativos. Excreção renal (80%) e fecal (20%).",
+  "contraindicacoes": [
+    "Hipersensibilidade ao dexketoprofeno ou outros AINEs",
+    "Úlcera péptica ativa",
+    "Insuficiência renal grave (ClCr <30 mL/min)",
+    "Insuficiência hepática grave",
+    "Gravidez (terceiro trimestre)",
+    "Lactação",
+    "História de asma induzida por AINEs",
+    "Síndrome de Stevens-Johnson prévia",
+    "Uso concomitante com outros AINEs"
+  ],
+  "reacoesAdversas": [
+    "Gastrintestinais: náusea, vômito, dor epigástrica, úlcera péptica, sangramento GI",
+    "Renais: insuficiência renal aguda, retenção hídrica, proteinúria",
+    "Cardiovasculares: edema, hipertensão, insuficiência cardíaca",
+    "Hematológicas: trombocitopenia, anemia, leucopenia, sangramento",
+    "Hepáticas: elevação de transaminases, hepatite",
+    "Alérgicas: rash, urticária, anafilaxia, asma",
+    "Outras: cefaleia, tontura, sonolência, zumbido"
+  ],
+  "interacaoMedicamento": "• Aumenta risco de sangramento com anticoagulantes, antiagregantes\n• Reduz efeito de diuréticos e anti-hipertensivos\n• Aumenta toxicidade de lítio e metotrexato\n• Interfere com probenecida\n• Cuidado com inibidores de CYP2C9"
+} 

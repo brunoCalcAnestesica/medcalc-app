@@ -1,0 +1,173 @@
+{
+  "PT": {
+    "titulo": "Bloqueadores Neuromusculares na UTI",
+    "definicao": "Bloqueadores neuromusculares (BNMs) são fármacos utilizados para promover paralisia muscular temporária em pacientes críticos na Unidade de Terapia Intensiva (UTI). São indicados em situações que exigem controle rigoroso da mecânica respiratória, sincronia com ventilação mecânica, controle da pressão intracraniana, ou imobilidade absoluta. Seu uso deve ser cauteloso, associado à sedação profunda e monitorização contínua, dado o risco de efeitos adversos como disfunção neuromuscular adquirida e awareness intraoperatório.",
+    "indicacoes": [
+      "Síndrome do desconforto respiratório agudo (SDRA) com PaO2/FiO2 < 150, especialmente nas primeiras 48h",
+      "Assincronia ventilatória grave que não responde à otimização de sedação e analgesia",
+      "Ventilação protetora com volume corrente muito baixo ou PEEP elevada",
+      "Controle de hipertensão intracraniana ou em casos de crise hipertensiva intracraniana",
+      "Facilitação de intubação orotraqueal em sequência rápida",
+      "Controle de crises epilépticas refratárias em status epilepticus sob anestesia geral",
+      "Durante procedimentos cirúrgicos ou intervenções que exigem imobilidade absoluta"
+    ],
+    "medicamentos_comuns": [
+      {
+        "nome": "Rocurônio",
+        "dose_bolo_mg_kg": "0.6–1.2",
+        "dose_manutencao_mg_kg_h": "0.3–0.6"
+      },
+      {
+        "nome": "Cisatracúrio",
+        "dose_bolo_mg_kg": "0.1–0.2",
+        "dose_manutencao_mg_kg_h": "0.06–0.18"
+      },
+      {
+        "nome": "Vecurônio",
+        "dose_bolo_mg_kg": 0.1,
+        "dose_manutencao_mg_kg_h": "0.05–0.1"
+      }
+    ],
+    "monitorizacao": [
+      "Avaliação objetiva do bloqueio com estímulo de nervo periférico (Train-of-Four - TOF)",
+      "Objetivo: TOF com 1 a 2 respostas (bloqueio leve/moderado)",
+      "Interrupção diária do bloqueio para reavaliação de necessidade e avaliação neurológica",
+      "Monitoramento concomitante da profundidade da sedação (ex: BIS ou escala de Ramsay)"
+    ],
+    "cuidados": [
+      "Sempre administrar sedação e analgesia completas antes do início dos BNMs",
+      "Evitar uso contínuo por mais de 48h sempre que possível",
+      "Monitorar função diafragmática com ultrassom ou parâmetros ventilatórios",
+      "Rastrear sinais de miopatia ou neuropatia do paciente crítico após uso prolongado",
+      "Avaliar individualmente necessidade de reversores farmacológicos na retirada (ex: sugamadex, neostigmina)"
+    ],
+    "contraindicacoes": [
+      "Miastenia gravis ou outras doenças da junção neuromuscular",
+      "Doenças desmielinizantes em atividade (ex: Guillain-Barré)",
+      "História prévia de hipertermia maligna",
+      "Alergia documentada ao agente bloqueador",
+      "Uso concomitante com aminoglicosídeos ou polimixinas com risco de bloqueio sinérgico prolongado"
+    ],
+    "fontes_bibliograficas": [
+      "Sociedade Brasileira de Medicina Intensiva (AMIB) – Diretrizes para Analgesia, Sedação e Bloqueio Neuromuscular na UTI, 2022",
+      "Marino PL. The ICU Book. 4ª ed. Lippincott Williams & Wilkins",
+      "UpToDate – Neuromuscular blocking agents in critically ill patients",
+      "Surviving Sepsis Campaign Guidelines 2021",
+      "Papazian L, et al. Neuromuscular blockers in early acute respiratory distress syndrome. N Engl J Med. 2010."
+    ]
+  },
+  "US": {
+    "titulo": "Neuromuscular Blockers in the ICU",
+    "definicao": "Neuromuscular blocking agents (NMBAs) are medications used in the intensive care unit (ICU) to induce temporary skeletal muscle paralysis. Their primary indications include severe acute respiratory distress syndrome (ARDS), refractory ventilator dyssynchrony, management of intracranial hypertension, status epilepticus, and facilitation of rapid sequence intubation. These drugs require continuous sedation and close monitoring due to their potential for adverse effects, including ICU-acquired weakness and awareness under paralysis.",
+    "indicacoes": [
+      "Moderate-to-severe ARDS with PaO2/FiO2 < 150, especially within the first 48 hours",
+      "Refractory patient-ventilator dyssynchrony unresponsive to sedation and analgesia optimization",
+      "Facilitation of ultra-protective ventilation with low tidal volumes or high PEEP",
+      "Control of intracranial pressure in cases of traumatic brain injury or cerebral hemorrhage",
+      "Facilitation of rapid sequence intubation in emergency airway management",
+      "Refractory status epilepticus under general anesthesia",
+      "Procedures requiring absolute immobility (e.g., prone positioning, neurosurgical interventions)"
+    ],
+    "medicamentos_comuns": [
+      {
+        "nome": "Rocuronium",
+        "dose_bolo_mg_kg": "0.6–1.2",
+        "dose_manutencao_mg_kg_h": "0.3–0.6"
+      },
+      {
+        "nome": "Cisatracurium",
+        "dose_bolo_mg_kg": "0.1–0.2",
+        "dose_manutencao_mg_kg_h": "0.06–0.18"
+      },
+      {
+        "nome": "Vecuronium",
+        "dose_bolo_mg_kg": "0.1",
+        "dose_manutencao_mg_kg_h": "0.05–0.1"
+      }
+    ],
+    "monitorizacao": [
+      "Train-of-Four (TOF) peripheral nerve stimulation to assess depth of blockade",
+      "Target TOF: 1–2 twitches for light-to-moderate blockade",
+      "Daily interruption of NMBA infusion to reassess need and facilitate neurological evaluation",
+      "Concurrent sedation monitoring (e.g., BIS, Ramsay scale)"
+    ],
+    "cuidados": [
+      "Always ensure deep sedation and analgesia before initiating NMBA",
+      "Avoid continuous infusion beyond 48 hours if possible",
+      "Use diaphragm ultrasound or ventilatory mechanics to monitor respiratory muscle function",
+      "Screen for ICU-acquired weakness or critical illness polyneuromyopathy",
+      "Assess need for pharmacologic reversal agents (e.g., sugammadex, neostigmine) during discontinuation"
+    ],
+    "contraindicacoes": [
+      "Myasthenia gravis or other neuromuscular junction disorders",
+      "Active demyelinating diseases (e.g., Guillain-Barré syndrome)",
+      "History of malignant hyperthermia",
+      "Known hypersensitivity to the NMBA",
+      "Concomitant use of aminoglycosides or polymyxins with potentiating neuromuscular blockade"
+    ],
+    "fontes_bibliograficas": [
+      "Society of Critical Care Medicine (SCCM) – Clinical Practice Guidelines for Sustained Neuromuscular Blockade in the Adult Critically Ill Patient",
+      "Marino PL. The ICU Book. 4th ed.",
+      "UpToDate – Neuromuscular blocking agents in critically ill patients",
+      "Surviving Sepsis Campaign 2021 Guidelines",
+      "Papazian L, et al. Neuromuscular blockers in early acute respiratory distress syndrome. N Engl J Med. 2010."
+    ]
+  },
+  "ES": {
+    "titulo": "Bloqueadores Neuromusculares en la UCI",
+    "definicao": "Los bloqueadores neuromusculares (BNM) son medicamentos utilizados en la unidad de cuidados intensivos (UCI) para inducir parálisis muscular esquelética temporal. Están indicados en situaciones críticas como síndrome de dificultad respiratoria aguda (SDRA) grave, asincronía con el ventilador, hipertensión intracraneal, estatus epiléptico refractario y durante la intubación en secuencia rápida. Su uso requiere sedación profunda continua, monitorización neurológica, y control riguroso para evitar efectos adversos como debilidad muscular adquirida en la UCI y conciencia intraoperatoria.",
+    "indicacoes": [
+      "SDRA moderado a grave con PaO2/FiO2 < 150, especialmente en las primeras 48 horas",
+      "Asincronía paciente-ventilador refractaria a optimización de sedación y analgesia",
+      "Facilitación de ventilación ultra-protectora con bajo volumen corriente y alta PEEP",
+      "Control de la presión intracraneal en lesiones cerebrales traumáticas o hemorragias",
+      "Facilitación de la intubación en secuencia rápida en emergencias",
+      "Estatus epiléptico refractario bajo anestesia general",
+      "Procedimientos que requieren inmovilidad absoluta (posición prona, cirugía neurológica)"
+    ],
+    "medicamentos_comuns": [
+      {
+        "nome": "Rocuronio",
+        "dose_bolo_mg_kg": "0.6–1.2",
+        "dose_manutencao_mg_kg_h": "0.3–0.6"
+      },
+      {
+        "nome": "Cisatracurio",
+        "dose_bolo_mg_kg": "0.1–0.2",
+        "dose_manutencao_mg_kg_h": "0.06–0.18"
+      },
+      {
+        "nome": "Vecuronio",
+        "dose_bolo_mg_kg": "0.1",
+        "dose_manutencao_mg_kg_h": "0.05–0.1"
+      }
+    ],
+    "monitorizacao": [
+      "Estimulación del nervio periférico (Train-of-Four - TOF) para evaluar la profundidad del bloqueo",
+      "Objetivo: TOF con 1–2 respuestas (bloqueo leve a moderado)",
+      "Interrupción diaria del BNM para revaluar la necesidad y permitir evaluación neurológica",
+      "Monitoreo concomitante de sedación profunda (escala de Ramsay, índice BIS)"
+    ],
+    "cuidados": [
+      "Asegurar siempre sedación profunda y analgesia antes de iniciar el BNM",
+      "Evitar infusión continua por más de 48 horas si es posible",
+      "Monitoreo diafragmático con ultrasonido o análisis de la mecánica ventilatoria",
+      "Evaluación sistemática de debilidad adquirida en la UCI o polineuromiopatía del paciente crítico",
+      "Evaluar necesidad de reversores farmacológicos como sugammadex o neostigmina"
+    ],
+    "contraindicacoes": [
+      "Miastenia gravis u otras enfermedades de la unión neuromuscular",
+      "Enfermedades desmielinizantes activas (ej. síndrome de Guillain-Barré)",
+      "Antecedentes de hipertermia maligna",
+      "Hipersensibilidad conocida al BNM",
+      "Uso simultáneo de aminoglucósidos o polimixinas con efecto bloqueador sinérgico"
+    ],
+    "fontes_bibliograficas": [
+      "Sociedad Española de Medicina Intensiva (SEMICYUC) – Recomendaciones sobre uso de BNM en pacientes críticos",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Neuromuscular blocking agents in critically ill patients",
+      "Surviving Sepsis Campaign 2021",
+      "Papazian L, et al. Neuromuscular blockers in early acute respiratory distress syndrome. N Engl J Med. 2010."
+    ]
+  }
+}

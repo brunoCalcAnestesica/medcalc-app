@@ -1,0 +1,74 @@
+{
+  "nome": "Diclofenaco",
+  "nomeIngles": "Diclofenac",
+  "nomeEspanhol": "Diclofenaco",
+  "classificacao": "Anti-inflamatório não esteroidal (AINE); inibidor seletivo da COX-2",
+  "mecanismoAcao": "Inibe seletivamente a ciclooxigenase-2 (COX-2), reduzindo a síntese de prostaglandinas pró-inflamatórias. Possui menor efeito sobre COX-1, reduzindo efeitos gastrointestinais adversos.",
+  "farmacocinetica": "Absorção IM rápida, pico 10-30 min, vida média 1-2h, metabolismo hepático, excreção renal (65%) e fecal (35%).",
+  "farmacodinamica": "Potente anti-inflamatório, analgésico e antipirético. Reduz edema, inflamação e dor. Efeito seletivo sobre COX-2 mantém efeito anti-inflamatório com menor toxicidade gastrointestinal.",
+  "apresentacoes": [
+    {
+      "concentracao": "75 mg/3 mL",
+      "apresentacao": "Ampola 3 mL",
+      "via": "IM"
+    },
+    {
+      "concentracao": "75 mg/2 mL", 
+      "apresentacao": "Ampola 2 mL",
+      "via": "IM"
+    },
+    {
+      "concentracao": "75 mg/1 mL",
+      "apresentacao": "Ampola 1 mL", 
+      "via": "IM"
+    }
+  ],
+  "preparacao": "• Diluir em 50-100 mL de SF 0,9% ou SG 5%\n• Administrar por infusão lenta (30-60 min)\n• Não misturar com outras drogas\n• Proteger da luz",
+  "indicacoesClinicas": [
+    {
+      "indicacao": "Dor aguda moderada a intensa",
+      "dose": "75 mg IM",
+      "frequencia": "8-12h",
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Dor pós-operatória",
+      "dose": "75 mg IM",
+      "frequencia": "8-12h", 
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Cólica renal",
+      "dose": "75 mg IM",
+      "frequencia": "8-12h",
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Dor lombar aguda",
+      "dose": "75 mg IM",
+      "frequencia": "8-12h",
+      "duracao": "Máximo 3 dias"
+    }
+  ],
+  "observacoes": "• Monitorar função renal em pacientes de risco\n• Evitar uso prolongado (>3 dias)\n• Suspender 48h antes de cirurgias eletivas\n• Cuidado em pacientes com história de úlcera péptica\n• Monitorar pressão arterial",
+  "metabolismo": "Metabolizado no fígado por CYP2C9 e CYP3A4. Forma metabólitos ativos e inativos. Excreção renal (65%) e fecal (35%).",
+  "contraindicacoes": [
+    "Hipersensibilidade ao diclofenaco ou outros AINEs",
+    "Úlcera péptica ativa",
+    "Insuficiência renal grave (ClCr <30 mL/min)",
+    "Insuficiência hepática grave",
+    "Terceiro trimestre de gravidez",
+    "História de asma induzida por AINEs",
+    "Síndrome de Stevens-Johnson ou necrólise epidérmica tóxica prévia"
+  ],
+  "reacoesAdversas": [
+    "Gastrintestinais: náusea, vômito, dor epigástrica, úlcera péptica, sangramento GI",
+    "Renais: insuficiência renal aguda, retenção hídrica, hipertensão",
+    "Cardiovasculares: edema, hipertensão, insuficiência cardíaca",
+    "Hematológicas: trombocitopenia, anemia, leucopenia",
+    "Hepáticas: elevação de transaminases, hepatite",
+    "Alérgicas: rash, urticária, anafilaxia, asma",
+    "Outras: cefaleia, tontura, sonolência"
+  ],
+  "interacaoMedicamento": "• Aumenta risco de sangramento com anticoagulantes, antiagregantes\n• Reduz efeito de diuréticos e anti-hipertensivos\n• Aumenta toxicidade de lítio e metotrexato\n• Interfere com ciclosporina e tacrolimo\n• Cuidado com inibidores de CYP2C9"
+} 

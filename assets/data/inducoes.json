@@ -1,0 +1,639 @@
+{
+  "choque_cardiogenico": {
+    "titulo": "Choque Cardiogênico",
+    "medicamentos": [
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "sepse": {
+    "titulo": "Sepse",
+    "medicamentos": [
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Quetamina", "dose_mg_kg": 1.5 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "tce_grave": {
+    "titulo": "TCE Grave",
+    "medicamentos": [
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "broncoespasmo": {
+    "titulo": "Broncoespasmo",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "intubacao_de_seguranca": {
+    "titulo": "Intubação de Segurança",
+    "medicamentos": [
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "asma_aguda": {
+    "titulo": "Asma Aguda Grave",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.5 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "intubacao_rapida": {
+    "titulo": "Sequência Rápida",
+    "medicamentos": [
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Quetamina", "dose_mg_kg": 1.5 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "hemorragia_masiva": {
+    "titulo": "Hemorragia Masiva",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "intoxicacao": {
+    "titulo": "Intoxicação Exógena",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "covid_19": {
+    "titulo": "Insuficiência Respiratória por COVID-19",
+    "medicamentos": [
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "queimaduras": {
+    "titulo": "Grandes Queimados",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.5 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 2.0 }
+    ]
+  },
+  "gestante_instavel": {
+    "titulo": "Gestante Instável",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "rebaixamento_nivel_consciencia": {
+    "titulo": "Rebaixamento do Nível de Consciência (Glasgow ≤ 8)",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "avc_isquemico_extenso": {
+    "titulo": "AVC Isquêmico Extenso",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "avc_hemorragico_hipertensao_ic": {
+    "titulo": "AVC Hemorrágico com Hipertensão Intracraniana",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "convulsao_prolongada": {
+    "titulo": "Convulsão Prolongada",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.1 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "status_epilepticus": {
+    "titulo": "Status Epilepticus",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.15 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "crise_miastenica": {
+    "titulo": "Crise Miastênica",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "sindrome_guillain_barre": {
+    "titulo": "Síndrome de Guillain-Barré em Progressão",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "encefalopatia_hepatica_grau3_4": {
+    "titulo": "Encefalopatia Hepática Grau III/IV",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.001 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "encefalopatia_uremica_grave": {
+    "titulo": "Encefalopatia Urêmica Grave",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "tce_grave": {
+    "titulo": "Trauma Crânioencefálico Grave",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "meningite_rebaixamento_consciencia": {
+    "titulo": "Meningite com Rebaixamento de Consciência",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "tumor_compressao_tronco": {
+    "titulo": "Tumor com Compressão de Tronco Encefálico",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "hematoma_subdural_epidural": {
+    "titulo": "Hematoma Subdural/Epidural Volumoso",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "hipertensao_intracraniana": {
+    "titulo": "Hipertensão Intracraniana Grave",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "intoxicacao_sedativos_hipnoticos": {
+    "titulo": "Intoxicação por Sedativos ou Hipnóticos",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "sdra": {
+    "titulo": "Insuficiência Respiratória Aguda Hipoxêmica (ex: SDRA)",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.1 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "dpoc_hipercapnia": {
+    "titulo": "Insuficiência Respiratória Hipercápnica (DPOC descompensado)",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.001 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "dpoc_grave": {
+    "titulo": "Exacerbação Grave de DPOC",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "asma_grave": {
+    "titulo": "Asma Grave (Estado de Mal Asmático)",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.5 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "pneumonia_grave": {
+    "titulo": "Pneumonia Grave com Insuficiência Respiratória",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "tep_massivo": {
+    "titulo": "TEP Massivo com Instabilidade",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "edema_agudo_pulmao": {
+    "titulo": "Edema Agudo de Pulmão",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.001 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "derrame_pleural_instavel": {
+    "titulo": "Derrame Pleural Volumoso com Instabilidade",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "hemotorax_torax_instavel": {
+    "titulo": "Hemotórax/Tórax Instável",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "trauma_toracico": {
+    "titulo": "Trauma Torácico com Contusão Pulmonar Extensa",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "paralisia_diafragmatica": {
+    "titulo": "Paralisia Diafragmática Bilateral",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "doenca_neuromuscular_ela": {
+    "titulo": "Doença Neuromuscular Descompensada (ex: ELA)",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "falha_ventilacao_nao_invasiva": {
+    "titulo": "Falência da Ventilação Não Invasiva",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "obstrucao_va_superior": {
+    "titulo": "Obstrução de Vias Aéreas Superiores",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "angioedema_grave": {
+    "titulo": "Angioedema Grave (Alérgico ou por IECA)",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "epiglotite": {
+    "titulo": "Epiglotite",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "crupe_grave": {
+    "titulo": "Laringotraqueobronquite Viral (Crupe) Grave",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "risco_colapso_mediastino": {
+    "titulo": "Fístulas ou Massas Mediastinais com Risco de Colapso de VA",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "broncoaspiracao_massiva": {
+    "titulo": "Broncoaspiração Massiva",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "parada_cardiorrespiratoria": {
+    "titulo": "Parada Cardiorrespiratória",
+    "medicamentos": [
+      { "nome": "Adrenalina", "dose_mg_kg": 0.01 },
+      { "nome": "Amiodarona", "dose_mg_kg": 5.0 }
+    ]
+  },
+  "choque_cardiogenico": {
+    "titulo": "Choque Cardiogênico",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "choque_hipovolemico": {
+    "titulo": "Choque Hipovolêmico Grave",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "choque_septico_refratario": {
+    "titulo": "Choque Séptico Refratário",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "tamponamento_cardiaco": {
+    "titulo": "Tamponamento Cardíaco",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "miocardiopatia_dilatada": {
+    "titulo": "Miocardiopatia Dilatada com Congestão Refratária",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "disseccao_aorta_instabilidade": {
+    "titulo": "Dissecção de Aorta com Instabilidade",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "arritmia_ventricular_instavel": {
+    "titulo": "Arritmias Ventriculares Instáveis",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "isquemia_com_instabilidade": {
+    "titulo": "Isquemia Miocárdica com Instabilidade Hemodinâmica",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "cetoacidose_coma": {
+    "titulo": "Cetoacidose Diabética com Rebaixamento de Consciência",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "estado_hiperosmolar": {
+    "titulo": "Estado Hiperosmolar com Deterioração Neurológica",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "hipoglicemia_grave": {
+    "titulo": "Hipoglicemia Severa Prolongada",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.03 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "disturbio_natremia_neuro": {
+    "titulo": "Hipernatremia/Hiponatremia com Sintomas Neurológicos",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "disturbio_calcio_potasio": {
+    "titulo": "Hipocalcemia ou Hipocalemia Grave com Arritmias ou Espasmos",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "hipotermia_grave": {
+    "titulo": "Hipotermia Grave (< 28°C)",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "acidose_metabolica_grave": {
+    "titulo": "Acidose Metabólica Grave com Fadiga Muscular Respiratória",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "insuficiencia_adrenal_aguda": {
+    "titulo": "Insuficiência Adrenal Aguda com Choque Refratário",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "crise_tireotoxica": {
+    "titulo": "Crise Tireotóxica com Rebaixamento ou Insuficiência Respiratória",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "intoxicacao_opioides": {
+    "titulo": "Intoxicação por Opioides",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "intoxicacao_triciclicos": {
+    "titulo": "Intoxicação por Antidepressivos Tricíclicos",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "intoxicacao_alcool_eg": {
+    "titulo": "Intoxicação por Álcool ou Etilenoglicol com Rebaixamento",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "intoxicacao_pesticidas": {
+    "titulo": "Intoxicação por Pesticidas (ex: organofosforados)",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.1 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "intoxicacao_monoxido_carbono": {
+    "titulo": "Intoxicação por Monóxido de Carbono",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "intoxicacao_benzodiazepinicos": {
+    "titulo": "Intoxicação por Benzodiazepínicos ou Barbitúricos",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "superdose_anestesicos_locais": {
+    "titulo": "Superdose de Anestésicos Locais com Convulsão",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.1 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "intoxicacao_inalantes_solventes": {
+    "titulo": "Intoxicação por Inalantes ou Solventes Industriais",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.2 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "pos_ope_grande_cirurgia": {
+    "titulo": "Pós-operatório Imediato de Grandes Cirurgias Torácicas ou Abdominais",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "pre_ope_alto_risco": {
+    "titulo": "Pré-operatório de Paciente de Alto Risco (ASA III/IV)",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "queimadura_face_pescoco": {
+    "titulo": "Queimaduras de Face e Pescoço com Risco de Obstrução de VA",
+    "medicamentos": [
+      { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 2.0 }
+    ]
+  },
+  "trauma_maxilofacial": {
+    "titulo": "Trauma Maxilofacial com Fraturas Instáveis",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "hemorragia_digestiva_broncoaspiracao": {
+    "titulo": "Hemorragia Digestiva Alta com Risco de Broncoaspiração",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Succinilcolina", "dose_mg_kg": 1.5 }
+    ]
+  },
+  "sincope_risco_iminente": {
+    "titulo": "Síncope Recorrente com Risco Iminente",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "hemoptise_massiva": {
+    "titulo": "Hemoptise Maciça",
+    "medicamentos": [
+      { "nome": "Etomidato", "dose_mg_kg": 0.3 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.2 }
+    ]
+  },
+  "pos_pcr_protecao_neuro": {
+    "titulo": "Pós-PCR para Proteção Neurológica",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "transporte_interhospitalar": {
+    "titulo": "Transporte Inter-hospitalar de Paciente Instável",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Fentanil", "dose_mg_kg": 0.002 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "bloqueador_na_uti": {
+    "titulo": "Uso de Bloqueadores Neuromusculares na UTI",
+    "medicamentos": [
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "hipertermia_maligna": {
+    "titulo": "Síndrome de Hipertermia Maligna",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "imunossuprimido_ira": {
+    "titulo": "Paciente Imunossuprimido com IRp Imminente",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+  "va_dificil_eletiva": {
+    "titulo": "Cirurgia Eletiva com VA Difícil Conhecida (Profilática)",
+    "medicamentos": [
+      { "nome": "Midazolam", "dose_mg_kg": 0.05 },
+      { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+    ]
+  },
+    "anafilaxia_instavel": {
+      "titulo": "Anafilaxia com Instabilidade Hemodinâmica",
+      "medicamentos": [
+        { "nome": "Adrenalina", "dose_mg_kg": 0.01 },
+        { "nome": "Quetamina", "dose_mg_kg": 1.0 },
+        { "nome": "Rocurônio", "dose_mg_kg": 1.0 }
+      ]
+    }
+  }
+

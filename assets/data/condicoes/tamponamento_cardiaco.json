@@ -1,0 +1,213 @@
+{
+  "PT": {
+    "titulo": "Tamponamento Cardíaco",
+    "definicao": "O tamponamento cardíaco é uma condição clínica aguda, potencialmente fatal, caracterizada pelo acúmulo de líquido, sangue, pus ou ar no espaço pericárdico, que exerce pressão sobre o coração, limitando o enchimento diastólico e reduzindo o débito cardíaco. É uma forma de choque obstrutivo e requer reconhecimento e intervenção imediata para evitar parada cardiorrespiratória.",
+    "epidemiologia": "É mais frequentemente observado em contextos de neoplasias, pericardite idiopática ou viral, uremia, trauma torácico (penetrante ou fechado), dissecção de aorta e complicações de procedimentos invasivos como biópsia endomiocárdica e colocação de cateteres. A incidência exata é variável conforme o contexto clínico, sendo mais comum em serviços de emergência e unidades de terapia intensiva. Homens e mulheres são igualmente afetados, e pode ocorrer em todas as faixas etárias.",
+    "fisiopatologia": "O pericárdio, quando submetido a um aumento rápido de volume, não tem tempo suficiente para se distender, o que eleva bruscamente a pressão intrapericárdica. Isso compromete o enchimento das câmaras direitas, resultando em diminuição do retorno venoso, queda do débito cardíaco e colapso hemodinâmico. A complacência pericárdica e a velocidade de acúmulo do fluido determinam a severidade. Volumes pequenos (< 200 mL) podem causar tamponamento se acumulados rapidamente, enquanto derrames crônicos podem atingir 1–2 L sem tamponamento clínico.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Dispneia progressiva e ortopneia",
+        "Hipotensão arterial sistêmica",
+        "Turgência jugular e ingurgitamento venoso",
+        "Bulhas cardíacas abafadas",
+        "Pulso paradoxal (queda > 10 mmHg na PAS durante inspiração)"
+      ],
+      "outras": [
+        "Taquicardia sinusal",
+        "Dor torácica atípica ou sensação de opressão precordial",
+        "Confusão mental, síncope",
+        "Oligúria, anúria, extremidades frias",
+        "Choque obstrutivo com acidose lática refratária"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico deve ser clínico-suspeito em pacientes com choque de origem não explicada associado a sinais de congestão venosa. A tríade de Beck (hipotensão, bulhas abafadas, turgência jugular) está presente em menos de 50% dos casos. O diagnóstico definitivo é ecocardiográfico, que evidencia derrame pericárdico, colapso das câmaras direitas, dilatação da veia cava inferior sem colapsabilidade e variação respiratória acentuada (> 25%) no fluxo transvalvar. ECG e RX podem fornecer pistas adicionais.",
+      "exames_essenciais": [
+        "Ecocardiograma transtorácico (exame de escolha)",
+        "ECG: alternância elétrica, baixa voltagem, taquicardia",
+        "Radiografia de tórax: cardiomegalia, derrame pleural",
+        "Tomografia de tórax (se suspeita de malignidade, dissecção ou trauma)",
+        "Gasometria arterial com lactato (avalia hipoperfusão)",
+        "Exames laboratoriais: função renal, eletrólitos, troponina, coagulograma"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Hipoxemia refratária (SpO₂ < 90% apesar de O₂ suplementar)",
+      "Sinais de falência ventilatória (FR > 35, uso de musculatura acessória)",
+      "Glasgow < 8 por hipoperfusão cerebral",
+      "Comprometimento respiratório associado a trauma torácico",
+      "Parada cardiorrespiratória iminente ou assistolia"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitorização hemodinâmica contínua com ECG, PAM e SpO₂",
+        "Oximetria, capnografia e acesso venoso calibroso",
+        "Infusão de cristaloides com cautela (bolus de 250 mL), repetido conforme resposta clínica",
+        "Evitar uso de diuréticos e vasodilatadores",
+        "Realizar pericardiocentese guiada por ecocardiografia à beira-leito (via subxifoide ou paraesternal)",
+        "Se instável e sem disponibilidade de eco: punção de emergência orientada por pontos de referência",
+        "Coletar líquido pericárdico para análises bioquímicas, microbiológicas e citológicas",
+        "Manter dreno pericárdico por 24–48 horas em casos com drenagem persistente",
+        "Tratamento da causa subjacente (neoplasia, infecção, autoimunidade, trauma)",
+        "Encaminhamento para cirurgia (pericardiotomia ou pericardiectomia) em tamponamentos recorrentes ou loculados"
+      ]
+    },
+    "prognostico": {
+      "comentario": "O desfecho do tamponamento depende da causa, do tempo de evolução e da precocidade do diagnóstico e tratamento. Causas malignas e traumáticas apresentam pior prognóstico. Pericardiocentese realizada em tempo hábil resolve a maioria dos tamponamentos de instalação lenta. Casos fulminantes podem evoluir rapidamente para parada cardiorrespiratória se não tratados. A mortalidade é elevada na ausência de intervenção precoce."
+    },
+    "notas_adicionais": [
+      "Pulso paradoxal pode ser ausente em pacientes ventilados mecanicamente",
+      "A ventilação com PEEP elevada pode agravar o comprometimento hemodinâmico",
+      "Sempre considerar tamponamento em pacientes oncológicos com dispneia e instabilidade hemodinâmica",
+      "Não retardar pericardiocentese em pacientes instáveis por exames complementares",
+      "Após estabilização, investigar etiologia com exames complementares (autoanticorpos, pesquisa de BK, citologia pericárdica)"
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Cardiac tamponade. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 48 – Doença pericárdica.",
+      "Braunwald’s Heart Disease. 12ª ed.",
+      "Tintinalli’s Emergency Medicine. 9ª ed.",
+      "Sociedade Brasileira de Cardiologia – Diretrizes de Pericardiopatias. 2021."
+    ]
+  },
+  "US": {
+    "title": "Cardiac Tamponade",
+    "definition": "Cardiac tamponade is a life-threatening condition caused by the rapid accumulation of fluid, blood, pus, or air in the pericardial space, which exerts pressure on the heart and restricts ventricular filling during diastole, resulting in decreased cardiac output. It is a form of obstructive shock that requires immediate diagnosis and intervention to prevent cardiovascular collapse and death.",
+    "epidemiology": "Cardiac tamponade occurs in various clinical settings including malignancy, idiopathic or viral pericarditis, uremia, chest trauma (penetrating or blunt), aortic dissection, and iatrogenic causes such as myocardial biopsy or central venous catheter insertion. It is more commonly seen in emergency and intensive care settings. Both sexes are affected equally and it can occur at any age.",
+    "pathophysiology": "When the pericardium is rapidly stretched by fluid accumulation, its limited compliance leads to a sharp rise in intrapericardial pressure. This pressure compresses the right-sided heart chambers, particularly during diastole, reducing venous return and stroke volume. Small volumes (100–200 mL) may cause tamponade if the accumulation is acute, whereas chronic effusions may be better tolerated. The rate of accumulation and pericardial compliance determine clinical severity.",
+    "clinical_manifestations": {
+      "classic": [
+        "Progressive dyspnea and orthopnea",
+        "Hypotension",
+        "Jugular venous distention",
+        "Muffled heart sounds",
+        "Pulsus paradoxus (>10 mmHg drop in systolic BP during inspiration)"
+      ],
+      "other": [
+        "Sinus tachycardia",
+        "Chest discomfort or retrosternal pressure",
+        "Altered mental status, presyncope or syncope",
+        "Oliguria or cold extremities",
+        "Obstructive shock with elevated lactate"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis should be suspected in patients with unexplained hypotension and clinical signs of venous congestion. Beck’s triad (hypotension, muffled heart sounds, and jugular venous distension) is classic but not always present. Bedside transthoracic echocardiography is the diagnostic gold standard, showing pericardial effusion, right atrial or ventricular collapse, and respiratory variation >25% in mitral/tricuspid inflow velocities. ECG may show electrical alternans or low voltage. Chest X-ray may reveal cardiomegaly in chronic cases.",
+      "essential_tests": [
+        "Transthoracic echocardiogram (gold standard)",
+        "ECG: low voltage, electrical alternans, sinus tachycardia",
+        "Chest X-ray: enlarged cardiac silhouette or pleural effusion",
+        "Chest CT (if structural or traumatic etiology suspected)",
+        "Arterial blood gas and serum lactate (perfusion markers)",
+        "Laboratory tests: renal function, electrolytes, troponin, coagulation panel"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Refractory hypoxemia (SpO₂ < 90% despite oxygen therapy)",
+      "Signs of respiratory failure (RR > 35, accessory muscle use)",
+      "Altered mental status due to cerebral hypoperfusion",
+      "Respiratory distress in the context of chest trauma",
+      "Impending cardiopulmonary arrest or asystole"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Continuous monitoring: ECG, mean arterial pressure (MAP), oxygen saturation",
+        "Establish large-bore IV access and provide cautious fluid boluses (250 mL), titrated to response",
+        "Avoid early use of diuretics or vasodilators",
+        "Urgent pericardiocentesis under echocardiographic guidance (subxiphoid or parasternal approach)",
+        "If unstable and echo unavailable: perform emergency blind pericardiocentesis using anatomical landmarks",
+        "Send pericardial fluid for cytology, Gram stain, cultures, and biochemical analysis",
+        "Place pericardial drain for 24–48 hours if continuous drainage is needed",
+        "Treat the underlying cause (e.g., neoplasm, infection, autoimmune disease, trauma)",
+        "Refer for surgical pericardial window or pericardiectomy in loculated or recurrent effusions"
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on the underlying cause, time to diagnosis, and speed of intervention. Tamponade due to malignancy or trauma has worse outcomes. Prompt pericardiocentesis is effective in most slowly developing effusions. Fulminant tamponade may lead to cardiac arrest if not rapidly treated. Mortality is significantly reduced with early recognition and definitive drainage."
+    },
+    "additional_notes": [
+      "Pulsus paradoxus may be absent in mechanically ventilated patients",
+      "High PEEP can worsen cardiac output in tamponade physiology",
+      "Tamponade should be suspected in oncology patients with new dyspnea and hypotension",
+      "Do not delay pericardiocentesis in unstable patients for additional imaging",
+      "After stabilization, evaluate etiology with extended testing (autoimmune panel, TB screening, cytology)"
+    ],
+    "references": [
+      "UpToDate. Cardiac tamponade. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 48 – Pericardial Disease.",
+      "Braunwald’s Heart Disease. 12th edition.",
+      "Tintinalli’s Emergency Medicine. 9th edition.",
+      "Brazilian Society of Cardiology – Guidelines for Pericardial Diseases. 2021."
+    ]
+  },
+  "ES": {
+    "titulo": "Tamponamiento Cardíaco",
+    "definicion": "El tamponamiento cardíaco es una condición crítica y potencialmente mortal caracterizada por la acumulación rápida de líquido, sangre, pus o aire en el espacio pericárdico, lo que ejerce presión sobre el corazón, limita el llenado diastólico y reduce el gasto cardíaco. Es una forma de shock obstructivo que requiere diagnóstico inmediato e intervención urgente para evitar colapso cardiovascular y muerte.",
+    "epidemiologia": "El tamponamiento puede presentarse en el contexto de neoplasias, pericarditis viral o idiopática, uremia, traumatismos torácicos (penetrantes o cerrados), disección aórtica y procedimientos invasivos como biopsias endomiocárdicas o colocación de catéteres. Es más frecuente en unidades de emergencia y cuidados intensivos. Afecta por igual a hombres y mujeres y puede ocurrir a cualquier edad.",
+    "fisiopatologia": "La acumulación rápida de contenido en el espacio pericárdico supera la capacidad de distensión del pericardio, lo que eleva rápidamente la presión intrapericárdica. Esto comprime principalmente las cámaras derechas durante la diástole, reduce el retorno venoso y el volumen sistólico, provocando hipotensión y shock. Incluso volúmenes pequeños (100–200 mL) pueden causar tamponamiento si el acúmulo es súbito. La gravedad clínica depende de la velocidad de acumulación y la complacencia pericárdica.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Disnea progresiva y ortopnea",
+        "Hipotensión arterial",
+        "Ingurgitación yugular",
+        "Ruidos cardíacos apagados",
+        "Pulsus paradoxus (descenso de la PAS > 10 mmHg durante la inspiración)"
+      ],
+      "otras": [
+        "Taquicardia sinusal",
+        "Dolor torácico atípico o presión retroesternal",
+        "Confusión, síncope o presíncope",
+        "Oliguria, extremidades frías",
+        "Shock obstructivo con lactato elevado"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Debe sospecharse ante pacientes con hipotensión inexplicada y signos de congestión venosa. La tríada de Beck (hipotensión, ruidos cardíacos apagados, distensión yugular) es clásica pero inconstante. El ecocardiograma transtorácico es el examen de elección, mostrando derrame pericárdico, colapso auricular o ventricular derecho, y variaciones respiratorias > 25% en los flujos mitral y tricuspídeo. El ECG puede mostrar alternancia eléctrica y baja voltaje. La radiografía de tórax puede revelar cardiomegalia en casos crónicos.",
+      "examenes_esenciales": [
+        "Ecocardiografía transtorácica (estándar de oro)",
+        "ECG: bajo voltaje, alternancia eléctrica, taquicardia sinusal",
+        "Radiografía de tórax: silueta cardíaca aumentada o derrame pleural",
+        "Tomografía de tórax (si se sospecha etiología estructural o traumática)",
+        "Gasometría arterial y lactato sérico (indicadores de perfusión)",
+        "Laboratorio: función renal, electrolitos, troponina, coagulación"
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Hipoxemia refractaria (SatO₂ < 90% pese a oxígeno suplementario)",
+      "Signos de insuficiencia respiratoria (FR > 35, uso de músculos accesorios)",
+      "Alteración del estado mental por hipoperfusión cerebral",
+      "Dificultad respiratoria asociada a trauma torácico",
+      "Paro cardiorrespiratorio inminente o asistolia"
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Monitoreo continuo de ECG, PAM y saturación de oxígeno",
+        "Acceso venoso de grueso calibre y administración cuidadosa de líquidos (bolos de 250 mL)",
+        "Evitar uso precoz de diuréticos o vasodilatadores",
+        "Pericardiocentesis urgente guiada por ecocardiografía (subxifoidea o paraesternal)",
+        "Si no hay ecografía disponible y el paciente está inestable: punción guiada por referencias anatómicas",
+        "Enviar líquido pericárdico para citología, cultivo y análisis bioquímico",
+        "Mantener drenaje pericárdico por 24–48 h si hay drenaje persistente",
+        "Tratar la causa subyacente (neoplasias, infecciones, enfermedades autoinmunes, trauma)",
+        "Remitir a cirugía (ventana pericárdica o pericardiectomía) en casos loculados o recidivantes"
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende de la causa, del tiempo hasta el diagnóstico y de la rapidez de la intervención. Los tamponamientos traumáticos o malignos tienen peor evolución. La pericardiocentesis oportuna es eficaz en la mayoría de los casos subagudos. Los tamponamientos fulminantes pueden desencadenar paro cardiaco si no se resuelven rápidamente. La mortalidad disminuye significativamente con reconocimiento precoz y drenaje definitivo."
+    },
+    "notas_adicionales": [
+      "El pulsus paradoxus puede estar ausente en pacientes con ventilación mecánica",
+      "El uso de PEEP alto puede agravar la hemodinámica en contexto de tamponamiento",
+      "Considerar tamponamiento en pacientes oncológicos con disnea e hipotensión",
+      "No demorar la pericardiocentesis en pacientes inestables por estudios adicionales",
+      "Una vez estabilizado, investigar la etiología (panel autoinmune, pruebas para tuberculosis, citología pericárdica)"
+    ],
+    "fuentes_bibliograficas": [
+      "UpToDate. Tamponamiento cardíaco. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 48 – Enfermedades del pericardio.",
+      "Braunwald’s Heart Disease. 12ª edición.",
+      "Tintinalli. Medicina de Urgencias. 9ª edición.",
+      "Sociedad Brasileña de Cardiología – Guías de Pericardiopatías. 2021."
+    ]
+  }
+}

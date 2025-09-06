@@ -1,0 +1,198 @@
+{
+  "PT": {
+    "titulo": "Derrame Pleural Instável",
+    "definicao": "O derrame pleural instável é uma condição clínica caracterizada pelo acúmulo de líquido na cavidade pleural em volume significativo, causando comprometimento respiratório, instabilidade hemodinâmica ou risco de tamponamento cardíaco. Frequentemente está associado a causas infecciosas, neoplásicas ou traumáticas, e pode requerer drenagem imediata.",
+    "epidemiologia": "É uma manifestação comum em emergências respiratórias, podendo ocorrer em até 50% dos casos de pneumonia grave, neoplasias torácicas avançadas, insuficiência cardíaca descompensada ou trauma torácico. Quando volumoso ou loculado, está associado a maior risco de instabilidade clínica.",
+    "fisiopatologia": "O acúmulo de líquido pleural pode resultar de desequilíbrio hidrostático, inflamação, infecção ou obstrução linfática. Grandes volumes exercem efeito compressivo sobre o parênquima pulmonar e estruturas mediastinais, reduzindo a complacência pulmonar e o retorno venoso, causando dispneia e, em casos graves, colapso cardiovascular.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão, taquicardia",
+        "Ingurgitamento jugular e desvio de traqueia (em derrames volumosos)",
+        "Pulso paradoxal e sinais de tamponamento"
+      ],
+      "respiratorias": [
+        "Dispneia súbita ou progressiva",
+        "Redução de murmúrio vesicular e macicez à percussão",
+        "Taquipneia, uso de musculatura acessória",
+        "Hipoxemia refratária"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitação, confusão mental (por hipóxia)",
+        "Acidose respiratória em fases avançadas",
+        "Ansiedade e inquietação"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspeita-se clinicamente por assimetria ventilatória, sinais de macicez e dispneia. Confirmado por imagem (radiografia, ultrassom ou tomografia). O USG à beira-leito é útil para avaliar volume e loculação e guiar toracocentese.",
+      "exames_essenciais": [
+        "Radiografia de tórax (PA e perfil)",
+        "Ultrassonografia torácica com avaliação da espessura e mobilidade",
+        "Tomografia de tórax nos casos duvidosos ou refratários",
+        "Gasometria arterial, marcadores inflamatórios, lactato",
+        "Toracocentese diagnóstica com análise bioquímica e citológica do líquido"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia grave (PaO2 < 60 mmHg ou SpO2 < 90%)",
+      "Rebaixamento do nível de consciência",
+      "Instabilidade hemodinâmica com sinais de tamponamento",
+      "Desvio importante do mediastino e colapso pulmonar"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Estabilização com oxigenoterapia e monitorização contínua",
+        "Punção torácica (toracocentese) de alívio em pacientes com sinais de compressão pulmonar ou instabilidade",
+        "Drenagem pleural com tubo torácico em casos de derrame loculado, purulento, hemático ou refratário",
+        "Uso de USG para guiar punção em pacientes instáveis",
+        "Repor volume em caso de hipotensão associada",
+        "Tratar causa de base: antibiótico, diurético, suporte oncológico, correção cirúrgica"
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico depende da causa subjacente e da rapidez na intervenção. Derrames instáveis tratados precocemente com toracocentese guiada ou drenagem adequada têm boa evolução. Casos negligenciados podem evoluir para falência respiratória, infecção pleural e morte."
+    },
+    "notas_adicionais": [
+      "Evitar retirada rápida de grandes volumes (> 1,5 L) para prevenir edema pulmonar de reexpansão",
+      "Acompanhar débito do dreno e sinais de infecção secundária",
+      "Analisar rotina de exames do líquido pleural: proteínas, DHL, glicose, pH, citologia e cultura",
+      "Considerar biópsia pleural em casos recorrentes ou neoplásicos"
+    ],
+    "fontes_bibliograficas": [
+      "Light RW. Pleural Diseases. 6ª ed. Lippincott Williams & Wilkins; 2013.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Sociedade Brasileira de Pneumologia e Tisiologia. Diretrizes de manejo do derrame pleural. 2020.",
+      "UptoDate. Evaluation and management of pleural effusion in adults. 2023."
+    ]
+  },
+  "US": {
+    "titulo": "Unstable Pleural Effusion",
+    "definicao": "Unstable pleural effusion refers to a large or rapidly accumulating pleural fluid collection that leads to acute respiratory compromise, mediastinal shift, or hemodynamic instability. It is commonly associated with infectious, malignant, traumatic, or postoperative causes, and often requires urgent drainage.",
+    "epidemiologia": "Unstable effusions are commonly encountered in intensive care and emergency settings, particularly among patients with pneumonia, empyema, lung malignancy, congestive heart failure, and thoracic trauma. Massive or loculated effusions are more likely to cause clinical deterioration and ICU admission.",
+    "fisiopatologia": "Pleural effusion occurs due to imbalance between fluid production and absorption. Unstable effusions can result from increased capillary permeability, lymphatic obstruction, or hemorrhage. High pleural pressures reduce lung compliance, compress adjacent structures, impair venous return, and limit effective ventilation and oxygenation.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Tachycardia, hypotension",
+        "Jugular venous distension and tracheal deviation",
+        "Signs of obstructive or compressive physiology"
+      ],
+      "respiratorias": [
+        "Severe dyspnea, tachypnea",
+        "Reduced or absent breath sounds, dullness to percussion",
+        "Use of accessory muscles, paradoxical movement",
+        "Refractory hypoxemia"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitation, altered mental status due to hypoxia",
+        "Respiratory acidosis and hypercapnia",
+        "Anxiety, diaphoresis"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is suspected clinically with asymmetric chest expansion, decreased breath sounds, and respiratory distress. It is confirmed with imaging. Bedside thoracic ultrasound is preferred for evaluating volume, septations, and for guiding drainage.",
+      "exames_essenciais": [
+        "Chest ultrasound for effusion detection and guidance",
+        "Chest X-ray (PA and lateral) showing blunted costophrenic angles or mediastinal shift",
+        "Thoracic CT for complex, multiloculated or diagnostic uncertainty",
+        "Diagnostic thoracentesis with pleural fluid analysis: LDH, protein, pH, glucose, cytology, microbiology",
+        "ABG, CBC, inflammatory markers, renal and hepatic function"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "SpO2 < 90% or PaO2 < 60 mmHg on supplemental oxygen",
+      "Hypercapnia with respiratory acidosis and altered consciousness",
+      "Hemodynamic collapse or tamponade physiology",
+      "Complete lung collapse or mediastinal shift"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Administer high-flow oxygen",
+        "Urgent thoracentesis in symptomatic or unstable patients",
+        "Chest tube placement for infected, loculated, hematic or recurrent effusions",
+        "Use ultrasound guidance to minimize complications",
+        "Volume resuscitation if hypovolemia is present",
+        "Treat underlying cause: antibiotics for empyema, diuretics for CHF, oncologic therapy for malignancy"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis is variable and depends on the underlying cause, volume of effusion, and timeliness of intervention. Prompt drainage and treatment of the underlying etiology improve outcomes. Delay increases the risk of empyema, respiratory failure, or death."
+    },
+    "notas_adicionais": [
+      "Do not remove more than 1.5 liters in a single thoracentesis session to avoid re-expansion pulmonary edema",
+      "Monitor chest tube output and signs of infection",
+      "Biopsy may be indicated in undiagnosed exudative effusions",
+      "Correct coagulopathies prior to intervention when possible"
+    ],
+    "fontes_bibliograficas": [
+      "Light RW. Pleural Diseases. 6th ed. Lippincott Williams & Wilkins; 2013.",
+      "British Thoracic Society Pleural Disease Guideline. Thorax. 2010.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "UpToDate. Evaluation and management of pleural effusion in adults. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Derrame Pleural Inestable",
+    "definicao": "El derrame pleural inestable es una acumulación rápida o voluminosa de líquido en la cavidad pleural que compromete la ventilación, oxigenación y estabilidad hemodinámica. Puede provocar colapso pulmonar, desviación mediastínica y fisiología de taponamiento, requiriendo intervención inmediata.",
+    "epidemiologia": "Es frecuente en pacientes hospitalizados con neumonía grave, cáncer de pulmón, insuficiencia cardíaca congestiva, trauma torácico o sepsis. Los derrames masivos o loculados tienen mayor riesgo de deterioro clínico, especialmente en unidades de cuidados intensivos.",
+    "fisiopatologia": "La acumulación de líquido puede deberse a aumento de la presión hidrostática (ICC), permeabilidad capilar (infección), obstrucción linfática (neoplasia) o hemorragia. El aumento de presión pleural reduce la expansión pulmonar, limita el retorno venoso y deteriora la oxigenación.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión, taquicardia",
+        "Distensión yugular, desviación traqueal",
+        "Signos de shock obstructivo o taponamiento"
+      ],
+      "respiratorias": [
+        "Disnea progresiva, ortopnea",
+        "Murmullo vesicular abolido, matidez a la percusión",
+        "Taquipnea, uso de músculos accesorios",
+        "Hipoxemia refractaria, fatiga respiratoria"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitación, confusión por hipoxia",
+        "Acidosis respiratoria, hipercapnia",
+        "Diaforesis, ansiedad, compromiso del estado mental"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Se sospecha por clínica y se confirma por imágenes. La ecografía torácica es el método preferido en la cabecera del paciente para estimar el volumen, evaluar tabiques y guiar drenajes.",
+      "exames_essenciais": [
+        "Ecografía de tórax",
+        "Radiografía de tórax (PA y lateral) con ángulo costofrénico obtuso",
+        "TC de tórax para casos complejos o diagnóstico incierto",
+        "Toracocentesis diagnóstica con análisis del líquido: proteínas, LDH, pH, glucosa, citología, cultivo",
+        "Gasometría arterial, hemograma, función renal y hepática"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia severa (SpO2 < 90% o PaO2 < 60 mmHg con oxígeno)",
+      "Rebajamiento del nivel de conciencia con hipercapnia",
+      "Colapso hemodinámico o signos de taponamiento cardíaco",
+      "Colapso pulmonar total o desviación mediastínica significativa"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxígeno de alto flujo con máscara reservorio (FiO2 > 60%)",
+        "Toracocentesis urgente en pacientes sintomáticos o inestables",
+        "Colocación de tubo torácico en empiemas, hemotórax o derrames loculados",
+        "Guiado ecográfico para aumentar seguridad en pacientes críticos",
+        "Reposición de volumen si hay hipotensión asociada",
+        "Antibióticos empíricos si se sospecha empiema",
+        "Tratamiento dirigido a la causa de base (neoplasia, ICC, trauma, infección)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico depende de la causa subyacente, el volumen del derrame y la prontitud de la intervención. El drenaje precoz y el tratamiento etiológico mejoran el desenlace. El retraso puede causar empiema, insuficiencia respiratoria o muerte."
+    },
+    "notas_adicionais": [
+      "Evitar drenar más de 1,5 L en una sola toracocentesis para prevenir edema pulmonar de reexpansión",
+      "Monitorizar el débito del tubo y características del líquido",
+      "Considerar biopsia pleural en derrames exudativos recurrentes o sin diagnóstico",
+      "Corregir coagulopatías antes de procedimientos invasivos cuando sea posible"
+    ],
+    "fontes_bibliograficas": [
+      "Light RW. Pleural Diseases. 6ª ed. Lippincott Williams & Wilkins; 2013.",
+      "Guías de la Sociedad Española de Neumología. Manejo del derrame pleural. Arch Bronconeumol. 2020.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "UpToDate. Evaluación y manejo del derrame pleural en adultos. 2023."
+    ]
+  }
+}

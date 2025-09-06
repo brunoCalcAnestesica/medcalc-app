@@ -1,0 +1,227 @@
+{
+  "PT": {
+    "titulo": "Hemorragia Masiva",
+    "definicao": "Hemorragia masiva é definida como uma perda aguda e contínua de sangue em volume suficiente para ameaçar a perfusão tecidual e a estabilidade hemodinâmica. Pode ser conceitualmente definida como perda ≥ 1.500 mL ou > 30% da volemia em menos de 3 horas, transfusão de ≥ 10 unidades de concentrado de hemácias em 24 horas, ou necessidade de ≥ 4 unidades em 1 hora em sangramento ativo. Representa uma emergência médico-cirúrgica que exige intervenção imediata e abordagem multidisciplinar com reposição volêmica agressiva, hemostasia precoce e prevenção da tríade letal: coagulopatia, acidose e hipotermia.",
+    "epidemiologia": "A hemorragia masiva é uma das principais causas de morte evitável nos cenários de trauma grave, hemorragia obstétrica, cirurgia cardiovascular e ruptura de aneurismas. É responsável por até 30–40% das mortes relacionadas ao trauma e por grande parte das mortes precoces em politraumatizados. No Brasil, hemorragias obstétricas estão entre as principais causas de mortalidade materna. Fatores de risco incluem coagulopatias, uso de anticoagulantes, grandes ressecções tumorais, varizes esofagogástricas e cirurgias hepáticas ou ortopédicas de grande porte.",
+    "fisiopatologia": "A perda volumétrica aguda leva a hipovolemia, queda do retorno venoso, redução do débito cardíaco e colapso da microcirculação. Ocorre hipoperfusão tecidual, resultando em metabolismo anaeróbico, acidose lática e disfunção celular progressiva. A reposição inadequada ou excessiva com cristaloides promove hemodiluição, acentuando a coagulopatia. A hipotermia reduz a atividade das enzimas da cascata da coagulação. Esse conjunto de distúrbios forma a 'tríade letal' (hipotermia, coagulopatia e acidose), frequentemente fatal se não interrompido precocemente.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Hipotensão arterial (PAS < 90 mmHg)",
+        "Taquicardia (> 120 bpm)",
+        "Palidez cutâneo-mucosa, extremidades frias",
+        "Rebaixamento do nível de consciência ou agitação",
+        "Pulso periférico filiforme ou ausente"
+      ],
+      "outras": [
+        "Oligúria (< 0,5 mL/kg/h)",
+        "Taquipneia ou dispneia com hipoxemia",
+        "Sinais locais de sangramento ativo (abdome distendido, hematêmese, sangramento transvaginal, ferida penetrante)",
+        "Tempo de enchimento capilar prolongado (> 3 segundos)",
+        "Sinais clínicos de hipoperfusão (lactato elevado, extremidades cianóticas)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Deve ser baseado no reconhecimento imediato de sinais clínicos de hipoperfusão e evidência objetiva de sangramento ativo. A classificação da hemorragia em quatro graus auxilia a estimativa inicial da volemia perdida. A abordagem segue o protocolo ABCDE, com priorização da via aérea, ventilação e controle de hemorragias visíveis. O protocolo de transfusão maciça deve ser acionado precocemente. Avaliações radiológicas e laboratoriais são úteis para localização da fonte e monitoramento terapêutico.",
+      "exames_essenciais": [
+        "Gasometria arterial (pH, PaO₂, PaCO₂, lactato)",
+        "Hemoglobina, hematócrito seriados",
+        "Plaquetas, TAP, TTPa, INR, fibrinogênio",
+        "Cálcio iônico (rastreio de hipocalcemia induzida por citrato)",
+        "Função renal e eletrólitos (Na, K, Mg)",
+        "Lactato arterial (hipoperfusão)",
+        "ECG (isquemia, arritmias)",
+        "Ultrassonografia FAST (trauma)",
+        "AngioTC ou endoscopia digestiva (se estável)",
+        "Tipagem sanguínea urgente e provas cruzadas"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Insuficiência respiratória com esforço e SpO₂ < 90%",
+      "Rebaixamento do nível de consciência (Glasgow ≤ 8)",
+      "Acidose metabólica grave (pH < 7,1)",
+      "Taquipneia com exaustão iminente",
+      "Necessidade de controle ventilatório em contexto cirúrgico"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Ativação precoce do protocolo de transfusão maciça institucional",
+        "Dois acessos venosos periféricos de grosso calibre (14–16G) ou acesso intraósseo",
+        "Infusão de cristaloides aquecidos com monitoramento da resposta hemodinâmica",
+        "Transfusão balanceada (1:1:1:1: hemácias, plasma, plaquetas, crioprecipitado)",
+        "Administração precoce de ácido tranexâmico (1g EV em 10 min + 1g em 8h)",
+        "Correção de hipocalcemia (gluconato de cálcio 10%, 10 mL IV lento)",
+        "Correção da hipotermia (cobertores térmicos, fluidos e bolsa de sangue aquecidos)",
+        "Localização e controle definitivo da fonte hemorrágica (cirurgia, embolização, endoscopia)",
+        "Monitoramento de diurese, temperatura, coagulograma e eletrólitos",
+        "Encaminhamento para UTI com suporte hemodinâmico contínuo e controle laboratorial frequente"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Hemorragias masivas não controladas apresentam alta mortalidade. O prognóstico melhora com ativação precoce de protocolos, acesso a hemoderivados e controle cirúrgico eficaz. A presença de acidose severa, hipotermia < 35°C, coagulopatia grave e transfusão > 20 unidades de CH estão associadas a pior desfecho. O tempo até o controle da hemorragia é o principal fator determinante de sobrevida."
+    },
+    "notas_adicionais": [
+      "Evite hemodiluição excessiva com uso isolado de cristaloides",
+      "Realize aquecimento ativo contínuo do paciente e hemoderivados",
+      "Monitore continuamente cálcio, lactato e fibrinogênio durante a reposição",
+      "Protocolos de transfusão maciça devem estar previamente estabelecidos e treinados",
+      "A reversão de anticoagulantes deve ser considerada com urgência conforme agente envolvido"
+    ],
+    "fontes_bibliograficas": [
+      "ATLS – Advanced Trauma Life Support. 10ª edição.",
+      "SBHCI – Protocolo Brasileiro de Hemorragia Masiva. 2023.",
+      "UpToDate. Massive transfusion protocols. 2024.",
+      "Tintinalli’s Emergency Medicine. 9ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 87 – Hemorragia e coagulopatias."
+    ]
+  },
+  "US": {
+    "title": "Massive Hemorrhage",
+    "definition": "Massive hemorrhage is defined as an acute and ongoing loss of blood volume sufficient to threaten tissue perfusion and hemodynamic stability. Operational definitions include blood loss ≥ 1,500 mL or > 30% of total blood volume within 3 hours, transfusion of ≥ 10 units of packed red blood cells (PRBCs) in 24 hours, or ≥ 4 units within 1 hour in the setting of active bleeding. It is a medical-surgical emergency that requires immediate multidisciplinary management, aggressive volume replacement, early hemostasis, and prevention of the lethal triad: coagulopathy, acidosis, and hypothermia.",
+    "epidemiology": "Massive hemorrhage is one of the leading preventable causes of death in major trauma, obstetric hemorrhage, cardiovascular surgery, and ruptured aneurysms. It accounts for up to 30–40% of trauma-related deaths and many early fatalities in polytrauma. In Brazil, obstetric hemorrhage is among the top causes of maternal mortality. Risk factors include coagulopathies, anticoagulant use, large oncologic resections, gastroesophageal varices, and major hepatic or orthopedic surgery.",
+    "pathophysiology": "Acute volume loss leads to hypovolemia, decreased venous return, reduced cardiac output, and collapse of the microcirculation. This results in tissue hypoperfusion, anaerobic metabolism, lactic acidosis, and progressive cellular dysfunction. Inadequate or excessive fluid resuscitation with crystalloids worsens coagulopathy through hemodilution. Hypothermia impairs enzymatic function of the coagulation cascade. Together, these elements form the 'lethal triad' (hypothermia, coagulopathy, and acidosis), which is often fatal if not promptly addressed.",
+    "clinical_manifestations": {
+      "classic": [
+        "Systolic hypotension (SBP < 90 mmHg)",
+        "Tachycardia (> 120 bpm)",
+        "Pallor of skin and mucous membranes, cold extremities",
+        "Altered mental status (agitation or decreased consciousness)",
+        "Weak or absent peripheral pulses"
+      ],
+      "other": [
+        "Oliguria (< 0.5 mL/kg/h)",
+        "Tachypnea or dyspnea with hypoxemia",
+        "Signs of localized bleeding (distended abdomen, hematemesis, vaginal bleeding, penetrating trauma)",
+        "Prolonged capillary refill (> 3 seconds)",
+        "Clinical signs of hypoperfusion (elevated lactate, cyanotic extremities)"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis should be based on the immediate recognition of clinical signs of hypoperfusion and objective evidence of ongoing hemorrhage. Classification into four hemorrhage grades assists initial volume loss estimation. The approach follows the ABCDE trauma protocol, prioritizing airway, ventilation, and visible bleeding control. Massive transfusion protocols should be activated early. Imaging and lab tests are essential for localizing the source and monitoring the therapeutic response.",
+      "essential_tests": [
+        "Arterial blood gas (pH, PaO₂, PaCO₂, lactate)",
+        "Serial hemoglobin and hematocrit",
+        "Platelets, PT, aPTT, INR, fibrinogen",
+        "Ionized calcium (monitor for citrate-induced hypocalcemia)",
+        "Renal function and electrolytes (Na, K, Mg)",
+        "Serum lactate (tissue perfusion indicator)",
+        "ECG (ischemia, arrhythmias)",
+        "FAST ultrasound (trauma patients)",
+        "CT angiography or endoscopy (if hemodynamically stable)",
+        "Urgent blood typing and crossmatching"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Respiratory failure with effort and SpO₂ < 90%",
+      "Glasgow Coma Scale ≤ 8",
+      "Severe metabolic acidosis (pH < 7.1)",
+      "Tachypnea with signs of imminent exhaustion",
+      "Need for ventilatory control in operative setting"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Early activation of institutional massive transfusion protocol (MTP)",
+        "Two large-bore peripheral IVs (14–16G) or intraosseous access",
+        "Infuse warmed crystalloids with hemodynamic response monitoring",
+        "Balanced transfusion (1:1:1:1: PRBCs, plasma, platelets, cryoprecipitate)",
+        "Early administration of tranexamic acid (1g IV over 10 min + 1g over 8h)",
+        "Correct hypocalcemia (calcium gluconate 10%, 10 mL IV slowly)",
+        "Actively rewarm patient and fluids/blood products to avoid hypothermia",
+        "Identify and definitively control bleeding source (surgery, embolization, endoscopy)",
+        "Monitor urine output, temperature, coagulation profile, and electrolytes",
+        "Transfer to ICU for continuous hemodynamic support and lab reassessment"
+      ]
+    },
+    "prognosis": {
+      "comment": "Uncontrolled massive hemorrhage carries high mortality. Early protocol activation, timely hemostasis, and access to blood components improve outcomes. Poor prognosis is associated with severe acidosis, hypothermia < 35°C, profound coagulopathy, and transfusion > 20 units of PRBCs. Time to hemorrhage control is the most critical determinant of survival."
+    },
+    "additional_notes": [
+      "Avoid excessive crystalloids to prevent dilutional coagulopathy and tissue edema",
+      "Ensure continuous active warming of the patient and all infusions",
+      "Frequent monitoring of calcium, lactate, and fibrinogen is essential",
+      "Massive transfusion protocols should be predefined and rehearsed",
+      "Urgently reverse anticoagulation depending on the agent (vitamin K, PCC, andexanet alfa)"
+    ],
+    "references": [
+      "ATLS – Advanced Trauma Life Support. 10th edition.",
+      "Brazilian Society of Hematology and Hemotherapy – National Protocol for Massive Transfusion. 2023.",
+      "UpToDate. Massive transfusion protocols. 2024.",
+      "Tintinalli’s Emergency Medicine. 9th ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 87 – Hemorrhage and Coagulopathies."
+    ]
+  },
+  "ES": {
+    "titulo": "Hemorragia Masiva",
+    "definicion": "La hemorragia masiva se define como una pérdida aguda y continua de sangre en volumen suficiente para comprometer la perfusión tisular y la estabilidad hemodinámica. Las definiciones operativas incluyen pérdida sanguínea ≥ 1.500 mL o > 30% del volumen sanguíneo total en menos de 3 horas, transfusión de ≥ 10 unidades de concentrado de hematíes en 24 horas, o ≥ 4 unidades en 1 hora en contexto de sangrado activo. Representa una emergencia médico-quirúrgica que requiere intervención inmediata con manejo multidisciplinario, reposición agresiva de volumen, control hemostático precoz y prevención de la tríada letal: coagulopatía, acidosis e hipotermia.",
+    "epidemiologia": "La hemorragia masiva es una de las principales causas de muerte prevenible en trauma mayor, hemorragia obstétrica, cirugía cardiovascular y ruptura de aneurismas. Es responsable de hasta el 30–40% de las muertes relacionadas con trauma y de muchas muertes precoces en politraumatizados. En Brasil, la hemorragia obstétrica figura entre las principales causas de mortalidad materna. Los factores de riesgo incluyen coagulopatías, uso de anticoagulantes, resecciones oncológicas extensas, várices esofágicas y cirugía hepática u ortopédica de gran porte.",
+    "fisiopatologia": "La pérdida aguda de volumen conduce a hipovolemia, disminución del retorno venoso, reducción del gasto cardíaco y colapso de la microcirculación. Esto provoca hipoperfusión tisular, metabolismo anaeróbico, acidosis láctica y disfunción celular progresiva. La reposición inadecuada o excesiva con cristaloides empeora la coagulopatía por hemodilución. La hipotermia compromete la función enzimática de la cascada de coagulación. Estos elementos conforman la 'tríada letal' (hipotermia, coagulopatía y acidosis), a menudo fatal si no se revierte a tiempo.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Hipotensión arterial (PAS < 90 mmHg)",
+        "Taquicardia (> 120 lpm)",
+        "Palidez cutánea y de mucosas, extremidades frías",
+        "Alteración del estado mental (agitación o somnolencia)",
+        "Pulso periférico débil o ausente"
+      ],
+      "otras": [
+        "Oliguria (< 0,5 mL/kg/h)",
+        "Taquipnea o disnea con hipoxemia",
+        "Signos de sangrado activo (abdomen distendido, hematemesis, sangrado vaginal, herida penetrante)",
+        "Tiempo de llenado capilar prolongado (> 3 segundos)",
+        "Signos clínicos de hipoperfusión (lactato elevado, cianosis distal)"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico se basa en el reconocimiento inmediato de signos clínicos de hipoperfusión y evidencia objetiva de sangrado activo. La clasificación en cuatro grados de hemorragia ayuda a estimar la pérdida de volumen. El abordaje sigue el protocolo ABCDE, priorizando la vía aérea, la ventilación y el control de hemorragias evidentes. Los protocolos de transfusión masiva deben activarse precozmente. Los exámenes por imagen y los análisis de laboratorio permiten localizar la fuente y monitorear la respuesta terapéutica.",
+      "examenes_esenciales": [
+        "Gasometría arterial (pH, PaO₂, PaCO₂, lactato)",
+        "Hemoglobina y hematocrito seriados",
+        "Plaquetas, TP, TTPa, INR, fibrinógeno",
+        "Calcio iónico (hipocalcemia inducida por citrato)",
+        "Función renal y electrolitos (Na, K, Mg)",
+        "Lactato sérico (indicador de hipoperfusión)",
+        "ECG (isquemia, arritmias)",
+        "Ultrasonido FAST (en trauma)",
+        "AngioTC o endoscopia (si hemodinámicamente estable)",
+        "Tipificación y pruebas cruzadas urgentes"
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Insuficiencia respiratoria con esfuerzo y SatO₂ < 90%",
+      "Glasgow ≤ 8",
+      "Acidosis metabólica grave (pH < 7,1)",
+      "Taquipnea con signos de agotamiento inminente",
+      "Necesidad de control ventilatorio en contexto quirúrgico"
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Activación precoz del protocolo institucional de transfusión masiva",
+        "Colocación de dos accesos venosos periféricos gruesos (14–16G) o acceso intraóseo",
+        "Infusión de cristaloides templados con monitoreo de la respuesta hemodinámica",
+        "Transfusión balanceada (1:1:1:1: eritrocitos, plasma, plaquetas, crioprecipitado)",
+        "Administración precoz de ácido tranexámico (1 g IV en 10 min + 1 g en 8 h)",
+        "Corrección de la hipocalcemia (gluconato cálcico 10%, 10 mL IV lento)",
+        "Recalentamiento activo del paciente y de fluidos/hemoderivados",
+        "Control definitivo de la fuente hemorrágica (cirugía, embolización, endoscopia)",
+        "Monitoreo de diuresis, temperatura, coagulación y electrólitos",
+        "Traslado a UCI para soporte hemodinámico y revaluación continua"
+      ]
+    },
+    "pronostico": {
+      "comentario": "La hemorragia masiva no controlada tiene una mortalidad elevada. El pronóstico mejora con activación precoz de protocolos, acceso rápido a hemoderivados y control hemostático eficaz. Los factores de mal pronóstico incluyen acidosis grave, hipotermia < 35 °C, coagulopatía severa y transfusión > 20 unidades de eritrocitos. El tiempo hasta el control del sangrado es el principal determinante de supervivencia."
+    },
+    "notas_adicionales": [
+      "Evite el uso excesivo de cristaloides para prevenir la coagulopatía dilucional y el edema tisular",
+      "Recaliente activamente al paciente y todas las infusiones",
+      "Monitoree calcio, lactato y fibrinógeno con frecuencia durante la reposición",
+      "Los protocolos de transfusión masiva deben estar preestablecidos y ser entrenados por el equipo",
+      "La reversión de anticoagulantes debe realizarse de forma urgente según el agente implicado"
+    ],
+    "fuentes_bibliograficas": [
+      "ATLS – Advanced Trauma Life Support. 10ª edición.",
+      "Sociedad Brasileña de Hematología y Hemoterapia – Protocolo Nacional de Transfusión Masiva. 2023.",
+      "UpToDate. Protocolos de transfusión masiva. 2024.",
+      "Tintinalli. Medicina de Urgencias. 9ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 87 – Hemorragias y coagulopatías."
+    ]
+  }
+}

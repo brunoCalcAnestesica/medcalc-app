@@ -1,0 +1,206 @@
+{
+  "PT": {
+    "titulo": "Intoxicação por Pesticidas",
+    "definicao": "A intoxicação por pesticidas é uma condição clínica aguda ou crônica provocada pela exposição a substâncias químicas utilizadas no controle de pragas agrícolas, veterinárias ou urbanas. Os grupos mais comuns incluem organofosforados, carbamatos, piretroides, organoclorados, fungicidas e herbicidas (como paraquat e glifosato). A toxicidade pode ocorrer por via oral, inalatória, dérmica ou ocular, com efeitos sistêmicos potencialmente fatais, especialmente em casos de tentativa de suicídio ou acidentes ocupacionais.",
+    "epidemiologia": "As intoxicações por pesticidas são uma importante causa de morbimortalidade global, com alta incidência em áreas agrícolas de países em desenvolvimento. Estima-se mais de 3 milhões de casos anuais e 200 mil mortes relacionadas. Os organofosforados são os principais envolvidos em intoxicações suicidas. Trabalhadores rurais, aplicadores de agrotóxicos e populações expostas ao uso indiscriminado ou inadequado desses produtos constituem os grupos de risco.",
+    "fisiopatologia": "Os organofosforados e carbamatos inibem a enzima acetilcolinesterase, impedindo a degradação da acetilcolina e provocando hiperestimulação colinérgica (muscarínica, nicotínica e central). Os piretroides afetam canais de sódio neuronais, causando excitação prolongada. Os herbicidas como o paraquat produzem espécies reativas de oxigênio, levando à fibrose pulmonar irreversível. Organoclorados como o DDT causam neurotoxicidade por alteração da permeabilidade iônica. A toxicidade depende da dose, via de exposição e tempo de contato.",
+    "manifestações_clinicas": {
+      "colinergicas_muscarinicas": [
+        "Sialorreia intensa, lacrimejamento, rinorreia.",
+        "Broncorreia, broncoespasmo, dispneia.",
+        "Bradicardia, cólicas abdominais, diarreia, miose acentuada, incontinência urinária e fecal."
+      ],
+      "colinergicas_nicotinicas": [
+        "Fasciculações musculares, cãibras, fraqueza generalizada.",
+        "Taquicardia, hipertensão, hipertonia.",
+        "Paralisia respiratória por bloqueio neuromuscular em fase avançada."
+      ],
+      "neurotoxicas_centrais": [
+        "Ansiedade, confusão, alucinações.",
+        "Convulsões tônico-clônicas, coma.",
+        "Depressão do centro respiratório, síndrome da excitação colinérgica e síndrome intermediária (paralisia proximal 24–96h após exposição)."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é eminentemente clínico, com base em história de exposição ocupacional, ambiental ou tentativa autolítica, associada a sinais colinérgicos típicos. A tríade clássica é miose, sialorreia e broncorreia. A ausência de febre e sinais focais ajuda a afastar causas infecciosas ou neurológicas estruturais.",
+      "exames_essenciais": [
+        "Dosagem de colinesterase plasmática e eritrocitária (↓ nos organofosforados/carbamatos).",
+        "Gasometria arterial: hipoxemia, hipercapnia e acidose metabólica/láctica.",
+        "Radiografia de tórax ou TC se suspeita de lesão pulmonar (especialmente em paraquat).",
+        "ECG: bradicardia, bloqueios, QT prolongado.",
+        "Função renal/hepática: disfunção frequente em intoxicações severas ou após hemodiálise."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Paralisia respiratória (bloqueio neuromuscular nicotínico).",
+      "Hipoxemia refratária a O₂ (broncoespasmo, broncorreia, pneumonia química).",
+      "Depressão do drive respiratório central por pesticidas lipossolúveis.",
+      "Lesão alveolar difusa com insuficiência respiratória aguda (ex: paraquat)."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Remover fonte de exposição: troca de roupas, irrigação dérmica/ocular com água corrente.",
+        "Garantir suporte básico e avançado de vida com monitorização contínua.",
+        "Atropina EV: iniciar com 1–3 mg e dobrar a cada 5 min até atropinização (taquicardia, midríase, pele seca, broncodilatação).",
+        "Manter infusão contínua de atropina após reversão inicial dos sintomas.",
+        "Pralidoxima (2-PAM): 1–2 g EV lenta, repetir ou manter infusão contínua por 48–72h, ideal nas primeiras 24h.",
+        "Diazepam 10 mg EV para convulsões ou prevenção da neurotoxicidade tardia.",
+        "Evitar oxigenoterapia com FiO₂ alta no paraquat (potencializa toxicidade pulmonar oxidativa).",
+        "Hemodiálise nos casos graves, especialmente com instabilidade metabólica e substâncias dializáveis."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico depende do tipo de pesticida, da via e intensidade da exposição, do tempo até o início da terapia e das comorbidades. Intoxicações leves são reversíveis. Casos com necessidade de ventilação mecânica, sinais precoces de insuficiência respiratória ou exposição a substâncias altamente tóxicas como paraquat possuem alta mortalidade, mesmo com tratamento intensivo precoce."
+    },
+    "notas_adicionais": [
+      "Atropina reverte apenas os efeitos muscarínicos. A fraqueza muscular requer pralidoxima e suporte ventilatório.",
+      "Casos moderados a graves devem manter pralidoxima por até 72h.",
+      "A exposição ocupacional crônica pode causar neuropatias, distúrbios endócrinos e câncer.",
+      "Todo caso suspeito deve ser notificado ao CRAT (Centro de Referência em Atendimento Toxicológico).",
+      "Educação, uso de EPIs e manejo seguro são medidas fundamentais de prevenção primária nas comunidades agrícolas."
+    ],
+    "fontes_bibliograficas": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 112 – Pesticides.",
+      "UpToDate. Organophosphate and carbamate poisoning. 2024.",
+      "Manual de Toxicologia Clínica – CRAT-SP. 2022.",
+      "Sociedade Brasileira de Toxicologia – Diretrizes sobre pesticidas. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  },
+  "US": {
+    "title": "Pesticide Poisoning",
+    "definition": "Pesticide poisoning is a toxicologic emergency that results from acute or chronic exposure to chemicals used in agricultural, veterinary, or urban pest control. Common classes include organophosphates, carbamates, pyrethroids, organochlorines, fungicides, and herbicides such as paraquat and glyphosate. Toxicity may occur via ingestion, inhalation, dermal, or ocular exposure, and can lead to multisystemic damage, particularly to the central and autonomic nervous systems.",
+    "epidemiology": "Pesticide poisoning accounts for significant global morbidity and mortality, particularly in developing agricultural regions. An estimated 3 million cases and over 200,000 deaths occur annually. Organophosphates are among the most commonly involved agents in intentional self-poisoning. At-risk populations include rural workers, pesticide applicators, and individuals in communities with poor regulation and protective measures.",
+    "pathophysiology": "Organophosphates and carbamates inhibit acetylcholinesterase, leading to excessive acetylcholine accumulation and overstimulation of muscarinic, nicotinic, and central receptors. Pyrethroids disrupt neuronal sodium channels, causing prolonged excitation. Paraquat induces oxidative stress and irreversible pulmonary fibrosis. Organochlorines, like DDT, interfere with ion channel permeability, causing neurotoxicity. Severity depends on the dose, route, and duration of exposure.",
+    "clinical_manifestations": {
+      "muscarinic": [
+        "Profuse salivation, lacrimation, rhinorrhea.",
+        "Bronchorrhea, bronchospasm, dyspnea.",
+        "Bradycardia, abdominal cramps, diarrhea, pinpoint pupils, urinary/fecal incontinence."
+      ],
+      "nicotinic": [
+        "Muscle fasciculations, cramps, generalized weakness.",
+        "Tachycardia, hypertension, hypertonia.",
+        "Respiratory muscle paralysis in advanced stages."
+      ],
+      "central": [
+        "Anxiety, confusion, hallucinations.",
+        "Tonic-clonic seizures, coma.",
+        "Central respiratory depression, cholinergic crisis, and intermediate syndrome (proximal weakness 24–96h post-exposure)."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is primarily clinical and based on a history of occupational, environmental, or suicidal exposure, combined with characteristic cholinergic signs. The classic triad includes miosis, salivation, and bronchorrhea. Absence of fever and focal neurologic signs helps rule out infectious or structural etiologies.",
+      "essential_tests": [
+        "Plasma and red blood cell cholinesterase levels (decreased in organophosphate/carbamate poisoning).",
+        "Arterial blood gas: hypoxemia, hypercapnia, metabolic/lactic acidosis.",
+        "Chest X-ray or CT scan for suspected lung injury (especially with paraquat).",
+        "ECG: bradycardia, AV block, QT prolongation.",
+        "Renal and liver function tests (often impaired in severe intoxication or post-dialysis)."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Neuromuscular respiratory paralysis due to nicotinic blockade.",
+      "Refractory hypoxemia due to bronchospasm, bronchorrhea, or chemical pneumonitis.",
+      "Depression of central respiratory drive (lipophilic pesticide exposure).",
+      "Diffuse alveolar damage with acute respiratory failure (e.g., paraquat)."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Decontaminate by removing clothing and irrigating skin/eyes with water.",
+        "Initiate basic and advanced life support with continuous monitoring.",
+        "Intravenous atropine: start with 1–3 mg, double every 5 minutes until atropinization (dry skin, mydriasis, tachycardia, bronchodilation).",
+        "Continue atropine infusion after initial stabilization.",
+        "Administer pralidoxime (2-PAM) 1–2 g IV slowly, repeat or infuse continuously for 48–72h; most effective within 24h.",
+        "Diazepam 10 mg IV for seizures or to prevent delayed neurotoxicity.",
+        "Avoid high FiO₂ oxygen in paraquat poisoning (worsens oxidative lung injury).",
+        "Hemodialysis may be needed in severe cases with metabolic instability or dialyzable compounds."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on the pesticide type, route and intensity of exposure, delay to treatment, and underlying patient condition. Mild intoxications are reversible. Early respiratory failure or exposure to highly toxic compounds like paraquat portends poor prognosis, even with aggressive intensive care."
+    },
+    "additional_notes": [
+      "Atropine reverses only muscarinic symptoms; nicotinic paralysis requires pralidoxime and ventilatory support.",
+      "Moderate to severe cases may require pralidoxime for up to 72h.",
+      "Chronic occupational exposure may cause neuropathy, endocrine disruption, and cancer.",
+      "All cases must be reported to poison control centers and public health surveillance.",
+      "Education, proper use of personal protective equipment (PPE), and safe handling practices are critical to primary prevention."
+    ],
+    "references": [
+      "Goldfrank’s Toxicologic Emergencies. 11th ed. Chapter 112 – Pesticides.",
+      "UpToDate. Organophosphate and carbamate poisoning. 2024.",
+      "Clinical Toxicology Manual – CRAT-SP. 2022.",
+      "Brazilian Society of Toxicology – Pesticide Guidelines. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Intoxicación por Pesticidas",
+    "definicion": "La intoxicación por pesticidas es una emergencia médica causada por la exposición aguda o crónica a sustancias químicas utilizadas para el control de plagas agrícolas, urbanas o veterinarias. Los principales grupos incluyen organofosforados, carbamatos, piretroides, organoclorados, fungicidas y herbicidas (como el paraquat y el glifosato). La toxicidad puede producirse por ingestión, inhalación, contacto dérmico u ocular, y puede afectar varios sistemas, con énfasis en el sistema nervioso central y autónomo.",
+    "epidemiologia": "Las intoxicaciones por pesticidas representan una causa importante de morbilidad y mortalidad en regiones agrícolas, especialmente en países en desarrollo. Se estiman más de 3 millones de casos y más de 200 mil muertes al año. Los organofosforados son los más frecuentemente involucrados en intentos de suicidio. Los trabajadores agrícolas, aplicadores de pesticidas y comunidades sin regulación efectiva o acceso a equipos de protección personal (EPP) son los más vulnerables.",
+    "fisiopatologia": "Los organofosforados y los carbamatos inhiben la enzima acetilcolinesterasa, causando acumulación de acetilcolina y estimulación excesiva de los receptores muscarínicos, nicotínicos y centrales. Los piretroides interfieren en los canales de sodio neuronales, prolongando la excitación. El paraquat induce estrés oxidativo severo con fibrosis pulmonar irreversible. Los organoclorados, como el DDT, provocan neurotoxicidad al alterar la permeabilidad de membranas neuronales.",
+    "manifestaciones_clinicas": {
+      "muscarinicas": [
+        "Sialorrea, lagrimeo, rinorrea.",
+        "Broncorrea, broncoespasmo, disnea.",
+        "Bradicardia, cólicos abdominales, diarrea, miosis, incontinencia urinaria y fecal."
+      ],
+      "nicotinicas": [
+        "Fasciculaciones musculares, calambres, debilidad generalizada.",
+        "Taquicardia, hipertensión, rigidez muscular.",
+        "Parálisis respiratoria por bloqueo neuromuscular en fases avanzadas."
+      ],
+      "centrales": [
+        "Ansiedad, confusión, alucinaciones.",
+        "Convulsiones tónico-clónicas, coma.",
+        "Depresión respiratoria central, síndrome colinérgico excitatorio y síndrome intermedio (debilidad muscular proximal entre 24–96h)."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico se basa en la historia de exposición (ocupacional, ambiental o suicida) y en signos clínicos característicos, como miosis, sialorrea y broncorrea. La ausencia de fiebre y focalidad neurológica apoya el diagnóstico toxicológico.",
+      "examenes_esenciales": [
+        "Colinesterasa plasmática y eritrocitaria (disminuidas en organofosforados y carbamatos).",
+        "Gasometría arterial: hipoxemia, acidosis metabólica o láctica.",
+        "Radiografía de tórax o TC en casos con sospecha de lesión pulmonar (paraquat).",
+        "ECG: bradicardia, bloqueo AV, QT prolongado.",
+        "Función renal y hepática: deterioradas en casos graves o post-diálisis."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Parálisis respiratoria por bloqueo nicotínico.",
+      "Hipoxemia refractaria por broncoespasmo, broncorrea o neumonitis química.",
+      "Depresión del centro respiratorio por pesticidas lipofílicos.",
+      "Lesión alveolar difusa con insuficiencia respiratoria aguda (ej: paraquat)."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Descontaminación: retiro de ropa y lavado de piel y ojos con agua abundante.",
+        "Monitorización continua y soporte vital básico/avanzado.",
+        "Atropina EV: iniciar con 1–3 mg, duplicar cada 5 minutos hasta atropinización (taquicardia, midriasis, piel seca).",
+        "Infusión continua de atropina tras la estabilización inicial.",
+        "Pralidoxima (2-PAM): 1–2 g IV lenta, repetir o mantener infusión continua por 48–72h; ideal dentro de las primeras 24h.",
+        "Diazepam 10 mg IV para convulsiones o para prevenir neurotoxicidad tardía.",
+        "Evitar oxigenoterapia con FiO₂ alta en intoxicación por paraquat (empeora lesión pulmonar oxidativa).",
+        "Hemodiálisis si hay inestabilidad metabólica o si el pesticida es dializable."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende del tipo de pesticida, la vía y gravedad de la exposición, el tiempo hasta el inicio del tratamiento y las comorbilidades del paciente. Las intoxicaciones leves suelen ser reversibles. La necesidad de ventilación mecánica precoz o la exposición a compuestos altamente tóxicos como el paraquat se asocian a alta mortalidad, incluso con manejo intensivo."
+    },
+    "notas_adicionales": [
+      "La atropina revierte solo los efectos muscarínicos. La debilidad muscular requiere pralidoxima y ventilación.",
+      "Casos moderados y graves pueden requerir pralidoxima durante hasta 72h.",
+      "La exposición ocupacional crónica puede causar neuropatía, alteraciones endocrinas y cáncer.",
+      "Todos los casos deben notificarse al centro toxicológico y a la autoridad sanitaria local.",
+      "El uso adecuado de EPP, la capacitación y la educación comunitaria son esenciales en la prevención."
+    ],
+    "referencias": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 112 – Pesticidas.",
+      "UpToDate. Intoxicación por organofosforados y carbamatos. 2024.",
+      "Manual de Toxicología Clínica – CRAT-SP. 2022.",
+      "Sociedad Brasileña de Toxicología – Guía sobre pesticidas. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "PT": {
+    "titulo": "Hemotórax e Tórax Instável",
+    "definicao": "O hemotórax é caracterizado pelo acúmulo de sangue no espaço pleural, geralmente em decorrência de trauma torácico, podendo gerar colapso pulmonar, desvio mediastinal e comprometimento hemodinâmico. Já o tórax instável é definido pela presença de pelo menos três fraturas costais consecutivas em dois ou mais pontos, resultando em um segmento móvel da parede torácica com movimento paradoxal durante a respiração. Ambas as condições são potencialmente graves e exigem diagnóstico precoce e abordagem integrada.",
+    "epidemiologia": "Traumas torácicos representam cerca de 20–25% das causas de mortalidade por trauma. O hemotórax ocorre em até 50% dos traumas penetrantes e 30% dos traumas fechados. Tórax instável é identificado em cerca de 5–10% dos traumas torácicos graves, sendo mais frequente em vítimas de acidentes automobilísticos e em pacientes idosos devido à fragilidade costal. A associação entre tórax instável e contusão pulmonar agrava o prognóstico.",
+    "fisiopatologia": "No hemotórax, o acúmulo de sangue na cavidade pleural reduz a complacência pulmonar, restringe a expansão alveolar e causa efeito compressivo, gerando hipoventilação e hipoxemia. Em casos maciços, o desvio mediastinal pode levar à redução do retorno venoso e choque obstrutivo. No tórax instável, o movimento paradoxal do segmento fraturado durante a inspiração e expiração prejudica a mecânica respiratória, levando à hipoventilação, atelectasia e acúmulo de secreções, predispondo à infecção e insuficiência respiratória.",
+    "manifestações_clinicas": {
+      "hemotorax": [
+        "Dispneia progressiva, taquipneia e ortopneia.",
+        "Dor torácica pleurítica ou à inspiração profunda.",
+        "Diminuição ou abolição do murmúrio vesicular no lado acometido.",
+        "Macicez à percussão no hemitórax inferior.",
+        "Sinais de choque hipovolêmico em hemotórax maciço (&gt; 1500 mL)."
+      ],
+      "torax_instavel": [
+        "Dor torácica intensa com respiração superficial e restrição ventilatória.",
+        "Palpação com crepitação óssea evidente.",
+        "Movimento paradoxal visível do segmento fraturado durante a respiração.",
+        "Hipoxemia refratária mesmo com oxigenoterapia.",
+        "Taquipneia, uso de musculatura acessória e fadiga respiratória."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A suspeita diagnóstica deve ser feita pela história de trauma torácico associado aos sinais clínicos e exame físico. A propedêutica complementar é imprescindível para avaliação da gravidade e planejamento terapêutico.",
+      "exames_essenciais": [
+        "Radiografia de tórax em AP: opacificação homogênea no hemotórax, fraturas costais evidentes.",
+        "Ultrassonografia à beira-leito (e-FAST): líquido anecoico na cavidade pleural, contusão pulmonar.",
+        "Tomografia computadorizada de tórax: método mais sensível para detecção de fraturas costais, volume do hemotórax, lesões parenquimatosas e contusão pulmonar.",
+        "Gasometria arterial: hipoxemia, hipercapnia e acidose respiratória ou mista.",
+        "Hemograma e coagulograma: monitoramento da perda sanguínea e avaliação pré-operatória.",
+        "Grupo sanguíneo, prova cruzada e tipagem sanguínea para transfusão precoce."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Tórax instável com ventilação ineficaz ou fadiga respiratória.",
+      "Hipoxemia refratária (PaO₂ &lt; 60 mmHg com O₂ suplementar).",
+      "Contusão pulmonar com insuficiência respiratória associada.",
+      "Rebaixamento do nível de consciência com risco de aspiração.",
+      "Pneumotórax hipertensivo ou hemopneumotórax com descompensação hemodinâmica."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Realizar avaliação primária conforme protocolo ABCDE do trauma.",
+        "Monitorização cardiorrespiratória, oximetria de pulso e controle da dor precoce.",
+        "Estabelecer acesso venoso calibroso e iniciar reposição volêmica agressiva em choque.",
+        "Instalar dreno torácico (28–36 Fr) em selo d’água para descompressão do hemotórax.",
+        "Indicação de toracotomia de urgência: drenagem inicial &gt; 1500 mL ou sangramento persistente &gt; 200 mL/h por 3 horas.",
+        "Analgesia eficaz com opioides intravenosos, bloqueio intercostal ou peridural contínuo.",
+        "Ventilação mecânica invasiva se critérios clínicos e gasométricos forem atendidos.",
+        "Fixação cirúrgica de fraturas costais com instabilidade torácica significativa e falência de desmame ventilatório.",
+        "Fisioterapia respiratória precoce após estabilização para prevenir complicações pulmonares."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O hemotórax, quando identificado e drenado precocemente, apresenta bom prognóstico. Já o tórax instável, principalmente quando associado à contusão pulmonar e instabilidade hemodinâmica, tem evolução clínica mais complexa. A analgesia adequada, a estabilização cirúrgica precoce e a abordagem multidisciplinar são determinantes para recuperação funcional e redução da mortalidade."
+    },
+    "notas_adicionais": [
+      "A presença de sangue drenado não exclui pneumotórax associado.",
+      "Evitar clampeamento do dreno pleural – risco de hipertensão intratorácica.",
+      "Controle rigoroso de dor reduz complicações infecciosas e melhora desfecho ventilatório.",
+      "Radiografias seriadas e tomografias devem acompanhar a evolução do quadro.",
+      "Monitorar continuamente débito do dreno, sinais vitais e necessidade de hemotransfusão."
+    ],
+    "fontes_bibliograficas": [
+      "Advanced Trauma Life Support (ATLS) – 10ª edição.",
+      "Diretrizes da Sociedade Brasileira de Atendimento Integrado ao Traumatizado (SBAIT).",
+      "UpToDate. Hemothorax and flail chest: Clinical features and management. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 82 – Trauma Torácico.",
+      "Revista Brasileira de Terapia Intensiva – Trauma Torácico Grave. 2021."
+    ]
+  },
+  "US": {
+    "title": "Hemothorax and Flail Chest",
+    "definition": "Hemothorax refers to the accumulation of blood in the pleural space, commonly resulting from blunt or penetrating thoracic trauma. It can compress the lung, cause respiratory compromise, and lead to hypovolemic shock. Flail chest is defined as the presence of three or more consecutive rib fractures in at least two locations, resulting in a floating segment of the chest wall that moves paradoxically during respiration. Both are critical thoracic injuries requiring prompt diagnosis and management.",
+    "epidemiology": "Thoracic trauma accounts for approximately 20–25% of trauma-related deaths. Hemothorax is seen in up to 50% of penetrating thoracic injuries and 30% of blunt chest trauma. Flail chest occurs in 5–10% of severe chest trauma, especially in motor vehicle collisions and elderly patients with osteoporotic ribs. The combination of flail chest and pulmonary contusion is associated with increased morbidity and mortality.",
+    "pathophysiology": "In hemothorax, blood entering the pleural cavity decreases lung compliance, impairs alveolar expansion, and results in hypoventilation and hypoxemia. A massive hemothorax can cause mediastinal shift, reduced venous return, and obstructive shock. Flail chest disrupts the mechanics of ventilation due to paradoxical motion of the flail segment during inspiration and expiration, leading to impaired ventilation, atelectasis, retained secretions, and increased risk of pneumonia and respiratory failure.",
+    "clinical_manifestations": {
+      "hemothorax": [
+        "Progressive dyspnea, tachypnea, and orthopnea.",
+        "Pleuritic chest pain or pain with deep inspiration.",
+        "Decreased or absent breath sounds on the affected side.",
+        "Dullness to percussion in the lower thorax.",
+        "Signs of hypovolemic shock in massive hemothorax (&gt; 1500 mL)."
+      ],
+      "flail_chest": [
+        "Severe chest pain with shallow breathing and ventilatory restriction.",
+        "Palpable rib crepitus over fracture sites.",
+        "Visible paradoxical movement of the chest wall segment during breathing.",
+        "Refractory hypoxemia despite oxygen therapy.",
+        "Tachypnea, use of accessory muscles, and respiratory fatigue."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis relies on a thorough history of trauma, physical examination findings, and prompt imaging. Early identification is key to prevent deterioration and guide intervention.",
+      "essential_tests": [
+        "Chest X-ray (AP view): homogeneous opacity in hemothorax, evident rib fractures.",
+        "Bedside ultrasonography (e-FAST): anechoic fluid in pleural cavity, pulmonary contusion.",
+        "Chest CT scan: most sensitive for rib fractures, hemothorax volume, parenchymal lesions.",
+        "Arterial blood gas: hypoxemia, hypercapnia, and mixed respiratory acidosis.",
+        "CBC and coagulation profile: assess bleeding and preoperative planning.",
+        "Blood typing and crossmatch for early transfusion readiness."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Flail chest with ineffective ventilation or respiratory fatigue.",
+      "Refractory hypoxemia (PaO₂ &lt; 60 mmHg despite supplemental oxygen).",
+      "Pulmonary contusion with associated respiratory failure.",
+      "Altered mental status with aspiration risk.",
+      "Tension pneumothorax or hemopneumothorax with hemodynamic compromise."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Follow trauma ABCDE protocol for primary assessment and stabilization.",
+        "Continuous monitoring, pulse oximetry, and early pain control.",
+        "Establish large-bore IV access and initiate aggressive fluid resuscitation in shock.",
+        "Insert chest tube (28–36 Fr) with water-seal drainage for decompression.",
+        "Immediate thoracotomy indicated for initial drainage &gt; 1500 mL or persistent bleeding &gt; 200 mL/h for 3 hours.",
+        "Effective analgesia with IV opioids, intercostal nerve blocks, or epidural catheter.",
+        "Initiate invasive mechanical ventilation if clinical and gasometric criteria are met.",
+        "Surgical fixation of rib fractures in flail chest with ventilatory failure or failed weaning.",
+        "Early respiratory physiotherapy after stabilization to prevent complications."
+      ]
+    },
+    "prognosis": {
+      "comment": "Simple hemothorax has a good prognosis when promptly drained. Massive hemothorax and flail chest, particularly when associated with pulmonary contusion or hemodynamic instability, increase the risk of complications. Adequate analgesia, early surgical stabilization, and multidisciplinary care are critical to improve functional recovery and survival."
+    },
+    "additional_notes": [
+      "Drained blood does not exclude associated pneumothorax.",
+      "Avoid clamping chest tubes to prevent tension pneumothorax.",
+      "Aggressive pain management reduces infectious complications and improves ventilatory outcome.",
+      "Serial imaging (X-rays or CT) is important for monitoring evolution.",
+      "Continuous monitoring of chest tube output, vital signs, and transfusion needs is essential."
+    ],
+    "references": [
+      "Advanced Trauma Life Support (ATLS) – 10th Edition.",
+      "Brazilian Society of Integrated Trauma Care (SBAIT) Guidelines.",
+      "UpToDate. Hemothorax and flail chest: Clinical features and management. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 82 – Thoracic Trauma.",
+      "Revista Brasileira de Terapia Intensiva – Severe Thoracic Trauma. 2021."
+    ]
+  },
+  "ES": {
+    "titulo": "Hemotórax y Tórax Inestable",
+    "definicion": "El hemotórax es la acumulación de sangre en el espacio pleural, generalmente secundaria a trauma torácico cerrado o penetrante, que puede generar colapso pulmonar, desplazamiento mediastínico y compromiso hemodinámico. El tórax inestable se caracteriza por fracturas costales múltiples consecutivas en más de un punto, resultando en un segmento libre de la pared torácica que se mueve de forma paradójica con la respiración. Ambas condiciones requieren reconocimiento temprano y manejo multidisciplinario.",
+    "epidemiologia": "Los traumas torácicos representan aproximadamente el 20–25% de las muertes por trauma. El hemotórax ocurre en hasta el 50% de los traumatismos torácicos penetrantes y el 30% de los cerrados. El tórax inestable se presenta en el 5–10% de los traumas torácicos severos, siendo más frecuente en accidentes automovilísticos y en ancianos con costillas frágiles. La presencia simultánea de contusión pulmonar empeora el pronóstico.",
+    "fisiopatologia": "En el hemotórax, la sangre en el espacio pleural reduce la complacencia pulmonar y limita la expansión alveolar, provocando hipoventilación, hipoxemia e incluso shock obstructivo si es masivo. En el tórax inestable, el segmento óseo desinsertado se mueve en dirección opuesta al resto del tórax durante la inspiración y la espiración, lo que genera alteraciones en la mecánica respiratoria, ventilación ineficaz, retención de secreciones y mayor riesgo de insuficiencia respiratoria.",
+    "manifestaciones_clinicas": {
+      "hemotorax": [
+        "Disnea progresiva, taquipnea y ortopnea.",
+        "Dolor torácico pleurítico.",
+        "Reducción o abolición del murmullo vesicular.",
+        "Matidez a la percusión en el hemitórax afectado.",
+        "Signos de shock hipovolémico si el volumen supera los 1500 mL."
+      ],
+      "torax_inestable": [
+        "Dolor torácico intenso con respiración superficial.",
+        "Crepitación ósea palpable.",
+        "Movimiento paradójico visible del segmento torácico afectado.",
+        "Hipoxemia refractaria pese a oxigenoterapia.",
+        "Fatiga respiratoria, taquipnea y uso de musculatura accesoria."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Se debe sospechar por antecedentes traumáticos y signos físicos característicos. La imagen es fundamental para confirmar el diagnóstico y planificar el tratamiento.",
+      "examenes_esenciales": [
+        "Radiografía de tórax AP: opacidad homogénea en el hemotórax, fracturas costales visibles.",
+        "Ecografía a pie de cama (e-FAST): líquido anecoico pleural, contusión pulmonar.",
+        "Tomografía computarizada: método más sensible para cuantificar el hemotórax, detectar contusiones y fracturas costales.",
+        "Gasometría arterial: hipoxemia, hipercapnia, acidosis respiratoria o mixta.",
+        "Hemograma, perfil de coagulación y pruebas cruzadas para transfusión."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Tórax inestable con hipoventilación o fatiga respiratoria.",
+      "Hipoxemia persistente (PaO₂ &lt; 60 mmHg con O₂).",
+      "Contusión pulmonar con insuficiencia respiratoria.",
+      "Disminución del nivel de conciencia con riesgo de aspiración.",
+      "Neumotórax a tensión o hemoneumotórax con inestabilidad hemodinámica."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Evaluación primaria siguiendo el protocolo ABCDE del trauma.",
+        "Monitoreo continuo, oximetría de pulso y analgesia precoz.",
+        "Acceso venoso de calibre amplio y reposición agresiva de volumen si hay shock.",
+        "Colocación de tubo de tórax (28–36 Fr) con sello de agua.",
+        "Toracotomía inmediata si drenaje inicial &gt; 1500 mL o sangrado persistente &gt; 200 mL/h por 3 h.",
+        "Analgesia eficaz con opioides, bloqueo intercostal o epidural.",
+        "Ventilación mecánica si hay criterios clínicos o gasométricos.",
+        "Fijación quirúrgica precoz en fracturas múltiples con inestabilidad ventilatoria.",
+        "Kinesioterapia respiratoria precoz tras estabilización."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El hemotórax simple tiene buen pronóstico si se drena de forma precoz. El tórax inestable, especialmente si se asocia a contusión pulmonar o compromiso hemodinámico, se vincula a mayor riesgo de complicaciones. El control adecuado del dolor, el soporte ventilatorio oportuno y la intervención quirúrgica mejoran el desenlace clínico y funcional."
+    },
+    "notas_adicionales": [
+      "La presencia de sangre en el drenaje no excluye neumotórax asociado.",
+      "Evitar clampear el tubo de tórax para prevenir hipertensión intratorácica.",
+      "El control riguroso del dolor mejora la ventilación y previene infecciones respiratorias.",
+      "Solicitar imágenes seriadas para evaluar evolución.",
+      "Vigilar el débito del drenaje, signos vitales y necesidad transfusional."
+    ],
+    "fuentes_bibliograficas": [
+      "Advanced Trauma Life Support (ATLS) – 10ª edición.",
+      "Guías de la Sociedad Brasileña de Atención Integrada al Traumatizado (SBAIT).",
+      "UpToDate. Hemothorax and flail chest: Clinical features and management. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 82 – Trauma torácico.",
+      "Revista Brasileña de Terapia Intensiva – Trauma torácico grave. 2021."
+    ]
+  }
+}

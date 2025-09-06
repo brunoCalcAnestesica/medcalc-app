@@ -1,0 +1,218 @@
+{
+  "PT": {
+    "titulo": "Miocardiopatia Dilatada",
+    "definicao": "A miocardiopatia dilatada (MCD) é uma condição caracterizada por dilatação progressiva e disfunção sistólica do ventrículo esquerdo, podendo envolver também o ventrículo direito, na ausência de doença arterial coronariana ou sobrecarga hemodinâmica significativa. Essa condição leva à insuficiência cardíaca com fração de ejeção reduzida (ICFER), predispondo a remodelamento adverso, arritmias, tromboembolismo e morte súbita.",
+    "epidemiologia": "A MCD representa aproximadamente 60% das miocardiopatias. Estima-se uma prevalência de 1 caso a cada 250–500 adultos, com predominância no sexo masculino. Pode surgir entre 20 e 60 anos. As etiologias incluem causas genéticas (20–35%), infecciosas (ex.: miocardite viral), tóxicas (álcool, antraciclinas), autoimunes, periparto, idiopática e secundária a disfunções metabólicas (ex.: hipotireoidismo, deficiência de tiamina).",
+    "fisiopatologia": "A falência da contratilidade miocárdica leva à elevação da pressão diastólica final e aumento do volume ventricular, culminando em remodelamento excêntrico. A ativação neuro-hormonal (SRAA, SNS) perpetua retenção de sódio e vasoconstrição, agravando a congestão sistêmica. A disfunção endotelial e o estresse oxidativo contribuem para fibrose, inflamação e disfunção progressiva. A distensão da parede ventricular predispõe à formação de trombos intracavitários, e a instabilidade elétrica facilita taquiarritmias malignas.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Intolerância ao esforço, fadiga progressiva e ortopneia.",
+        "Edema periférico, refluxo hepatojugular, ascite e congestão venosa sistêmica.",
+        "Hipotensão arterial e sinais de baixo débito em fases avançadas."
+      ],
+      "respiratorias": [
+        "Dispneia progressiva, principalmente aos esforços e à noite.",
+        "Estertores crepitantes em bases pulmonares.",
+        "Episódios recorrentes de edema agudo de pulmão."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Confusão mental em contexto de baixo fluxo cerebral.",
+        "Letargia e hiponatremia por secreção inapropriada de ADH.",
+        "Eventos embólicos (ex.: AVC) devido à estase intracavitária."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é baseado na combinação de anamnese, exame físico, exames de imagem e biomarcadores, com exclusão de causas secundárias de disfunção ventricular.",
+      "exames_essenciais": [
+        "Ecocardiograma transtorácico: fração de ejeção reduzida (< 40%), câmaras dilatadas, disfunção difusa.",
+        "Ressonância cardíaca: permite avaliação de fibrose (realce tardio) e inflamação miocárdica.",
+        "Radiografia de tórax: cardiomegalia, congestão venosa, derrame pleural.",
+        "ECG: sinais de bloqueios, fibrilação atrial, ondas Q pseudoinfarto.",
+        "Biomarcadores: BNP, NT-proBNP elevados na sobrecarga ventricular.",
+        "Cateterismo cardíaco: indicado para excluir coronariopatia obstrutiva em pacientes com dor torácica ou múltiplos fatores de risco.",
+        "Genética: para pacientes com história familiar ou idade precoce."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Insuficiência respiratória aguda por edema pulmonar.",
+      "Hipoxemia refratária com exaustão ventilatória.",
+      "Choque cardiogênico com disfunção respiratória associada.",
+      "Ventilação invasiva para proteção pulmonar em disfunção grave com rebaixamento do nível de consciência."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxigenoterapia com cateter nasal ou VNI em descompensações.",
+        "Diuréticos de alça intravenosos para controle de congestão.",
+        "IECA, BRA ou sacubitril/valsartana para reversão do remodelamento.",
+        "Betabloqueadores (carvedilol, bisoprolol, succinato de metoprolol) após compensação clínica.",
+        "Espironolactona ou eplerenona em todos os pacientes com FE < 35%.",
+        "Ivabradina em pacientes com ritmo sinusal e FC > 70 bpm refratária.",
+        "Anticoagulação em presença de trombo intracavitário ou fibrilação atrial.",
+        "Indicação de CDI ou TRC em pacientes com FE < 35% e QRS alargado.",
+        "Encaminhamento para transplante ou dispositivos de assistência ventricular em casos refratários ao tratamento clínico."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico da MCD depende da etiologia, resposta à terapia e grau de disfunção ventricular. O uso de terapia medicamentosa otimizada melhora a sobrevida e qualidade de vida. Fatores de mau prognóstico incluem hospitalizações recorrentes, síncope, arritmias ventriculares sustentadas, hiponatremia e disfunção renal associada. A mortalidade em 1 ano pode ultrapassar 25% nos pacientes não tratados adequadamente."
+    },
+    "notas_adicionais": [
+      "Reforçar adesão terapêutica e monitoramento domiciliar do peso corporal.",
+      "Vacinação anual contra influenza e pneumococo deve ser mantida.",
+      "Evitar uso de AINEs e corticoides sem clara indicação clínica.",
+      "Educar sobre sinais de descompensação: ganho de peso rápido, dispneia, edema novo.",
+      "Avaliar periodicamente função renal e eletrólitos, especialmente em uso de diuréticos e IECA.",
+      "Pacientes elegíveis devem ser incluídos em programas de reabilitação cardiovascular supervisionada."
+    ],
+    "fontes_bibliograficas": [
+      "Braunwald's Heart Disease. 12ª ed.",
+      "Sociedade Brasileira de Cardiologia – Diretriz de Insuficiência Cardíaca. 2021.",
+      "Miller’s Anesthesia. 8ª ed. Cap. 75 – Cardiomiopatias.",
+      "UpToDate. Dilated cardiomyopathy in adults: Definition and pathophysiology. 2024.",
+      "Guyton & Hall. Tratado de Fisiologia Médica. 14ª ed."
+    ]
+  },
+  "US": {
+    "title": "Dilated Cardiomyopathy",
+    "definition": "Dilated cardiomyopathy (DCM) is a myocardial disease characterized by progressive dilation and impaired systolic function of the left ventricle, often involving the right ventricle as well, in the absence of coronary artery disease or pressure/volume overload. It results in reduced ejection fraction, heart failure symptoms, electrical instability, and increased risk of sudden cardiac death.",
+    "epidemiology": "DCM accounts for 60% of primary cardiomyopathies and affects approximately 1 in 250–500 adults. It is more common in males aged 20–60 years. Etiologies include idiopathic (50%), genetic mutations, viral myocarditis, alcohol abuse, chemotherapy (e.g., anthracyclines), autoimmune conditions, peripartum cardiomyopathy, and metabolic disorders (e.g., hypothyroidism, thiamine deficiency).",
+    "pathophysiology": "Myocardial dysfunction leads to reduced contractility and progressive left ventricular dilation. Neurohormonal activation (RAAS, sympathetic nervous system) contributes to sodium retention, vasoconstriction, and remodeling. Chronic inflammation, oxidative stress, and fibrosis promote disease progression. The dilated ventricle predisposes to mural thrombus and life-threatening arrhythmias.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Fatigue, reduced exercise tolerance, and orthopnea.",
+        "Peripheral edema, jugular venous distension, hepatomegaly, and ascites.",
+        "Hypotension and signs of low cardiac output in advanced stages."
+      ],
+      "respiratorias": [
+        "Progressive dyspnea, especially with exertion or nocturnally.",
+        "Pulmonary crackles at the lung bases.",
+        "Episodes of acute pulmonary edema in decompensated states."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Mental confusion or altered sensorium due to cerebral hypoperfusion.",
+        "Hyponatremia secondary to non-osmotic ADH secretion.",
+        "Thromboembolic events (e.g., stroke) related to intracavitary blood stasis."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Diagnosis involves clinical evaluation, imaging, and laboratory biomarkers, with the exclusion of secondary causes of systolic dysfunction.",
+      "exames_essenciais": [
+        "Transthoracic echocardiogram: reduced EF (< 40%), biventricular dilation, global hypokinesis.",
+        "Cardiac MRI: assessment of fibrosis (late gadolinium enhancement) and inflammation.",
+        "Chest X-ray: cardiomegaly, pulmonary venous congestion, pleural effusion.",
+        "ECG: conduction abnormalities, atrial fibrillation, pseudoinfarct Q waves.",
+        "BNP or NT-proBNP: elevated in volume overload and heart failure.",
+        "Cardiac catheterization: to rule out ischemic etiology when indicated.",
+        "Genetic testing in young patients or those with family history of cardiomyopathy or sudden death."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Acute pulmonary edema with respiratory failure.",
+      "Refractory hypoxemia and ventilatory muscle fatigue.",
+      "Cardiogenic shock with associated respiratory dysfunction.",
+      "Need for invasive ventilation due to neurologic deterioration or altered mental status."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Oxygen therapy and head elevation in acute decompensation.",
+        "Intravenous loop diuretics for congestion relief.",
+        "Initiation of ACE inhibitors, ARBs, or ARNI (sacubitril/valsartan) for reverse remodeling.",
+        "Beta-blockers (carvedilol, bisoprolol, or metoprolol succinate) after hemodynamic stabilization.",
+        "Mineralocorticoid receptor antagonists (spironolactone, eplerenone) in all patients with EF < 35%.",
+        "Ivabradine for heart rate control in sinus rhythm with HR > 70 bpm despite beta-blocker.",
+        "Anticoagulation in patients with atrial fibrillation or documented LV thrombus.",
+        "Implantable cardioverter-defibrillator (ICD) and cardiac resynchronization therapy (CRT) in indicated cases.",
+        "Referral for advanced therapies including heart transplant or mechanical circulatory support (LVAD) if refractory."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis varies based on etiology, response to therapy, and degree of ventricular dysfunction. Optimized guideline-directed medical therapy significantly improves survival and quality of life. Predictors of poor outcome include recurrent hospitalizations, sustained ventricular arrhythmias, hyponatremia, and renal impairment. One-year mortality may exceed 25% in untreated or refractory cases."
+    },
+    "additional_notes": [
+      "Ensure patient adherence to therapy and monitor body weight regularly.",
+      "Annual influenza and pneumococcal vaccination are strongly recommended.",
+      "Avoid NSAIDs and corticosteroids unless clinically indicated.",
+      "Educate patients about warning signs of decompensation: rapid weight gain, increased dyspnea, new edema.",
+      "Monitor renal function and serum potassium frequently when using diuretics and RAAS inhibitors.",
+      "Encourage participation in supervised cardiac rehabilitation programs when feasible."
+    ],
+    "references": [
+      "Braunwald's Heart Disease. 12th ed.",
+      "Brazilian Society of Cardiology – Heart Failure Guidelines. 2021.",
+      "Miller’s Anesthesia. 8th ed. Chapter 75 – Cardiomyopathies.",
+      "UpToDate. Dilated cardiomyopathy in adults: Definition and pathophysiology. 2024.",
+      "Guyton & Hall. Textbook of Medical Physiology. 14th ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Miocardiopatía Dilatada",
+    "definicion": "La miocardiopatía dilatada (MCD) es una enfermedad miocárdica caracterizada por la dilatación progresiva y la disfunción sistólica del ventrículo izquierdo, frecuentemente con compromiso biventricular, en ausencia de causas secundarias evidentes como enfermedad coronaria obstructiva o sobrecarga hemodinámica significativa. La MCD conduce a insuficiencia cardíaca con fracción de eyección reducida (ICFEr), arritmias malignas, tromboembolismo y riesgo de muerte súbita.",
+    "epidemiologia": "La MCD representa el 60% de las miocardiopatías primarias y afecta aproximadamente a 1 de cada 250–500 adultos. Tiene predilección por el sexo masculino y suele presentarse entre los 20 y 60 años. Las causas incluyen origen idiopático (50%), genética (20–35%), miocarditis viral, abuso de alcohol, toxicidad por antraciclinas, enfermedades autoinmunes, periparto, trastornos metabólicos (hipotiroidismo, déficit de tiamina) y sarcoidosis.",
+    "fisiopatologia": "La disfunción contráctil miocárdica provoca dilatación ventricular progresiva, aumento del volumen diastólico final y remodelado excéntrico. La activación neurohormonal (SRAA y sistema simpático) agrava la retención de sodio, la vasoconstricción y la fibrosis. Se produce estrés oxidativo, inflamación crónica y disfunción endotelial, con riesgo de formación de trombos intracavitarios y arritmias ventriculares.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Intolerancia al ejercicio, disnea de esfuerzo y ortopnea.",
+        "Edema de extremidades, distensión yugular, hepatomegalia, ascitis.",
+        "Hipotensión arterial y signos de bajo gasto en fases avanzadas."
+      ],
+      "respiratorias": [
+        "Disnea progresiva, disnea nocturna paroxística.",
+        "Estertores crepitantes bibasales.",
+        "Episodios de edema agudo de pulmón."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Confusión y letargo en shock cardiogénico.",
+        "Hiponatremia por secreción inadecuada de ADH.",
+        "Eventos tromboembólicos (ej. ACV) por estasis intracavitaria."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico se basa en la combinación de clínica, examen físico, ecocardiografía y biomarcadores, excluyendo causas secundarias de disfunción ventricular.",
+      "exames_essenciais": [
+        "Ecocardiograma transtorácico: FEVI < 40%, dilatación biventricular, hipocinesia global.",
+        "Resonancia magnética cardíaca: realce tardío con gadolinio para valorar fibrosis o inflamación.",
+        "Radiografía de tórax: cardiomegalia, congestión venosa, derrame pleural.",
+        "ECG: bloqueo de rama, fibrilación auricular, ondas Q pseudoinfarto.",
+        "BNP o NT-proBNP elevados.",
+        "Cateterismo cardíaco: para descartar cardiopatía isquémica.",
+        "Estudios genéticos: indicados en pacientes jóvenes o con antecedentes familiares."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Edema agudo de pulmón con insuficiencia respiratoria.",
+      "Hipoxemia refractaria y fatiga de músculos respiratorios.",
+      "Shock cardiogénico con deterioro ventilatorio asociado.",
+      "Necesidad de ventilación invasiva por alteración neurológica o estado mental deprimido."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Oxigenoterapia, posición semi-Fowler en descompensación.",
+        "Diuréticos intravenosos para aliviar congestión (furosemida).",
+        "IECA, ARA II o ARNI (sacubitrilo/valsartán) para remodelado inverso.",
+        "Betabloqueantes tras estabilidad hemodinámica (carvedilol, bisoprolol).",
+        "Antagonistas del receptor mineralocorticoide (espironolactona o eplerenona).",
+        "Ivabradina si FC > 70 bpm en ritmo sinusal a pesar de betabloqueo.",
+        "Anticoagulación en FA o trombo ventricular documentado.",
+        "Indicación de DAI o TRC en FEVI < 35% y QRS alargado.",
+        "Remisión a trasplante cardíaco o dispositivos de asistencia circulatoria (ECMO, LVAD) si refractario."
+      ]
+    },
+    "prognosis": {
+      "comment": "El pronóstico depende de la etiología, respuesta al tratamiento y grado de disfunción ventricular. La terapia óptima basada en guías mejora la supervivencia y calidad de vida. Marcadores de mal pronóstico: hospitalizaciones recurrentes, arritmias ventriculares sostenidas, hiponatremia, disfunción renal. La mortalidad anual sin tratamiento puede superar el 25%."
+    },
+    "additional_notes": [
+      "Reforzar la adherencia al tratamiento y control diario de peso corporal.",
+      "Vacunación anual contra influenza y neumococo recomendada.",
+      "Evitar AINEs y corticosteroides sin indicación clara.",
+      "Educar sobre signos de descompensación: disnea nueva, aumento de peso, edema.",
+      "Monitorizar función renal y potasio regularmente con IECA, ARA II y diuréticos.",
+      "Indicar programas de rehabilitación cardíaca en pacientes aptos."
+    ],
+    "references": [
+      "Braunwald's Heart Disease. 12ª ed.",
+      "Sociedad Brasileña de Cardiología – Guía de Insuficiencia Cardíaca. 2021.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 75 – Miocardiopatías.",
+      "UpToDate. Dilated cardiomyopathy in adults: Definition and pathophysiology. 2024.",
+      "Guyton & Hall. Tratado de Fisiología Médica. 14ª ed."
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "PT": {
+    "titulo": "Hemorragia Digestiva com Broncoaspiração",
+    "definicao": "A hemorragia digestiva alta com broncoaspiração é uma emergência crítica caracterizada pela aspiração de sangue ou conteúdo gástrico para a árvore brônquica durante episódio de hematêmese, levando a hipoxemia aguda, insuficiência respiratória e risco elevado de óbito. A broncoaspiração pode ocorrer de forma silenciosa em pacientes com nível de consciência deprimido ou ser evidente durante episódios de vômito ativo e volumoso. O manejo eficaz requer simultaneamente controle do sangramento, proteção da via aérea e suporte intensivo respiratório.",
+    "epidemiologia": "Cerca de 80% dos casos de hemorragia digestiva são de origem alta, com mortalidade entre 5% e 10%. Broncoaspiração ocorre em até 15% desses pacientes, principalmente na presença de hematêmese volumosa, encefalopatia hepática, sedação excessiva ou reflexo de tosse abolido. A mortalidade por aspiração maciça pode ultrapassar 40%, sendo fator prognóstico independente de mau desfecho em pacientes críticos.",
+    "fisiopatologia": "A aspiração de sangue e secreções gástricas resulta em lesão pulmonar direta (pneumonite química) e obstrução mecânica das vias aéreas. A presença de sangue nos alvéolos interfere com a troca gasosa e promove resposta inflamatória intensa, podendo evoluir para SDRA. A presença de conteúdo gástrico ácido agrava o quadro por necrose do epitélio alveolar, perda de surfactante e colapso alveolar. A aspiração também é um gatilho para infecção pulmonar secundária (pneumonia aspirativa).",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial associada à perda volêmica hemorrágica.",
+        "Taquicardia e sinais de choque hipovolêmico.",
+        "Sinais de má perfusão: extremidades frias, oligúria, confusão mental."
+      ],
+      "respiratorias": [
+        "Dispneia súbita, taquipneia e hipoxemia rapidamente progressiva.",
+        "Tosse com sangue vivo, sibilos e roncos à ausculta pulmonar.",
+        "Hipoxemia refratária à oxigenoterapia convencional.",
+        "Evolução para falência respiratória e necessidade de ventilação mecânica."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência, sonolência ou coma.",
+        "Acidose metabólica e respiratória associadas à hipoperfusão e hipoventilação.",
+        "Febre e leucocitose tardia por pneumonite química ou pneumonia aspirativa."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Deve-se suspeitar fortemente de broncoaspiração em pacientes com hematêmese, dispneia aguda e saturação de oxigênio em queda. O diagnóstico pode ser sugerido clinicamente e confirmado por imagem ou broncoscopia. A gasometria evidencia hipoxemia e acidose. Radiografias e TC de tórax demonstram infiltrados pulmonares localizados ou difusos. Broncoscopia é útil para diagnóstico, aspiração terapêutica e avaliação do grau de acometimento.",
+      "exames_essenciais": [
+        "Gasometria arterial: PaO₂ reduzido, PaCO₂ elevado, acidose mista.",
+        "Radiografia de tórax: infiltrados alveolares, consolidações em bases ou lobos superiores.",
+        "Tomografia de tórax: maior sensibilidade para definir extensão da broncoaspiração.",
+        "Hemograma: anemia, leucocitose.",
+        "Endoscopia digestiva alta após estabilização: identificação e controle da fonte hemorrágica.",
+        "Broncoscopia: visualização direta, aspiração de sangue e remoção de coágulos.",
+        "Procalcitonina ou PCR: podem auxiliar na distinção entre pneumonite e pneumonia."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Comprometimento do nível de consciência com risco elevado de aspiração contínua.",
+      "Falência respiratória com hipoxemia refratária e sinais de esforço respiratório intenso.",
+      "Aspiração maciça com alteração do padrão ventilatório e hipercapnia.",
+      "Ventilação protetora necessária para manejo de SDRA secundário à broncoaspiração."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Intubação orotraqueal precoce para proteção de via aérea e aspiração do conteúdo aspirado.",
+        "Broncoscopia diagnóstica e terapêutica o mais precocemente possível.",
+        "Reposição volêmica com cristaloides balanceados e transfusão conforme perdas.",
+        "Início precoce de vasopressores em casos de choque refratário.",
+        "Endoscopia digestiva alta para diagnóstico e tratamento do foco hemorrágico.",
+        "Ventilação mecânica com estratégia protetora: volume corrente ≤ 6 mL/kg e PEEP titulado.",
+        "Monitoramento rigoroso da oxigenação, ventilação e sinais de infecção secundária.",
+        "Introdução de antibioticoterapia empírica em casos com febre persistente e infiltrado radiológico novo após 48 horas."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Pacientes com hemorragia digestiva complicada por broncoaspiração apresentam maior risco de necessidade de ventilação prolongada, disfunção orgânica múltipla e óbito. A mortalidade está associada à gravidade do sangramento, tempo para intubação, volume aspirado e presença de comorbidades. A intervenção precoce e a abordagem multidisciplinar são determinantes para o prognóstico favorável."
+    },
+    "notas_adicionais": [
+      "Sempre manter cabeceira elevada em pacientes com sangramento digestivo ativo.",
+      "Evitar administração de sedativos sem vigilância rigorosa da via aérea.",
+      "Preferir sonda orogástrica em pacientes sem via aérea protegida.",
+      "A broncoscopia deve ser realizada por equipe experiente, preferencialmente em ambiente controlado.",
+      "Considerar reintubação precoce em pacientes com sinais de aspiração após extubação."
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Management of upper gastrointestinal bleeding in adults. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 78 – Aspiration and Airway Emergencies.",
+      "Sociedade Brasileira de Endoscopia Digestiva – Diretrizes para Hemorragia Digestiva Alta. 2023.",
+      "Pulmonary aspiration of blood and gastric content: clinical impact and management. Crit Care. 2021.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  },
+  "US": {
+    "title": "Upper Gastrointestinal Bleeding with Aspiration",
+    "definition": "Upper gastrointestinal bleeding (UGIB) with aspiration is a life-threatening emergency characterized by the inhalation of blood or gastric contents into the tracheobronchial tree during episodes of hematemesis or vomiting. This leads to acute hypoxemic respiratory failure, chemical pneumonitis, and potentially acute respiratory distress syndrome (ARDS). It typically occurs in patients with altered consciousness, massive vomiting, or inadequate airway protection. Management requires prompt airway control, bleeding stabilization, and intensive respiratory support.",
+    "epidemiology": "UGIB accounts for 80% of gastrointestinal bleeding cases, with mortality rates ranging from 5% to 10%. Aspiration complicates up to 15% of UGIB cases, particularly in patients with hepatic encephalopathy, heavy sedation, or impaired protective airway reflexes. Massive aspiration increases mortality rates to over 40% and is an independent predictor of adverse outcomes in critically ill patients.",
+    "pathophysiology": "The aspiration of blood or gastric secretions into the lower respiratory tract causes direct chemical injury to alveolar structures and obstruction of the airways. Blood interferes with gas exchange, incites a strong inflammatory response, and promotes alveolar collapse. Acidic gastric content exacerbates lung damage through epithelial necrosis, surfactant loss, and diffuse alveolar injury. Secondary bacterial infection can follow, progressing to aspiration pneumonia.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Hypotension due to hemorrhagic volume loss.",
+        "Tachycardia and signs of hypovolemic shock.",
+        "Peripheral hypoperfusion: cold extremities, oliguria, altered mental status."
+      ],
+      "respiratory": [
+        "Sudden onset dyspnea, tachypnea, and rapid oxygen desaturation.",
+        "Coughing up blood, wheezing, and rhonchi on auscultation.",
+        "Hypoxemia refractory to standard oxygen therapy.",
+        "Progression to respiratory failure requiring mechanical ventilation."
+      ],
+      "neurologic_and_metabolic": [
+        "Depressed level of consciousness, drowsiness, or coma.",
+        "Mixed metabolic and respiratory acidosis from hypoperfusion and hypoventilation.",
+        "Fever and leukocytosis due to chemical pneumonitis or secondary pneumonia."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Aspiration should be suspected in patients with hematemesis, acute respiratory deterioration, and falling oxygen saturation. Diagnosis is clinical and supported by imaging and bronchoscopy. Arterial blood gases reveal hypoxemia and acidosis. Chest imaging shows alveolar infiltrates. Bronchoscopy confirms the diagnosis, enables therapeutic suctioning, and evaluates the severity of injury.",
+      "essential_tests": [
+        "Arterial blood gas: low PaO₂, elevated PaCO₂, mixed acidosis.",
+        "Chest X-ray: alveolar infiltrates or consolidation in dependent lung regions.",
+        "Chest CT: defines extent of aspiration and excludes other causes of hypoxia.",
+        "CBC: anemia, leukocytosis.",
+        "Upper GI endoscopy after stabilization: identifies and treats bleeding source.",
+        "Bronchoscopy: confirms blood in airways, enables clearance of clots.",
+        "Procalcitonin or CRP: help differentiate pneumonitis from secondary pneumonia."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Depressed mental status with high risk of continued aspiration.",
+      "Respiratory failure with hypoxemia despite high FiO₂.",
+      "Massive aspiration with ventilatory pattern deterioration and hypercapnia.",
+      "ARDS requiring lung-protective ventilation strategy."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Early orotracheal intubation for airway protection and aspiration clearance.",
+        "Prompt diagnostic and therapeutic bronchoscopy.",
+        "Fluid resuscitation with balanced crystalloids and blood transfusion as needed.",
+        "Early initiation of vasopressors for refractory shock.",
+        "Upper GI endoscopy for localization and hemostatic therapy.",
+        "Lung-protective mechanical ventilation: tidal volume ≤ 6 mL/kg and individualized PEEP.",
+        "Close monitoring of oxygenation, ventilation, and signs of infection.",
+        "Initiate empiric antibiotics in patients with fever and new infiltrates after 48 hours."
+      ]
+    },
+    "prognosis": {
+      "comment": "Patients with UGIB complicated by aspiration have an increased risk of prolonged ventilation, multi-organ failure, and mortality. Poor outcomes are associated with delay in airway control, large aspirate volume, and baseline comorbidities. Early airway management, aggressive supportive care, and coordinated multidisciplinary intervention are essential for improved prognosis."
+    },
+    "additional_notes": [
+      "Always elevate the head of bed in patients with active UGIB.",
+      "Avoid excessive sedation in unprotected airways.",
+      "Prefer orogastric over nasogastric tube if airway is not secured.",
+      "Bronchoscopy should be performed by experienced teams in controlled settings.",
+      "Consider early reintubation in post-extubation patients with signs of aspiration."
+    ],
+    "references": [
+      "UpToDate. Management of upper gastrointestinal bleeding in adults. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 78 – Aspiration and Airway Emergencies.",
+      "Brazilian Society of Digestive Endoscopy – Guidelines for Upper GI Bleeding. 2023.",
+      "Pulmonary aspiration of blood and gastric contents: impact and management. Crit Care. 2021.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Hemorragia Digestiva Alta con Broncoaspiración",
+    "definicion": "La hemorragia digestiva alta complicada con broncoaspiración representa una emergencia médica crítica caracterizada por la aspiración de sangre o contenido gástrico hacia el árbol traqueobronquial, lo que provoca insuficiencia respiratoria aguda, hipoxemia severa y alto riesgo de mortalidad. Ocurre con mayor frecuencia durante episodios de hematemesis abundante, en pacientes con nivel de conciencia reducido o en aquellos sin protección adecuada de la vía aérea. Su manejo requiere control hemodinámico inmediato, protección de la vía aérea y tratamiento simultáneo del foco hemorrágico.",
+    "epidemiologia": "La hemorragia digestiva alta es responsable del 80% de los sangrados gastrointestinales, con tasas de mortalidad del 5% al 10%. La broncoaspiración ocurre en hasta el 15% de estos casos, principalmente en pacientes con vómitos masivos, hepatopatía avanzada, alteración del estado mental o bajo sedación. La aspiración masiva se asocia a tasas de mortalidad superiores al 40%.",
+    "fisiopatologia": "La aspiración de sangre y contenido gástrico ácido ocasiona lesión pulmonar directa, inflamación alveolar, pérdida de surfactante y colapso alveolar, pudiendo desencadenar síndrome de dificultad respiratoria aguda (SDRA). El contenido gástrico ácido causa neumonitis química severa. El cuadro puede agravarse con sobreinfección secundaria, evolucionando a neumonía aspirativa.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión arterial secundaria a pérdida de volumen.",
+        "Taquicardia y signos de shock hipovolémico.",
+        "Hipoperfusión periférica: extremidades frías, oliguria, confusión mental."
+      ],
+      "respiratorias": [
+        "Disnea aguda, taquipnea e hipoxemia progresiva.",
+        "Tos con sangre fresca, sibilancias y roncus.",
+        "Hipoxemia refractaria a oxigenoterapia convencional.",
+        "Evolución hacia insuficiencia respiratoria con requerimiento de ventilación mecánica."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Rebaja del nivel de conciencia, estupor o coma.",
+        "Acidosis mixta por hipoventilación e hipoperfusión.",
+        "Fiebre y leucocitosis por neumonitis química o sobreinfección pulmonar."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "La sospecha clínica se basa en la presencia de hematemesis, deterioro respiratorio agudo y caída de la saturación de oxígeno. El diagnóstico puede confirmarse mediante gasometría, imagenología torácica o broncoscopia. La tomografía de tórax permite evaluar la extensión de la broncoaspiración y descartar otras causas de hipoxemia. La broncoscopia permite aspiración terapéutica de coágulos y visualización directa de sangre en la vía aérea.",
+      "examenes_esenciales": [
+        "Gasometría arterial: hipoxemia, hipercapnia, acidosis mixta.",
+        "Radiografía de tórax: consolidaciones o infiltrados en lóbulos inferiores o posteriores.",
+        "Tomografía de tórax: define la extensión y localización de la broncoaspiración.",
+        "Hemograma: anemia y leucocitosis.",
+        "Endoscopía digestiva alta tras estabilización: diagnóstico y hemostasia.",
+        "Broncoscopia: visualización y aspiración del contenido bronquial.",
+        "Procalcitonina/PCR: útiles para diferenciar neumonitis química de neumonía infecciosa."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Compromiso del estado de conciencia con riesgo de aspiración.",
+      "Hipoxemia refractaria a oxígeno suplementario.",
+      "Hipercapnia y fatiga respiratoria por aspiración masiva.",
+      "Presencia de SDRA que requiere ventilación mecánica protectora."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Intubación orotraqueal precoz para protección de la vía aérea y aspiración pulmonar.",
+        "Broncoscopia diagnóstica y terapéutica temprana.",
+        "Reposición de volumen con cristaloides y transfusión si es necesario.",
+        "Inicio temprano de vasopresores si hay shock persistente.",
+        "Endoscopía digestiva para localización y tratamiento del foco hemorrágico.",
+        "Ventilación mecánica con estrategia protectora (VC ≤ 6 mL/kg, PEEP individualizada).",
+        "Monitoreo intensivo de oxigenación, parámetros ventilatorios y signos de infección secundaria.",
+        "Antibióticos empíricos si fiebre e infiltrado nuevo aparecen después de 48 horas."
+      ]
+    },
+    "pronostico": {
+      "comentario": "La hemorragia digestiva con broncoaspiración se asocia a peor pronóstico, incluyendo mayor mortalidad, ventilación prolongada y disfunción multiorgánica. El pronóstico depende del volumen aspirado, el tiempo hasta la protección de la vía aérea y la presencia de comorbilidades. El manejo intensivo precoz es fundamental para mejorar los resultados clínicos."
+    },
+    "notas_adicionales": [
+      "Mantener la cabecera elevada en pacientes con sangrado activo.",
+      "Evitar sedación profunda sin control adecuado de la vía aérea.",
+      "Preferir sonda orogástrica si la vía aérea no está protegida.",
+      "La broncoscopia debe realizarse en condiciones controladas por un equipo experimentado.",
+      "Evaluar necesidad de reintubación precoz si hay signos de aspiración post-extubación."
+    ],
+    "referencias": [
+      "UpToDate. Manejo de la hemorragia digestiva alta en adultos. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 78 – Emergencias de vía aérea y aspiración.",
+      "Guías de la Sociedad Brasileña de Endoscopía Digestiva. 2023.",
+      "Pulmonary aspiration of blood and gastric content: impact and management. Crit Care. 2021.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  }
+}

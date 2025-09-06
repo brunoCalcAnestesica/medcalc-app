@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Estado de Mal Epiléptico",
+    "definicao": "O estado de mal epiléptico (EME) é definido como uma crise epiléptica prolongada com duração contínua superior a 5 minutos ou a ocorrência de duas ou mais crises sucessivas sem recuperação completa do nível de consciência entre elas. Representa uma emergência neurológica com alto risco de lesão neuronal irreversível, complicações sistêmicas graves e mortalidade significativa. Pode se manifestar de forma convulsiva ou não convulsiva e requer intervenção terapêutica imediata e estruturada.",
+    "epidemiologia": "A incidência do EME varia entre 10 a 40 casos por 100 mil habitantes/ano, sendo mais frequente em crianças, idosos e em pacientes com epilepsia de difícil controle. Cerca de 20–30% dos casos ocorrem em indivíduos sem diagnóstico prévio de epilepsia. As principais causas incluem descontinuação abrupta de anticonvulsivantes, infecções do sistema nervoso central (meningite, encefalite), distúrbios metabólicos (hiponatremia, hipoglicemia), AVC, traumatismo cranioencefálico (TCE), tumores cerebrais, alcoolismo, abstinência e intoxicações por drogas ou medicamentos.",
+    "fisiopatologia": "O EME é caracterizado por hiperatividade neuronal persistente devido a um desequilíbrio entre neurotransmissores excitatórios (glutamato) e inibitórios (GABA). Há falência dos mecanismos endógenos de inibição das descargas epilépticas, levando a aumento do metabolismo cerebral, consumo excessivo de oxigênio e glicose, acúmulo de lactato, disfunção da barreira hematoencefálica, edema citotóxico, elevação da pressão intracraniana e, em casos refratários, lesão neuronal progressiva. As alterações sistêmicas incluem rabdomiólise, hiperglicemia, acidose metabólica, insuficiência respiratória e instabilidade hemodinâmica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia, hipertensão arterial inicial e liberação adrenérgica exacerbada.",
+        "Evolução para hipotensão em fases prolongadas devido à exaustão autonômica ou sedação excessiva.",
+        "Febre, hiperglicemia e elevação de marcadores inflamatórios por estresse metabólico."
+      ],
+      "respiratorias": [
+        "Dispneia, hipoxemia e hipoventilação associadas à atividade convulsiva ou ao uso de sedativos.",
+        "Broncoaspiração em pacientes com rebaixamento do nível de consciência.",
+        "Acidose respiratória e necessidade de suporte ventilatório em fases refratárias."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Crises tônico-clônicas generalizadas, focais com ou sem generalização, e crises não convulsivas (alteração de comportamento ou consciência sem atividade motora evidente).",
+        "Confusão mental persistente, estupor ou coma em fases prolongadas.",
+        "Sinais de hipertensão intracraniana: anisocoria, vômitos, rigidez de nuca, rebaixamento progressivo da consciência.",
+        "Rabdomiólise, hipertermia, hiponatremia, hipocalcemia, acidose láctica."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é prioritariamente clínico nas formas convulsivas, baseado na observação direta da atividade motora ou relatos de testemunhas. Em pacientes com alteração do estado mental sem atividade motora evidente, deve-se suspeitar de EME não convulsivo, sendo imprescindível o uso de eletroencefalograma (EEG). A avaliação deve incluir identificação de causas precipitantes e investigação estrutural, metabólica e infecciosa.",
+      "exames_essenciais": [
+        "EEG: ferramenta essencial para confirmação de EME não convulsivo, monitoramento de tratamento e titulação de sedação em EME refratário.",
+        "Tomografia de crânio sem contraste: descartar lesões estruturais agudas (hemorragias, infartos, hidrocefalia, TCE).",
+        "Ressonância magnética: sensível para identificar lesões focais, encefalites e alterações associadas ao EME prolongado.",
+        "Punção lombar: indicada em suspeita de infecção do SNC, com análise de citoquímica, cultura e PCR viral.",
+        "Gasometria arterial, lactato, eletrólitos (Na⁺, K⁺, Ca²⁺, Mg²⁺), glicemia capilar, função renal e hepática.",
+        "Dosagens séricas de anticonvulsivantes (fenitoína, carbamazepina, valproato, levetiracetam) para avaliar adesão terapêutica.",
+        "Tóxicos urinários, dosagem de álcool e rastreamento de causas autoimunes ou paraneoplásicas em casos de EME de etiologia indefinida."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Rebaixamento importante da consciência (GCS ≤ 8) com risco de aspiração.",
+      "Crises motoras prolongadas com hipoxemia refratária ou insuficiência respiratória.",
+      "EME refratário com necessidade de sedação contínua com agentes anestésicos (midazolam, propofol, tiopental).",
+      "Instabilidade respiratória ou hemodinâmica associada ao quadro clínico ou às medicações empregadas."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Estabilização imediata das vias aéreas, ventilação e circulação, com monitorização contínua (ECG, SpO₂, pressão arterial invasiva se possível).",
+        "Correção de hipoglicemia, distúrbios hidroeletrolíticos ou hipoxemia identificados na triagem inicial.",
+        "Primeira linha: benzodiazepínicos – diazepam 10–20 mg EV, midazolam 10 mg IM/EV ou lorazepam 4 mg EV, podendo repetir dose após 5 minutos.",
+        "Segunda linha: anticonvulsivantes de carga (administração lenta) – fenitoína 20 mg/kg EV, valproato 30–40 mg/kg EV ou levetiracetam 60 mg/kg EV, conforme disponibilidade e contraindicações.",
+        "Terceira linha: EME refratário – indução anestésica com midazolam em infusão contínua (0,05–2 mg/kg/h), propofol (1–5 mg/kg/h) ou tiopental (3–5 mg/kg/h), mantendo EEG contínuo com supressão de surtos.",
+        "Avaliação e tratamento da causa base (infecção, trauma, tumor, distúrbio metabólico, intoxicação).",
+        "Profilaxia de complicações: rabdomiólise, injúria renal aguda, sepse, úlceras de decúbito, TEP, neuropatia de UTI."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico do EME depende diretamente do tempo até a intervenção, da etiologia, da idade do paciente, comorbidades associadas e da resposta às terapias institucionais. EME refratário está associado a mortalidade superior a 30%, e até 50% nos casos super-refratários. A abordagem estruturada e rápida melhora significativamente os desfechos funcionais, especialmente em pacientes jovens sem lesões estruturais cerebrais graves."
+    },
+    "notas_adicionais": [
+      "Evitar atrasos na administração da primeira e segunda linha terapêutica.",
+      "Instituir EEG contínuo precoce em casos sem resposta clínica evidente ou com sedação profunda.",
+      "Avaliar necessidade de suporte neurointensivo e transferência para centro especializado.",
+      "Revisar adesão e regime de manutenção após estabilização, com encaminhamento ambulatorial especializado.",
+      "Considerar etiologias autoimunes ou infecciosas atípicas em EME de difícil controle, com investigação direcionada."
+    ],
+    "fontes_bibliograficas": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 63 – Estado de Mal Epiléptico.",
+      "UpToDate. Refractory and super-refractory status epilepticus in adults. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Diretrizes da Liga Brasileira de Epilepsia. Estado de Mal Epiléptico. 2023.",
+      "Trinka E, et al. A definition and classification of status epilepticus – Report of the ILAE Task Force. Epilepsia. 2015."
+    ],
+    "US": {
+      "title": "Status Epilepticus",
+      "definition": "Status epilepticus (SE) is defined as a seizure lasting longer than 5 minutes or recurrent seizures without return to baseline consciousness between episodes. It is a neurologic emergency associated with significant morbidity and mortality due to the risk of neuronal injury, systemic complications, and failure of homeostatic mechanisms. SE can be convulsive or non-convulsive and requires urgent evaluation and management.",
+      "epidemiology": "SE affects approximately 10 to 40 individuals per 100,000 people annually. It is more prevalent in children and the elderly and occurs in both patients with preexisting epilepsy and those with new-onset seizures. Common causes include withdrawal from antiepileptic drugs, cerebrovascular accidents (CVAs), central nervous system infections (e.g., meningitis, encephalitis), metabolic disturbances (e.g., hyponatremia, hypoglycemia), traumatic brain injury, brain tumors, alcohol withdrawal, and drug intoxication.",
+      "pathophysiology": "SE involves sustained neuronal hyperexcitability due to an imbalance between excitatory (glutamate) and inhibitory (GABA) neurotransmission. Failure of endogenous seizure termination mechanisms leads to prolonged neuronal firing, excessive cerebral metabolic demand, hypoxia, lactate accumulation, and disruption of the blood-brain barrier. Prolonged seizures result in excitotoxicity, neuronal apoptosis, cerebral edema, and intracranial hypertension. Systemically, SE causes rhabdomyolysis, hyperglycemia, acidosis, respiratory failure, and hemodynamic instability.",
+      "clinical_manifestations": {
+        "hemodynamic": [
+          "Initial sympathetic surge with tachycardia and hypertension.",
+          "Progression to hypotension in prolonged or refractory SE due to autonomic exhaustion or sedative effects.",
+          "Hyperthermia, elevated glucose, and inflammatory markers secondary to metabolic stress."
+        ],
+        "respiratory": [
+          "Hypoxemia and respiratory insufficiency due to apnea, reduced consciousness, or medication effects.",
+          "Risk of aspiration pneumonia in altered mental status.",
+          "Respiratory acidosis and need for mechanical ventilation in prolonged or refractory SE."
+        ],
+        "neurologic_and_metabolic": [
+          "Generalized tonic-clonic seizures, focal seizures (with or without impaired awareness), or nonconvulsive SE (behavioral arrest, altered awareness without motor activity).",
+          "Persistent confusion, stupor, or coma in prolonged cases.",
+          "Signs of raised intracranial pressure: anisocoria, vomiting, nuchal rigidity, declining consciousness.",
+          "Systemic complications: rhabdomyolysis, hyperthermia, hyponatremia, hypocalcemia, lactic acidosis."
+        ]
+      },
+      "diagnosis": {
+        "clinical_approach": "Diagnosis is clinical in convulsive SE based on observed seizure activity. In patients with altered consciousness without overt convulsions, nonconvulsive SE must be suspected and confirmed by electroencephalography (EEG). A thorough evaluation for underlying etiologies is mandatory, including structural, metabolic, infectious, toxicologic, and autoimmune causes.",
+        "essential_tests": [
+          "EEG: essential for diagnosing nonconvulsive SE, monitoring treatment response, and titrating anesthetics in refractory SE.",
+          "Non-contrast head CT: to rule out acute structural lesions (e.g., hemorrhage, infarction, trauma, hydrocephalus).",
+          "MRI brain: useful in detecting focal lesions, encephalitis, or changes from prolonged SE.",
+          "Lumbar puncture: indicated when infection is suspected; includes CSF cytochemistry, cultures, and viral PCR.",
+          "Laboratory tests: arterial blood gases, serum lactate, glucose, sodium, potassium, calcium, magnesium, renal and liver function.",
+          "Serum antiepileptic drug levels (e.g., phenytoin, valproate, carbamazepine, levetiracetam) to assess compliance.",
+          "Urine toxicology screen, serum ethanol, autoimmune/paraneoplastic antibody panel in cryptogenic SE."
+        ]
+      },
+      "indications_for_ventilatory_support": [
+        "GCS ≤ 8 or significant reduction in consciousness with aspiration risk.",
+        "Prolonged motor seizures with refractory hypoxemia or respiratory failure.",
+        "Refractory SE requiring continuous anesthetic infusion (midazolam, propofol, thiopental).",
+        "Respiratory or hemodynamic instability due to seizures or treatment effects."
+      ],
+      "general_management": {
+        "initial_approach": [
+          "Immediate stabilization of airway, breathing, and circulation with continuous monitoring (ECG, SpO₂, invasive BP if available).",
+          "Correction of reversible triggers: hypoglycemia, electrolyte disturbances, hypoxemia.",
+          "First-line therapy: benzodiazepines – diazepam 10–20 mg IV, midazolam 10 mg IM/IV, or lorazepam 4 mg IV; repeat after 5 min if needed.",
+          "Second-line therapy: long-acting antiepileptics – phenytoin 20 mg/kg IV, valproate 30–40 mg/kg IV, or levetiracetam 60 mg/kg IV, depending on contraindications and availability.",
+          "Third-line therapy for refractory SE: continuous infusion of anesthetics (midazolam 0.05–2 mg/kg/h, propofol 1–5 mg/kg/h, or thiopental 3–5 mg/kg/h) with EEG monitoring aiming for burst suppression.",
+          "Identify and treat the underlying cause (e.g., infection, tumor, trauma, metabolic imbalance, intoxication).",
+          "Prevent complications: rhabdomyolysis, acute kidney injury, sepsis, deep vein thrombosis, pressure ulcers, ICU-acquired weakness."
+        ]
+      },
+      "prognosis": {
+        "comment": "Prognosis in SE is strongly influenced by seizure duration, etiology, patient age, comorbidities, and response to treatment. Refractory SE is associated with mortality rates over 30%, and super-refractory SE can exceed 50%. Early and structured management improves functional outcomes, especially in young patients without major structural brain damage."
+      },
+      "additional_notes": [
+        "Avoid treatment delays between initial and second-line therapy.",
+        "Implement continuous EEG early in patients without clear clinical response or under deep sedation.",
+        "Refer to specialized neurocritical care units when available.",
+        "After stabilization, review long-term antiepileptic regimen and arrange specialist follow-up.",
+        "Consider autoimmune or infectious etiologies in cryptogenic or difficult-to-control SE."
+      ],
+      "references": [
+        "Miller’s Anesthesia. 8th ed. Chapter 63 – Status Epilepticus.",
+        "UpToDate. Refractory and super-refractory status epilepticus in adults. 2024.",
+        "Harrison’s Principles of Internal Medicine. 21st ed.",
+        "Brazilian League of Epilepsy. Status Epilepticus Guidelines. 2023.",
+        "Trinka E, et al. A definition and classification of status epilepticus – Report of the ILAE Task Force. Epilepsia. 2015."
+      ]
+    }
+  },
+  "ES": {
+    "titulo": "Estatus Epiléptico",
+    "definicion": "El estatus epiléptico (EE) se define como una crisis epiléptica continua de más de 5 minutos de duración o dos o más crisis sin recuperación completa de la conciencia entre ellas. Es una emergencia neurológica que conlleva un alto riesgo de daño neuronal, complicaciones sistémicas graves y mortalidad significativa. Puede presentarse en forma convulsiva o no convulsiva y requiere intervención médica inmediata y estructurada.",
+    "epidemiologia": "El EE tiene una incidencia estimada de 10 a 40 casos por 100.000 personas al año. Es más frecuente en niños, ancianos y pacientes con epilepsia refractaria, aunque también puede ser la primera manifestación de epilepsia. Las causas comunes incluyen suspensión abrupta de antiepilépticos, infecciones del sistema nervioso central (meningitis, encefalitis), accidentes cerebrovasculares, traumatismos craneoencefálicos, alteraciones metabólicas (hiponatremia, hipoglucemia), tumores cerebrales, abstinencia alcohólica y sobredosis de medicamentos o tóxicos.",
+    "fisiopatologia": "Durante el EE, hay una desregulación del equilibrio entre neurotransmisores excitatorios (glutamato) e inhibitorios (GABA), lo que conduce a una descarga neuronal excesiva sostenida. Esta hiperactividad provoca hipermetabolismo cerebral, consumo elevado de oxígeno y glucosa, acidosis láctica, disfunción de la barrera hematoencefálica, edema cerebral y daño neuronal progresivo. Sistémicamente, se desarrollan rabdomiólisis, hiperglucemia, acidosis metabólica, insuficiencia respiratoria e inestabilidad hemodinámica.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia e hipertensión arterial en etapas iniciales debido a hiperactividad simpática.",
+        "Evolución a hipotensión en casos prolongados por agotamiento autonómico o efectos de sedación.",
+        "Hipertermia, hiperglucemia y elevación de marcadores inflamatorios como respuesta al estrés metabólico."
+      ],
+      "respiratorias": [
+        "Hipoxemia e insuficiencia respiratoria debida a apnea ictal, reactividad reducida o sedación.",
+        "Riesgo de broncoaspiración en pacientes con disminución del nivel de conciencia.",
+        "Acidosis respiratoria y necesidad de ventilación mecánica en fases refractarias."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Crisis tónico-clónicas generalizadas, crisis focales con o sin generalización y EE no convulsivo (alteración del comportamiento o del estado de conciencia sin actividad motora evidente).",
+        "Confusión persistente, estupor o coma en fases avanzadas.",
+        "Signos de hipertensión intracraneal: anisocoria, vómitos, rigidez de nuca, deterioro del estado de conciencia.",
+        "Rabdomiólisis, hipertermia, hiponatremia, hipocalcemia y acidosis láctica."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es clínico en EE convulsivo, basado en la observación directa o en el testimonio de testigos. En pacientes con alteración del estado mental sin actividad motora evidente, debe sospecharse EE no convulsivo, requiriendo electroencefalograma (EEG) para confirmación. La investigación etiológica incluye estudios estructurales, metabólicos, tóxicos e infecciosos.",
+      "examenes_esenciales": [
+        "EEG: fundamental para confirmar EE no convulsivo, monitorear la efectividad del tratamiento y ajustar la sedación en EE refractario.",
+        "Tomografía computarizada de cráneo sin contraste: descarta lesiones estructurales agudas como hemorragia, infarto o traumatismo.",
+        "Resonancia magnética cerebral: útil para lesiones focales, encefalitis y alteraciones por EE prolongado.",
+        "Punción lumbar: indicada si se sospecha infección del SNC; incluye citoquímica, cultivo y PCR viral.",
+        "Gasometría arterial, lactato, electrolitos (Na⁺, K⁺, Ca²⁺, Mg²⁺), glucemia, función renal y hepática.",
+        "Niveles séricos de fármacos antiepilépticos (fenitoína, valproato, levetiracetam, carbamazepina).",
+        "Toxicología urinaria, dosificación de alcohol y estudio de causas inmunológicas/paraneoplásicas en EE criptogénico."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Glasgow ≤ 8 o reactividad disminuida con riesgo de aspiración.",
+      "Crisis prolongadas con hipoxemia refractaria o insuficiencia respiratoria.",
+      "EE refractario con necesidad de infusión continua de anestésicos (midazolam, propofol, tiopental).",
+      "Inestabilidad respiratoria o hemodinámica secundaria a la crisis o al tratamiento aplicado."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Estabilización inmediata de vía aérea, ventilación y circulación, con monitoreo continuo (ECG, SpO₂, presión arterial invasiva si es posible).",
+        "Corrección de causas reversibles: hipoglucemia, hipoxemia y trastornos hidroelectrolíticos.",
+        "Primera línea: benzodiacepinas – diazepam 10–20 mg IV, midazolam 10 mg IM/IV o lorazepam 4 mg IV; repetir tras 5 minutos si persiste la crisis.",
+        "Segunda línea: fármacos antiepilépticos de acción prolongada – fenitoína 20 mg/kg IV, valproato 30–40 mg/kg IV o levetiracetam 60 mg/kg IV, según disponibilidad y contraindicaciones.",
+        "Tercera línea (EE refractario): infusión continua de anestésicos (midazolam 0,05–2 mg/kg/h, propofol 1–5 mg/kg/h o tiopental 3–5 mg/kg/h), con monitoreo por EEG dirigido a supresión de brotes.",
+        "Identificación y tratamiento de la causa subyacente (infección, tumor, trauma, trastornos metabólicos o intoxicaciones).",
+        "Prevención de complicaciones: rabdomiólisis, lesión renal aguda, sepsis, trombosis venosa profunda, úlceras por presión y debilidad adquirida en UCI."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico del EE depende de la duración de las crisis, etiología, edad del paciente, comorbilidades y respuesta al tratamiento. El EE refractario tiene una mortalidad superior al 30%, y el superrefractario puede superar el 50%. El manejo precoz y estructurado mejora los resultados funcionales, especialmente en pacientes jóvenes sin lesiones cerebrales estructurales importantes."
+    },
+    "notas_adicionales": [
+      "Evitar retrasos entre la administración del tratamiento de primera y segunda línea.",
+      "Iniciar EEG continuo de forma precoz en pacientes sin respuesta clínica evidente o bajo sedación profunda.",
+      "Remitir a unidad de cuidados neurocríticos cuando sea posible.",
+      "Tras la estabilización, revisar el régimen antiepiléptico y asegurar seguimiento con especialista.",
+      "Considerar etiologías inmunológicas o infecciosas en EE criptogénico o de difícil control."
+    ],
+    "referencias": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 63 – Estatus Epiléptico.",
+      "UpToDate. Refractory and super-refractory status epilepticus in adults. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Liga Brasileña de Epilepsia – Guía de Estatus Epiléptico. 2023.",
+      "Trinka E, et al. A definition and classification of status epilepticus – Report of the ILAE Task Force. Epilepsia. 2015."
+    ]
+  }
+}

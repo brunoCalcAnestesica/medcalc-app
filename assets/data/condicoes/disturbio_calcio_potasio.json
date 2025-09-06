@@ -1,0 +1,200 @@
+{
+  "PT": {
+    "titulo": "Distúrbios Graves de Cálcio e Potássio",
+    "definicao": "Distúrbios graves do cálcio e do potássio são emergências clínicas decorrentes de alterações significativas desses eletrólitos, com risco iminente de arritmias, parada cardiorrespiratória e disfunções neurológicas e musculares. As formas graves incluem hipercalemia (> 6,5 mEq/L), hipocalemia (< 2,5 mEq/L), hipercalcemia (> 14 mg/dL) e hipocalcemia sintomática (< 1 mmol/L de cálcio iônico), sendo necessárias medidas rápidas e protocoladas.",
+    "epidemiologia": "A hipercalemia é comum em pacientes com insuficiência renal crônica, uso de IECA, ARA-II, espironolactona, diuréticos poupadores de potássio e lesão celular aguda (rabdomiólise, queimaduras, lise tumoral). A hipocalemia ocorre em perdas digestivas ou renais, uso de diuréticos de alça, anfotericina, insulina ou alcalose. A hipocalcemia é observada em pós-tireoidectomia, hipoparatireoidismo, pancreatite e sepse grave. A hipercalcemia, menos frequente, geralmente está relacionada a neoplasias e hiperparatireoidismo primário.",
+    "fisiopatologia": "O potássio influencia o potencial de repouso das células excitáveis. A hipercalemia despolariza a membrana, reduzindo a excitabilidade, podendo gerar bloqueios e assistolia. A hipocalemia hiperpolariza a membrana, prolongando a repolarização ventricular. O cálcio participa da contração muscular, coagulação e transmissão sináptica. A hipocalcemia aumenta a excitabilidade neuromuscular, enquanto a hipercalcemia a reduz, podendo causar fraqueza, letargia e arritmias.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Bradicardia sinusal, bloqueios AV, taquicardias ventriculares",
+        "Hipotensão, pulso fraco, sinais de baixo débito",
+        "Parada cardíaca em assistolia, FV ou AESP"
+      ],
+      "respiratorias": [
+        "Dispneia, hiperventilação compensatória em acidose",
+        "Hipoventilação central (hipercalcemia avançada)",
+        "Paralisia diafragmática (hipocalemia grave)"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Parestesias, cãibras, tetania, sinal de Chvostek e Trousseau (hipocalcemia)",
+        "Letargia, confusão, convulsões, coma",
+        "Rabdomiólise, constipação, poliúria, pancreatite (hipercalcemia)",
+        "Fraqueza muscular generalizada"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A suspeita deve ser considerada em pacientes com uso de fármacos de risco, sintomas neuromusculares, ECG alterado ou em PCR inexplicada. A interpretação dos valores deve considerar estado ácido-básico, albumina (para cálcio total) e função renal.",
+      "exames_essenciais": [
+        "ECG: alterações típicas (ondas T apiculadas, PR prolongado, QRS alargado na hipercalemia; ondas U e QT prolongado na hipocalemia; prolongamento QT na hipocalcemia)",
+        "Dosagens séricas de potássio, cálcio total e iônico, magnésio, fósforo",
+        "Função renal (ureia e creatinina), pH arterial",
+        "Gasometria arterial com lactato",
+        "CK total (em suspeita de rabdomiólise), PTH se hipocalcemia sem causa aparente"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia refratária à oxigenoterapia",
+      "Rebaixamento do nível de consciência com risco de aspiração",
+      "Paralisia muscular respiratória (hipocalemia ou hipocalcemia)",
+      "Arritmias graves com instabilidade respiratória associada"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitorização contínua com ECG e oximetria",
+        "Hipercalemia: estabilizar membrana com gluconato de cálcio EV (10 mL 10% lento), insulina regular 10 UI + glicose 50% (50 mL), beta-agonistas inalados (salbutamol), bicarbonato se acidose, diálise se refratária ou com disfunção renal",
+        "Hipocalemia: reposição com KCl EV (10–20 mEq/h com monitorização), magnésio concomitante se < 1,5 mg/dL",
+        "Hipocalcemia sintomática: gluconato de cálcio EV lento (1–2 amp 10%), corrigir magnésio se baixo",
+        "Hipercalcemia grave: hidratação com SF 0,9% (200–300 mL/h), furosemida após reidratação, bifosfonatos (pamidronato ou zoledronato), calcitonina, hemodiálise em pacientes com falência renal ou níveis > 18 mg/dL",
+        "Identificar e tratar causa de base: ajuste de medicações, neoplasias, distúrbios endócrinos ou intoxicações"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Quando reconhecidos e tratados precocemente, os distúrbios hidroeletrolíticos graves têm alto potencial de reversibilidade. A demora na correção está associada a PCR, sequelas neurológicas ou mortalidade. O monitoramento contínuo e a abordagem baseada em protocolos são essenciais para evitar desfechos adversos."
+    },
+    "notas_adicionais": [
+      "Evitar glicose isolada em hipercalemia (estimula secreção endógena de insulina mas pode ser insuficiente)",
+      "A correção de hipocalemia sem magnésio concomitante pode ser ineficaz",
+      "QT prolongado é marcador de risco para torsades de pointes na hipocalemia e hipocalcemia",
+      "Reposições EV devem ser feitas com bomba infusora e monitoramento rigoroso"
+    ],
+    "fontes_bibliograficas": [
+      "Kraut JA, Madias NE. Disorders of potassium balance. N Engl J Med. 2007.",
+      "UpToDate. Approach to the adult with electrolyte and acid-base disorders. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Sociedade Brasileira de Clínica Médica – Diretrizes para distúrbios hidroeletrolíticos. 2021.",
+      "Goldberger AL. Clinical Electrocardiography: A Simplified Approach. 9ª ed. Elsevier; 2017."
+    ]
+  },
+  "US": {
+    "titulo": "Severe Calcium and Potassium Disorders",
+    "definicao": "Severe calcium and potassium disorders are life-threatening electrolyte imbalances that may cause arrhythmias, cardiac arrest, neuromuscular dysfunction, or coma. Life-threatening thresholds include hyperkalemia (>6.5 mEq/L), hypokalemia (<2.5 mEq/L), hypercalcemia (>14 mg/dL), and symptomatic hypocalcemia (<1.0 mmol/L ionized calcium). Immediate recognition and treatment are crucial.",
+    "epidemiologia": "Hyperkalemia is frequent in patients with chronic kidney disease, use of ACE inhibitors, ARBs, potassium-sparing diuretics, or cell lysis syndromes (e.g., rhabdomyolysis, tumor lysis). Hypokalemia occurs in GI or renal losses, loop diuretics, insulin use, or metabolic alkalosis. Hypocalcemia may follow thyroid/parathyroid surgery, sepsis, pancreatitis, or hypoparathyroidism. Hypercalcemia is often associated with malignancy or primary hyperparathyroidism.",
+    "fisiopatologia": "Potassium affects resting membrane potential, with hyperkalemia depolarizing cells and reducing excitability (leading to conduction blocks), while hypokalemia hyperpolarizes membranes and delays repolarization. Calcium is key in muscle contraction, coagulation, and neurotransmission. Hypocalcemia increases neuromuscular excitability; hypercalcemia decreases it and may cause weakness and arrhythmias.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Bradycardia, AV blocks, ventricular arrhythmias",
+        "Hypotension and signs of low cardiac output",
+        "Cardiac arrest: asystole, pulseless electrical activity, ventricular fibrillation"
+      ],
+      "respiratorias": [
+        "Dyspnea, compensatory hyperventilation",
+        "Hypoventilation in advanced hypercalcemia",
+        "Diaphragmatic paralysis in severe hypokalemia"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Paresthesia, cramps, tetany, Chvostek and Trousseau signs (hypocalcemia)",
+        "Lethargy, confusion, seizures, coma",
+        "Rhabdomyolysis, constipation, polyuria, pancreatitis (hypercalcemia)",
+        "Generalized muscle weakness"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspect in critically ill patients, cardiac arrest of unclear origin, drug users at risk, or those with muscle weakness. Interpretation must consider acid-base balance, renal function, and albumin level (for corrected calcium). ECG is a key early tool.",
+      "exames_essenciais": [
+        "ECG: peaked T waves, PR/QRS widening (hyperkalemia); U waves, QT prolongation (hypokalemia and hypocalcemia)",
+        "Serum levels: potassium, total and ionized calcium, magnesium, phosphate",
+        "Renal function, pH, anion gap",
+        "Arterial blood gas, lactate",
+        "Creatine kinase (rhabdomyolysis), PTH if unexplained hypocalcemia"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Refractory hypoxemia",
+      "Reduced consciousness with risk of aspiration",
+      "Respiratory paralysis (severe hypokalemia/hypocalcemia)",
+      "Severe arrhythmias with associated respiratory failure"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Continuous ECG and pulse oximetry monitoring",
+        "Hyperkalemia: IV calcium gluconate (10 mL of 10%), insulin + glucose (10 units + 50 mL of 50% dextrose), beta-agonists (nebulized salbutamol), bicarbonate if acidotic, dialysis if refractory or oliguric",
+        "Hypokalemia: IV KCl (10–20 mEq/h), add magnesium if <1.5 mg/dL",
+        "Hypocalcemia (symptomatic): IV calcium gluconate (1–2 amps slowly), correct magnesium",
+        "Hypercalcemia: hydration with normal saline (200–300 mL/h), loop diuretics post-rehydration, bisphosphonates (pamidronate or zoledronate), calcitonin, hemodialysis if >18 mg/dL or renal failure",
+        "Identify and treat underlying cause (e.g., medications, tumors, endocrine disease)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis depends on early recognition and correction. Severe electrolyte disturbances are reversible causes of cardiac arrest. Delays in treatment increase the risk of neurologic damage or death. Protocol-driven care and continuous monitoring reduce adverse outcomes."
+    },
+    "notas_adicionais": [
+      "Do not give dextrose alone in hyperkalemia (may worsen potassium levels)",
+      "Magnesium must be replaced alongside potassium if low",
+      "QT prolongation increases risk for torsades de pointes in hypokalemia/hypocalcemia",
+      "Use infusion pumps and central access when administering IV electrolytes"
+    ],
+    "fontes_bibliograficas": [
+      "Kraut JA, Madias NE. Disorders of potassium balance. N Engl J Med. 2007.",
+      "UpToDate. Evaluation and treatment of severe electrolyte disturbances. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "American Heart Association – ACLS Guidelines for Reversible Causes of Cardiac Arrest. 2020.",
+      "Goldberger AL. Clinical Electrocardiography. 9th ed. Elsevier; 2017."
+    ]
+  },
+  "ES": {
+    "titulo": "Trastornos Graves del Calcio y el Potasio",
+    "definicao": "Los trastornos graves del calcio y el potasio representan emergencias médicas potencialmente mortales que pueden desencadenar arritmias, paro cardíaco, disfunción neuromuscular y alteraciones del estado mental. Se consideran graves la hipercalemia (>6,5 mEq/L), hipocalemia (<2,5 mEq/L), hipercalcemia (>14 mg/dL) y la hipocalcemia sintomática (<1,0 mmol/L de calcio iónico). Su identificación temprana y tratamiento inmediato son fundamentales.",
+    "epidemiologia": "La hipercalemia es frecuente en pacientes con enfermedad renal crónica, uso de IECA, ARA-II, diuréticos ahorradores de potasio o en situaciones de lisis celular como rabdomiólisis, quemaduras o síndrome de lisis tumoral. La hipocalemia puede deberse a pérdidas digestivas, alcalosis metabólica o uso de diuréticos de asa, insulina o anfotericina B. La hipocalcemia se observa en el postoperatorio de tiroidectomía, hipoparatiroidismo, pancreatitis y sepsis. La hipercalcemia está relacionada principalmente con neoplasias y hiperparatiroidismo primario.",
+    "fisiopatologia": "El potasio regula el potencial de membrana de las células excitables. La hipercalemia despolariza la membrana, reduciendo su excitabilidad, lo cual puede provocar bloqueos de conducción y asistolia. La hipocalemia hiperpolariza la membrana, prolongando la repolarización. El calcio participa en la contracción muscular, la coagulación y la neurotransmisión. La hipocalcemia incrementa la excitabilidad neuromuscular y la hipercalcemia la reduce, pudiendo causar letargo, debilidad y arritmias.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Bradicardia, bloqueos AV, taquiarritmias ventriculares",
+        "Hipotensión arterial, signos de bajo gasto",
+        "Paro cardíaco en asistolia, fibrilación ventricular o AESP"
+      ],
+      "respiratorias": [
+        "Disnea, hiperventilación compensadora",
+        "Hipoventilación central en hipercalcemia grave",
+        "Parálisis diafragmática en hipocalemia severa"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Parestesias, calambres, tetania, signos de Chvostek y Trousseau (hipocalcemia)",
+        "Letargo, confusión, convulsiones, coma",
+        "Rabdomiólisis, estreñimiento, poliuria, pancreatitis (hipercalcemia)",
+        "Debilidad muscular generalizada"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Se debe sospechar en pacientes críticos, con paro cardíaco sin causa aparente, usuarios de medicamentos de riesgo o con síntomas neuromusculares. La interpretación de los niveles debe considerar el estado ácido-base, función renal y nivel de albúmina (para corregir el calcio total).",
+      "exames_essenciais": [
+        "ECG: ondas T picudas, PR y QRS ensanchados (hipercalemia); ondas U, QT prolongado (hipocalemia/hipocalcemia)",
+        "Niveles séricos: potasio, calcio total e iónico, magnesio, fósforo",
+        "Función renal, pH, brecha aniónica",
+        "Gasometría arterial, lactato",
+        "CPK (rabdomiólisis), PTH si hipocalcemia sin causa evidente"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia refractaria",
+      "Disminución del nivel de conciencia con riesgo de aspiración",
+      "Parálisis respiratoria (hipocalemia o hipocalcemia severa)",
+      "Arritmias graves con insuficiencia respiratoria asociada"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitorización continua con ECG y oximetría",
+        "Hipercalemia: gluconato de calcio IV (10 mL al 10%), insulina rápida (10 UI) + glucosa al 50% (50 mL), beta-agonistas inhalados (salbutamol), bicarbonato si hay acidosis, diálisis si refractaria o con IR",
+        "Hipocalemia: KCl IV (10–20 mEq/h), añadir magnesio si <1,5 mg/dL",
+        "Hipocalcemia sintomática: gluconato de calcio IV (1–2 ampollas lentas), corregir magnesio",
+        "Hipercalcemia: hidratación con SSN (200–300 mL/h), diuréticos de asa tras rehidratación, bifosfonatos (pamidronato o ácido zoledrónico), calcitonina, hemodiálisis si niveles >18 mg/dL o insuficiencia renal",
+        "Identificar y tratar la causa subyacente (medicamentos, neoplasias, trastornos endocrinos)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico depende del reconocimiento y tratamiento precoz. Estos trastornos son causas reversibles de paro cardíaco. La demora en la corrección puede conllevar a daño neurológico irreversible o muerte. La atención protocolizada y el monitoreo continuo mejoran los resultados clínicos."
+    },
+    "notas_adicionais": [
+      "No administrar glucosa sola en hipercalemia (puede empeorar los niveles de potasio)",
+      "Corregir el magnesio junto con el potasio si está bajo",
+      "El QT prolongado incrementa el riesgo de torsades de pointes en hipocalemia e hipocalcemia",
+      "Usar bombas de infusión y acceso central para la administración IV de electrólitos"
+    ],
+    "fontes_bibliograficas": [
+      "Kraut JA, Madias NE. Disorders of potassium balance. N Engl J Med. 2007.",
+      "UpToDate. Evaluación y tratamiento de las alteraciones electrolíticas graves. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "American Heart Association – ACLS: causas reversibles del paro cardíaco. 2020.",
+      "Goldberger AL. Electrocardiografía clínica. 9ª ed. Elsevier; 2017."
+    ]
+  }
+}

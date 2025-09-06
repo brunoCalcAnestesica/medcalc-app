@@ -1,0 +1,206 @@
+{
+  "PT": {
+    "titulo": "Crise Tireotóxica",
+    "definicao": "A crise tireotóxica, também chamada de tempestade tireoidiana, é uma emergência endócrina rara e grave caracterizada por um estado hipermetabólico extremo devido ao excesso súbito de hormônios tireoidianos circulantes. Ela representa a forma mais grave do hipertireoidismo e está associada a altas taxas de mortalidade. Costuma ocorrer em pacientes com hipertireoidismo não tratado ou precipitada por infecção, cirurgia, trauma, parto ou suspensão abrupta de antitireoidianos.",
+    "epidemiologia": "Apesar de rara, a crise tireotóxica representa uma condição crítica com mortalidade entre 10% e 30%, especialmente em idosos e pacientes com comorbidades. É mais frequente em mulheres de meia-idade com doença de Graves, embora possa ocorrer em qualquer faixa etária.",
+    "fisiopatologia": "O excesso de T3 e T4 circulantes leva à amplificação das respostas simpáticas e aumento do metabolismo basal. Isso causa disfunções cardiovasculares (taquiarritmias, insuficiência cardíaca), neurológicas (delírio, convulsões) e gastrointestinais (diarreia, náuseas). A tempestade tireoidiana também promove resistência à insulina, hipercatabolismo e aumento da demanda de oxigênio. A falência de múltiplos órgãos decorre do desequilíbrio metabólico sistêmico.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia extrema (>140 bpm), palpitações",
+        "Hipertensão sistólica inicial seguida de colapso circulatório",
+        "Arritmias supraventriculares (fibrilação atrial, flutter)"
+      ],
+      "respiratorias": [
+        "Taquipneia, dispneia, intolerância ao decúbito",
+        "Congestão pulmonar e edema agudo de pulmão",
+        "Insuficiência respiratória em fases avançadas"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitação psicomotora, confusão mental, delírio, coma",
+        "Hipertermia (> 39°C), sudorese profusa, desidratação",
+        "Diarreia aquosa, náuseas, vômitos, dor abdominal",
+        "Hiperglicemia, hipocalemia, acidose metabólica"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseado no escore de Burch-Wartofsky (>45 pontos altamente sugestivo), que considera temperatura, estado mental, frequência cardíaca, sintomas gastrointestinais, insuficiência cardíaca e presença de gatilho. A confirmação laboratorial inclui TSH suprimido e elevações de T4 livre e T3, mas o tratamento não deve ser adiado.",
+      "exames_essenciais": [
+        "TSH, T4 livre, T3 total/livre",
+        "Função hepática, renal e glicemia",
+        "Gasometria arterial e eletrólitos",
+        "ECG (taquiarritmias), radiografia de tórax (edema ou pneumonia)",
+        "Procalcitonina e culturas (investigar foco infeccioso)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Rebaixamento do nível de consciência (Glasgow < 8)",
+      "Hipoxemia grave (PaO2 < 60 mmHg com oxigênio suplementar)",
+      "Edema agudo de pulmão refratário",
+      "Instabilidade hemodinâmica com choque circulatório"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Internação em UTI com vigilância contínua",
+        "Controle adrenérgico: propranolol (1–2 mg IV lento ou 60–80 mg VO 4/4h)",
+        "Bloqueio da síntese hormonal: propiltiouracil (600–1000 mg inicial, seguido de 200–300 mg 6/6h)",
+        "Bloqueio da liberação hormonal: iodeto de potássio (5 gotas de Lugol VO 8/8h) 1h após PTU",
+        "Inibição da conversão periférica: hidrocortisona (100 mg IV 8/8h)",
+        "Controle térmico com antitérmicos e medidas físicas",
+        "Hidratação vigorosa, reposição eletrolítica, suporte nutricional",
+        "Tratamento de infecção ou gatilho precipitante"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Quando reconhecida precocemente e tratada de forma intensiva e protocolar, a mortalidade pode ser reduzida para menos de 10%. A ausência de tratamento adequado leva à falência múltipla de órgãos e óbito. A recuperação pode ser lenta e requer acompanhamento endocrinológico prolongado."
+    },
+    "notas_adicionais": [
+      "Evitar AINEs como AAS (aumentam fração livre de T4)",
+      "Evitar sedação profunda sem via aérea protegida",
+      "Monitorar eletrocardiograma e eletrólitos com frequência",
+      "Considerar tireoidectomia de urgência em casos refratários e instáveis"
+    ],
+    "fontes_bibliograficas": [
+      "Burch HB, Wartofsky L. Life-threatening thyrotoxicosis: thyroid storm. Endocrinol Metab Clin North Am. 1993.",
+      "Ross DS et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism. Thyroid. 2016.",
+      "Jonklaas J et al. Guidance on Evaluation and Management of Thyrotoxicosis. Thyroid. 2022.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Ministério da Saúde. Protocolo de manejo clínico do hipertireoidismo. 2022."
+    ]
+  },
+  "US": {
+    "titulo": "Thyroid Storm",
+    "definicao": "Thyroid storm is a rare, life-threatening endocrine emergency resulting from decompensated thyrotoxicosis. It is characterized by a sudden and extreme exacerbation of metabolic symptoms due to excessive levels of circulating thyroid hormones, often precipitated by infection, trauma, surgery, or abrupt discontinuation of antithyroid medications in patients with underlying hyperthyroidism.",
+    "epidemiologia": "Although rare, thyroid storm carries a high mortality rate (10–30%). It is most commonly seen in women aged 30–50 with untreated or poorly controlled Graves' disease. Common precipitants include pulmonary infections, surgical stress, labor, trauma, and iodine load from contrast agents or amiodarone.",
+    "fisiopatologia": "Excessive circulating T3 and T4 stimulate adrenergic receptors and increase basal metabolic rate, leading to systemic hypermetabolism. Multiorgan dysfunction arises from cardiovascular overload, insulin resistance, hepatic stress, and increased oxygen demand. Disruption in thermoregulation and neuropsychiatric control exacerbates severity.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Severe tachycardia (>140 bpm), palpitations",
+        "Initial hypertension followed by hypotension and shock",
+        "Supraventricular arrhythmias (atrial fibrillation, flutter)"
+      ],
+      "respiratorias": [
+        "Tachypnea, dyspnea, orthopnea",
+        "Pulmonary congestion, acute pulmonary edema",
+        "Respiratory failure in advanced stages"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Delirium, agitation, seizures, coma",
+        "Hyperthermia (> 39°C), profuse sweating, dehydration",
+        "Diarrhea, nausea, vomiting, abdominal pain",
+        "Hyperglycemia, hypokalemia, metabolic acidosis"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is primarily clinical, based on criteria like the Burch-Wartofsky score (>45 points suggests high probability). Laboratory confirmation includes suppressed TSH and elevated free T4 and T3 levels. Treatment should not be delayed pending test results.",
+      "exames_essenciais": [
+        "TSH, free T4, total/free T3",
+        "Liver and renal function, glucose, electrolytes",
+        "Arterial blood gas analysis, ECG (arrhythmias)",
+        "Chest imaging if infection is suspected",
+        "Procalcitonin and cultures to identify infectious triggers"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow Coma Scale < 8 or coma",
+      "Severe hypoxemia (PaO2 < 60 mmHg despite oxygen)",
+      "Refractory acute pulmonary edema",
+      "Hemodynamic instability with circulatory shock"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "ICU admission with continuous monitoring",
+        "Adrenergic blockade: propranolol (1–2 mg IV slowly or 60–80 mg PO every 4 hours)",
+        "Inhibit hormone synthesis: propylthiouracil (PTU) 600–1000 mg loading, then 200–300 mg every 6 hours",
+        "Block hormone release: potassium iodide (5 drops Lugol PO every 8h) one hour after PTU",
+        "Inhibit peripheral conversion: hydrocortisone (100 mg IV every 8 hours)",
+        "Aggressive cooling and antipyretics for hyperthermia",
+        "IV hydration, electrolyte repletion, nutritional support",
+        "Treat underlying trigger (e.g., infection, trauma)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prompt recognition and intensive treatment reduce mortality to below 10%. Delays lead to multiorgan failure and death. Recovery may be protracted and requires long-term endocrine follow-up. Survivors may need definitive therapy such as thyroidectomy or radioactive iodine."
+    },
+    "notas_adicionais": [
+      "Avoid aspirin (increases free thyroid hormone)",
+      "Avoid deep sedation unless airway secured",
+      "Frequent ECG and electrolyte monitoring",
+      "Urgent thyroidectomy may be considered in refractory cases"
+    ],
+    "fontes_bibliograficas": [
+      "Burch HB, Wartofsky L. Life-threatening thyrotoxicosis: thyroid storm. Endocrinol Metab Clin North Am. 1993.",
+      "Ross DS et al. 2016 American Thyroid Association Guidelines for Diagnosis and Management of Hyperthyroidism. Thyroid. 2016.",
+      "Jonklaas J et al. Guidance on Evaluation and Management of Thyrotoxicosis. Thyroid. 2022.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Ministério da Saúde. Protocolo de manejo clínico do hipertireoidismo. 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Crisis Tirotóxica",
+    "definicao": "La crisis tirotóxica o tormenta tiroidea es una urgencia endocrina grave y potencialmente mortal que representa la forma más extrema de hipertiroidismo descompensado. Se caracteriza por un estado hipermetabólico severo con afectación multiorgánica, y suele desencadenarse en pacientes con hipertiroidismo no tratado ante infecciones, cirugías, traumas o suspensión abrupta de medicamentos antitiroideos.",
+    "epidemiologia": "Es una condición infrecuente pero crítica, con una mortalidad que oscila entre 10% y 30% en ausencia de tratamiento precoz. Es más prevalente en mujeres de entre 30 y 50 años con enfermedad de Graves. Los desencadenantes más comunes incluyen infecciones respiratorias, cirugías, parto, traumatismos y administración de yodo.",
+    "fisiopatologia": "Se produce por niveles excesivos de hormonas tiroideas (T3 y T4) que estimulan de forma desmesurada los receptores adrenérgicos, aumentando el metabolismo basal y generando hipercatabolismo. Esto provoca disfunción cardiovascular, neurológica, gastrointestinal y termorreguladora, con riesgo de falla multiorgánica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia severa (>140 lpm), palpitaciones",
+        "Hipertensión sistólica seguida de hipotensión por shock",
+        "Arritmias supraventriculares (fibrilación auricular)"
+      ],
+      "respiratorias": [
+        "Taquipnea, disnea, ortopnea",
+        "Edema agudo de pulmón por insuficiencia cardíaca",
+        "Insuficiencia respiratoria hipoxémica"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitación, delirio, convulsiones, coma",
+        "Hipertermia (> 39°C), diaforesis, deshidratación",
+        "Vómitos, diarrea, dolor abdominal",
+        "Hiperglucemia, hipocalemia, acidosis metabólica"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico se basa en la clínica, apoyado en el puntaje de Burch-Wartofsky (>45 indica alta probabilidad). Los hallazgos incluyen TSH suprimida y niveles elevados de T3 y T4 libres. No debe retrasarse el tratamiento a la espera de resultados.",
+      "exames_essenciais": [
+        "TSH, T4 libre, T3 total/libre",
+        "Función hepática, renal, glucosa, electrolitos",
+        "Gasometría arterial, ECG (arritmias)",
+        "Radiografía o TC de tórax si se sospecha infección",
+        "Procalcitonina y cultivos para identificar desencadenante infeccioso"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Escala de Glasgow < 8 o coma",
+      "Hipoxemia grave (PaO2 < 60 mmHg con oxígeno suplementario)",
+      "Edema pulmonar agudo refractario",
+      "Inestabilidad hemodinámica con shock circulatorio"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Ingreso en UCI con monitoreo continuo",
+        "Bloqueo adrenérgico: propranolol (1–2 mg IV lento o 60–80 mg VO cada 4 h)",
+        "Inhibición de síntesis hormonal: propiltiouracilo (600–1000 mg inicial, luego 200–300 mg cada 6 h)",
+        "Bloqueo de liberación hormonal: yoduro potásico (5 gotas de Lugol cada 8 h, 1 h después del PTU)",
+        "Inhibición de conversión periférica: hidrocortisona (100 mg IV cada 8 h)",
+        "Enfriamiento externo agresivo y antipiréticos",
+        "Hidratación IV, corrección electrolítica y soporte nutricional",
+        "Tratamiento de la causa desencadenante (infección, trauma, cirugía)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "El reconocimiento precoz y el tratamiento intensivo reducen la mortalidad a menos del 10%. La falta de intervención conduce a falla orgánica múltiple. Se requiere seguimiento endocrinológico prolongado. Algunos casos pueden requerir tratamiento definitivo con yodo radiactivo o tiroidectomía."
+    },
+    "notas_adicionais": [
+      "Evitar AINEs como AAS (incrementan T4 libre)",
+      "Evitar sedación profunda sin vía aérea asegurada",
+      "Monitoreo continuo de ECG y electrolitos",
+      "Considerar tiroidectomía urgente en casos refractarios"
+    ],
+    "fontes_bibliograficas": [
+      "Burch HB, Wartofsky L. Life-threatening thyrotoxicosis: thyroid storm. Endocrinol Metab Clin North Am. 1993.",
+      "Ross DS et al. Guías ATA 2016 para el manejo del hipertiroidismo. Thyroid. 2016.",
+      "Jonklaas J et al. Evaluación y tratamiento de la tirotoxicosis. Thyroid. 2022.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Ministerio de Salud. Protocolo clínico de manejo del hipertiroidismo. 2022."
+    ]
+  }
+}

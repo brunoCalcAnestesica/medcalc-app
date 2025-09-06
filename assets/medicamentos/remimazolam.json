@@ -1,0 +1,50 @@
+{
+  "PT": {
+    "bulario": {
+      "nomePrincipioAtivo": "Remimazolam",
+      "nomeComercial": "Byfavo®, Remimazolam®",
+      "mecanismoAcao": "O remimazolam é um benzodiazepínico de ação ultra-curta que atua como agonista seletivo do receptor GABA-A. É um pró-fármaco que é rapidamente metabolizado pela esterase plasmática em um metabólito inativo (CNS7054), resultando em início de ação rápido e recuperação previsível. Possui propriedades ansiolíticas, sedativas, hipnóticas e amnésicas, com perfil farmacocinético ideal para procedimentos de curta duração.",
+      "farmacocinetica": "• Absorção: IV direta, início de ação em 1-2 minutos.\n• Distribuição: Volume de distribuição de 0,5-1,0 L/kg.\n• Metabolização: Hidrólise rápida pela esterase plasmática (CNS7054).\n• Meia-vida de eliminação: 0,5-1,5 horas (metabólito inativo).\n• Excreção: Renal, principalmente como metabólito inativo.",
+      "farmacodinamica": "O remimazolam produz depressão dose-dependente do SNC, com efeitos sedativos e amnésicos. A sedação é facilmente titulável e a recuperação é rápida e previsível, independente da duração da infusão. O fármaco não se acumula no organismo, tornando-o ideal para procedimentos de curta duração e sedação consciente. A recuperação é consistente mesmo após infusões prolongadas.",
+      "ajusteRenal": "• Não exige ajuste na dose inicial.\n• O metabólito inativo é excretado renalmente, mas não possui atividade farmacológica.\n• Seguro em pacientes com insuficiência renal.",
+      "ajusteHepatico": "• Não exige ajuste na dose inicial.\n• Metabolismo independente de enzimas hepáticas (esterase plasmática).\n• Seguro em pacientes com insuficiência hepática.",
+      "contraindicacoes": "• Hipersensibilidade ao remimazolam ou benzodiazepínicos.\n• Miastenia gravis não controlada.\n• Insuficiência respiratória severa sem suporte ventilatório.\n• Apneia do sono não tratada.\n• Glaucoma de ângulo fechado (relativo).",
+      "cuidadosMedicos": "• Monitorização cardiorrespiratória contínua obrigatória.\n• Ter suporte de via aérea, ventilação assistida e flumazenil disponível.\n• Ajustar dose em idosos e pacientes debilitados.\n• Monitorar nível de sedação e profundidade da ventilação.\n• Cuidado especial em pacientes com depressão respiratória prévia.\n• Ter flumazenil disponível para reversão emergencial.",
+      "reacoesAdversas": "Comuns (1-10%): Sedação, depressão respiratória, hipotensão, bradicardia, náusea.\nIncomuns (0,1-1%): Reações paradoxais, reações alérgicas leves.\nRaras (<0,1%): Reações alérgicas graves, anafilaxia.",
+      "interacaoMedicamento": "• Potencializado por opioides e outros depressores do SNC.\n• Potencializado por álcool.\n• Antagonizado por flumazenil.\n• Interações mínimas devido ao metabolismo independente de CYP.",
+      "fontesBibliograficas": "Bula Anvisa (Remimazolam), Miller's Anesthesia (9ª Edição), Barash Clinical Anesthesia (7ª Edição), Goodman & Gilman (13ª Edição), UpToDate (2024), Micromedex, ACLS Guidelines 2020, Tintinalli's Emergency Medicine (9ª Edição)."
+    }
+  },
+  "EN": {
+    "bulario": {
+      "nomePrincipioAtivo": "Remimazolam",
+      "nomeComercial": "Byfavo®, Remimazolam®",
+      "mecanismoAcao": "Remimazolam is an ultra-short-acting benzodiazepine that acts as a selective GABA-A receptor agonist. It is a prodrug that is rapidly metabolized by plasma esterase into an inactive metabolite (CNS7054), resulting in rapid onset and predictable recovery. It has anxiolytic, sedative, hypnotic, and amnesic properties, with an ideal pharmacokinetic profile for short-duration procedures.",
+      "farmacocinetica": "• Absorption: Direct IV, onset of action in 1-2 minutes.\n• Distribution: Volume of distribution of 0.5-1.0 L/kg.\n• Metabolism: Rapid hydrolysis by plasma esterase (CNS7054).\n• Elimination half-life: 0.5-1.5 hours (inactive metabolite).\n• Excretion: Renal, mainly as inactive metabolite.",
+      "farmacodinamica": "Remimazolam produces dose-dependent CNS depression with sedative and amnesic effects. Sedation is easily titratable and recovery is rapid and predictable, independent of infusion duration. The drug does not accumulate in the body, making it ideal for short-duration procedures and conscious sedation. Recovery is consistent even after prolonged infusions.",
+      "ajusteRenal": "• No initial dose adjustment required.\n• The inactive metabolite is renally excreted but has no pharmacological activity.\n• Safe in patients with renal insufficiency.",
+      "ajusteHepatico": "• No initial dose adjustment required.\n• Metabolism independent of hepatic enzymes (plasma esterase).\n• Safe in patients with hepatic insufficiency.",
+      "contraindicacoes": "• Hypersensitivity to remimazolam or benzodiazepines.\n• Uncontrolled myasthenia gravis.\n• Severe respiratory failure without ventilatory support.\n• Untreated sleep apnea.\n• Closed-angle glaucoma (relative).",
+      "cuidadosMedicos": "• Continuous cardiorespiratory monitoring mandatory.\n• Have airway support, assisted ventilation and flumazenil available.\n• Adjust dose in elderly and debilitated patients.\n• Monitor sedation level and ventilation depth.\n• Special care in patients with prior respiratory depression.\n• Have flumazenil available for emergency reversal.",
+      "reacoesAdversas": "Common (1-10%): Sedation, respiratory depression, hypotension, bradycardia, nausea.\nUncommon (0.1-1%): Paradoxical reactions, mild allergic reactions.\nRare (<0.1%): Severe allergic reactions, anaphylaxis.",
+      "interacaoMedicamento": "• Potentiated by opioids and other CNS depressants.\n• Potentiated by alcohol.\n• Antagonized by flumazenil.\n• Minimal interactions due to CYP-independent metabolism.",
+      "fontesBibliograficas": "FDA Label (Remimazolam), Miller's Anesthesia (9th Edition), Barash Clinical Anesthesia (7th Edition), Goodman & Gilman (13th Edition), UpToDate (2024), Micromedex, ACLS Guidelines 2020, Tintinalli's Emergency Medicine (9th Edition)."
+    }
+  },
+  "ES": {
+    "bulario": {
+      "nomePrincipioAtivo": "Remimazolam",
+      "nomeComercial": "Byfavo®, Remimazolam®",
+      "mecanismoAcao": "El remimazolam es un benzodiazepínico de acción ultra-corta que actúa como agonista selectivo del receptor GABA-A. Es un profármaco que se metaboliza rápidamente por la esterasa plasmática en un metabolito inactivo (CNS7054), resultando en inicio de acción rápido y recuperación predecible. Posee propiedades ansiolíticas, sedantes, hipnóticas y amnésicas, con un perfil farmacocinético ideal para procedimientos de corta duración.",
+      "farmacocinetica": "• Absorción: IV directa, inicio de acción en 1-2 minutos.\n• Distribución: Volumen de distribución de 0,5-1,0 L/kg.\n• Metabolización: Hidrólisis rápida por esterasa plasmática (CNS7054).\n• Vida media de eliminación: 0,5-1,5 horas (metabolito inactivo).\n• Excreción: Renal, principalmente como metabolito inactivo.",
+      "farmacodinamica": "El remimazolam produce depresión dosis-dependiente del SNC con efectos sedantes y amnésicos. La sedación es fácilmente titulable y la recuperación es rápida y predecible, independiente de la duración de la infusión. El fármaco no se acumula en el organismo, haciéndolo ideal para procedimientos de corta duración y sedación consciente. La recuperación es consistente incluso después de infusiones prolongadas.",
+      "ajusteRenal": "• No exige ajuste en la dosis inicial.\n• El metabolito inactivo se excreta renalmente pero no posee actividad farmacológica.\n• Seguro en pacientes con insuficiencia renal.",
+      "ajusteHepatico": "• No exige ajuste en la dosis inicial.\n• Metabolismo independiente de enzimas hepáticas (esterasa plasmática).\n• Seguro en pacientes con insuficiencia hepática.",
+      "contraindicacoes": "• Hipersensibilidad al remimazolam o benzodiazepínicos.\n• Miastenia gravis no controlada.\n• Insuficiencia respiratoria severa sin soporte ventilatorio.\n• Apnea del sueño no tratada.\n• Glaucoma de ángulo cerrado (relativo).",
+      "cuidadosMedicos": "• Monitorización cardiorrespiratoria continua obligatoria.\n• Tener soporte de vía aérea, ventilación asistida y flumazenil disponible.\n• Ajustar dosis en ancianos y pacientes debilitados.\n• Monitorizar nivel de sedación y profundidad de ventilación.\n• Cuidado especial en pacientes con depresión respiratoria previa.\n• Tener flumazenil disponible para reversión emergencial.",
+      "reacoesAdversas": "Comunes (1-10%): Sedación, depresión respiratoria, hipotensión, bradicardia, náusea.\nIncomunes (0,1-1%): Reacciones paradójicas, reacciones alérgicas leves.\nRaras (<0,1%): Reacciones alérgicas graves, anafilaxia.",
+      "interacaoMedicamento": "• Potencializado por opioides y otros depresores del SNC.\n• Potencializado por alcohol.\n• Antagonizado por flumazenil.\n• Interacciones mínimas debido al metabolismo independiente de CYP.",
+      "fontesBibliograficas": "FDA Label (Remimazolam), Miller's Anesthesia (9ª Edición), Barash Clinical Anesthesia (7ª Edición), Goodman & Gilman (13ª Edición), UpToDate (2024), Micromedex, ACLS Guidelines 2020, Tintinalli's Emergency Medicine (9ª Edición)."
+    }
+  }
+} 

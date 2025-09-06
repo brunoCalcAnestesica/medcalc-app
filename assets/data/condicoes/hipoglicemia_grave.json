@@ -1,0 +1,221 @@
+{
+  "PT": {
+    "titulo": "Hipoglicemia Grave",
+    "definicao": "Hipoglicemia grave é definida como a queda da glicose plasmática a níveis críticos (< 54 mg/dL) acompanhada de sintomas neuroglicopênicos ou autonômicos intensos que requerem intervenção de terceiros para correção. Trata-se de uma emergência metabólica com potencial risco de dano neurológico irreversível, arritmias e morte, especialmente em pacientes com diabetes mellitus em uso de insulina ou sulfonilureias. Também pode ser consequência de insuficiência hepática, sepse, desnutrição, insuficiência adrenal ou intoxicações.",
+    "epidemiologia": "Mais comum em indivíduos com diabetes tipo 1 submetidos a controle glicêmico intensivo, sobretudo com histórico de hipoglicemias prévias. A hipoglicemia também ocorre em pacientes com diabetes tipo 2 tratados com sulfonilureias, em idosos, pacientes com doença renal crônica ou insuficiência hepática. A hipoglicemia hospitalar é marcador de mau prognóstico, associando-se a aumento da mortalidade e tempo de internação, independentemente da etiologia.",
+    "fisiopatologia": "A glicose é o substrato energético primário para o cérebro. A hipoglicemia causa disfunção neurológica por depleção de ATP neuronal, aumento da excitabilidade elétrica, liberação de glutamato e geração de radicais livres, podendo culminar em morte neuronal. O organismo ativa mecanismos contrarregulatórios mediados por glucagon, catecolaminas, cortisol e GH. Com episódios frequentes, ocorre atenuação da resposta autonômica e ausência de sintomas preditivos (hipoglicemia inadvertida).",
+    "manifestações_clinicas": {
+      "sintomas_autonomicos": [
+        "Sudorese fria",
+        "Palpitações",
+        "Tremores finos",
+        "Fome intensa",
+        "Ansiedade ou inquietação",
+        "Parestesias periorais"
+      ],
+      "sintomas_neuroglicopenicos": [
+        "Confusão mental",
+        "Letargia ou sonolência",
+        "Distúrbios visuais (visão embaçada, diplopia)",
+        "Comportamento anormal ou agressividade",
+        "Convulsões",
+        "Coma"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A tríade de Whipple (sintomas compatíveis, hipoglicemia confirmada e melhora após correção) permanece como base diagnóstica. A dosagem de glicemia capilar deve ser imediata em qualquer paciente com sintomas neurológicos agudos ou alteração do nível de consciência. Casos sem diagnóstico prévio de diabetes exigem investigação extensa.",
+      "exames_essenciais": [
+        "Glicemia capilar e venosa confirmatória",
+        "Gasometria arterial (pH, lactato, bicarbonato)",
+        "Função renal (ureia, creatinina)",
+        "Função hepática (TGO, TGP, bilirrubinas, INR)",
+        "Dosagem de insulina, peptídeo C, sulfonilureias e IGF-1 (se hipoglicemia inexplicada)",
+        "Cortisol basal e provas de estímulo se suspeita de insuficiência adrenal",
+        "Toxicologia em amostras de sangue e urina"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Redução importante do nível de consciência com risco de aspiração",
+      "Hipoventilação ou apneia associada",
+      "Convulsões prolongadas ou refratárias",
+      "Presença de intoxicação concomitante com depressão do centro respiratório",
+      "Hipoglicemia persistente em paciente instável hemodinamicamente"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Estabelecer acesso venoso periférico calibroso",
+        "Administrar glicose hipertônica: 25–50 mL de SG 50% IV (12,5 a 25 g de glicose)",
+        "Manter infusão contínua de SG 5% ou 10% ajustada à resposta glicêmica",
+        "Monitorar glicemia capilar a cada 15–30 min nas primeiras 2–4 horas",
+        "Administrar glucagon 1 mg IM/SC se sem acesso venoso ou em ambiente pré-hospitalar",
+        "Avaliar necessidade de vasopressores e suporte ventilatório nos casos críticos",
+        "Reavaliar medicações hipoglicemiantes e risco de recorrência",
+        "Investigar causas secundárias e corrigir fatores precipitantes (ex.: jejum prolongado, sepse, disfunção adrenal)",
+        "Iniciar alimentação oral assim que o paciente recuperar nível de consciência"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A hipoglicemia grave, especialmente quando associada a rebaixamento do nível de consciência ou convulsões, está relacionada a maior risco de sequelas neurológicas, eventos cardiovasculares e morte. A recorrência é fator de risco para deterioração cognitiva e síndrome de hipoglicemia inadvertida. A monitorização rigorosa e o ajuste de tratamento hipoglicemiante são essenciais na prevenção de novos episódios."
+    },
+    "notas_adicionais": [
+      "Evitar infusão de SG 50% em veias periféricas finas devido ao risco de necrose química",
+      "Reavaliar esquemas de insulina basal e prandial em pacientes internados",
+      "Educar pacientes e cuidadores sobre reconhecimento precoce de sinais de hipoglicemia",
+      "Utilizar sistemas de monitorização contínua de glicose em pacientes de alto risco",
+      "Observar pacientes por no mínimo 24 h após hipoglicemia por sulfonilureias de longa ação"
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Management of hypoglycemia in adults. 2024.",
+      "ADA Standards of Medical Care in Diabetes – 2024.",
+      "Sociedade Brasileira de Diabetes. Diretrizes 2023.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 75 – Complicações metabólicas em anestesia."
+    ]
+  },
+  "US": {
+    "title": "Severe Hypoglycemia",
+    "definition": "Severe hypoglycemia is defined as a critical reduction in plasma glucose levels (&lt; 54 mg/dL) associated with neuroglycopenic or intense autonomic symptoms, requiring external assistance for correction. It is a medical emergency with potential for irreversible neurological damage, seizures, arrhythmias, and death. It most commonly affects patients with diabetes mellitus on insulin or sulfonylureas but may also occur in cases of liver failure, adrenal insufficiency, sepsis, starvation, or toxic exposures.",
+    "epidemiology": "Most frequently observed in patients with type 1 diabetes undergoing intensive glycemic control, particularly with a history of prior hypoglycemic episodes. Also occurs in type 2 diabetes patients on sulfonylureas, elderly individuals, and those with chronic kidney or liver disease. In hospitalized patients, hypoglycemia is a known marker of poor prognosis and is independently associated with increased mortality and prolonged hospitalization.",
+    "pathophysiology": "Glucose is the primary energy source for the brain. Hypoglycemia leads to neuronal dysfunction due to ATP depletion, membrane depolarization, excitatory neurotransmitter release, oxidative stress, and ultimately cell death. Counterregulatory mechanisms involve glucagon, catecholamines, cortisol, and growth hormone. Recurrent episodes may result in blunted autonomic response and impaired awareness of hypoglycemia.",
+    "clinical_manifestations": {
+      "autonomic_symptoms": [
+        "Cold sweats",
+        "Palpitations",
+        "Fine tremors",
+        "Intense hunger",
+        "Anxiety or restlessness",
+        "Perioral paresthesia"
+      ],
+      "neuroglycopenic_symptoms": [
+        "Mental confusion",
+        "Lethargy or drowsiness",
+        "Visual disturbances (blurred or double vision)",
+        "Abnormal behavior or irritability",
+        "Seizures",
+        "Coma"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is based on Whipple's triad: compatible symptoms, documented hypoglycemia, and symptom resolution after glucose correction. Immediate capillary or venous glucose measurement is mandatory in any patient with altered mental status or acute neurological symptoms. In patients without known diabetes, an extensive workup for secondary causes is warranted.",
+      "essential_tests": [
+        "Capillary and confirmatory venous glucose",
+        "Arterial blood gas (pH, lactate, bicarbonate)",
+        "Renal function (BUN, creatinine)",
+        "Liver function tests (AST, ALT, bilirubin, INR)",
+        "Insulin, C-peptide, sulfonylurea screen, and IGF-1 (if unexplained hypoglycemia)",
+        "Morning cortisol and stimulation tests if adrenal insufficiency is suspected",
+        "Toxicology screening (blood and urine)"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Markedly reduced level of consciousness with aspiration risk",
+      "Associated hypoventilation or apnea",
+      "Prolonged or refractory seizures",
+      "Concomitant toxic exposure with respiratory depression",
+      "Persistent hypoglycemia in hemodynamically unstable patients"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Establish large-bore IV access",
+        "Administer hypertonic glucose: 25–50 mL of Dextrose 50% IV (12.5 to 25 g glucose)",
+        "Maintain continuous infusion of Dextrose 5% or 10% tailored to glucose response",
+        "Monitor capillary glucose every 15–30 minutes for the first 2–4 hours",
+        "Administer glucagon 1 mg IM/SC if IV access is unavailable",
+        "Assess need for vasopressors and ventilatory support in critical cases",
+        "Reassess antidiabetic medications and risk for recurrence",
+        "Investigate and correct precipitating factors (e.g., prolonged fasting, infection, adrenal failure)",
+        "Resume oral intake as soon as the patient regains consciousness"
+      ]
+    },
+    "prognosis": {
+      "comment": "Severe hypoglycemia, particularly when associated with seizures or altered mental status, carries significant risk for neurological sequelae, cardiovascular events, and death. Recurrent episodes increase the risk of cognitive impairment and hypoglycemia unawareness. Intensive glucose monitoring and individualized adjustment of antidiabetic therapy are key to prevention."
+    },
+    "additional_notes": [
+      "Avoid Dextrose 50% infusion through small peripheral veins due to risk of chemical phlebitis or tissue necrosis",
+      "Review basal and prandial insulin regimens in hospitalized patients",
+      "Educate patients and caregivers on early symptom recognition and response",
+      "Use continuous glucose monitoring systems in high-risk patients",
+      "Observe patients for at least 24 hours after sulfonylurea-induced hypoglycemia"
+    ],
+    "references": [
+      "UpToDate. Management of hypoglycemia in adults. 2024.",
+      "ADA Standards of Medical Care in Diabetes – 2024.",
+      "Brazilian Diabetes Society Guidelines. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 75 – Metabolic complications in anesthesia."
+    ]
+  },
+  "ES": {
+    "titulo": "Hipoglucemia Grave",
+    "definicion": "La hipoglucemia grave se define como la disminución crítica de los niveles de glucosa plasmática (&lt; 54 mg/dL), acompañada de síntomas neuroglucopénicos o autonómicos intensos que requieren asistencia de terceros para su corrección. Constituye una urgencia metabólica con riesgo potencial de daño neurológico irreversible, convulsiones, arritmias e incluso muerte. Ocurre con mayor frecuencia en personas con diabetes mellitus en tratamiento con insulina o sulfonilureas, pero también puede estar asociada a insuficiencia hepática, sepsis, ayuno prolongado, insuficiencia suprarrenal o intoxicaciones.",
+    "epidemiologia": "Es más común en pacientes con diabetes tipo 1 sometidos a un control glucémico intensivo, especialmente aquellos con antecedentes de episodios previos de hipoglucemia. También puede presentarse en personas con diabetes tipo 2 en tratamiento con sulfonilureas, en adultos mayores, pacientes con insuficiencia renal o hepática. En el contexto hospitalario, la hipoglucemia se asocia a mayor mortalidad, complicaciones cardiovasculares y mayor tiempo de internación.",
+    "fisiopatologia": "La glucosa es el principal sustrato energético del sistema nervioso central. La hipoglucemia provoca disfunción neuronal por depleción de ATP, despolarización celular, liberación excesiva de glutamato y radicales libres, que pueden culminar en apoptosis neuronal. Los mecanismos contrarreguladores incluyen liberación de glucagón, catecolaminas, cortisol y hormona del crecimiento. Episodios repetidos pueden atenuar la respuesta autonómica y provocar hipoglucemia inadvertida (sin síntomas premonitorios).",
+    "manifestaciones_clinicas": {
+      "sintomas_autonomicos": [
+        "Sudoración fría",
+        "Palpitaciones",
+        "Temblor fino",
+        "Hambre intensa",
+        "Ansiedad o inquietud",
+        "Parestesias periorales"
+      ],
+      "sintomas_neuroglucopenicos": [
+        "Confusión mental",
+        "Letargo o somnolencia",
+        "Alteraciones visuales (visión borrosa o doble)",
+        "Conducta agresiva o inusual",
+        "Convulsiones",
+        "Coma"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Se basa en la tríada de Whipple: síntomas compatibles, hipoglucemia confirmada y resolución tras la administración de glucosa. Toda persona con alteración aguda de la conciencia o síntomas neurológicos debe recibir medición inmediata de glucemia capilar y/o venosa. En personas sin diagnóstico previo de diabetes debe considerarse una evaluación etiológica completa.",
+      "examenes_esenciales": [
+        "Glucemia capilar y venosa",
+        "Gasometría arterial (pH, lactato, bicarbonato)",
+        "Función renal (urea, creatinina)",
+        "Pruebas hepáticas (AST, ALT, bilirrubinas, INR)",
+        "Insulina, péptido C, sulfonilureas, IGF-1 (en hipoglucemias no explicadas)",
+        "Cortisol basal y test de estimulación si se sospecha insuficiencia suprarrenal",
+        "Toxicología en sangre y orina"
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Disminución del nivel de conciencia con riesgo de aspiración",
+      "Hipoventilación o apnea",
+      "Convulsiones prolongadas o refractarias",
+      "Intoxicaciones concomitantes con depresión respiratoria",
+      "Hipoglucemia persistente en pacientes inestables hemodinámicamente"
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Acceso venoso periférico de buen calibre",
+        "Administración de glucosa hipertónica: 25–50 mL de dextrosa al 50% IV (12,5 a 25 g)",
+        "Continuar con infusión de dextrosa al 5–10% ajustada a los controles",
+        "Monitoreo de glucemia cada 15–30 minutos en las primeras 2–4 horas",
+        "Administrar glucagón 1 mg IM/SC si no se dispone de vía IV",
+        "Evaluar necesidad de vasopresores y soporte ventilatorio si es necesario",
+        "Reevaluar tratamiento hipoglucemiante y factores de riesgo",
+        "Corregir causas precipitantes (ayuno prolongado, sepsis, insuficiencia suprarrenal)",
+        "Iniciar alimentación oral tan pronto como el paciente recupere la conciencia"
+      ]
+    },
+    "pronostico": {
+      "comentario": "La hipoglucemia grave se asocia a mayor riesgo de secuelas neurológicas, eventos cardiovasculares y mortalidad, especialmente si hay pérdida de conciencia o convulsiones. La recurrencia de episodios aumenta el riesgo de deterioro cognitivo y de hipoglucemia inadvertida. El ajuste del tratamiento y la educación del paciente son clave para prevenir nuevos eventos."
+    },
+    "notas_adicionales": [
+      "Evitar infusión de glucosa al 50% en venas periféricas pequeñas por riesgo de necrosis química",
+      "Revisar esquema de insulina basal/bolo en pacientes hospitalizados",
+      "Educar a pacientes y cuidadores sobre signos tempranos y manejo de la hipoglucemia",
+      "Considerar monitoreo continuo de glucosa en pacientes de alto riesgo",
+      "Observar por al menos 24 horas si la hipoglucemia fue inducida por sulfonilureas"
+    ],
+    "fuentes_bibliograficas": [
+      "UpToDate. Manejo de la hipoglucemia en adultos. 2024.",
+      "American Diabetes Association (ADA). Guías clínicas 2024.",
+      "Sociedad Brasileña de Diabetes. Directrices 2023.",
+      "Harrison. Principios de Medicina Interna. 21ª edición.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 75 – Complicaciones metabólicas en anestesia."
+    ]
+  }
+}

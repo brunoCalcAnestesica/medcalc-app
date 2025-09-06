@@ -1,0 +1,203 @@
+{
+  "PT": {
+    "titulo": "COVID-19 Grave",
+    "definicao": "COVID-19 grave refere-se às manifestações clínicas sistêmicas causadas pela infecção pelo SARS-CoV-2, caracterizadas por insuficiência respiratória aguda (SpO2 < 93%, PaO2/FiO2 < 300), necessidade de oxigenoterapia suplementar ou ventilação mecânica, envolvimento pulmonar extenso (> 50%) e disfunção de múltiplos órgãos. Constitui uma síndrome inflamatória sistêmica com alto potencial letal, especialmente em populações vulneráveis.",
+    "epidemiologia": "Desde sua identificação em 2019, a COVID-19 causou milhões de hospitalizações. A forma grave acomete cerca de 14-20% dos infectados, sendo mais comum em idosos (> 65 anos), imunossuprimidos, obesos, diabéticos, hipertensos e cardiopatas. A mortalidade em UTI pode variar entre 20 e 80%, dependendo da gravidade e dos recursos disponíveis.",
+    "fisiopatologia": "O SARS-CoV-2 utiliza a enzima conversora de angiotensina 2 (ECA2) como porta de entrada celular, afetando principalmente o epitélio pulmonar e o endotélio vascular. A resposta inflamatória exagerada leva à liberação de citocinas pró-inflamatórias (IL-6, TNF-α, IL-1β), lesão alveolar difusa, formação de microtrombos e disfunção endotelial sistêmica. A ativação imune desregulada pode causar tempestade de citocinas, injúria renal, miocárdica e hepática.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia, hipotensão e sinais de má perfusão periférica",
+        "Choque distributivo e sepse viral",
+        "Arritmias cardíacas, lesão miocárdica"
+      ],
+      "respiratorias": [
+        "Dispneia progressiva e taquipneia (> 30 irpm)",
+        "Hipoxemia com SpO2 < 90%, refratária ao oxigênio convencional",
+        "Comprometimento pulmonar extenso com SARA (PaO2/FiO2 < 200)"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Delirium, encefalopatia hipóxica, confusão",
+        "Hiperglicemia, elevação de DHL, ferritina, troponina",
+        "Insuficiência renal aguda, acidose metabólica"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspeita clínica em pacientes com sintomas respiratórios e sistêmicos, especialmente com fatores de risco. A gravidade é estabelecida pela presença de taquipneia, hipoxemia, imagem pulmonar com acometimento > 50% e sinais de falência orgânica.",
+      "exames_essenciais": [
+        "RT-PCR ou teste de antígeno para SARS-CoV-2",
+        "TC de tórax: vidro fosco bilateral, consolidações periféricas",
+        "Gasometria: PaO2/FiO2 < 300, acidose respiratória ou mista",
+        "D-dímero, ferritina, IL-6, DHL, troponina, PCR",
+        "Função hepática, renal, eletrólitos e hemograma com linfopenia"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "SpO2 < 90% com oxigênio em alto fluxo (> 15 L/min)",
+      "Fadiga respiratória, uso de musculatura acessória",
+      "Glasgow < 8, confusão grave, instabilidade hemodinâmica",
+      "PaO2/FiO2 < 150 ou sinais de falência respiratória iminente"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Internação em UTI com vigilância contínua",
+        "Oxigenoterapia com cateter nasal de alto fluxo ou VNI se tolerado",
+        "Intubação orotraqueal precoce em SARA com drive respiratório alto",
+        "Ventilação protetora: volume corrente 4–6 mL/kg, driving pressure < 15 cmH2O",
+        "Dexametasona 6 mg/dia por 10 dias (ou metilprednisolona equivalente)",
+        "Anticoagulação plena em pacientes com D-dímero > 2x LSN e sem contraindicação",
+        "Uso de tocilizumabe em pacientes com PCR > 75 mg/L e rápida deterioração",
+        "Terapia renal substitutiva e suporte vasopressor conforme necessidade"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A mortalidade na COVID-19 grave depende da precocidade do suporte intensivo, idade, presença de comorbidades e resposta inflamatória individual. Pacientes que necessitam ventilação invasiva têm mortalidade superior a 50% em muitos cenários. Sobreviventes podem apresentar sequelas pulmonares e neuromusculares prolongadas."
+    },
+    "notas_adicionais": [
+      "Isolamento em quarto com pressão negativa, se disponível",
+      "Precauções com aerossol e EPI rigoroso para toda a equipe",
+      "Monitorar sinais de coinfecção bacteriana ou fúngica",
+      "Planejamento de reabilitação pós-UTI com equipe multiprofissional"
+    ],
+    "fontes_bibliograficas": [
+      "WHO. Clinical Management of COVID-19: Living Guidance. Jan 2023.",
+      "Brasil. Ministério da Saúde. Diretrizes para o manejo clínico da COVID-19 grave. 2022.",
+      "RECOVERY Collaborative Group. Dexamethasone in Hospitalized Patients with Covid-19. N Engl J Med. 2021.",
+      "Marik PE. COVID-19: Pathophysiology and Management. Crit Care Clin. 2022.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017."
+    ]
+  },
+  "US": {
+    "titulo": "Severe COVID-19",
+    "definicao": "Severe COVID-19 refers to the clinical syndrome caused by SARS-CoV-2 infection that involves acute respiratory failure (SpO2 < 93%, PaO2/FiO2 < 300), the need for supplemental oxygen or mechanical ventilation, and multi-organ dysfunction. It is characterized by an exaggerated inflammatory response and carries a high risk of mortality, particularly among vulnerable populations.",
+    "epidemiologia": "Approximately 14–20% of infected individuals develop severe forms. Higher risk groups include elderly patients (> 65 years), those with obesity, diabetes, hypertension, cardiovascular disease, or immunosuppression. In-hospital mortality for ICU patients ranges from 20% to 80%, depending on access to advanced care.",
+    "fisiopatologia": "SARS-CoV-2 binds to ACE2 receptors, primarily affecting alveolar epithelium and vascular endothelium. The inflammatory cascade involves release of IL-6, IL-1β, and TNF-α, resulting in endothelial dysfunction, alveolar damage, cytokine storm, and microvascular thrombosis. This leads to ARDS, sepsis, and multi-organ failure.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Tachycardia, hypotension, poor peripheral perfusion",
+        "Distributive shock and viral sepsis",
+        "Myocardial injury, arrhythmias"
+      ],
+      "respiratorias": [
+        "Progressive dyspnea and tachypnea (> 30 breaths/min)",
+        "SpO2 < 90% despite conventional oxygen therapy",
+        "ARDS with bilateral infiltrates and PaO2/FiO2 < 200"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Delirium, hypoxic encephalopathy, confusion",
+        "Hyperglycemia, elevated LDH, ferritin, troponin",
+        "Acute kidney injury, metabolic acidosis"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Clinical suspicion arises in patients with respiratory and systemic symptoms and known risk factors. Severity is defined by respiratory compromise, extensive radiological lung involvement, or signs of organ failure.",
+      "exames_essenciais": [
+        "RT-PCR or antigen test for SARS-CoV-2",
+        "Chest CT showing bilateral ground-glass opacities or consolidations",
+        "Arterial blood gas: PaO2/FiO2 < 300, respiratory or mixed acidosis",
+        "Inflammatory markers: D-dimer, ferritin, IL-6, LDH, troponin, CRP",
+        "Liver and kidney function, electrolytes, CBC with lymphopenia"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "SpO2 < 90% on high-flow oxygen (> 15 L/min)",
+      "Respiratory fatigue or use of accessory muscles",
+      "GCS < 8, severe confusion, hemodynamic instability",
+      "PaO2/FiO2 < 150 or signs of impending respiratory failure"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "ICU admission with continuous monitoring",
+        "High-flow nasal oxygen or NIV if tolerated",
+        "Early intubation for ARDS with high respiratory drive",
+        "Lung-protective ventilation: tidal volume 4–6 mL/kg, driving pressure < 15 cmH2O",
+        "Dexamethasone 6 mg/day for up to 10 days or equivalent",
+        "Full-dose anticoagulation for patients with elevated D-dimer and no contraindications",
+        "Tocilizumab for patients with rapid deterioration and CRP > 75 mg/L",
+        "Renal replacement therapy and vasopressors as needed"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Mortality in severe COVID-19 depends on age, comorbidities, timing of intervention, and response to treatment. Invasive mechanical ventilation is associated with >50% mortality in many settings. Survivors may experience prolonged pulmonary and neuromuscular complications."
+    },
+    "notas_adicionais": [
+      "Isolate in negative pressure rooms if available",
+      "Strict airborne precautions and full PPE for healthcare staff",
+      "Monitor for bacterial or fungal co-infections",
+      "Early rehabilitation planning with a multidisciplinary team"
+    ],
+    "fontes_bibliograficas": [
+      "WHO. Clinical Management of COVID-19: Living Guidance. Jan 2023.",
+      "NIH. COVID-19 Treatment Guidelines. Updated 2023.",
+      "RECOVERY Collaborative Group. Dexamethasone in Hospitalized Patients with Covid-19. N Engl J Med. 2021.",
+      "Marik PE. COVID-19: Pathophysiology and Management. Crit Care Clin. 2022.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017."
+    ]
+  },
+  "ES": {
+    "titulo": "COVID-19 Grave",
+    "definicao": "La COVID-19 grave se refiere al síndrome clínico causado por la infección por SARS-CoV-2 caracterizado por insuficiencia respiratoria aguda (SpO2 < 93%, PaO2/FiO2 < 300), necesidad de oxigenoterapia suplementaria o ventilación mecánica, y disfunción multiorgánica. Es una enfermedad inflamatoria sistémica con elevada mortalidad, especialmente en poblaciones vulnerables.",
+    "epidemiologia": "Aproximadamente el 14–20% de los infectados desarrollan formas graves, siendo más frecuente en mayores de 65 años, inmunosuprimidos, obesos, diabéticos, hipertensos o con enfermedades cardiovasculares. La mortalidad hospitalaria en UCI varía entre el 20% y el 80%, según el contexto asistencial.",
+    "fisiopatologia": "El SARS-CoV-2 se une al receptor ACE2, afectando principalmente el epitelio alveolar y el endotelio vascular. La respuesta inflamatoria exagerada con liberación de IL-6, TNF-α, IL-1β provoca disfunción endotelial, daño alveolar, tormenta de citoquinas y trombosis microvascular. Esto desencadena SDRA, sepsis viral y fallo multiorgánico.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia, hipotensión, perfusión periférica deficiente",
+        "Choque distributivo y sepsis viral",
+        "Lesión miocárdica, arritmias"
+      ],
+      "respiratorias": [
+        "Disnea progresiva y taquipnea (> 30 rpm)",
+        "SpO2 < 90% a pesar de oxígeno convencional",
+        "SDRA con infiltrados bilaterales y PaO2/FiO2 < 200"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Delirio, encefalopatía hipóxica, confusión",
+        "Hiperglucemia, elevación de DHL, ferritina, troponina",
+        "Insuficiencia renal aguda, acidosis metabólica"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Se sospecha clínicamente en pacientes con síntomas respiratorios y sistémicos, especialmente con factores de riesgo. La gravedad se define por compromiso respiratorio, afectación pulmonar extensa en TC o signos de disfunción orgánica.",
+      "exames_essenciais": [
+        "RT-PCR o test de antígeno para SARS-CoV-2",
+        "TC de tórax con opacidades en vidrio deslustrado bilaterales",
+        "Gasometría arterial: PaO2/FiO2 < 300, acidosis respiratoria o mixta",
+        "Marcadores inflamatorios: dímero-D, ferritina, IL-6, DHL, troponina, PCR",
+        "Función hepática, renal, electrolitos y hemograma con linfopenia"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "SpO2 < 90% con oxígeno de alto flujo (> 15 L/min)",
+      "Fatiga respiratoria o uso de músculos accesorios",
+      "GCS < 8, confusión grave, inestabilidad hemodinámica",
+      "PaO2/FiO2 < 150 o signos de insuficiencia respiratoria inminente"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Ingreso en UCI con monitorización continua",
+        "Oxígeno nasal de alto flujo o VNI si se tolera",
+        "Intubación precoz en SDRA con drive respiratorio elevado",
+        "Ventilación protectora: volumen corriente 4–6 mL/kg, driving pressure < 15 cmH2O",
+        "Dexametasona 6 mg/día por hasta 10 días o equivalente",
+        "Anticoagulación plena en pacientes con dímero-D elevado y sin contraindicaciones",
+        "Tocilizumab en casos de deterioro rápido y PCR > 75 mg/L",
+        "Diálisis o soporte vasopresor según necesidad"
+      ]
+    },
+    "prognostico": {
+      "comentario": "La mortalidad en COVID-19 grave depende de la edad, comorbilidades, oportunidad del tratamiento y respuesta inflamatoria individual. La ventilación mecánica invasiva se asocia con mortalidad > 50%. Los sobrevivientes pueden presentar secuelas respiratorias y neuromusculares a largo plazo."
+    },
+    "notas_adicionais": [
+      "Aislamiento en habitaciones con presión negativa si están disponibles",
+      "Precauciones estrictas por aerosol y EPP completo para el equipo",
+      "Vigilar coinfecciones bacterianas o fúngicas",
+      "Planificación de rehabilitación temprana con equipo multidisciplinario"
+    ],
+    "fontes_bibliograficas": [
+      "WHO. Clinical Management of COVID-19: Living Guidance. Jan 2023.",
+      "Ministerio de Salud de España. Protocolo de actuación frente a la infección por SARS-CoV-2. 2022.",
+      "RECOVERY Collaborative Group. Dexametasona en pacientes hospitalizados con Covid-19. N Engl J Med. 2021.",
+      "Marik PE. COVID-19: Fisiopatología y manejo. Crit Care Clin. 2022.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017."
+    ]
+  }
+}

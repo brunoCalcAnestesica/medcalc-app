@@ -1,0 +1,221 @@
+{
+  "PT": {
+    "titulo": "Hipertermia Maligna",
+    "definicao": "A hipertermia maligna (HM) é uma emergência anestésica rara e potencialmente fatal, desencadeada por agentes anestésicos voláteis halogenados e/ou succinilcolina em pacientes com predisposição genética. Caracteriza-se por um estado hipermetabólico descontrolado do músculo esquelético, com liberação maciça de cálcio intracelular, causando rigidez muscular, aumento abrupto de CO₂, taquicardia, hipertermia e rabdomiólise. A resposta rápida com administração de dantroleno sódico é essencial para a sobrevida.",
+    "epidemiologia": "A HM tem prevalência estimada de 1:10.000 a 1:250.000 anestesias, sendo mais frequente em crianças e adultos jovens do sexo masculino. A suscetibilidade é herdada de forma autossômica dominante, com mutações mais comuns nos genes RYR1 (receptor de rianodina tipo 1) e CACNA1S (subunidade do canal de cálcio tipo L). A manifestação clínica pode ocorrer em exposições subsequentes após sensibilização prévia.",
+    "fisiopatologia": "Nas fibras musculares suscetíveis, os anestésicos voláteis e/ou a succinilcolina ativam canais de liberação de cálcio no retículo sarcoplasmático, resultando em contração muscular sustentada, aumento do consumo de ATP e geração de calor. O metabolismo exagerado leva a acidose lática, hipercapnia, hipercalemia, aumento de creatinofosfoquinase (CPK), mioglobinúria e, se não tratada, à falência de múltiplos órgãos.",
+    "manifestações_clinicas": {
+      "sinais_precoces": [
+        "Aumento progressivo e inesperado de PETCO₂ (&gt; 55 mmHg), refratário à hiperventilação.",
+        "Taquicardia inexplicada.",
+        "Rigidez muscular generalizada ou localizada (masseteriana após succinilcolina).",
+        "Acidose respiratória/metabólica em gasometria.",
+        "Desconforto torácico, sudorese e eritema cutâneo em pacientes conscientes."
+      ],
+      "sinais_tardios": [
+        "Hipertermia intensa (&gt; 39 °C), com aumento de 1–2 °C a cada 5 minutos.",
+        "Hipercalemia com alterações no ECG (ondas T apiculadas, QRS alargado).",
+        "Rabdomiólise (CK &gt; 10.000 U/L, mioglobinúria).",
+        "Insuficiência renal aguda, oligúria ou anúria.",
+        "Distúrbios de coagulação (CIVD), acidose mista grave, colapso cardiovascular."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseia-se na suspeita clínica intraoperatória em paciente sob anestesia com sinais de hipermetabolismo. O escore de suscetibilidade de Larach pode ser utilizado para graduar a probabilidade. Após estabilização, o diagnóstico confirmatório pode ser feito com o teste de contratilidade cafeína-halotano (gold standard) ou teste genético molecular (RYR1, CACNA1S).",
+      "exames_essenciais": [
+        "Capnografia: aumento sustentado de PETCO₂ (&gt; 55 mmHg).",
+        "Gasometria arterial: pH &lt; 7,2, PCO₂ &gt; 60 mmHg, HCO₃⁻ baixo.",
+        "CK total: elevação progressiva (&gt; 10.000 U/L).",
+        "Mioglobina urinária: urina escura positiva para sangue sem hemácias.",
+        "Eletrólitos: hipercalemia (&gt; 5,5 mEq/L), hipernatremia, hipofosfatemia.",
+        "Função renal: creatinina, débito urinário, densidade urinária.",
+        "Coagulograma completo: TP, TTPa, fibrinogênio, dímeros-D (rastreio de CIVD).",
+        "Dosagem de lactato e temperatura esofágica ou vesical contínua.",
+        "Avaliação genética e encaminhamento para centros de referência após alta."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Todos os pacientes em crise de HM devem ser ventilados com 100% de O₂.",
+      "Capnografia contínua obrigatória para guiar ventilação.",
+      "Controle de acidose respiratória/hipercapnia com hiperventilação assistida.",
+      "Evitar hipóxia e hiperventilação excessiva – manter normocapnia com PETCO₂ &gt; 30 mmHg.",
+      "Reavaliar parâmetros ventilatórios com base em pH e PCO₂."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Suspender imediatamente os agentes desencadeantes.",
+        "Oxigenar com O₂ 100%, trocar o circuito anestésico e filtro de CO₂.",
+        "Administrar dantroleno sódico IV: 2,5 mg/kg (repetir até 10 mg/kg conforme resposta clínica).",
+        "Instalar acesso venoso central se disponível.",
+        "Instituir medidas de resfriamento físico (compressas frias, infusões IV geladas, lavagem gástrica/vesical).",
+        "Corrigir acidose com bicarbonato de sódio IV se pH &lt; 7,2.",
+        "Tratar hipercalemia com insulina + glicose, beta-agonistas, bicarbonato e, se necessário, diálise.",
+        "Manter débito urinário com hidratação vigorosa e manitol ou furosemida.",
+        "Monitorar continuamente temperatura, diurese, eletrólitos, coagulograma, CK, gasometria.",
+        "Após controle, manter dantroleno 1 mg/kg IV a cada 6 h por 24–48 h.",
+        "Encaminhar paciente e familiares para investigação genética e orientação especializada."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Com o diagnóstico precoce e o uso oportuno do dantroleno, a mortalidade da HM caiu de cerca de 70% para menos de 10%. O atraso no reconhecimento e na administração da medicação está associado a piores desfechos. As complicações mais comuns incluem rabdomiólise, injúria renal aguda, CIVD e disfunção cardiovascular. A monitorização intensiva e o seguimento pós-crise são mandatórios para evitar recorrências e orientar familiares."
+    },
+    "notas_adicionais": [
+      "O dantroleno deve estar disponível em todas as áreas cirúrgicas com uso de anestésicos voláteis.",
+      "Pacientes com história familiar de HM devem receber anestesia intravenosa total (TIVA).",
+      "A HM pode ocorrer até 1 hora após exposição ao agente – vigilância no pós-operatório imediato.",
+      "Manter alta suspeição mesmo com sinais isolados – especialmente rigidez masseteriana com succinilcolina.",
+      "Notificar os serviços de vigilância nacionais e registrar o evento em prontuário e cartão do paciente."
+    ],
+    "fontes_bibliograficas": [
+      "Larach MG et al. A clinical grading scale to predict malignant hyperthermia susceptibility. Anesthesiology. 1994.",
+      "Rosenberg H, Davis M, James D, Pollock N, Stowell K. Malignant hyperthermia. Orphanet J Rare Dis. 2015.",
+      "Miller’s Anesthesia. 8ª ed. Cap. 35 – Complicações Anestésicas.",
+      "UpToDate. Malignant hyperthermia: Diagnosis and management. 2024.",
+      "Sociedade Brasileira de Anestesiologia – Diretrizes e protocolo de HM. 2023."
+    ]
+  },
+  "US": {
+    "title": "Malignant Hyperthermia",
+    "definition": "Malignant hyperthermia (MH) is a rare, life-threatening pharmacogenetic disorder of skeletal muscle calcium regulation triggered by exposure to volatile anesthetic agents and/or succinylcholine in susceptible individuals. It manifests as a hypermetabolic crisis characterized by sustained muscle rigidity, increased carbon dioxide production, metabolic acidosis, hyperthermia, rhabdomyolysis, and rapid clinical deterioration. Early recognition and prompt administration of intravenous dantrolene are crucial to reduce mortality.",
+    "epidemiology": "The estimated incidence of clinical MH episodes ranges from 1:10,000 to 1:250,000 anesthetics, with higher prevalence among children and young adult males. MH susceptibility is inherited in an autosomal dominant pattern and most commonly linked to mutations in the RYR1 gene (ryanodine receptor) and less frequently CACNA1S (voltage-gated calcium channel). Clinical expression can vary and may occur even after multiple prior anesthetic exposures.",
+    "pathophysiology": "In genetically susceptible individuals, triggering agents cause uncontrolled calcium release from the sarcoplasmic reticulum through abnormal RYR1 channels. This results in sustained muscle contraction, excessive ATP consumption, heat production, lactic acidosis, and severe hypercapnia. If untreated, MH leads to hyperkalemia, rhabdomyolysis, myoglobinuria, acute renal failure, disseminated intravascular coagulation (DIC), and cardiac arrest.",
+    "clinical_manifestations": {
+      "early_signs": [
+        "Unexpected and progressive rise in end-tidal CO₂ (ETCO₂ > 55 mmHg), unresponsive to hyperventilation.",
+        "Unexplained tachycardia.",
+        "Generalized or localized muscle rigidity (especially masseter rigidity after succinylcholine).",
+        "Mixed respiratory and metabolic acidosis on arterial blood gas.",
+        "Sweating, flushed skin, or chest discomfort in awake patients."
+      ],
+      "late_signs": [
+        "Rapidly escalating hyperthermia (> 39 °C), with increases of 1–2 °C every 5 minutes.",
+        "Hyperkalemia with ECG changes (peaked T waves, widened QRS).",
+        "Rhabdomyolysis (CK > 10,000 U/L, myoglobinuria).",
+        "Acute kidney injury with oliguria or anuria.",
+        "Coagulopathy, severe mixed acidosis, cardiovascular collapse."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "MH is a clinical diagnosis based on intraoperative recognition of signs of hypermetabolism under general anesthesia. The Larach Clinical Grading Scale can help estimate the likelihood. Definitive diagnosis may be confirmed after stabilization using the caffeine-halothane contracture test (gold standard) or molecular genetic testing (RYR1, CACNA1S).",
+      "essential_tests": [
+        "Capnography: sustained ETCO₂ elevation > 55 mmHg.",
+        "Arterial blood gas: pH < 7.2, PCO₂ > 60 mmHg, low bicarbonate.",
+        "CK total: progressive elevation (> 10,000 U/L).",
+        "Urine myoglobin: dark-colored urine positive for blood without RBCs.",
+        "Electrolytes: hyperkalemia (> 5.5 mEq/L), hypernatremia, hypophosphatemia.",
+        "Renal function: serum creatinine, urine output, urine density.",
+        "Coagulation panel: PT, aPTT, fibrinogen, D-dimer (DIC evaluation).",
+        "Lactate levels and continuous core temperature monitoring (esophageal or bladder).",
+        "Genetic referral and testing after acute management."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "All MH patients should receive 100% oxygen via controlled mechanical ventilation.",
+      "Continuous capnography is mandatory for ventilation guidance.",
+      "Manage respiratory acidosis and hypercapnia with assisted hyperventilation.",
+      "Avoid hypoxia and excessive hyperventilation—target normocapnia (ETCO₂ > 30 mmHg).",
+      "Adjust ventilator parameters based on ABG (pH and PCO₂)."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediately discontinue triggering agents (volatile anesthetics, succinylcholine).",
+        "Hyperoxygenate with 100% O₂ and replace anesthesia circuit and CO₂ absorbent.",
+        "Administer IV dantrolene: 2.5 mg/kg, repeat every 5–10 minutes as needed (up to 10 mg/kg total).",
+        "Establish central venous access if available.",
+        "Initiate active cooling measures (ice packs, cold IV fluids, gastric/bladder lavage).",
+        "Correct acidosis with IV sodium bicarbonate if pH < 7.2.",
+        "Treat hyperkalemia with insulin + glucose, beta-agonists, bicarbonate, or dialysis if refractory.",
+        "Ensure adequate diuresis via vigorous IV hydration and use of mannitol or furosemide.",
+        "Monitor temperature, urine output, electrolytes, coagulation, CK, and ABGs frequently.",
+        "Continue dantrolene 1 mg/kg IV every 6 hours for 24–48 hours post-crisis.",
+        "Refer patient and family for genetic evaluation and counseling."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prompt recognition and dantrolene administration have reduced MH mortality from 70% to <10%. Delays in diagnosis and treatment are associated with poor outcomes. Common complications include rhabdomyolysis, acute kidney injury, DIC, and cardiovascular dysfunction. Intensive monitoring and post-crisis follow-up are mandatory to prevent recurrence and guide family counseling."
+    },
+    "additional_notes": [
+      "Dantrolene should be readily available in all surgical areas where triggering agents are used.",
+      "Patients with a personal or family history of MH should receive total intravenous anesthesia (TIVA).",
+      "MH may occur up to 1 hour after exposure—continue monitoring postoperatively.",
+      "High suspicion is warranted even with isolated signs, such as masseter rigidity after succinylcholine.",
+      "Report the event to national MH registries and document in patient records and alert bracelets."
+    ],
+    "references": [
+      "Larach MG et al. A clinical grading scale to predict malignant hyperthermia susceptibility. Anesthesiology. 1994.",
+      "Rosenberg H, Davis M, James D, Pollock N, Stowell K. Malignant hyperthermia. Orphanet J Rare Dis. 2015.",
+      "Miller’s Anesthesia. 8th ed. Chapter 35 – Anesthesia Complications.",
+      "UpToDate. Malignant hyperthermia: Diagnosis and management. 2024.",
+      "Malignant Hyperthermia Association of the United States (MHAUS) Guidelines. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Sepsis",
+    "definicion": "La sepsis es una disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a una infección. Implica una interacción compleja entre respuestas proinflamatorias y antiinflamatorias, inmunosupresión, disfunción endotelial y alteraciones en la coagulación. La sepsis progresa rápidamente y requiere identificación e intervención inmediata. Sigue siendo una de las principales causas de morbilidad y mortalidad hospitalaria a nivel mundial.",
+    "epidemiologia": "La sepsis afecta aproximadamente a 50 millones de personas al año en todo el mundo y causa 11 millones de muertes, representando cerca del 20% de la mortalidad global. Es una causa importante de admisiones en UCI y muertes hospitalarias. Los factores de riesgo incluyen edad avanzada, inmunosupresión, cáncer, diabetes mellitus, dispositivos invasivos e infecciones nosocomiales. Los países de ingresos bajos y medios soportan una carga desproporcionada de muertes por sepsis.",
+    "fisiopatologia": "La sepsis resulta de una respuesta inmune exagerada a la infección, caracterizada por la liberación excesiva de citocinas, activación endotelial, vasodilatación y aumento de la permeabilidad vascular. Estos cambios conducen a hipoperfusión tisular y disfunción multiorgánica. Al mismo tiempo, la sepsis provoca disfunción mitocondrial, apoptosis de células inmunes e inmunosupresión compensatoria, lo que compromete la capacidad del huésped para eliminar patógenos y regular la inflamación.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión persistente (PAM &lt; 65 mmHg).",
+        "Taquicardia sostenida (&gt; 90 lpm).",
+        "Signos de hipoperfusión: extremidades frías, pulso débil, llenado capilar &gt; 3 segundos."
+      ],
+      "respiratorias": [
+        "Frecuencia respiratoria &gt; 22 rpm.",
+        "Hipoxemia (PaO₂/FiO₂ &lt; 300), SpO₂ &lt; 90%.",
+        "Necesidad de oxígeno suplementario o soporte ventilatorio."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Alteración del estado mental (Glasgow &lt; 15).",
+        "Fiebre (&gt; 38,3°C) o hipotermia (&lt; 36°C).",
+        "Oliguria (&lt; 0,5 mL/kg/h), lactato elevado (&gt; 2 mmol/L), acidosis metabólica."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Se debe sospechar sepsis en cualquier paciente con infección sospechada o confirmada acompañada de signos de disfunción orgánica aguda. Los puntajes SOFA y qSOFA se utilizan para evaluar la gravedad y para el triaje. La identificación temprana y la evaluación diagnóstica rápida son esenciales para iniciar una terapia dirigida y reducir la mortalidad.",
+      "examenes_esenciales": [
+        "Hemocultivos (periféricos y de catéter) antes de administrar antibióticos.",
+        "Medición de lactato sérico (marcador de hipoperfusión tisular).",
+        "Hemograma completo, proteína C reactiva (PCR), procalcitonina (marcadores inflamatorios).",
+        "Función renal (urea, creatinina), electrolitos, perfil de coagulación.",
+        "Gasometría arterial con cálculo de lactato y anión gap.",
+        "Imágenes dirigidas (TC, ecografía, radiografía de tórax) para identificar el foco infeccioso."
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Insuficiencia respiratoria aguda con PaO₂ &lt; 60 mmHg o SpO₂ &lt; 90% con FiO₂ &gt; 0,6.",
+      "Taquipnea persistente (&gt; 30 rpm) con signos de fatiga.",
+      "Alteración de la conciencia con pérdida de reflejos protectores de la vía aérea.",
+      "Acidosis respiratoria o metabólica con inestabilidad hemodinámica."
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Iniciar el paquete de sepsis en los primeros 60 minutos (hora dorada).",
+        "Obtener cultivos y análisis antes de iniciar los antibióticos.",
+        "Administrar antibióticos de amplio espectro según el foco sospechado y los patrones locales de resistencia.",
+        "Resucitación con cristaloides (30 mL/kg en 3 horas), guiada por parámetros clínicos y de laboratorio.",
+        "Inicio temprano de vasopresores (noradrenalina) si la PAM &lt; 65 mmHg después de líquidos.",
+        "Control del foco infeccioso (drenaje quirúrgico, retiro de dispositivos, desbridamiento).",
+        "Soporte ventilatorio según necesidad clínica (oxígeno suplementario, VNI o intubación).",
+        "Monitoreo continuo de diuresis, signos vitales, lactato y progresión clínica."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico de la sepsis está estrechamente relacionado con la rapidez del reconocimiento y del tratamiento. Cada hora de retraso en el inicio de los antibióticos aumenta significativamente el riesgo de muerte. Los sobrevivientes pueden presentar secuelas como disfunción cognitiva, daño orgánico persistente y síndrome post-UCI. La rehabilitación precoz y el seguimiento ambulatorio coordinado son fundamentales para la recuperación."
+    },
+    "notas_adicionales": [
+      "Los protocolos institucionales y los paquetes estandarizados de sepsis mejoran los resultados y reducen la mortalidad.",
+      "La formación continua del equipo de salud es clave para el reconocimiento temprano y el manejo basado en evidencia.",
+      "Los biomarcadores como la procalcitonina pueden guiar las decisiones sobre el uso de antibióticos.",
+      "Considerar corticoides en casos de shock séptico refractario a líquidos y vasopresores.",
+      "Incluir a la familia en el plan de cuidados y garantizar una transición segura al manejo ambulatorio."
+    ],
+    "fuentes_bibliograficas": [
+      "Surviving Sepsis Campaign – Guías Internacionales para el Manejo de la Sepsis y el Shock Séptico. 2021.",
+      "UpToDate. Síndromes sépticos en adultos: Epidemiología, fisiopatología, manifestaciones clínicas, diagnóstico y pronóstico. 2024.",
+      "Harrison. Principios de Medicina Interna. 21ª ed.",
+      "Sociedad Brasileña de Medicina Intensiva – Protocolo de Sepsis. 2023.",
+      "Manual de Cuidados Intensivos – AMIB. 2022."
+    ]
+  }
+}

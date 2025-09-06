@@ -1,0 +1,209 @@
+{
+  "PT": {
+    "titulo": "Transporte Inter-Hospitalar de Pacientes Críticos",
+    "definicao": "O transporte inter-hospitalar de pacientes críticos consiste na transferência de pacientes instáveis entre instituições com diferentes níveis de complexidade, com o objetivo de acesso a recursos especializados, terapias de alta complexidade ou continuidade de cuidados. É uma operação de risco elevado, que exige planejamento estruturado, estabilização prévia, comunicação eficiente entre as equipes envolvidas e uso de ambulância com suporte avançado.",
+    "epidemiologia": "Dados internacionais estimam que 15–30% dos pacientes internados em unidades de terapia intensiva (UTI) necessitem de transporte inter-hospitalar durante a internação. As causas mais comuns são necessidade de cirurgia especializada, suporte extracorpóreo (ECMO), neurointervenção, trauma grave e transferência por saturação de leitos. Estudos mostram que até 20% desses transportes são associados a algum tipo de evento adverso clínico, sendo a hipoxemia, hipotensão e arritmias os mais frequentes.",
+    "fisiopatologia": "A instabilidade clínica durante o transporte pode decorrer da perda momentânea de monitorização contínua, interrupções no fornecimento de oxigênio ou medicações, vibrações, variações térmicas e ruído ambiental. Essas alterações interferem na fisiologia do paciente, podendo precipitar hipóxia, acidose, instabilidade hemodinâmica e deterioração neurológica. O preparo adequado e o monitoramento contínuo são essenciais para mitigar esses efeitos.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão súbita por disfunção de bomba de infusão ou extravasamento de acesso venoso.",
+        "Taquiarritmias desencadeadas por hipovolemia, dor ou acidose.",
+        "Descompensação circulatória em pacientes com choque compensado previamente."
+      ],
+      "respiratorias": [
+        "Hipoxemia por desconexão de circuito, falha no fornecimento de oxigênio ou obstrução de via aérea.",
+        "Hiperventilação ou hipoventilação durante ventilação manual inadequada.",
+        "Broncoespasmo por aspiração ou extubação acidental."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Redução abrupta do nível de consciência por hipoglicemia ou hipoperfusão.",
+        "Convulsões não monitoradas em pacientes neurológicos.",
+        "Acidose metabólica descompensada por atraso no tratamento ou hipoventilação."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A avaliação clínica deve ocorrer antes da transferência, com ênfase na estabilização respiratória, hemodinâmica e neurológica. A aplicação de um checklist estruturado aumenta a segurança do transporte e reduz falhas evitáveis. Todos os exames complementares recentes devem ser avaliados e compartilhados com a equipe receptora.",
+      "exames_essenciais": [
+        "Gasometria arterial para análise de oxigenação, ventilação e equilíbrio ácido-base.",
+        "Eletrocardiograma para detecção de distúrbios elétricos cardíacos.",
+        "Bioquímica básica: eletrólitos, ureia, creatinina, glicemia.",
+        "Exames de imagem recentes (TC, RM, RX) para acompanhamento diagnóstico.",
+        "Avaliação da escala de coma de Glasgow e necessidade de sedação contínua."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Presença de via aérea artificial com ventilação mecânica invasiva.",
+      "Sinais clínicos de fadiga respiratória, hipoxemia ou hipercapnia.",
+      "Rebaixamento do nível de consciência com risco de aspiração.",
+      "Paciente com deterioração respiratória aguda por broncoaspiração, edema pulmonar ou trauma torácico."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Estabilizar o paciente com correção de distúrbios, otimização da volemia e sedação adequada.",
+        "Assegurar a permeabilidade das vias aéreas e funcionamento do ventilador de transporte.",
+        "Confirmar infusão contínua de drogas vasoativas em bomba de seringa com reserva.",
+        "Utilizar ambulância tipo UTI com monitor multiparamétrico (ECG, SpO₂, PANI, capnografia).",
+        "Garantir acesso venoso seguro, com preferência por pelo menos dois acessos calibrosos.",
+        "Equipe mínima: médico intensivista, enfermeiro treinado e condutor capacitado.",
+        "Comunicação prévia com hospital de destino, envio de sumário clínico e exames.",
+        "Checklist final de equipamentos, medicações, oxigênio, sedação e documentação."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico do transporte inter-hospitalar está diretamente relacionado à qualidade da estabilização prévia, da comunicação entre equipes e da capacitação dos profissionais envolvidos. Transportes não protocolados apresentam maior taxa de eventos adversos. A aplicação de protocolos padronizados reduz complicações e garante segurança do paciente até o destino final."
+    },
+    "notas_adicionais": [
+      "Oxigênio e medicações devem ter volume suficiente para o dobro do tempo estimado de trajeto.",
+      "Utilizar colar cervical em pacientes com trauma cervical até avaliação definitiva.",
+      "Fixação adequada de tubos, sondas e cateteres previne complicações durante movimentação.",
+      "Evitar interrupções desnecessárias durante o deslocamento para preservar estabilidade.",
+      "Registrar continuamente parâmetros vitais e eventos críticos durante o transporte.",
+      "Utilizar checklists recomendados por diretrizes nacionais e internacionais para segurança do transporte."
+    ],
+    "fontes_bibliograficas": [
+      "Sociedade Brasileira de Medicina Intensiva (AMIB). Manual de Transporte de Pacientes Críticos. 2021.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "UpToDate. Interhospital transfer of the critically ill adult. 2024.",
+      "Guyton & Hall. Tratado de Fisiologia Médica. 14ª ed.",
+      "Recomendação de Transporte de Pacientes Graves – Australian and New Zealand Intensive Care Society. 2022."
+    ]
+  },
+  "US": {
+    "title": "Interhospital Transfer of Critically Ill Patients",
+    "definition": "Interhospital transfer refers to the movement of critically ill patients from one healthcare facility to another, typically to access specialized diagnostic or therapeutic resources not available at the referring institution. It is a high-risk operation requiring meticulous planning, effective communication, clinical stabilization, and advanced life support capabilities throughout the transfer process.",
+    "epidemiology": "Between 15–30% of patients admitted to ICUs require transfer during hospitalization. Common indications include neurosurgical intervention, trauma care, ECMO, organ transplantation, or lack of ICU beds. Studies report that 15–20% of transfers are associated with adverse events such as hypotension, hypoxemia, arrhythmias, or ventilator disconnection, especially in unstable patients or inadequately prepared teams.",
+    "pathophysiology": "Physiological derangements during transport arise from environmental and logistical factors: limited monitoring, equipment malfunction, mechanical vibrations, temperature shifts, and delays in response to clinical deterioration. These factors increase the risk of hypoxia, hemodynamic instability, neurologic deterioration, and death in vulnerable patients.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Sudden hypotension due to drug delivery failure or vascular access issues.",
+        "Compensatory tachycardia from pain, dehydration, or hypovolemia.",
+        "Circulatory collapse in patients with borderline hemodynamics."
+      ],
+      "respiratorias": [
+        "Hypoxemia due to ventilator disconnection or oxygen supply failure.",
+        "Inadequate manual ventilation with hypercapnia or respiratory alkalosis.",
+        "Airway obstruction, bronchospasm, or accidental extubation."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Acute drop in consciousness due to hypoglycemia, hypoxia, or hypercapnia.",
+        "Uncontrolled seizures in neurologic patients without EEG or sedation monitoring.",
+        "Metabolic acidosis or electrolyte imbalances not corrected before transfer."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Pre-transport assessment must include a complete systems evaluation with stabilization of the airway, breathing, circulation, neurologic status, and metabolic parameters. Standardized checklists and communication protocols should be used. All relevant imaging and labs must be forwarded to the receiving team.",
+      "exames_essenciais": [
+        "Arterial blood gas for oxygenation and acid-base status.",
+        "12-lead ECG to detect arrhythmias or acute ischemia.",
+        "Serum electrolytes, renal function, glucose.",
+        "Latest imaging studies (CT, MRI, chest X-ray).",
+        "Neurological exam including GCS, pupil response, and need for sedation."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Endotracheal intubation with invasive mechanical ventilation.",
+      "Signs of hypoxemic or hypercapnic respiratory failure.",
+      "Depressed mental status increasing aspiration risk.",
+      "Acute respiratory decompensation in trauma, aspiration, or pulmonary edema."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Stabilize patient before transport: optimize volume status, vasopressor support, and correct metabolic derangements.",
+        "Secure airway with appropriate sedation, and confirm ventilator settings for transport.",
+        "Ensure continuous drug infusion using battery-powered syringe pumps with spare syringes.",
+        "Use an advanced life support ambulance with multiparameter monitor (ECG, SpO₂, NIBP, capnography).",
+        "Secure at least two large-bore IV accesses and confirm patency.",
+        "Minimum team: ICU-trained physician, critical care nurse, and EMS driver trained in advanced resuscitation.",
+        "Establish contact with receiving hospital; confirm bed and team readiness.",
+        "Complete and verify pre-departure checklist, including medications, oxygen, documents, and equipment."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on the patient’s pre-transport stability, quality of team communication, and training of transport personnel. Protocol-based transfers reduce the likelihood of complications and improve outcomes. Adverse events are more frequent in non-standardized transports or when monitoring is suboptimal."
+    },
+    "additional_notes": [
+      "Carry oxygen and medications calculated for at least twice the estimated transport time.",
+      "All tubes, catheters, and lines must be well secured and labeled.",
+      "Use cervical collars in trauma patients until spinal injuries are ruled out.",
+      "Continuous monitoring and real-time documentation are essential.",
+      "Avoid unnecessary stops or delays that may destabilize the patient.",
+      "Use evidence-based interfacility transport protocols and validated checklists."
+    ],
+    "references": [
+      "Sociedade Brasileira de Medicina Intensiva (AMIB). Manual de Transporte de Pacientes Críticos. 2021.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "UpToDate. Interhospital transfer of the critically ill adult. 2024.",
+      "Guyton & Hall. Textbook of Medical Physiology. 14th ed.",
+      "Australian and New Zealand Intensive Care Society. Guidelines for Transport of Critically Ill Patients. 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Traslado Interhospitalario de Pacientes Críticos",
+    "definicion": "El traslado interhospitalario de pacientes críticos implica la transferencia de pacientes inestables entre instituciones de salud con diferentes niveles de complejidad, con el objetivo de acceder a recursos diagnósticos, terapéuticos o quirúrgicos especializados. Esta operación conlleva riesgos significativos y requiere planificación detallada, personal capacitado y soporte avanzado durante todas las etapas del desplazamiento.",
+    "epidemiologia": "Entre el 15–30% de los pacientes admitidos en unidades de cuidados intensivos (UCI) requieren ser trasladados durante su hospitalización. Las causas incluyen falta de disponibilidad de camas, necesidad de neurocirugía, ECMO, trasplante, cirugía cardiovascular o trauma complejo. Estudios reportan tasas de eventos adversos del 10–20% durante el traslado, principalmente hipoxemia, hipotensión, arritmias o desconexión del ventilador.",
+    "fisiopatologia": "Durante el traslado, los pacientes críticos están expuestos a múltiples factores de riesgo: vibraciones, cambios térmicos, ruidos, acceso limitado a insumos, interrupciones en la monitorización continua y respuesta retardada ante eventos agudos. Estas condiciones pueden causar hipoxia, hipoperfusión, deterioro neurológico o complicaciones respiratorias, especialmente si el paciente no fue estabilizado adecuadamente antes del transporte.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión súbita por fallo de bomba o desconexión de vías venosas.",
+        "Taquiarritmias inducidas por dolor, hipovolemia o acidosis.",
+        "Colapso circulatorio en pacientes con shock compensado previamente."
+      ],
+      "respiratorias": [
+        "Hipoxemia por desconexión de circuito o falla en la provisión de oxígeno.",
+        "Ventilación manual inadecuada provocando hipercapnia o hiperventilación.",
+        "Obstrucción de vía aérea, broncoespasmo o extubación accidental."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Disminución aguda del nivel de conciencia por hipoglucemia o hipoxia.",
+        "Convulsiones no monitoreadas en pacientes neurológicos.",
+        "Acidosis metabólica no compensada antes del traslado."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "La evaluación previa al traslado debe centrarse en la estabilización de la vía aérea, ventilación, perfusión, nivel de conciencia y parámetros metabólicos. Deben utilizarse listas de verificación estandarizadas, y toda la información clínica relevante debe ser compartida con el equipo receptor antes del traslado.",
+      "exames_essenciais": [
+        "Gasometría arterial para evaluación de oxigenación y equilibrio ácido-base.",
+        "Electrocardiograma para identificar isquemia o arritmias.",
+        "Bioquímica básica: electrolitos, función renal, glucemia.",
+        "Estudios de imagen recientes (TAC, RM, radiografía).",
+        "Evaluación neurológica con escala de Glasgow, respuesta pupilar y nivel de sedación requerido."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Presencia de vía aérea artificial con ventilación mecánica invasiva.",
+      "Insuficiencia respiratoria hipoxémica o hipercápnica.",
+      "Alteración del estado de conciencia con riesgo de aspiración.",
+      "Descompensación aguda por edema pulmonar, broncoaspiración o trauma torácico."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Estabilizar previamente con volumen adecuado, drogas vasoactivas y corrección de alteraciones metabólicas.",
+        "Asegurar vía aérea permeable y funcionamiento del ventilador de transporte.",
+        "Garantizar infusión continua de drogas en bombas con batería y jeringas de repuesto.",
+        "Usar ambulancia tipo UCI móvil con monitoreo multiparamétrico (ECG, SpO₂, PANI, capnografía).",
+        "Disponer de al menos dos accesos venosos permeables y seguros.",
+        "Equipo mínimo: médico intensivista, enfermero capacitado y conductor con entrenamiento en reanimación avanzada.",
+        "Confirmar comunicación con hospital receptor y disponibilidad de cama.",
+        "Revisar lista de verificación con medicamentos, oxígeno, documentos y dispositivos necesarios."
+      ]
+    },
+    "prognosis": {
+      "comment": "El pronóstico del traslado depende de la estabilidad clínica previa, la experiencia del equipo, la comunicación entre instituciones y el uso de protocolos estandarizados. El transporte no planificado y sin protocolos está asociado a mayor incidencia de complicaciones. La implementación de buenas prácticas mejora la seguridad y reduce la morbimortalidad relacionada con el traslado."
+    },
+    "additional_notes": [
+      "Calcular el oxígeno y medicación necesaria para el doble del tiempo estimado.",
+      "Fijar adecuadamente tubos, sondas y dispositivos antes del traslado.",
+      "Evitar interrupciones innecesarias durante el trayecto.",
+      "Registrar en tiempo real los signos vitales y eventos críticos.",
+      "Considerar uso de collar cervical en pacientes con trauma hasta descartar lesión medular.",
+      "Aplicar listas de verificación validadas y guías clínicas para garantizar seguridad del paciente."
+    ],
+    "references": [
+      "Sociedad Brasileña de Medicina Intensiva (AMIB). Manual de Transporte de Pacientes Críticos. 2021.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "UpToDate. Interhospital transfer of the critically ill adult. 2024.",
+      "Guyton & Hall. Tratado de Fisiología Médica. 14ª ed.",
+      "Guías de Transporte de Pacientes Críticos – Sociedad de Medicina Crítica y Emergencias de España. 2023."
+    ]
+  }
+}

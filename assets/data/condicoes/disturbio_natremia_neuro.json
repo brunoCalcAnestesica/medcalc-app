@@ -1,0 +1,200 @@
+{
+  "PT": {
+    "titulo": "Distúrbios Graves de Natremia com Repercussão Neurológica",
+    "definicao": "Distúrbios graves de natremia com repercussão neurológica incluem tanto a hiponatremia quanto a hipernatremia aguda, capazes de gerar edema ou desidratação cerebral, convulsões, coma e morte. A variação rápida na concentração de sódio sérico afeta diretamente a osmolaridade plasmática e o balanço hídrico cerebral, configurando uma emergência médica com alta mortalidade se não tratada adequadamente.",
+    "epidemiologia": "A hiponatremia é a desordem eletrolítica mais comum em pacientes hospitalizados, com prevalência de até 30%, especialmente em idosos, pacientes oncológicos, com IC, cirrose ou SIADH. A hipernatremia é menos frequente, mas tem alta mortalidade, sobretudo em pacientes com acesso hídrico restrito, idosos institucionalizados, crianças pequenas ou pacientes em UTI com perdas insensíveis aumentadas.",
+    "fisiopatologia": "O sódio regula a osmolaridade plasmática e o movimento hídrico entre compartimentos. Variações abruptas causam fluxos osmóticos que alteram o volume intracelular cerebral. A hiponatremia aguda leva ao influxo de água para dentro das células neurais (edema cerebral), enquanto a hipernatremia rápida leva à desidratação celular e ruptura de vasos (hemorragia cerebral). O cérebro tenta se adaptar a mudanças lentas, mas a adaptação torna a correção rápida perigosa.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão postural e taquicardia (em hipovolemia)",
+        "PA normal ou aumentada em hiponatremia euvolêmica (SIADH)",
+        "Choque hipovolêmico em hipernatremia severa"
+      ],
+      "respiratorias": [
+        "Hiperventilação como resposta à acidose metabólica",
+        "Bradipneia em rebaixamento neurológico avançado",
+        "Risco de aspiração em nível de consciência rebaixado"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Cefaleia, náuseas, vômitos, irritabilidade",
+        "Letargia, convulsões, delírio, coma",
+        "Sinais de herniação cerebral: anisocoria, posturas de descerebração",
+        "Desmielinização osmótica: quadriparesia, disfagia, mutismo"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Considerar distúrbios de sódio em todo paciente com rebaixamento de consciência, crise convulsiva inexplicada ou alteração de comportamento. Avaliar a duração e velocidade da alteração, bem como o status volêmico. O diagnóstico requer interpretação integrada de sódio sérico, osmolaridade e sódio urinário.",
+      "exames_essenciais": [
+        "Sódio sérico (referência: 135–145 mEq/L)",
+        "Osmolaridade plasmática e urinária",
+        "Sódio e potássio urinário, densidade urinária",
+        "Gasometria arterial, ureia, creatinina",
+        "Imagem de crânio (TC/RM) em casos com sintomas neurológicos graves"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow < 8 ou convulsão prolongada",
+      "Hipoventilação ou apneia secundária à herniação cerebral",
+      "Edema cerebral com hipertensão intracraniana",
+      "Rebaixamento abrupto do nível de consciência"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Hiponatremia sintomática aguda: solução salina hipertônica 3% (100 mL em bolus, repetir até melhora clínica)",
+        "Hipernatremia aguda: solução hipotônica (SG 5%, SF 0,45%) ajustada com fórmula de correção (Adrogue-Madias)",
+        "Correção máxima: 8–10 mEq/L/24h (hiponatremia); 10–12 mEq/L/24h (hipernatremia)",
+        "Monitoramento intensivo com sódio sérico de 4/4h nas primeiras 24h",
+        "Evitar correção rápida na hiponatremia crônica (risco de mielinólise)",
+        "Tratar causa base: SIADH, perdas digestivas, diabetes insipidus, uso de diuréticos"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Distúrbios agudos têm alto risco de mortalidade se não tratados rapidamente. O principal determinante do prognóstico é a velocidade da correção adequada. A correção excessiva da hiponatremia crônica pode resultar em síndrome de desmielinização osmótica, enquanto a hipernatremia não corrigida pode levar à hemorragia intracerebral e morte."
+    },
+    "notas_adicionais": [
+      "Evitar descompressão osmótica abrupta após hipernatremia prolongada",
+      "Usar fórmulas de cálculo para prever impacto da infusão sobre o sódio",
+      "Realizar controle neurológico periódico com escala de coma de Glasgow",
+      "Iniciar correção em UTI com recursos para entubação e neuroimagem de emergência"
+    ],
+    "fontes_bibliograficas": [
+      "Sterns RH. Disorders of plasma sodium — causes, consequences, and correction. N Engl J Med. 2015.",
+      "Adrogué HJ, Madias NE. Hypernatremia. N Engl J Med. 2000.",
+      "Verbalis JG et al. Diagnosis, evaluation, and treatment of hyponatremia: expert panel recommendations. Am J Med. 2013.",
+      "UpToDate. Hypernatremia and hyponatremia in adults. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017."
+    ]
+  },
+  "US": {
+    "titulo": "Severe Sodium Disorders with Neurological Manifestations",
+    "definicao": "Severe sodium disorders with neurological involvement refer to acute and significant alterations in serum sodium concentration that can lead to cerebral edema (in hyponatremia) or brain shrinkage and intracranial hemorrhage (in hypernatremia). These conditions can result in seizures, coma, herniation, and death if not rapidly identified and managed. Both acute hyponatremia (<120 mEq/L) and hypernatremia (>160 mEq/L) are considered neurological emergencies.",
+    "epidemiologia": "Hyponatremia is the most common electrolyte disorder in hospitalized patients, particularly in elderly individuals, oncology patients, those with heart failure, cirrhosis, or syndrome of inappropriate antidiuretic hormone secretion (SIADH). Hypernatremia, although less frequent, carries high mortality, especially in elderly institutionalized patients, infants, and critically ill individuals with impaired access to water or excessive insensible losses.",
+    "fisiopatologia": "Sodium is the primary determinant of plasma osmolality and drives water shifts across cell membranes. Rapid drops in serum sodium cause water influx into brain cells, leading to cerebral edema. Conversely, rapid increases in sodium draw water out of neurons, causing cell shrinkage and potential intracranial bleeding. Brain adaptation occurs with chronic changes, rendering rapid correction dangerous.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Orthostatic hypotension and tachycardia in hypovolemia",
+        "Normal or elevated blood pressure in SIADH-related hyponatremia",
+        "Hypovolemic shock in severe hypernatremia"
+      ],
+      "respiratorias": [
+        "Hyperventilation due to metabolic acidosis",
+        "Bradypnea with advanced neurological impairment",
+        "Aspiration risk with altered consciousness"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Headache, nausea, vomiting, irritability",
+        "Lethargy, seizures, delirium, coma",
+        "Signs of cerebral herniation: anisocoria, decerebrate posturing",
+        "Osmotic demyelination syndrome: quadriparesis, dysphagia, locked-in syndrome"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Consider sodium imbalance in any patient with acute altered mental status, unexplained seizures, or behavioral changes. Assess chronicity and speed of onset, alongside volume status. Diagnosis requires integrated interpretation of serum sodium, plasma/urine osmolality, and urine sodium.",
+      "exames_essenciais": [
+        "Serum sodium (normal range: 135–145 mEq/L)",
+        "Plasma and urine osmolality",
+        "Urine sodium and potassium, urine specific gravity",
+        "Arterial blood gas, BUN, creatinine",
+        "Brain imaging (CT/MRI) in cases with severe neurological symptoms"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "GCS < 8 or prolonged seizure",
+      "Respiratory failure or apnea due to brain herniation",
+      "Cerebral edema with signs of intracranial hypertension",
+      "Acute deterioration in consciousness"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Symptomatic acute hyponatremia: 3% hypertonic saline (100 mL bolus, repeated as needed)",
+        "Acute hypernatremia: hypotonic fluids (5% dextrose, 0.45% saline) guided by correction formulas (e.g., Adrogue-Madias)",
+        "Max correction rate: 8–10 mEq/L per 24h (hyponatremia); 10–12 mEq/L per 24h (hypernatremia)",
+        "Intensive monitoring: serum sodium every 4h during first 24h",
+        "Avoid rapid correction in chronic hyponatremia to prevent demyelination",
+        "Address underlying cause: SIADH, GI losses, diabetes insipidus, diuretic use"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Acute sodium imbalances carry high risk of mortality. Prognosis is influenced by the speed and accuracy of correction. Rapid overcorrection of chronic hyponatremia may result in osmotic demyelination syndrome. Delayed treatment of hypernatremia increases risk of cerebral bleeding and death."
+    },
+    "notas_adicionais": [
+      "Avoid abrupt osmotic decompression after prolonged hypernatremia",
+      "Use predictive correction formulas (Adrogue-Madias) to calculate fluid impact",
+      "Monitor neurological status regularly using Glasgow Coma Scale",
+      "Initiate management in ICU with access to airway support and neuroimaging"
+    ],
+    "fontes_bibliograficas": [
+      "Sterns RH. Disorders of plasma sodium — causes, consequences, and correction. N Engl J Med. 2015.",
+      "Adrogué HJ, Madias NE. Hypernatremia. N Engl J Med. 2000.",
+      "Verbalis JG et al. Hyponatremia: evaluation and treatment recommendations. Am J Med. 2013.",
+      "UpToDate. Hypernatremia and hyponatremia in adults. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017."
+    ]
+  },
+  "ES": {
+    "titulo": "Trastornos Graves de Natremia con Afectación Neurológica",
+    "definicao": "Los trastornos graves de la natremia con repercusión neurológica incluyen tanto la hiponatremia como la hipernatremia aguda, capaces de provocar edema cerebral o deshidratación intracerebral, respectivamente. Estas alteraciones pueden inducir convulsiones, coma, herniación cerebral y muerte si no se tratan rápidamente. Las formas agudas con sodio sérico <120 mEq/L o >160 mEq/L se consideran emergencias neurológicas.",
+    "epidemiologia": "La hiponatremia es el trastorno electrolítico más frecuente en pacientes hospitalizados, especialmente en ancianos, pacientes oncológicos, con insuficiencia cardíaca, cirrosis o SIADH. La hipernatremia, menos común, presenta alta mortalidad, en particular en pacientes institucionalizados, niños pequeños y pacientes críticos sin acceso adecuado a líquidos.",
+    "fisiopatologia": "El sodio regula la osmolaridad plasmática y el equilibrio hídrico entre compartimentos. Los cambios rápidos en la concentración sérica provocan desplazamientos de agua: la hiponatremia rápida causa edema cerebral por entrada de agua al interior de las neuronas, mientras que la hipernatremia aguda produce deshidratación neuronal, retracción celular y riesgo de hemorragia intracraneal.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión ortostática y taquicardia en hipovolemia",
+        "Presión arterial normal o elevada en hiponatremia euvolémica (SIADH)",
+        "Shock hipovolémico en hipernatremia severa"
+      ],
+      "respiratorias": [
+        "Hiperventilación por acidosis metabólica",
+        "Bradipnea por compromiso neurológico avanzado",
+        "Alto riesgo de aspiración por disminución del nivel de conciencia"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Cefalea, náuseas, vómitos, irritabilidad",
+        "Letargo, convulsiones, confusión, coma",
+        "Signos de herniación cerebral: anisocoria, postura de descerebración",
+        "Síndrome de desmielinización osmótica: cuadriparesia, disfagia, síndrome de enclaustramiento"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Debe sospecharse en pacientes con alteración aguda del estado mental, convulsiones sin causa aparente o cambios conductuales. Se debe evaluar la cronicidad del trastorno y el estado de volumen. El diagnóstico requiere análisis combinado de sodio sérico, osmolaridad plasmática y urinaria, y sodio urinario.",
+      "exames_essenciais": [
+        "Sodio sérico (rango normal: 135–145 mEq/L)",
+        "Osmolaridad plasmática y urinaria",
+        "Sodio y potasio urinarios, densidad urinaria",
+        "Gasometría arterial, urea y creatinina",
+        "Neuroimagen (TAC o RMN) si hay síntomas neurológicos graves"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow < 8 o convulsión prolongada",
+      "Insuficiencia respiratoria o apnea por herniación cerebral",
+      "Edema cerebral con hipertensión intracraneal",
+      "Deterioro neurológico agudo con compromiso ventilatorio"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Hiponatremia aguda sintomática: solución salina hipertónica al 3% (bolo de 100 mL, repetir si no mejora)",
+        "Hipernatremia aguda: soluciones hipotónicas (DAD 5%, SSF 0,45%) guiadas por fórmulas (Adrogué-Madias)",
+        "Velocidad máxima de corrección: 8–10 mEq/L/24h (hiponatremia); 10–12 mEq/L/24h (hipernatremia)",
+        "Monitoreo intensivo: sodio sérico cada 4h en las primeras 24h",
+        "Evitar corrección rápida en hiponatremia crónica para prevenir mielinólisis",
+        "Identificar y tratar la causa base: SIADH, pérdidas digestivas, diabetes insípida, diuréticos"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Los trastornos agudos del sodio tienen alta mortalidad si no se corrigen de forma oportuna. La velocidad de corrección es determinante del pronóstico. La sobrecorrección rápida de hiponatremia crónica puede causar desmielinización osmótica. La hipernatremia sin tratamiento puede llevar a hemorragia cerebral y muerte."
+    },
+    "notas_adicionais": [
+      "Evitar descompresión osmótica brusca tras hipernatremia prolongada",
+      "Usar fórmulas predictivas como Adrogué-Madias para planificar corrección",
+      "Control neurológico regular con escala de Glasgow",
+      "Realizar tratamiento en UCI con acceso a ventilación y neuroimagen"
+    ],
+    "fontes_bibliograficas": [
+      "Sterns RH. Disorders of plasma sodium — causes, consequences, and correction. N Engl J Med. 2015.",
+      "Adrogué HJ, Madias NE. Hypernatremia. N Engl J Med. 2000.",
+      "Verbalis JG et al. Hyponatremia: evaluation and treatment recommendations. Am J Med. 2013.",
+      "UpToDate. Hiponatremia e hipernatremia en adultos. 2023.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017."
+    ]
+  }
+}

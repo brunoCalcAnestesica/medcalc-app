@@ -1,0 +1,245 @@
+{
+  "PT": {
+    "titulo": "Choque Hipovolêmico",
+    "definicao": "O choque hipovolêmico é uma síndrome clínica de insuficiência circulatória aguda, resultante da redução crítica do volume intravascular. Essa diminuição leva a queda do retorno venoso, redução do volume sistólico e do débito cardíaco, culminando em hipoperfusão tecidual e disfunção orgânica progressiva. É classificado como hemorrágico (trauma, sangramento digestivo, rotura de aneurisma) ou não hemorrágico (vômitos, diarreia, queimaduras, perdas urinárias excessivas).",
+    "epidemiologia": "É uma das causas mais comuns de choque em ambientes pré-hospitalares e emergências hospitalares. Em politraumatizados com lesões abdominais ou pélvicas, o choque hipovolêmico hemorrágico é a principal causa de óbito evitável. A mortalidade está diretamente relacionada à magnitude da perda volêmica e à demora na reposição e no controle da causa.",
+    "fisiopatologia": "A perda de volume plasmático reduz a pré-carga, prejudicando o enchimento ventricular. Isso compromete o débito cardíaco e leva à ativação de mecanismos compensatórios como taquicardia, vasoconstrição periférica, liberação de catecolaminas e ativação do eixo renina-angiotensina-aldosterona. Quando a perda atinge > 30% do volume circulante, há falência compensatória e instalação do choque. A hipoperfusão sustentada leva à disfunção mitocondrial, acidose lática e falência multiorgânica.",
+    "sinais_e_sintomas": [
+      "Taquicardia progressiva (sinal precoce)",
+      "Hipotensão postural ou sustentada",
+      "Pele fria, pálida, sudorese fria",
+      "Tempo de enchimento capilar prolongado (> 3s)",
+      "Oligúria ou anúria (< 0,5 mL/kg/h)",
+      "Rebaixamento do nível de consciência, inquietação, sonolência",
+      "Pulso fraco e filiforme"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "História de trauma, sangramento visível ou perdas digestivas intensas",
+        "Avaliação da perfusão periférica, débito urinário e pressão arterial",
+        "Classificação do choque hemorrágico (I a IV) com base na perda estimada de sangue"
+      ],
+      "exames_complementares": [
+        "Gasometria arterial: acidose metabólica, aumento de lactato",
+        "Hemograma: queda de hematócrito e hemoglobina (em perdas crônicas ou diluição)",
+        "Dosagem de eletrólitos, ureia, creatinina",
+        "Ultrassom FAST positivo em trauma abdominal fechado",
+        "TC de abdome ou pelve para avaliação de sangramentos ocultos",
+        "Pressão venosa central e variação da pressão de pulso em UTI"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Oxigenoterapia suplementar e monitorização contínua",
+        "Reposição volêmica agressiva com cristaloides (SF 0,9% ou Ringer Lactato), em bolus de 20–30 mL/kg",
+        "Controle imediato da fonte de perda (cirurgia, hemostasia, tamponamento)",
+        "Transfusão de hemoderivados quando perda estimada > 30–40% (hemoglobina < 7–8 g/dL)",
+        "Uso de hemoderivados balanceados: concentrado de hemácias, plasma fresco congelado e plaquetas (protocolo 1:1:1 em trauma grave)",
+        "Evitar reposição excessiva após estabilização para prevenir hemodiluição e coagulopatia"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Etomidato",
+          "uso": "Indução anestésica em paciente instável",
+          "dose_mg_kg": 0.2
+        },
+        {
+          "nome": "Rocurônio",
+          "uso": "Bloqueio neuromuscular para intubação de sequência rápida",
+          "dose_mg_kg": 1.0
+        },
+        {
+          "nome": "Solução Cristaloide (SF 0,9% ou Ringer)",
+          "uso": "Reposição inicial de volume intravascular",
+          "dose_mL_kg": "20–30 mL/kg em bolus rápido"
+        },
+        {
+          "nome": "Concentrado de Hemácias",
+          "uso": "Reposição em sangramento agudo ou choque hemorrágico grau III-IV",
+          "dose_mL": "300 mL/unidade"
+        },
+        {
+          "nome": "Plasma Fresco Congelado",
+          "uso": "Reposição de fatores de coagulação em sangramento maciço",
+          "dose_mL": "10–15 mL/kg"
+        },
+        {
+          "nome": "Crioprecipitado",
+          "uso": "Reposição de fibrinogênio (< 150 mg/dL)",
+          "dose_mL": "10 unidades (1 unidade/10 kg)"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico depende da causa e da resposta terapêutica. A identificação precoce, o controle efetivo da fonte de sangramento e a ressuscitação volêmica guiada por metas melhoram significativamente a sobrevida. A ausência de reversão em 6 horas é preditiva de mortalidade elevada. O uso de protocolos estruturados (ex: ATLS, controle de danos) é fundamental."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Hypovolemic shock: Clinical manifestations and diagnosis",
+      "Advanced Trauma Life Support (ATLS) – American College of Surgeons",
+      "SBIT – Manual de Terapia Intensiva para o Clínico"
+    ]
+  },
+  "US": {
+    "titulo": "Hypovolemic Shock",
+    "definicao": "Hypovolemic shock is an acute circulatory failure resulting from a significant reduction in intravascular volume. This leads to decreased venous return, reduced stroke volume and cardiac output, culminating in tissue hypoperfusion and progressive organ dysfunction. It is classified as hemorrhagic (e.g., trauma, gastrointestinal bleeding, ruptured aneurysm) or non-hemorrhagic (e.g., dehydration, vomiting, diarrhea, burns, excessive urinary loss).",
+    "epidemiologia": "It is one of the most common causes of shock in prehospital and emergency settings. Hemorrhagic hypovolemic shock is the leading preventable cause of death in polytrauma patients. Mortality increases with the magnitude of volume loss and delays in resuscitation and source control.",
+    "fisiopatologia": "Plasma volume loss reduces preload and compromises ventricular filling. This decreases cardiac output and triggers compensatory mechanisms such as tachycardia, peripheral vasoconstriction, catecholamine release, and activation of the renin-angiotensin-aldosterone system. When blood loss exceeds 30% of the total volume, compensatory mechanisms fail and shock ensues. Sustained hypoperfusion leads to mitochondrial dysfunction, lactic acidosis, and multi-organ failure.",
+    "sinais_e_sintomas": [
+      "Progressive tachycardia (early sign)",
+      "Postural or sustained hypotension",
+      "Cold, pale, clammy skin",
+      "Delayed capillary refill (> 3s)",
+      "Oliguria or anuria (< 0.5 mL/kg/h)",
+      "Altered mental status: agitation, confusion, lethargy",
+      "Weak, thready pulse"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "History of trauma, visible bleeding, or massive gastrointestinal fluid loss",
+        "Peripheral perfusion assessment, urine output, and blood pressure monitoring",
+        "Classification of hemorrhagic shock (Class I to IV) based on estimated blood loss"
+      ],
+      "exames_complementares": [
+        "Arterial blood gas: metabolic acidosis, elevated lactate",
+        "CBC: hemoglobin and hematocrit reduction (in chronic or diluted losses)",
+        "Electrolytes, urea, creatinine",
+        "FAST ultrasound positive in blunt abdominal trauma",
+        "CT scan for evaluation of occult bleeding",
+        "Central venous pressure and pulse pressure variation in ICU settings"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Supplemental oxygen and continuous monitoring",
+        "Aggressive fluid resuscitation with crystalloids (normal saline or Ringer's lactate) in 20–30 mL/kg boluses",
+        "Immediate control of bleeding source (surgery, hemostasis, tamponade)",
+        "Early transfusion of blood products when estimated blood loss > 30–40% or hemoglobin < 7–8 g/dL",
+        "Balanced transfusion protocols with packed red blood cells, plasma, and platelets (1:1:1 in severe trauma)",
+        "Avoid over-resuscitation after stabilization to prevent hemodilution and coagulopathy"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Etomidate",
+          "uso": "Induction agent for intubation in hemodynamically unstable patients",
+          "dose_mg_kg": 0.2
+        },
+        {
+          "nome": "Rocuronium",
+          "uso": "Neuromuscular blockade for rapid sequence intubation",
+          "dose_mg_kg": 1.0
+        },
+        {
+          "nome": "Crystalloid Solution (NS or Ringer's)",
+          "uso": "Initial intravascular volume resuscitation",
+          "dose_mL_kg": "20–30 mL/kg rapid bolus"
+        },
+        {
+          "nome": "Packed Red Blood Cells",
+          "uso": "Replacement for acute blood loss or Class III–IV hemorrhagic shock",
+          "dose_mL": "300 mL/unit"
+        },
+        {
+          "nome": "Fresh Frozen Plasma",
+          "uso": "Coagulation factor replacement in massive bleeding",
+          "dose_mL": "10–15 mL/kg"
+        },
+        {
+          "nome": "Cryoprecipitate",
+          "uso": "Fibrinogen replacement if levels < 150 mg/dL",
+          "dose_mL": "10 units (1 unit/10 kg)"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis depends on early recognition, rapid volume resuscitation, and effective control of bleeding. Delayed treatment is associated with multi-organ failure and high mortality. Structured protocols (e.g., ATLS, damage control resuscitation) significantly improve outcomes."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4th ed.",
+      "UpToDate – Hypovolemic shock: Clinical manifestations and diagnosis",
+      "Advanced Trauma Life Support (ATLS) – American College of Surgeons",
+      "Society of Critical Care Medicine – Adult Critical Care Guidelines"
+    ]
+  },
+  "ES": {
+    "titulo": "Choque Hipovolémico",
+    "definicao": "El choque hipovolémico es una forma de insuficiencia circulatoria aguda que resulta de una reducción crítica del volumen intravascular. Esta disminución produce una caída del retorno venoso, reducción del volumen sistólico y del gasto cardíaco, lo que lleva a hipoperfusión tisular y disfunción orgánica progresiva. Se clasifica en hemorrágico (traumatismo, hemorragia digestiva, rotura de aneurisma) y no hemorrágico (vómitos, diarrea, quemaduras, pérdidas urinarias excesivas).",
+    "epidemiologia": "Es una de las causas más comunes de shock en el ámbito prehospitalario y en emergencias. El shock hipovolémico hemorrágico es la principal causa de muerte prevenible en pacientes politraumatizados. La mortalidad aumenta con la magnitud de la pérdida de volumen y con el retraso en el tratamiento y el control de la causa subyacente.",
+    "fisiopatologia": "La pérdida de volumen plasmático reduce la precarga, comprometiendo el llenado ventricular. Esto disminuye el gasto cardíaco y activa mecanismos compensatorios como taquicardia, vasoconstricción periférica, liberación de catecolaminas y activación del sistema renina-angiotensina-aldosterona. Cuando la pérdida supera el 30% del volumen circulante, los mecanismos compensatorios fallan y se instala el shock. La hipoperfusión sostenida genera disfunción mitocondrial, acidosis láctica y falla multiorgánica.",
+    "sinais_e_sintomas": [
+      "Taquicardia progresiva (signo temprano)",
+      "Hipotensión postural o sostenida",
+      "Piel fría, pálida, sudoración fría",
+      "Llenado capilar lento (> 3s)",
+      "Oliguria o anuria (< 0,5 mL/kg/h)",
+      "Alteración del estado de conciencia: agitación, letargo, somnolencia",
+      "Pulso débil y filiforme"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "Antecedentes de trauma, hemorragia visible o pérdidas digestivas masivas",
+        "Evaluación de la perfusión periférica, presión arterial y diuresis",
+        "Clasificación del shock hemorrágico (I a IV) según estimación de pérdida de sangre"
+      ],
+      "exames_complementares": [
+        "Gasometría arterial: acidosis metabólica, lactato elevado",
+        "Hemograma: disminución de hemoglobina y hematocrito (en pérdidas crónicas o diluidas)",
+        "Electrolitos, urea, creatinina",
+        "Ecografía FAST positiva en trauma abdominal cerrado",
+        "TC abdominal/pélvica en búsqueda de sangrado oculto",
+        "Presión venosa central y variación de presión de pulso en UCI"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Oxigenoterapia suplementaria y monitoreo continuo",
+        "Reposición agresiva con cristaloides (suero fisiológico o Ringer lactato) en bolos de 20–30 mL/kg",
+        "Control inmediato de la fuente de pérdida (cirugía, hemostasia, taponamiento)",
+        "Transfusión precoz de hemoderivados cuando la pérdida estimada > 30–40% o Hb < 7–8 g/dL",
+        "Protocolo transfusional balanceado con concentrado de hematíes, plasma fresco congelado y plaquetas (1:1:1 en trauma grave)",
+        "Evitar sobrecarga de volumen tras estabilización para prevenir hemodilución y coagulopatía"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Etomidato",
+          "uso": "Inducción anestésica en pacientes inestables",
+          "dose_mg_kg": 0.2
+        },
+        {
+          "nome": "Rocuronio",
+          "uso": "Bloqueo neuromuscular para intubación de secuencia rápida",
+          "dose_mg_kg": 1.0
+        },
+        {
+          "nome": "Cristaloide (SF 0,9% o Ringer)",
+          "uso": "Reposición inicial de volumen intravascular",
+          "dose_mL_kg": "20–30 mL/kg en bolo rápido"
+        },
+        {
+          "nome": "Concentrado de Hematíes",
+          "uso": "Reposición en hemorragia aguda o shock hemorrágico clase III–IV",
+          "dose_mL": "300 mL/unidad"
+        },
+        {
+          "nome": "Plasma Fresco Congelado",
+          "uso": "Reposición de factores de coagulación en sangrado masivo",
+          "dose_mL": "10–15 mL/kg"
+        },
+        {
+          "nome": "Crioprecipitado",
+          "uso": "Reposición de fibrinógeno (< 150 mg/dL)",
+          "dose_mL": "10 unidades (1 unidad/10 kg)"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico depende del reconocimiento temprano, la reposición oportuna y el control efectivo de la causa subyacente. La hipoperfusión prolongada se asocia a disfunción multiorgánica y elevada mortalidad. La implementación de protocolos como ATLS y estrategias de control de daños mejora significativamente los resultados."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Hipovolemic shock: Clinical manifestations and diagnosis",
+      "Advanced Trauma Life Support (ATLS) – American College of Surgeons",
+      "SEMICYUC – Recomendaciones para manejo de shock hemorrágico"
+    ]
+  }
+}

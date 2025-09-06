@@ -1,0 +1,206 @@
+{
+  "PT": {
+    "titulo": "Intubação de Segurança em Pacientes de Alto Risco",
+    "definicao": "A intubação de segurança refere-se à abordagem sistemática e preventiva da via aérea em pacientes com risco elevado de deterioração clínica imediata, geralmente em ambientes de emergência, terapia intensiva ou unidades de pronto-atendimento. Esses pacientes frequentemente apresentam hipoxemia refratária, acidose metabólica grave, instabilidade hemodinâmica, lesão neurológica com risco de herniação ou múltiplas comorbidades. O objetivo é antecipar complicações respiratórias e cardiovasculares durante o procedimento, garantindo máxima segurança e eficácia.",
+    "epidemiologia": "A intubação de segurança é particularmente relevante em contextos de emergência, sendo aplicada em pacientes com insuficiência respiratória aguda, sepse grave, trauma cranioencefálico, estado de mal epiléptico, intoxicações ou instabilidade hemodinâmica refratária. Estudos observacionais mostram que até 25% das intubações em pacientes críticos resultam em complicações graves, incluindo dessaturação, hipotensão profunda e parada cardíaca peri-intubação. A taxa de mortalidade associada à intubação em UTI pode chegar a 40% em pacientes com instabilidade preexistente.",
+    "fisiopatologia": "Durante a indução anestésica, a perda do tônus simpático e a apneia induzida podem precipitar colapso circulatório em pacientes com volemia crítica ou disfunção miocárdica. A apneia prolongada em pacientes hipoxêmicos ou acidóticos reduz rapidamente a reserva fisiológica, levando à hipoxemia severa e acidemia incontrolável. A laringoscopia pode desencadear resposta adrenérgica com aumento da pressão intracraniana ou isquemia miocárdica em pacientes vulneráveis. O uso inadequado de sedativos ou bloqueadores neuromusculares pode agravar a instabilidade.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão profunda ou choque após indução anestésica.",
+        "Bradicardia vagal ou taquiarritmias induzidas por hipoxia.",
+        "Parada cardíaca durante a laringoscopia em pacientes instáveis."
+      ],
+      "respiratorias": [
+        "Dessaturação abrupta (SpO₂ < 80% em menos de 30 segundos).",
+        "Apneia prolongada em pacientes com hipoxemia grave.",
+        "Aspiração de conteúdo gástrico em pacientes sem jejum ou com rebaixamento de consciência."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Hipertensão intracraniana transitória em pacientes com TCE ou AVC.",
+        "Descompensação aguda de acidose metabólica e piora da perfusão tecidual.",
+        "Convulsões, delírio ou coma por hipoperfusão cerebral intra ou pós-indução."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O planejamento pré-intubação inclui a avaliação sistemática da via aérea, reserva fisiológica (oxigenação, pressão arterial, nível de consciência, status metabólico), e antecipação das dificuldades técnicas ou fisiológicas. Checklists e algoritmos estruturados são ferramentas essenciais. A escolha individualizada dos fármacos e da técnica de intubação deve considerar o risco-benefício em cada cenário clínico.",
+      "exames_essenciais": [
+        "Gasometria arterial com lactato e eletrólitos: avaliação da gravidade da acidose, hipercapnia e perfusão.",
+        "ECG de 12 derivações: para identificação de isquemia, distúrbios de condução e disfunções eletrolíticas.",
+        "Ultrassonografia point-of-care (POCUS): avaliação do volume intravascular, contratilidade, congestão pulmonar e tamponamento.",
+        "Monitorização invasiva contínua (SpO₂, ECG, PNI ou PAM invasiva), especialmente em pacientes instáveis."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia refratária (PaO₂ < 60 mmHg com FiO₂ > 0,6).",
+      "Hipercapnia grave (PaCO₂ > 60 mmHg) com acidose respiratória e fadiga muscular.",
+      "Glasgow ≤ 8 com perda de proteção de vias aéreas.",
+      "Acidose metabólica grave com instabilidade clínica e esforço respiratório ineficaz.",
+      "TCE com rebaixamento neurológico e sinais de herniação cerebral iminente."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Aplicar protocolo de preoxigenação com ventilação não invasiva (VNI) + PEEP ou CPAP com FiO₂ 100%, por 3–5 minutos.",
+        "Reservar máscara laríngea e dispositivos de via aérea difícil à beira-leito.",
+        "Escolha de agente indutor hemodinamicamente estável (etomidato ou cetamina); evitar propofol em pacientes instáveis.",
+        "Bloqueador neuromuscular de ação rápida (rocurônio ou succinilcolina) conforme contraindicações.",
+        "Administração prévia ou concomitante de vasopressores (noradrenalina em bolus ou infusão contínua).",
+        "Capnografia contínua e verificação de posicionamento adequado após intubação.",
+        "Ventilação protetora individualizada (volume corrente 6 mL/kg, PEEP conforme complacência e resposta gasométrica)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Pacientes com instabilidade fisiológica apresentam maior risco de complicações durante a intubação orotraqueal. A identificação precoce do risco, planejamento multidisciplinar e execução rigorosa de protocolos aumentam a taxa de sucesso e reduzem mortalidade. O prognóstico depende da condição de base, resposta ao procedimento e suporte pós-intubação imediato."
+    },
+    "notas_adicionais": [
+      "Documentar detalhadamente todas as etapas do procedimento, fármacos e resposta clínica.",
+      "Avaliar possibilidade de despertar precoce e suspensão da sedação após estabilização.",
+      "Estabelecer plano de ventilação e sedação contínua individualizado com metas clínicas.",
+      "Evitar hiperventilação excessiva, principalmente em TCE ou DPOC.",
+      "Revisar periodicamente protocolos institucionais de intubação de segurança e treinar equipes envolvidas."
+    ],
+    "fontes_bibliograficas": [
+      "Weingart SD. Preoxygenation and prevention of desaturation during emergency airway management. Ann Emerg Med. 2011.",
+      "UpToDate. Rapid sequence intubation in adults for emergency medicine. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 55 – Manejo de Via Aérea em Pacientes Críticos.",
+      "Diretrizes da Associação de Medicina Intensiva Brasileira (AMIB) – Via aérea na UTI. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Jaber S, et al. Clinical practice of tracheal intubation in the ICU: an international survey. Intensive Care Med. 2010."
+    ]
+  },
+  "US": {
+    "title": "Safety Intubation in High-Risk Patients",
+    "definition": "Safety intubation refers to the structured and preventative approach to airway management in critically ill patients who are at high risk for rapid clinical deterioration. These include individuals with severe hypoxemia, hemodynamic instability, uncompensated metabolic acidosis, or neurologic injury at risk for herniation. The objective is to preempt complications during intubation, including severe desaturation, cardiovascular collapse, and peri-intubation cardiac arrest.",
+    "epidemiology": "Safety intubation is most commonly performed in emergency departments, ICUs, or prehospital settings. Up to 25% of emergency intubations in critically ill patients are associated with major adverse events. Conditions such as sepsis, ARDS, traumatic brain injury (TBI), acute poisonings, and multiple organ failure increase the risk. Peri-intubation mortality is significantly higher in patients with pre-existing physiological instability.",
+    "pathophysiology": "The loss of sympathetic tone and the onset of apnea following induction can precipitate cardiovascular collapse in patients with borderline preload or myocardial dysfunction. Prolonged apnea in patients with hypoxemia or acidosis rapidly depletes physiologic reserves, leading to life-threatening hypoxemia and severe acidosis. Laryngoscopy-induced sympathetic stimulation may trigger arrhythmias or increase intracranial pressure. Improper use of sedatives or paralytics can exacerbate instability.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Profound hypotension or shock immediately after induction.",
+        "Bradycardia or reflex tachyarrhythmias triggered by hypoxia.",
+        "Peri-intubation cardiac arrest in unstable patients."
+      ],
+      "respiratory": [
+        "Abrupt desaturation (SpO₂ < 80% within 30 seconds).",
+        "Prolonged apnea in severely hypoxemic patients.",
+        "Aspiration of gastric contents in non-fasted or unconscious individuals."
+      ],
+      "neurologic_and_metabolic": [
+        "Transient intracranial hypertension in patients with TBI or stroke.",
+        "Worsening of metabolic acidosis and tissue perfusion during apnea.",
+        "Delirium, seizures, or coma secondary to cerebral hypoperfusion."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Pre-intubation planning should involve a systematic evaluation of airway anatomy, physiologic reserves (oxygenation, blood pressure, mental status, metabolic state), and anticipation of technical or physiologic challenges. Structured checklists and team-based briefings are critical. Drug and technique selection must be tailored to minimize risk in the given clinical context.",
+      "essential_tests": [
+        "Arterial blood gas including lactate and electrolytes: to assess severity of acidosis, hypercapnia, and perfusion.",
+        "12-lead ECG: evaluate for ischemia, conduction abnormalities, electrolyte-induced arrhythmias.",
+        "Point-of-care ultrasound (POCUS): assess intravascular volume status, contractility, pulmonary congestion, and tamponade.",
+        "Continuous monitoring: pulse oximetry, ECG, non-invasive or invasive blood pressure (MAP)."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Refractory hypoxemia (PaO₂ < 60 mmHg on FiO₂ > 0.6).",
+      "Severe hypercapnia (PaCO₂ > 60 mmHg) with acidosis and muscle fatigue.",
+      "GCS ≤ 8 with loss of airway protective reflexes.",
+      "Severe metabolic acidosis with respiratory compensation failure.",
+      "TBI with neurologic deterioration and signs of impending herniation."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Preoxygenate with noninvasive ventilation (NIV) + PEEP or CPAP with FiO₂ 100% for 3–5 minutes.",
+        "Prepare rescue airway equipment (laryngeal mask, video laryngoscope, surgical kit).",
+        "Use hemodynamically stable induction agents (etomidate or ketamine); avoid propofol in unstable patients.",
+        "Administer rapid-onset neuromuscular blockers (rocuronium or succinylcholine) based on contraindications.",
+        "Administer vasopressors (norepinephrine bolus or infusion) prior to or during induction.",
+        "Verify endotracheal tube placement with continuous capnography.",
+        "Initiate protective mechanical ventilation (tidal volume 6 mL/kg, PEEP based on compliance and gas exchange goals)."
+      ]
+    },
+    "prognosis": {
+      "comment": "Intubation in physiologically unstable patients carries a high risk of adverse events. Early risk identification, multidisciplinary planning, and strict adherence to safety protocols improve procedural success and reduce mortality. Prognosis depends on underlying illness, response to intubation, and immediate post-intubation management."
+    },
+    "additional_notes": [
+      "Document each step of the procedure, medications used, and clinical response.",
+      "Consider early sedation interruption and wake-up trials post-stabilization.",
+      "Customize ventilation and sedation strategies based on clinical targets.",
+      "Avoid excessive hyperventilation, especially in TBI or COPD.",
+      "Periodically update institutional safety intubation protocols and train involved teams."
+    ],
+    "references": [
+      "Weingart SD. Preoxygenation and prevention of desaturation during emergency airway management. Ann Emerg Med. 2011.",
+      "UpToDate. Rapid sequence intubation in adults for emergency medicine. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 55 – Airway Management in Critically Ill Patients.",
+      "Brazilian Society of Intensive Care Medicine – ICU Airway Management Guidelines. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Jaber S, et al. Clinical practice of tracheal intubation in the ICU: an international survey. Intensive Care Med. 2010."
+    ]
+  },
+  "ES": {
+    "titulo": "Intubación de Seguridad en Pacientes de Alto Riesgo",
+    "definicion": "La intubación de seguridad es un enfoque sistemático y preventivo para el manejo de la vía aérea en pacientes críticos con alto riesgo de deterioro clínico inmediato. Incluye a pacientes con hipoxemia severa, inestabilidad hemodinámica, acidosis metabólica descompensada o lesiones neurológicas con riesgo de herniación. El objetivo es anticipar y prevenir complicaciones graves como desaturación, colapso cardiovascular y paro cardíaco periintubación.",
+    "epidemiologia": "La intubación de seguridad es frecuente en departamentos de urgencias, UCI y situaciones extrahospitalarias. Hasta el 25% de las intubaciones de emergencia en pacientes críticos se asocian con eventos adversos graves. Las condiciones como sepsis, síndrome de dificultad respiratoria aguda (SDRA), traumatismo craneoencefálico, intoxicaciones agudas y falla multiorgánica aumentan el riesgo. La mortalidad periintubación es significativamente mayor en pacientes con inestabilidad fisiológica previa.",
+    "fisiopatologia": "La inducción anestésica produce pérdida del tono simpático y apnea, lo que puede provocar colapso circulatorio en pacientes con precarga límite o disfunción ventricular. La apnea prolongada en pacientes con hipoxemia o acidosis agota rápidamente las reservas fisiológicas, generando hipoxemia y acidosis severas. La laringoscopía puede inducir una respuesta simpática exacerbada, desencadenando arritmias o hipertensión intracraneal. El uso inadecuado de sedantes o bloqueadores neuromusculares puede empeorar la inestabilidad.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión profunda o shock inmediatamente después de la inducción.",
+        "Bradicardia o taquiarritmias inducidas por hipoxia.",
+        "Paro cardíaco durante la intubación en pacientes inestables."
+      ],
+      "respiratorias": [
+        "Desaturación abrupta (SpO₂ < 80% en menos de 30 segundos).",
+        "Apnea prolongada en pacientes con hipoxemia severa.",
+        "Aspiración de contenido gástrico en pacientes no en ayuno o con conciencia alterada."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Hipertensión intracraneal transitoria en TCE o ECV.",
+        "Descompensación aguda de acidosis metabólica con perfusión tisular reducida.",
+        "Delirio, convulsiones o coma debido a hipoperfusión cerebral."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "La planificación previa debe incluir evaluación anatómica de la vía aérea, reservas fisiológicas (oxigenación, presión arterial, estado mental, estado metabólico) y predicción de dificultades técnicas o fisiológicas. El uso de listas de verificación estructuradas y coordinación interdisciplinaria es esencial. La selección de fármacos y técnica debe adaptarse al contexto clínico individual.",
+      "exames_essenciais": [
+        "Gasometría arterial con lactato y electrólitos: gravedad de acidosis, hipercapnia y perfusión.",
+        "ECG de 12 derivaciones: detectar isquemia, trastornos de conducción y arritmias.",
+        "Ecografía a pie de cama (POCUS): volumen intravascular, contractilidad, congestión pulmonar, taponamiento.",
+        "Monitoreo continuo: SpO₂, ECG, presión arterial invasiva o no invasiva (PAM)."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Hipoxemia refractaria (PaO₂ < 60 mmHg con FiO₂ > 0,6).",
+      "Hipercapnia grave (PaCO₂ > 60 mmHg) con acidosis y fatiga muscular.",
+      "GCS ≤ 8 con pérdida de reflejos protectores de la vía aérea.",
+      "Acidosis metabólica severa con falla respiratoria compensatoria.",
+      "TCE con deterioro neurológico y signos de herniación cerebral inminente."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Preoxigenación con ventilación no invasiva (VNI) + PEEP o CPAP con FiO₂ al 100% durante 3–5 minutos.",
+        "Disponibilidad de dispositivos alternativos (mascarilla laríngea, videolaringoscopio).",
+        "Uso de agentes de inducción hemodinámicamente estables (etomidato o ketamina); evitar propofol en pacientes inestables.",
+        "Bloqueadores neuromusculares de acción rápida (rocuronio o succinilcolina), según indicación.",
+        "Administrar vasopresores (norepinefrina en bolo o infusión) antes o durante la inducción.",
+        "Confirmación del tubo endotraqueal con capnografía continua.",
+        "Ventilación mecánica protectora (volumen corriente 6 mL/kg, PEEP según complacencia y oxigenación)."
+      ]
+    },
+    "prognosis": {
+      "comment": "La intubación en pacientes con inestabilidad fisiológica implica alto riesgo de eventos adversos. La identificación precoz, planificación multidisciplinaria y adherencia a protocolos de seguridad mejoran la tasa de éxito y reducen la mortalidad. El pronóstico depende de la enfermedad subyacente, respuesta al procedimiento y manejo postintubación inmediato."
+    },
+    "additional_notes": [
+      "Documentar cada etapa del procedimiento, fármacos administrados y respuesta clínica.",
+      "Considerar interrupción temprana de la sedación si es clínicamente posible.",
+      "Adaptar estrategias de ventilación y sedación a los objetivos clínicos del paciente.",
+      "Evitar hiperventilación excesiva, especialmente en EPOC o TCE.",
+      "Actualizar regularmente los protocolos institucionales de intubación de seguridad y capacitar al equipo."
+    ],
+    "references": [
+      "Weingart SD. Preoxygenation and prevention of desaturation during emergency airway management. Ann Emerg Med. 2011.",
+      "UpToDate. Rapid sequence intubation in adults for emergency medicine. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 55 – Manejo de la Vía Aérea en Pacientes Críticos.",
+      "Guías de la Sociedad Brasileña de Medicina Intensiva – Manejo de la vía aérea en UCI. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Jaber S, et al. Clinical practice of tracheal intubation in the ICU: an international survey. Intensive Care Med. 2010."
+    ]
+  }
+}

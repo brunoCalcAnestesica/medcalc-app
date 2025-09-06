@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Trauma Torácico Grave",
+    "definicao": "O trauma torácico grave é definido como qualquer lesão que compromete direta ou indiretamente a integridade anatômica ou funcional dos pulmões, coração, grandes vasos, parede torácica ou vias aéreas, com risco iminente de morte. Pode ser classificado em contuso (a maioria dos casos) ou penetrante. Representa uma das principais causas de mortalidade precoce em pacientes politraumatizados, sendo responsável por até 25% das mortes evitáveis por trauma.",
+    "epidemiologia": "Ocorrendo em até 60% dos pacientes com trauma maior, o trauma torácico grave acomete predominantemente adultos jovens, vítimas de colisões veiculares, quedas de grandes alturas ou agressões por projéteis de alta energia. Lesões como pneumotórax hipertensivo, hemotórax maciço, tamponamento cardíaco e ruptura traqueobrônquica são causas imediatas de instabilidade clínica e exigem intervenção rápida.",
+    "fisiopatologia": "As lesões torácicas interferem na ventilação e na perfusão pulmonar, resultando em hipoxemia, acidose e colapso circulatório. A dor associada a fraturas costais múltiplas compromete a ventilação alveolar, favorecendo atelectasias e infecções. Lesões de grandes vasos podem causar hemorragia maciça. O tamponamento cardíaco impede o enchimento diastólico, enquanto o pneumotórax hipertensivo desloca mediastino e reduz o retorno venoso.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão persistente e pulso paradoxal (sugestivo de tamponamento).",
+        "Veias jugulares ingurgitadas e abafamento de bulhas cardíacas.",
+        "Hipoperfusão sistêmica e choque refratário à reposição volêmica isolada."
+      ],
+      "respiratorias": [
+        "Taquipneia grave, uso de musculatura acessória, cianose.",
+        "Hipersonoridade à percussão e ausência de murmúrio vesicular (pneumotórax).",
+        "Sinais de insuficiência respiratória aguda (SpO₂ < 90%, PaO₂ < 60 mmHg)."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitação psicomotora ou rebaixamento do nível de consciência.",
+        "Lactato elevado e acidose mista na gasometria arterial.",
+        "Distúrbios hidroeletrolíticos e evidência de lesão de múltiplos órgãos."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Seguindo o protocolo ABCDE do ATLS, o exame físico detalhado e a identificação de sinais clínicos de lesões potencialmente fatais são fundamentais. Deve-se proceder à avaliação sistemática com auxílio de exames complementares à beira-leito e imagem de alta resolução para mapeamento das lesões.",
+      "exames_essenciais": [
+        "Radiografia de tórax anteroposterior em decúbito: detecção de fraturas, pneumotórax, hemotórax.",
+        "Ultrassonografia torácica (eFAST): útil para diagnóstico de hemotórax, pneumotórax, tamponamento e derrames.",
+        "Tomografia computadorizada de tórax: exame padrão-ouro para avaliação de fraturas costais, contusão pulmonar, lesões vasculares e de via aérea.",
+        "Gasometria arterial: avaliação da oxigenação, ventilação e estado ácido-base.",
+        "Laboratoriais: hemograma, creatinina, eletrólitos, coagulograma, troponina, lactato.",
+        "ECG e ecocardiograma: essenciais na avaliação de trauma cardíaco contuso ou tamponamento pericárdico."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia refratária (SpO₂ < 90% com FiO₂ > 0,5).",
+      "Fratura de múltiplos arcos costais com tórax instável (flail chest).",
+      "Comprometimento ventilatório grave por contusão pulmonar ou hemotórax volumoso.",
+      "Glasgow < 8 ou rebaixamento do nível de consciência por hipóxia ou TCE associado."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Manter vias aéreas pérvias, com intubação orotraqueal se necessário.",
+        "Toracocentese de alívio imediata no pneumotórax hipertensivo (2º EIC, linha hemiclavicular).",
+        "Drenagem torácica com selo d’água (intercostal em 5º EIC) em pneumotórax e hemotórax.",
+        "Pericardiocentese guiada por USG em tamponamento cardíaco instável.",
+        "Infusão de cristaloides isotônicos de forma controlada até estabilização da pressão.",
+        "Início precoce de noradrenalina se PAM < 65 mmHg após reposição volêmica.",
+        "Analgesia multimodal (opioide + bloqueio paravertebral ou epidural).",
+        "Encaminhamento para cirurgia torácica ou vascular conforme lesão identificada."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O desfecho clínico está relacionado ao tipo e à extensão das lesões, tempo de atendimento, presença de SDRA ou choque e resposta inicial ao tratamento. A mortalidade aumenta significativamente na presença de lesões cardíacas, ruptura de grandes vasos ou instabilidade respiratória prolongada. O suporte intensivo precoce e a abordagem multidisciplinar são fundamentais para melhor prognóstico."
+    },
+    "notas_adicionais": [
+      "Reavaliar periodicamente a expansão torácica e sinais de ventilação ineficaz.",
+      "Considerar toracotomia de reanimação em parada traumática com tamponamento ou hemotórax massivo.",
+      "Prevenir pneumonia associada à ventilação mecânica em pacientes intubados.",
+      "Vacinação antitetânica e antibioticoprofilaxia em ferimentos penetrantes.",
+      "Registrar imagens e sinais em prontuário médico-legal em casos de violência.",
+      "Instituir medidas de suporte nutricional precoce após estabilização."
+    ],
+    "fontes_bibliograficas": [
+      "Advanced Trauma Life Support (ATLS) – American College of Surgeons. 10ª ed.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Cap. 67 – Trauma Torácico.",
+      "Diretrizes da SBAIT – Trauma Torácico. 2022.",
+      "UpToDate. Thoracic trauma in adults: Initial evaluation and management. 2024."
+    ]
+  },
+  "US": {
+    "title": "Severe Thoracic Trauma",
+    "definition": "Severe thoracic trauma encompasses any injury to the thoracic cavity that acutely compromises the lungs, heart, great vessels, airway, or chest wall with an imminent risk of death. It includes both blunt (majority) and penetrating mechanisms and represents a leading cause of early mortality in polytrauma patients. Rapid identification and intervention are essential to reduce preventable deaths.",
+    "epidemiology": "Thoracic trauma is present in up to 60% of major trauma cases, primarily affecting young adults involved in vehicular accidents, high falls, or assaults with firearms or sharp objects. Life-threatening injuries include tension pneumothorax, massive hemothorax, cardiac tamponade, flail chest, and bronchial or great vessel rupture.",
+    "pathophysiology": "Thoracic injuries affect ventilation and perfusion, leading to hypoxemia, acidosis, and circulatory collapse. Rib fractures cause pain that limits effective alveolar ventilation, predisposing to atelectasis and pneumonia. Great vessel injury can result in massive hemorrhage. Cardiac tamponade restricts diastolic filling, and tension pneumothorax shifts the mediastinum, impairing venous return.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Persistent hypotension and paradoxical pulse (suggestive of tamponade).",
+        "Jugular venous distention and muffled heart sounds.",
+        "Systemic hypoperfusion and shock refractory to fluid resuscitation alone."
+      ],
+      "respiratorias": [
+        "Severe tachypnea, accessory muscle use, cyanosis.",
+        "Hyperresonance and absent breath sounds (tension pneumothorax).",
+        "Signs of acute respiratory failure (SpO₂ < 90%, PaO₂ < 60 mmHg)."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitation or decreased level of consciousness due to hypoxia.",
+        "Elevated lactate and mixed acidosis on arterial blood gas.",
+        "Electrolyte imbalances and multi-organ dysfunction evidence."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Following the ATLS ABCDE protocol, early recognition of life-threatening injuries is key. Clinical evaluation includes inspection, palpation, percussion, and auscultation, combined with bedside and advanced imaging for accurate lesion mapping.",
+      "exames_essenciais": [
+        "Supine chest X-ray: identifies fractures, pneumothorax, hemothorax.",
+        "Thoracic ultrasound (eFAST): detects pneumothorax, hemothorax, tamponade.",
+        "Contrast-enhanced chest CT: gold standard for evaluating vascular, parenchymal, and airway injuries.",
+        "Arterial blood gas: evaluates oxygenation, ventilation, and acid-base status.",
+        "Laboratory workup: CBC, creatinine, electrolytes, coagulation profile, troponin, lactate.",
+        "ECG and echocardiography: critical for suspected cardiac injury or tamponade."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Refractory hypoxemia (SpO₂ < 90% on FiO₂ > 0.5).",
+      "Multiple rib fractures with flail chest and respiratory failure.",
+      "Severe pulmonary contusion or massive hemothorax compromising ventilation.",
+      "Glasgow Coma Scale < 8 or decreased consciousness due to hypoxia or TBI."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Ensure airway patency; perform orotracheal intubation if needed.",
+        "Immediate needle decompression in suspected tension pneumothorax (2nd ICS, midclavicular line).",
+        "Tube thoracostomy with underwater seal drainage (5th ICS, midaxillary line) for pneumothorax or hemothorax.",
+        "Ultrasound-guided pericardiocentesis for unstable cardiac tamponade.",
+        "Controlled crystalloid infusion until blood pressure stabilization.",
+        "Early initiation of norepinephrine if MAP < 65 mmHg post-fluid resuscitation.",
+        "Multimodal analgesia (opioids + regional techniques such as paravertebral or epidural blocks).",
+        "Prompt referral for thoracic or vascular surgery depending on injury pattern."
+      ]
+    },
+    "prognosis": {
+      "comment": "Outcome depends on injury type and extent, time to definitive care, presence of ARDS or shock, and initial response to treatment. Mortality rises significantly in cases of major vascular rupture, cardiac injury, or prolonged hypoxia. Early intensive support and a multidisciplinary approach improve prognosis."
+    },
+    "additional_notes": [
+      "Regular reassessment of chest expansion and ventilation adequacy is crucial.",
+      "Consider emergency thoracotomy in traumatic arrest with massive hemothorax or tamponade.",
+      "Prevent ventilator-associated pneumonia in intubated patients.",
+      "Ensure tetanus vaccination and antibiotic prophylaxis in penetrating injuries.",
+      "Document injuries and findings for forensic and medicolegal purposes if applicable.",
+      "Initiate early nutritional support once stabilized."
+    ],
+    "references": [
+      "Advanced Trauma Life Support (ATLS) – American College of Surgeons. 10th ed.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 67 – Thoracic Trauma.",
+      "Brazilian Society of Trauma Surgery (SBAIT) – Thoracic Trauma Guidelines. 2022.",
+      "UpToDate. Thoracic trauma in adults: Initial evaluation and management. 2024."
+    ]
+  },
+  "ES": {
+    "titulo": "Traumatismo Torácico Grave",
+    "definicion": "El traumatismo torácico grave incluye cualquier lesión que comprometa de forma directa o indirecta la anatomía o funcionalidad de los pulmones, corazón, grandes vasos, vías respiratorias o la pared torácica, con riesgo vital inminente. Puede ser de tipo cerrado (la mayoría) o penetrante. Representa una causa significativa de muerte evitable precoz en pacientes politraumatizados y requiere identificación y manejo inmediatos.",
+    "epidemiologia": "Presente en hasta el 60% de los traumatismos mayores, el trauma torácico afecta principalmente a adultos jóvenes involucrados en accidentes automovilísticos, caídas de altura o agresiones. Las lesiones potencialmente letales incluyen neumotórax hipertensivo, hemotórax masivo, taponamiento cardíaco, tórax inestable y ruptura traqueobronquial o de grandes vasos.",
+    "fisiopatologia": "Las lesiones torácicas interfieren en la ventilación y la perfusión pulmonar, produciendo hipoxemia, acidosis y colapso circulatorio. Las fracturas costales múltiples inducen dolor, reduciendo la expansión torácica y favoreciendo atelectasias e infecciones. Las lesiones vasculares pueden causar hemorragias severas. El taponamiento cardíaco impide el llenado diastólico, mientras que el neumotórax hipertensivo desplaza el mediastino y compromete el retorno venoso.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión persistente con pulso paradójico (sugestivo de taponamiento).",
+        "Distensión yugular y ruidos cardíacos apagados.",
+        "Hipoperfusión sistémica y shock refractario a fluidoterapia sola."
+      ],
+      "respiratorias": [
+        "Taquipnea intensa, uso de musculatura accesoria, cianosis.",
+        "Hipersonoridad a la percusión y ausencia de murmullo vesicular (neumotórax).",
+        "Signos de insuficiencia respiratoria aguda (SpO₂ < 90%, PaO₂ < 60 mmHg)."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitación o disminución del nivel de conciencia por hipoxia.",
+        "Lactato elevado y acidosis mixta en gasometría arterial.",
+        "Alteraciones electrolíticas y disfunción multiorgánica."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "La evaluación debe seguir el protocolo ABCDE del ATLS, priorizando la identificación de lesiones con riesgo vital inmediato. La exploración física minuciosa junto a estudios de imagen de alta resolución permiten detectar y caracterizar las lesiones de manera eficaz.",
+      "exames_essenciais": [
+        "Radiografía de tórax en decúbito: detecta fracturas, neumotórax, hemotórax.",
+        "Ecografía torácica (eFAST): útil para detectar hemotórax, neumotórax y taponamiento.",
+        "TC de tórax con contraste: estándar oro para evaluación de lesiones vasculares, parenquimatosas y de la vía aérea.",
+        "Gasometría arterial: valora oxigenación, ventilación y equilibrio ácido-base.",
+        "Laboratorios: hemograma, creatinina, electrolitos, coagulograma, troponina, lactato.",
+        "ECG y ecocardiografía: claves ante sospecha de contusión miocárdica o taponamiento."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Hipoxemia refractaria (SpO₂ < 90% con FiO₂ > 0,5).",
+      "Fracturas costales múltiples con tórax inestable y compromiso ventilatorio.",
+      "Contusión pulmonar grave o hemotórax masivo con deterioro respiratorio.",
+      "Glasgow < 8 o disminución del nivel de conciencia por hipoxia o TEC asociado."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Asegurar vía aérea y ventilación efectiva; intubación orotraqueal si es necesario.",
+        "Descompresión con aguja inmediata ante neumotórax hipertensivo (2º EIC, línea medioclavicular).",
+        "Drenaje torácico con sello de agua (5º EIC, línea axilar media) para neumotórax o hemotórax.",
+        "Pericardiocentesis guiada por ecografía ante taponamiento inestable.",
+        "Infusión controlada de cristaloides hasta estabilización hemodinámica.",
+        "Inicio temprano de noradrenalina si PAM < 65 mmHg tras volumen.",
+        "Analgésia multimodal (opioides + técnicas regionales como bloqueo paravertebral o epidural).",
+        "Derivación urgente a cirugía torácica o vascular según hallazgos."
+      ]
+    },
+    "prognosis": {
+      "comment": "El pronóstico depende del tipo y extensión de las lesiones, el tiempo de intervención y la presencia de SDRA o shock. Lesiones vasculares mayores, daño cardíaco o hipoxia prolongada incrementan significativamente la mortalidad. El soporte intensivo precoz y un enfoque multidisciplinario son determinantes para mejorar los desenlaces."
+    },
+    "additional_notes": [
+      "Reevaluar frecuentemente la expansión torácica y la eficacia ventilatoria.",
+      "Considerar toracotomía de reanimación ante paro traumático con hemotórax masivo o taponamiento.",
+      "Prevenir neumonía asociada a ventilación mecánica en pacientes intubados.",
+      "Verificar vacunación antitetánica y realizar profilaxis antibiótica si es necesario.",
+      "Documentar lesiones con fines médico-legales si corresponde.",
+      "Iniciar soporte nutricional precoz tras estabilización."
+    ],
+    "references": [
+      "Advanced Trauma Life Support (ATLS) – American College of Surgeons. 10ª ed.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 67 – Trauma Torácico.",
+      "Sociedad Brasileña de Cirugía del Trauma (SBAIT) – Guías de Trauma Torácico. 2022.",
+      "UpToDate. Traumatismo torácico en adultos: evaluación inicial y manejo. 2024."
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "PT": {
+    "titulo": "Parada Cardiorrespiratória",
+    "definicao": "A parada cardiorrespiratória (PCR) é definida como a interrupção súbita e inesperada da circulação sanguínea efetiva, com ausência de batimentos cardíacos organizados, pulso palpável e ventilação espontânea. É uma das principais causas de mortalidade súbita e requer intervenção imediata com manobras de ressuscitação cardiopulmonar (RCP), suporte avançado de vida e identificação de causas reversíveis.",
+    "epidemiologia": "A PCR ocorre em aproximadamente 60 a 120 casos por 100 mil habitantes ao ano, sendo mais prevalente em homens acima de 60 anos. Nos ambientes extra-hospitalares, a sobrevida gira em torno de 6 a 10%, enquanto em contextos intra-hospitalares pode chegar a 20–25%, especialmente em unidades monitoradas. As principais causas incluem infarto agudo do miocárdio, taquiarritmias, hipoxia, sepse grave e embolia pulmonar. Em crianças, predomina a etiologia respiratória e hipovolêmica.",
+    "fisiopatologia": "A interrupção do fluxo sanguíneo provoca isquemia tecidual global, acidose metabólica, disfunção mitocondrial e liberação de mediadores inflamatórios. Os ritmos iniciais classificam-se em: chocáveis (fibrilação ventricular – FV, taquicardia ventricular sem pulso – TVSP) e não chocáveis (atividade elétrica sem pulso – AESP e assistolia). A FV e TVSP originam-se geralmente de eventos elétricos agudos, enquanto AESP e assistolia refletem insuficiência cardiovascular ou metabólica terminal.",
+    "manifestações_clinicas": {
+      "sinais_classicos": [
+        "Inconsciência súbita e ausência de resposta a estímulos.",
+        "Apneia ou gasping (respiração agônica).",
+        "Ausência de pulso carotídeo/femoral palpável.",
+        "Cianose, pele fria, midríase bilateral fixa (em fases tardias)."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseado em avaliação rápida: ausência de responsividade, apneia e ausência de pulso central por até 10 segundos. Confirmado pelo monitor cardíaco/ECG que define o ritmo. A avaliação simultânea de causas potencialmente reversíveis deve ser iniciada assim que possível, sem interromper a RCP.",
+      "exames_essenciais": [
+        "ECG contínuo durante a RCP: identifica FV, TVSP, AESP ou assistolia.",
+        "Gasometria arterial: acidose, hiperlactatemia, hipercapnia.",
+        "Eletrolíticos: potássio, cálcio, magnésio.",
+        "Troponinas e enzimas cardíacas (MI agudo).",
+        "Ecocardiograma à beira-leito: contratilidade, disfunções mecânicas, tamponamento, TEP.",
+        "Exames específicos conforme suspeita clínica (D-dímero, PCR, drogas tóxicas, função renal)."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Todas as PCR exigem via aérea avançada com ventilação assistida.",
+      "Iniciar com ventilação bolsa-válvula-máscara (BVM) com O₂ a 100%.",
+      "Intubação orotraqueal após 2 ciclos de RCP, se equipe habilitada estiver disponível.",
+      "Monitoramento com capnografia quantitativa para avaliar qualidade das compressões e detectar RCE (PETCO₂ &gt; 10 mmHg)."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Reconhecimento precoce e chamada imediata de ajuda especializada.",
+        "Início imediato de compressões torácicas com profundidade de 5–6 cm, frequência 100–120/min.",
+        "Desfibrilação precoce em ritmos chocáveis: 1ª carga de 200 J bifásica, seguida de RCP.",
+        "Adrenalina 1 mg IV a cada 3–5 min (iniciar após 2° ciclo de RCP, independente do ritmo).",
+        "Amiodarona 300 mg IV após 3º choque em FV/TVSP refratária.",
+        "RCP contínua com mínima interrupção; reavaliar ritmo a cada 2 minutos.",
+        "Identificação e correção das 5H (hipóxia, hipovolemia, H⁺ (acidose), hipo/hipercalemia, hipotermia) e 5T (tamponamento cardíaco, TEP, tensão pneumotórax, toxinas, trombose coronariana).",
+        "Troca do reanimador a cada 2 ciclos para manter eficácia das compressões.",
+        "Cessar RCP apenas com retorno à circulação espontânea (RCE), exaustão da equipe ou confirmação de futilidade terapêutica (RCP &gt; 30 min sem RCE e ausência de causas reversíveis)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A sobrevida à PCR depende diretamente da rapidez do atendimento, da presença de RCP precoce, do tipo de ritmo inicial e da causa tratável. Ritmos chocáveis têm melhores prognósticos. O suporte pós-PCR inclui controle de temperatura (32–36 ºC por 24–48 h), sedação, monitoramento neurológico e correção de causas reversíveis. A avaliação da função neurológica ocorre entre 72–120 h após PCR. O prognóstico neurológico é fator determinante da qualidade de sobrevida pós-evento."
+    },
+    "notas_adicionais": [
+      "PETCO₂ &lt; 10 mmHg após 20 min de RCP contínua sugere mau prognóstico.",
+      "A desfibrilação precoce em ambientes extra-hospitalares dobra a chance de sobrevivência.",
+      "Evitar hiperventilação durante ventilação com BVM ou após intubação.",
+      "Após RCE, manter PAM &gt; 65 mmHg, saturação 94–98%, normotermia, normoglicemia e normocapnia.",
+      "Avaliar sempre necessidade de suporte hemodinâmico com noradrenalina pós-RCE.",
+      "O uso de ultrassom POCUS deve ser integrado à avaliação para causas reversíveis."
+    ],
+    "fontes_bibliograficas": [
+      "ILCOR – International Consensus on CPR and ECC Science with Treatment Recommendations. 2020.",
+      "Diretrizes de Ressuscitação da Sociedade Brasileira de Cardiologia – 2022.",
+      "American Heart Association – ACLS Guidelines. 2020.",
+      "UpToDate. Cardiopulmonary resuscitation in adults. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Manual de Suporte Avançado de Vida em Anestesia – SBA. 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Paro Cardiorrespiratorio",
+    "definicion": "El paro cardiorrespiratorio (PCR) se define como la interrupción súbita e inesperada de la circulación sanguínea efectiva, con ausencia de actividad eléctrica o mecánica organizada, pulso palpable y ventilación espontánea. Es una de las principales causas de muerte súbita y constituye una urgencia extrema que requiere intervención inmediata mediante maniobras de reanimación cardiopulmonar (RCP), soporte vital avanzado e identificación de causas reversibles.",
+    "epidemiologia": "El PCR ocurre en aproximadamente 60 a 120 casos por cada 100.000 personas al año. Es más común en hombres mayores de 60 años. La supervivencia extrahospitalaria oscila entre 6–10%, mientras que en el ámbito hospitalario monitorizado puede llegar al 25%. Las principales causas incluyen infarto agudo de miocardio, arritmias ventriculares, hipoxia, sepsis grave y tromboembolismo pulmonar. En pediatría predominan las causas respiratorias e hipovolémicas.",
+    "fisiopatologia": "La interrupción del flujo sanguíneo provoca isquemia global, acidosis metabólica, disfunción mitocondrial y respuesta inflamatoria sistémica. Los ritmos iniciales se dividen en desfibrilables (fibrilación ventricular – FV, taquicardia ventricular sin pulso – TVSP) y no desfibrilables (actividad eléctrica sin pulso – AESP y asistolia). Los ritmos desfibrilables se asocian a trastornos eléctricos agudos, mientras que los no desfibrilables reflejan fallo cardiometabólico terminal.",
+    "manifestaciones_clinicas": {
+      "signos_clasicos": [
+        "Pérdida súbita de la conciencia sin respuesta a estímulos.",
+        "Apnea o respiración agónica (gasping).",
+        "Ausencia de pulso carotídeo o femoral.",
+        "Cianosis, piel fría, midriasis bilateral fija en fases avanzadas."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Se basa en la evaluación rápida del estado de conciencia, respiración y pulso central en no más de 10 segundos. La confirmación se realiza mediante monitorización cardíaca o ECG. Debe iniciarse la RCP de inmediato sin demorar en la evaluación de causas reversibles.",
+      "examenes_esenciales": [
+        "ECG continuo durante RCP: identificación del ritmo (FV, TVSP, asistolia, AESP).",
+        "Gasometría arterial: acidosis, hiperlactatemia, hipercapnia.",
+        "Electrolitos séricos: potasio, calcio, magnesio.",
+        "Biomarcadores cardíacos: troponina, CK-MB.",
+        "Ecografía a pie de cama (POCUS): contractilidad, taponamiento, tromboembolismo pulmonar.",
+        "Exámenes complementarios según etiología sospechada (D-dímero, tóxicos, función renal)."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Todo paciente en PCR requiere vía aérea avanzada y ventilación asistida.",
+      "Iniciar con bolsa-válvula-mascarilla (BVM) y oxígeno al 100%.",
+      "Intubación orotraqueal tras 2 ciclos de RCP si hay personal capacitado.",
+      "Capnografía cuantitativa para evaluar calidad de RCP y detectar ROSC (ETCO₂ > 10 mmHg)."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Reconocimiento inmediato y activación del sistema de emergencias.",
+        "Inicio de compresiones torácicas de alta calidad (profundidad 5–6 cm, frecuencia 100–120/min).",
+        "Desfibrilación precoz en ritmos desfibrilables: 200 J bifásico seguido de RCP.",
+        "Adrenalina 1 mg IV cada 3–5 minutos (iniciar tras segundo ciclo, independiente del ritmo).",
+        "Amiodarona 300 mg IV tras el tercer choque en FV/TVSP refractaria.",
+        "RCP continua con mínimas interrupciones; reevaluar ritmo cada 2 minutos.",
+        "Identificación y corrección de las 5H (hipoxia, hipovolemia, H⁺ [acidosis], hipo/hiperpotasemia, hipotermia) y 5T (taponamiento, neumotórax a tensión, toxinas, trombosis pulmonar/coronaria, trauma).",
+        "Cambiar reanimador cada 2 ciclos para mantener calidad de compresiones.",
+        "Interrumpir RCP solo en caso de ROSC, agotamiento del equipo o futilidad (RCP > 30 min sin respuesta y sin causa reversible)."
+      ]
+    },
+    "pronostico": {
+      "comentario": "La supervivencia tras un PCR depende de la rapidez de la intervención, ritmo inicial, calidad de RCP y reversibilidad de la causa. Los ritmos desfibrilables tienen mejor pronóstico. El cuidado post-PCR incluye control térmico (32–36°C por 24–48 h), soporte hemodinámico, monitoreo neurológico y tratamiento de la causa subyacente. El pronóstico neurológico se determina entre las 72–120 h posteriores al evento."
+    },
+    "notas_adicionales": [
+      "ETCO₂ < 10 mmHg tras 20 minutos de RCP sugiere mal pronóstico.",
+      "La desfibrilación precoz en PCR extrahospitalaria duplica las probabilidades de supervivencia.",
+      "Evitar hiperventilación durante ventilación con BVM o tras intubación.",
+      "Tras ROSC, mantener PAM > 65 mmHg, SpO₂ entre 94–98%, normotermia, normoglucemia y normocapnia.",
+      "Considerar soporte vasopresor con noradrenalina si hay shock post-ROSC.",
+      "La ecografía POCUS debe integrarse para identificar causas reversibles."
+    ],
+    "fuentes_bibliograficas": [
+      "ILCOR – International Consensus on CPR and ECC Recommendations. 2020.",
+      "Guías de reanimación de la Sociedad Brasileña de Cardiología – 2022.",
+      "American Heart Association – ACLS Guidelines. 2020.",
+      "UpToDate. Reanimación cardiopulmonar en adultos. 2024.",
+      "Harrison’s Principios de Medicina Interna. 21ª ed.",
+      "Manual de Soporte Vital Avanzado – SBA. 2022."
+    ]
+  },
+  "US": {
+    "title": "Cardiac Arrest",
+    "definition": "Cardiac arrest is defined as the sudden and unexpected cessation of effective blood circulation due to the failure of the heart to contract adequately. It is characterized by unconsciousness, apnea (or agonal breathing), and absence of a palpable central pulse. Immediate intervention with high-quality cardiopulmonary resuscitation (CPR), advanced life support, and identification of reversible causes is essential to improve survival and neurological outcomes.",
+    "epidemiology": "Out-of-hospital cardiac arrest (OHCA) affects 60 to 120 per 100,000 people annually. Survival rates range from 6–10%, with higher rates in monitored in-hospital cardiac arrest (IHCA) settings (up to 25%). Common causes in adults include acute myocardial infarction, ventricular arrhythmias, hypoxia, sepsis, and pulmonary embolism. In pediatric patients, respiratory and hypovolemic causes predominate. Early defibrillation and bystander CPR significantly increase survival.",
+    "pathophysiology": "Cessation of cardiac output leads to global tissue ischemia, metabolic acidosis, mitochondrial dysfunction, and systemic inflammatory responses. Arrest rhythms are classified as shockable (ventricular fibrillation – VF, pulseless ventricular tachycardia – pVT) and non-shockable (asystole, pulseless electrical activity – PEA). Shockable rhythms typically originate from primary electrical disturbances, while non-shockable rhythms reflect end-stage cardiac or metabolic failure.",
+    "clinical_manifestations": {
+      "classic_signs": [
+        "Sudden loss of consciousness and unresponsiveness.",
+        "Apnea or agonal breathing (gasping).",
+        "Absence of carotid or femoral pulse.",
+        "Pallor, cyanosis, fixed dilated pupils in late phases."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Cardiac arrest diagnosis is based on rapid assessment of unresponsiveness, apnea, and absence of a central pulse within 10 seconds. Cardiac monitor/ECG confirms the rhythm. Immediate initiation of CPR and continuous reassessment are key. Evaluation for reversible causes (the Hs and Ts) should begin without interrupting chest compressions.",
+      "essential_tests": [
+        "Continuous ECG during CPR to determine rhythm (VF, pVT, asystole, PEA).",
+        "Arterial blood gas: acidosis, hyperlactatemia, hypercapnia.",
+        "Serum electrolytes: potassium, calcium, magnesium.",
+        "Cardiac biomarkers: troponin, CK-MB.",
+        "Point-of-care ultrasound (POCUS): cardiac motion, tamponade, PE.",
+        "Targeted tests based on suspected etiology (e.g., D-dimer, tox screens, renal function)."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "All cardiac arrest patients require advanced airway and assisted ventilation.",
+      "Initial ventilation with bag-valve-mask (BVM) and 100% oxygen.",
+      "Orotracheal intubation after 2 cycles of CPR, if skilled personnel are present.",
+      "Quantitative capnography to assess CPR quality and detect ROSC (ETCO₂ &gt; 10 mmHg)."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediate recognition and activation of emergency response.",
+        "Start high-quality chest compressions (depth 5–6 cm, rate 100–120/min).",
+        "Early defibrillation for shockable rhythms: 200 J biphasic shock, then CPR.",
+        "Administer epinephrine 1 mg IV every 3–5 min (start after 2nd cycle regardless of rhythm).",
+        "Amiodarone 300 mg IV after 3rd shock for refractory VF/pVT.",
+        "Continuous CPR with minimal interruption; reassess rhythm every 2 minutes.",
+        "Identify and treat the 5 Hs (hypoxia, hypovolemia, hydrogen ion [acidosis], hypo-/hyperkalemia, hypothermia) and 5 Ts (tamponade, tension pneumothorax, toxins, thrombosis [pulmonary or coronary], trauma).",
+        "Switch compressors every 2 cycles to maintain CPR quality.",
+        "Terminate CPR only after ROSC, team exhaustion, or confirmed futility (e.g., &gt;30 min with no ROSC and no reversible cause)."
+      ]
+    },
+    "prognosis": {
+      "comment": "Survival after cardiac arrest is highly dependent on time to CPR, initial rhythm, quality of resuscitation, and presence of reversible causes. VF and pVT have better prognoses. Post-resuscitation care includes targeted temperature management (32–36°C for 24–48h), hemodynamic support, neurological monitoring, and treatment of underlying causes. Neurologic outcome is the key determinant of long-term quality of life."
+    },
+    "additional_notes": [
+      "ETCO₂ &lt; 10 mmHg after 20 minutes of continuous CPR suggests poor prognosis.",
+      "Early defibrillation in OHCA doubles survival rates.",
+      "Avoid hyperventilation during BVM or post-intubation.",
+      "After ROSC: maintain MAP &gt; 65 mmHg, SpO₂ 94–98%, euglycemia, normocapnia, normothermia.",
+      "Consider post-ROSC vasopressor support (e.g., norepinephrine) as needed.",
+      "POCUS should be integrated into resuscitation to identify reversible causes."
+    ],
+    "references": [
+      "ILCOR – International Consensus on CPR and ECC Recommendations. 2020.",
+      "Brazilian Society of Cardiology Resuscitation Guidelines – 2022.",
+      "American Heart Association – ACLS Guidelines. 2020.",
+      "UpToDate. Cardiopulmonary resuscitation in adults. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Advanced Life Support Manual – SBA. 2022."
+    ]
+  }
+}

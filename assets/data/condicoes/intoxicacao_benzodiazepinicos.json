@@ -1,0 +1,209 @@
+{
+  "PT": {
+    "titulo": "Intoxicação por Benzodiazepínicos",
+    "definicao": "A intoxicação por benzodiazepínicos é uma síndrome clínica decorrente da exposição aguda, subaguda ou crônica a doses supraterapêuticas de medicamentos dessa classe. Utilizados amplamente como ansiolíticos, sedativos-hipnóticos, anticonvulsivantes e relaxantes musculares, os benzodiazepínicos atuam como depressores do sistema nervoso central (SNC). A toxicidade resulta de uso inadequado, tentativas de suicídio, automedicação, associação com outras substâncias ou uso recreativo. Embora raramente causem morte em monointoxicações, o risco de depressão respiratória fatal aumenta substancialmente em coingestões com opioides, álcool ou barbitúricos.",
+    "epidemiologia": "Intoxicações por benzodiazepínicos são responsáveis por uma proporção significativa dos atendimentos por intoxicação aguda em serviços de emergência. São mais comuns em adultos jovens e mulheres, particularmente em pacientes com transtornos psiquiátricos. Em muitos países, essa classe figura entre os psicofármacos mais prescritos e também os mais envolvidos em intoxicações mistas. Estima-se que mais de 60% dos casos envolvem associação com outras substâncias, tornando o quadro clínico mais grave e imprevisível.",
+    "fisiopatologia": "Os benzodiazepínicos ligam-se ao receptor GABA-A em um sítio alostérico, aumentando a frequência de abertura dos canais de cloro mediados por GABA. Isso resulta em hiperpolarização neuronal, reduzindo a excitabilidade sináptica. A toxicidade aguda leva à sedação, relaxamento muscular, amnésia, ataxia e, em casos mais graves, coma e hipoventilação. O risco de depressão respiratória é aumentado por mecanismos sinérgicos em coingestões. A meia-vida prolongada de alguns fármacos (diazepam, clonazepam) contribui para toxicidade prolongada, especialmente em idosos ou hepatopatas.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Pressão arterial geralmente normal ou discretamente reduzida.",
+        "Bradicardia leve, raramente significativa isoladamente.",
+        "Hipotensão e colapso circulatório em intoxicações mistas ou graves."
+      ],
+      "respiratorias": [
+        "Bradipneia, hipoxemia, hipercapnia.",
+        "Depressão respiratória acentuada em pacientes com comorbidades pulmonares ou coingestão de depressores.",
+        "Parada respiratória e necessidade de intubação orotraqueal em intoxicação grave com rebaixamento profundo."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Sonolência progressiva, disartria, ataxia, nistagmo.",
+        "Coma com reflexos pupilares preservados (pupilas isocóricas e reativas).",
+        "Hipotermia, acidose respiratória, depressão de reflexos de tronco em casos severos."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é eminentemente clínico, baseado no contexto epidemiológico, história sugestiva (acesso a medicação, tentativa de suicídio), achados físicos típicos e exclusão de outras causas de coma. A ausência de sinais focais, pupilas normais e padrão respiratório hipocapneico orientam para intoxicação por depressores do SNC. A resposta ao flumazenil (em contextos apropriados) pode ter valor diagnóstico e terapêutico.",
+      "exames_essenciais": [
+        "Gasometria arterial: hipercapnia, acidose respiratória compensada ou descompensada.",
+        "Oximetria de pulso e capnografia (quando disponíveis).",
+        "ECG: avaliar bradicardia, intervalo PR, QTc.",
+        "Eletrólitos, função renal e hepática, glicemia.",
+        "Toxicologia urinária (imunoensaio pode não detectar todos os compostos).",
+        "Imagem de crânio (TC) se rebaixamento de consciência sem etiologia evidente ou trauma associado."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Glasgow &lt; 8 com risco de aspiração ou perda de reflexos protetores.",
+      "Hipoventilação com PaCO₂ &gt; 50 mmHg e pH &lt; 7,25.",
+      "SpO₂ persistente &lt; 90% com FiO₂ &gt; 0,6.",
+      "Instabilidade respiratória após administração de flumazenil.",
+      "Episódios de apneia, cianose ou parada respiratória iminente."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Garantia da via aérea e posição lateral de segurança para prevenção de aspiração.",
+        "Suplementação de oxigênio e monitorização contínua de sinais vitais.",
+        "Evitar lavagem gástrica. Considerar carvão ativado (dose única) se ingestão recente (&lt; 1h).",
+        "Hidratação venosa com solução isotônica, controle de eletrólitos.",
+        "Evitar benzodiazepínicos ou opioides adicionais inadvertidamente durante a estabilização.",
+        "Flumazenil: indicado apenas em pacientes sem uso crônico, epilepsia ou risco de abstinência.",
+        "Internação em UTI em casos de rebaixamento grave, necessidade de ventilação ou intoxicação mista com risco elevado."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Em monointoxicações, o prognóstico é favorável, com melhora clínica espontânea em até 24 horas. O risco de mortalidade aumenta com idade avançada, doenças associadas e coingestão de substâncias depressores. Casos complicados por aspiração, pneumonia, rabdomiólise ou convulsões induzidas por antagonismo requerem cuidados intensivos. O risco de abstinência severa deve ser considerado em usuários crônicos interrompidos abruptamente."
+    },
+    "notas_adicionais": [
+      "Flumazenil não deve ser usado rotineiramente. Sua administração em dependentes pode precipitar convulsões ou síndrome de abstinência.",
+      "Pacientes com uso crônico podem apresentar níveis séricos elevados sem toxicidade clínica evidente.",
+      "As formas de liberação prolongada (e.g., diazepam) requerem observação prolongada.",
+      "A intoxicação deve ser abordada como evento sentinela para avaliação psiquiátrica e medidas preventivas.",
+      "Casos reincidentes devem ser comunicados à rede de apoio social e serviços de saúde mental para seguimento estruturado."
+    ],
+    "fontes_bibliograficas": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 68 – Sedative-Hypnotic Agents.",
+      "UpToDate. Benzodiazepine poisoning and withdrawal. 2024.",
+      "Manual de Toxicologia Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Toxicologia – Diretrizes de intoxicações por benzodiazepínicos. 2023."
+    ]
+  },
+  "US": {
+    "title": "Benzodiazepine Intoxication",
+    "definition": "Benzodiazepine intoxication is a clinical condition resulting from acute or chronic exposure to supratherapeutic doses of benzodiazepines, commonly prescribed as anxiolytics, sedative-hypnotics, anticonvulsants, and muscle relaxants. Toxicity may result from therapeutic misuse, intentional overdose (e.g., suicide attempt), recreational use, or drug interactions. Although rarely fatal in isolated overdose, the risk of respiratory depression and death significantly increases with co-ingestion of other central nervous system depressants such as opioids, ethanol, or barbiturates.",
+    "epidemiology": "Benzodiazepines are among the most prescribed psychotropic medications worldwide. They are a frequent cause of emergency department visits for acute intoxication, especially among adults with psychiatric disorders. Women and young adults are disproportionately affected. In over 60% of cases, benzodiazepine toxicity occurs in combination with other substances, making the clinical presentation more severe and unpredictable.",
+    "pathophysiology": "Benzodiazepines bind to the GABA-A receptor at an allosteric site, increasing the frequency of chloride channel opening and enhancing inhibitory neurotransmission. This leads to CNS depression, manifesting as sedation, muscle relaxation, amnesia, and ataxia. In high doses, or when combined with other sedatives, severe respiratory depression and coma may occur. Long-acting agents such as diazepam and clonazepam can cause prolonged toxicity, especially in elderly patients or those with hepatic impairment.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Generally normal or slightly reduced blood pressure.",
+        "Mild bradycardia, usually not clinically significant in isolated overdose.",
+        "Hypotension or shock may occur in polyintoxication cases."
+      ],
+      "respiratory": [
+        "Bradypnea, hypoxia, hypercapnia.",
+        "Marked respiratory depression in patients with preexisting pulmonary disease or co-ingestion of other depressants.",
+        "Respiratory arrest may require emergent airway management and intubation."
+      ],
+      "neurologic_and_metabolic": [
+        "Progressive somnolence, dysarthria, ataxia, nystagmus.",
+        "Coma with preserved pupillary light reflex (isocoric and reactive pupils).",
+        "Hypothermia and respiratory acidosis in severe cases."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is primarily clinical, based on history, physical examination, and context (access to medications, psychiatric history, witness reports). Findings include CNS depression without focal neurological deficits, normal pupils, and preserved vital signs in isolated intoxication. Response to flumazenil (when appropriate) can support the diagnosis. Differential diagnosis includes other causes of coma and mixed overdose syndromes.",
+      "essential_tests": [
+        "Arterial blood gas: hypercapnia, respiratory acidosis (compensated or decompensated).",
+        "Pulse oximetry and capnography if available.",
+        "ECG: evaluate for bradycardia, PR/QT interval prolongation.",
+        "Electrolytes, renal and hepatic function, serum glucose.",
+        "Urine toxicology screen (note: immunoassays may miss certain benzodiazepines).",
+        "Brain CT in cases of unexplained coma or suspected trauma."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Glasgow Coma Scale &lt; 8 with impaired airway protective reflexes.",
+      "Hypoventilation with PaCO₂ &gt; 50 mmHg and pH &lt; 7.25.",
+      "Persistent SpO₂ &lt; 90% on FiO₂ &gt; 0.6.",
+      "Respiratory decompensation following flumazenil administration.",
+      "Episodes of apnea, cyanosis, or impending respiratory arrest."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Airway protection with lateral positioning to prevent aspiration.",
+        "Supplemental oxygen and continuous monitoring of vital signs.",
+        "Avoid gastric lavage; consider activated charcoal if ingestion &lt; 1 hour prior.",
+        "IV hydration with isotonic fluids and correction of electrolyte disturbances.",
+        "Avoid further sedatives (including opioids) during the stabilization phase.",
+        "Flumazenil may be used cautiously in selected cases (naïve patients, no seizure history).",
+        "ICU admission for severe intoxication, need for intubation, or polyintoxication with high-risk agents."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis is excellent in isolated benzodiazepine overdose with full recovery expected within 6–24 hours. Risk increases with age, comorbidities, and co-ingestion of other CNS depressants. Complications may include aspiration pneumonia, rhabdomyolysis, or seizures precipitated by flumazenil in dependent patients. Withdrawal should be anticipated in chronic users who are abruptly discontinued."
+    },
+    "additional_notes": [
+      "Flumazenil is not routinely recommended due to risk of withdrawal seizures, especially in chronic users.",
+      "Long-acting benzodiazepines require prolonged observation (e.g., diazepam, clonazepam).",
+      "Toxic serum levels may not correlate with clinical severity in chronic users.",
+      "All overdose cases should be evaluated for suicidal intent and referred for psychiatric assessment.",
+      "Recurrent cases should be referred to addiction services and social support programs."
+    ],
+    "references": [
+      "Goldfrank’s Toxicologic Emergencies. 11th ed. Chapter 68 – Sedative-Hypnotic Agents.",
+      "UpToDate. Benzodiazepine poisoning and withdrawal. 2024.",
+      "Clinical Toxicology Manual – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Toxicology – Benzodiazepine Toxicity Guidelines. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Intoxicación por Benzodiacepinas",
+    "definicion": "La intoxicación por benzodiacepinas es un cuadro clínico causado por la exposición aguda o crónica a dosis supra terapéuticas de esta clase de fármacos, comúnmente utilizados como ansiolíticos, hipnóticos, anticonvulsivantes y relajantes musculares. La toxicidad puede ocurrir por sobredosis intencional (suicidio), uso indebido, recreativo o en combinación con otras sustancias depresoras del sistema nervioso central. Aunque raramente letales en monointoxicaciones, las benzodiacepinas pueden producir depresión respiratoria fatal cuando se combinan con alcohol, opioides o barbitúricos.",
+    "epidemiologia": "Las benzodiacepinas se encuentran entre los medicamentos psicotrópicos más prescritos y también son una causa frecuente de intoxicación en los servicios de urgencias. Se observan con mayor frecuencia en mujeres adultas jóvenes, pacientes con trastornos psiquiátricos y personas con acceso crónico a estos fármacos. Más del 60% de los casos implican la coingestión con otras sustancias, lo que agrava el cuadro clínico y complica el manejo.",
+    "fisiopatologia": "Las benzodiacepinas actúan como moduladores alostéricos positivos del receptor GABA-A, aumentando la frecuencia de apertura de los canales de cloro, lo que conduce a la hiperpolarización neuronal y a la inhibición del sistema nervioso central. La sobredosis produce somnolencia, amnesia, ataxia, disartria y, en casos severos, coma e hipoventilación. El riesgo de depresión respiratoria es especialmente alto cuando se combinan con otros depresores del SNC. Los compuestos de vida media larga como el diazepam o el clonazepam pueden producir efectos prolongados, especialmente en ancianos o pacientes con insuficiencia hepática.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Presión arterial generalmente normal o levemente reducida.",
+        "Bradicardia leve, generalmente no significativa de forma aislada.",
+        "Hipotensión en casos de intoxicaciones mixtas graves."
+      ],
+      "respiratorias": [
+        "Bradipnea, hipoxemia, hipercapnia.",
+        "Depresión respiratoria severa en pacientes con comorbilidades pulmonares o coingestión.",
+        "Paro respiratorio en sobredosis con depresión profunda del sensorio."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Somnolencia progresiva, disartria, ataxia, nistagmo.",
+        "Coma con reflejos pupilares preservados (pupilas isocóricas y reactivas).",
+        "Hipotermia y acidosis respiratoria en los casos graves."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es principalmente clínico, basado en el contexto, hallazgos físicos característicos y exclusión de otras causas de coma. La intoxicación por benzodiacepinas se sospecha en pacientes con reactividad pupilar conservada, ausencia de signos focales y depresión neurológica sin otras explicaciones. El uso de flumazenilo puede ser diagnóstico y terapéutico en contextos seleccionados.",
+      "examenes_esenciales": [
+        "Gasometría arterial: hipercapnia, acidosis respiratoria.",
+        "Oximetría de pulso y capnografía si está disponible.",
+        "ECG: evaluar bradicardia, intervalo PR, QT.",
+        "Electrolitos, función renal y hepática, glucemia.",
+        "Toxicología urinaria (los inmunoensayos pueden no detectar todos los compuestos).",
+        "TC de cráneo en caso de alteración del estado mental inexplicable o trauma asociado."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Escala de Glasgow &lt; 8 con riesgo de aspiración.",
+      "Hipoventilación con PaCO₂ &gt; 50 mmHg y pH &lt; 7,25.",
+      "SpO₂ &lt; 90% con FiO₂ &gt; 0,6 de forma sostenida.",
+      "Deterioro respiratorio posterior a la administración de flumazenilo.",
+      "Episodios de apnea o cianosis con riesgo de paro respiratorio."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Asegurar vía aérea y colocar al paciente en posición lateral de seguridad.",
+        "Oxigenoterapia suplementaria y monitoreo continuo de signos vitales.",
+        "Evitar lavado gástrico; considerar carbón activado si la ingesta fue &lt; 1 h.",
+        "Hidratación intravenosa con solución salina y corrección de electrolitos.",
+        "Evitar la administración de más depresores del SNC durante la estabilización.",
+        "Flumazenilo: solo en pacientes sin uso crónico, sin epilepsia o riesgo de abstinencia.",
+        "Ingreso en UCI en caso de compromiso respiratorio grave, reactividad mental reducida o intoxicación mixta."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico suele ser favorable en intoxicaciones aisladas, con recuperación completa en 6 a 24 horas. La mortalidad aumenta con la edad avanzada, enfermedades comórbidas y la coingestión con otras drogas depresoras. Las complicaciones incluyen neumonía por aspiración, rabdomiólisis y convulsiones inducidas por flumazenilo en pacientes dependientes. La abstinencia debe considerarse en pacientes con uso crónico suspendido bruscamente."
+    },
+    "notas_adicionales": [
+      "El flumazenilo no debe utilizarse rutinariamente por riesgo de convulsiones en pacientes dependientes.",
+      "Los pacientes con uso crónico pueden tener niveles séricos elevados sin signos de toxicidad clínica.",
+      "Las benzodiacepinas de vida media prolongada requieren observación prolongada.",
+      "Toda intoxicación debe evaluarse desde el punto de vista psiquiátrico.",
+      "Casos recurrentes deben derivarse a servicios de salud mental y apoyo social."
+    ],
+    "referencias": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 68 – Sedative-Hypnotic Agents.",
+      "UpToDate. Benzodiazepine poisoning and withdrawal. 2024.",
+      "Manual de Toxicología Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Toxicología – Directrices sobre intoxicación por benzodiacepinas. 2023."
+    ]
+  }
+}

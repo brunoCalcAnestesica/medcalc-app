@@ -1,0 +1,203 @@
+{
+  "PT": {
+    "titulo": "Crupe Grave",
+    "definicao": "Crupe grave é uma forma avançada da laringotraqueobronquite viral aguda, caracterizada por obstrução significativa da via aérea superior, com estridor em repouso, desconforto respiratório acentuado, hipoxemia e, potencialmente, falência respiratória. Acomete predominantemente crianças entre 6 meses e 3 anos, exigindo abordagem emergencial e, em casos refratários, ventilação mecânica.",
+    "epidemiologia": "O crupe representa 15% das causas de estridor agudo em pediatria. O crupe grave ocorre em menos de 5% dos casos atendidos, sendo mais prevalente em meninos e nos meses de outono-inverno. Os principais agentes são vírus parainfluenza (tipo 1 e 3), seguidos por influenza A/B, VSR e adenovírus. Crianças com história de laringomalácia ou prematuridade têm maior risco.",
+    "fisiopatologia": "A infecção viral leva à inflamação e edema da laringe, traqueia e brônquios proximais, com predomínio na região subglótica. O diâmetro reduzido da via aérea infantil potencializa a obstrução, resultando em aumento da resistência ao fluxo aéreo, esforço ventilatório aumentado e risco de colapso inspiratório progressivo. O estresse e o choro exacerbam o quadro.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia por hipóxia e agitação",
+        "Cianose central e periférica em casos descompensados"
+      ],
+      "respiratorias": [
+        "Estridor inspiratório persistente, inclusive em repouso",
+        "Tosse metálica típica (em cão latindo)",
+        "Tiragem subcostal, intercostal, supraclavicular",
+        "Taquipneia, batimento de asa nasal, uso de musculatura acessória",
+        "SpO2 < 92% ou queda progressiva"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitação intensa seguida de letargia",
+        "Sinais de fadiga ventilatória iminente",
+        "Hipoxemia, acidose respiratória, hipercapnia em fases avançadas"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnóstico essencialmente clínico, baseado na combinação de tosse característica, estridor e desconforto respiratório. A radiografia de pescoço em AP pode mostrar o sinal do 'sino da igreja', mas raramente é necessária. Avaliar diferencial com epiglotite, corpo estranho e angioedema.",
+      "exames_essenciais": [
+        "Oximetria de pulso contínua",
+        "Gasometria arterial em pacientes com rebaixamento ou hipoventilação",
+        "Radiografia de pescoço em casos atípicos",
+        "TC de tórax ou endoscopia em casos refratários ou complicados"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Fadiga ventilatória (uso exaustivo de musculatura acessória)",
+      "Glasgow < 13 ou sonolência progressiva",
+      "SpO2 < 90% com oxigenioterapia de alto fluxo",
+      "Apneia, bradicardia ou colapso respiratório iminente"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Ambiente tranquilo, evitar manobras desnecessárias",
+        "Oxigenoterapia com máscara de alto fluxo (FiO2 > 40%)",
+        "Nebulização com adrenalina racêmica (0,05 mL/kg diluído em SF até 5 mL) ou L-adrenalina 1:1000 (0,5 mL/kg até 5 mL)",
+        "Corticoide sistêmico: dexametasona 0,6 mg/kg VO/IM/IV (máx. 10 mg)",
+        "Repetir adrenalina a cada 20 minutos se persistência de estridor",
+        "Monitoramento contínuo por pelo menos 2 horas após melhora clínica",
+        "Intubação orotraqueal se sinais de falência respiratória – tubo 0,5 a 1,0 mm menor que o ideal",
+        "Hospitalização em unidade com suporte intensivo pediátrico"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Com tratamento precoce e adequado, a resposta clínica à adrenalina e corticoides é rápida na maioria dos casos. Crianças que necessitam intubação têm boa recuperação se manejadas em ambiente adequado. Recorrência é rara após resolução do quadro agudo."
+    },
+    "notas_adicionais": [
+      "Evitar sedação ou exames invasivos durante a fase aguda",
+      "Intubação deve ser realizada por profissional experiente em via aérea pediátrica",
+      "Observar recorrência de sintomas nas 2–3 horas após nebulização com adrenalina",
+      "Orientar pais sobre sinais de alerta e prevenção de infecções respiratórias"
+    ],
+    "fontes_bibliograficas": [
+      "Cherry JD, Demmler-Harrison GJ, Kaplan SL. Feigin and Cherry’s Textbook of Pediatric Infectious Diseases. 8ª ed. Elsevier; 2019.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Ministério da Saúde. Diretrizes para manejo de infecções respiratórias agudas em pediatria. 2022.",
+      "UpToDate. Croup: Clinical features, evaluation, and diagnosis. 2023.",
+      "Zoorob R, Sidani MA. Pediatric croup: diagnosis and management. Am Fam Physician. 2011."
+    ]
+  },
+  "US": {
+    "titulo": "Severe Croup",
+    "definicao": "Severe croup is an advanced form of acute viral laryngotracheobronchitis characterized by significant upper airway obstruction, persistent inspiratory stridor at rest, marked respiratory distress, and risk of hypoxemic respiratory failure. It predominantly affects children aged 6 months to 3 years and requires emergency management.",
+    "epidemiologia": "Croup accounts for up to 15% of cases of acute stridor in children. Severe cases comprise less than 5%, more frequently in boys and during autumn and winter seasons. Parainfluenza virus type 1 is the most common etiology, followed by influenza A/B, RSV, and adenovirus. Children with a history of prematurity or subglottic stenosis are at increased risk.",
+    "fisiopatologia": "Viral infection causes inflammation and edema of the larynx, trachea, and proximal bronchi, especially in the subglottic region. The narrow pediatric airway leads to increased resistance and dynamic collapse during inspiration, resulting in increased work of breathing, hypoventilation, and hypoxemia. Stress, agitation, and crying worsen obstruction.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Tachycardia due to hypoxemia and agitation",
+        "Central and peripheral cyanosis in decompensated states"
+      ],
+      "respiratorias": [
+        "Persistent inspiratory stridor at rest",
+        "Barking cough (seal-like)",
+        "Subcostal, intercostal, and suprasternal retractions",
+        "Tachypnea, nasal flaring, use of accessory muscles",
+        "SpO2 < 92% or progressive desaturation"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Irritability followed by lethargy or decreased consciousness",
+        "Signs of imminent respiratory fatigue",
+        "Hypoxemia, respiratory acidosis, hypercapnia in advanced stages"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is primarily clinical based on the triad of barking cough, stridor, and respiratory distress. Neck radiography (AP) may show the steeple sign (subglottic narrowing) but is not routinely required. Laryngoscopy should be avoided during the acute phase.",
+      "exames_essenciais": [
+        "Continuous pulse oximetry",
+        "Arterial blood gas in altered mental status or hypoventilation",
+        "Neck X-ray in atypical presentations",
+        "Chest CT or airway endoscopy in refractory or complicated cases"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Respiratory fatigue with altered consciousness",
+      "SpO2 < 90% despite high-flow oxygen therapy",
+      "Stridor at rest with severe respiratory distress",
+      "Apnea, bradycardia, or signs of respiratory arrest"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Provide a calm environment, minimize handling",
+        "Administer humidified high-flow oxygen (FiO2 > 40%)",
+        "Nebulized racemic epinephrine (0.05 mL/kg diluted in saline up to 5 mL) or L-epinephrine 1:1000 (0.5 mL/kg max 5 mL)",
+        "Systemic corticosteroid: dexamethasone 0.6 mg/kg PO/IM/IV (max 10 mg)",
+        "Repeat epinephrine every 20 minutes if stridor persists",
+        "Continuous monitoring for at least 2 hours after improvement",
+        "Endotracheal intubation if signs of respiratory failure – use ET tube 0.5–1.0 mm smaller than standard",
+        "Admission to a pediatric intensive care unit"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Most children with severe croup respond rapidly to nebulized epinephrine and corticosteroids. Intubation is rarely required, and prognosis is generally favorable with appropriate management. Recurrence is uncommon after resolution of the acute episode."
+    },
+    "notas_adicionais": [
+      "Avoid sedation or invasive procedures during acute phase",
+      "Intubation should be performed by clinicians experienced in pediatric airways",
+      "Observe for symptom recurrence 2–3 hours after epinephrine administration",
+      "Educate caregivers on signs of deterioration and infection prevention"
+    ],
+    "fontes_bibliograficas": [
+      "Cherry JD, Demmler-Harrison GJ, Kaplan SL. Feigin and Cherry’s Textbook of Pediatric Infectious Diseases. 8th ed. Elsevier; 2019.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "American Academy of Pediatrics. Croup management guidelines. 2022.",
+      "UpToDate. Croup: Clinical features, evaluation, and diagnosis. 2023.",
+      "Zoorob R, Sidani MA. Pediatric croup: diagnosis and management. Am Fam Physician. 2011."
+    ]
+  },
+  "ES": {
+    "titulo": "Crup Grave",
+    "definicao": "El crup grave es una forma avanzada de laringotraqueobronquitis viral aguda, caracterizada por obstrucción significativa de la vía aérea superior, estridor en reposo, dificultad respiratoria marcada e hipoxemia con riesgo de insuficiencia respiratoria. Afecta predominantemente a niños de 6 meses a 3 años y representa una emergencia pediátrica.",
+    "epidemiologia": "El crup representa el 15% de los casos de estridor agudo en niños. Las formas graves ocurren en menos del 5%, siendo más comunes en varones durante el otoño e invierno. Los virus parainfluenza tipos 1 y 3 son los principales agentes, seguidos por influenza, adenovirus y VSR. Los niños prematuros o con antecedentes de laringomalacia tienen mayor riesgo.",
+    "fisiopatologia": "La infección viral provoca inflamación y edema en laringe, tráquea y bronquios proximales, con predominio subglótico. El diámetro reducido de la vía aérea infantil contribuye a la obstrucción crítica, generando aumento del esfuerzo respiratorio, colapso inspiratorio dinámico e hipoventilación progresiva. El llanto y la agitación agravan la obstrucción.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia secundaria a hipoxemia",
+        "Cianosis central y periférica en fases avanzadas"
+      ],
+      "respiratorias": [
+        "Estridor inspiratorio persistente incluso en reposo",
+        "Tos perruna típica",
+        "Tiraje subcostal, intercostal y supraclavicular",
+        "Taquipnea, aleteo nasal, uso de músculos accesorios",
+        "Desaturación progresiva (SpO2 < 92%)"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Irritabilidad seguida de letargo",
+        "Signos de fatiga respiratoria inminente",
+        "Hipoxemia, acidosis respiratoria e hipercapnia"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico es clínico, basado en la presencia de tos metálica, estridor y dificultad respiratoria. La radiografía de cuello puede mostrar el signo de 'aguja de iglesia', pero no es necesaria en la mayoría de los casos. La laringoscopia está contraindicada en la fase aguda.",
+      "exames_essenciais": [
+        "Oximetría de pulso continua",
+        "Gasometría arterial en casos graves",
+        "Radiografía de cuello en casos atípicos",
+        "Tomografía o endoscopia en casos complicados o refractarios"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Fatiga respiratoria con alteración del estado de conciencia",
+      "SpO2 < 90% con oxigenoterapia de alto flujo",
+      "Estridor en reposo con dificultad respiratoria severa",
+      "Apnea, bradicardia o colapso respiratorio inminente"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Ambiente tranquilo, evitar manipulaciones innecesarias",
+        "Oxígeno humidificado de alto flujo (FiO2 > 40%)",
+        "Epinefrina nebulizada (racémica 0,05 mL/kg o L-epinefrina 1:1000 0,5 mL/kg hasta 5 mL)",
+        "Dexametasona sistémica: 0,6 mg/kg VO/IM/IV (máx. 10 mg)",
+        "Repetir epinefrina cada 20 minutos si no hay mejoría",
+        "Monitoreo continuo durante al menos 2 horas tras la mejora clínica",
+        "Intubación orotraqueal si hay signos de falla respiratoria – usar tubo 0,5–1,0 mm más pequeño que el estándar",
+        "Ingreso en unidad de cuidados intensivos pediátricos"
+      ]
+    },
+    "prognostico": {
+      "comentario": "La mayoría de los niños con crup grave responden bien al tratamiento con epinefrina y corticosteroides. La intubación es poco frecuente. El pronóstico es favorable cuando el manejo es adecuado. La recurrencia es rara una vez resuelto el episodio agudo."
+    },
+    "notas_adicionais": [
+      "Evitar sedación o procedimientos invasivos durante la fase aguda",
+      "La intubación debe ser realizada por personal entrenado en vía aérea pediátrica",
+      "Observar recurrencia de síntomas 2–3 horas después de la epinefrina",
+      "Educar a los cuidadores sobre signos de alarma y prevención de infecciones respiratorias"
+    ],
+    "fontes_bibliograficas": [
+      "Cherry JD, Demmler-Harrison GJ, Kaplan SL. Feigin and Cherry’s Textbook of Pediatric Infectious Diseases. 8ª ed. Elsevier; 2019.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed. Wolters Kluwer; 2017.",
+      "Ministerio de Salud. Guía de manejo de enfermedades respiratorias agudas en pediatría. 2022.",
+      "UpToDate. Crup: Manifestaciones clínicas y diagnóstico. 2023.",
+      "Zoorob R, Sidani MA. Pediatric croup: diagnosis and management. Am Fam Physician. 2011."
+    ]
+  }
+}

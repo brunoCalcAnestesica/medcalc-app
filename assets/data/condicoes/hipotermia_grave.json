@@ -1,0 +1,221 @@
+{
+  "PT": {
+    "titulo": "Hipotermia Grave",
+    "definicao": "Hipotermia grave é definida como a redução da temperatura corporal central abaixo de 28 °C, configurando uma emergência médica com risco significativo de falência orgânica múltipla e morte. Pode ser acidental (exposição ambiental ao frio) ou secundária a condições clínicas, intoxicações, trauma, sepse ou intervenções terapêuticas como hipotermia induzida. A detecção precoce e o manejo estruturado são fundamentais para a sobrevida e prevenção de complicações neurológicas e cardiovasculares.",
+    "epidemiologia": "Mais prevalente em regiões de clima frio, a hipotermia acidental afeta principalmente idosos, desabrigados, alcoólatras, trabalhadores rurais e vítimas de afogamento. A hipotermia também é uma complicação comum em pacientes com trauma grave, queimaduras extensas e sepse. Já a hipotermia terapêutica é usada de forma controlada para neuroproteção em casos como parada cardiorrespiratória ressuscitada.",
+    "fisiopatologia": "A perda de calor excedendo sua produção compromete processos metabólicos, enzimáticos e fisiológicos essenciais. Abaixo de 35 °C iniciam-se respostas compensatórias como vasoconstrição periférica e tremores. De 32 a 28 °C há disfunção progressiva do sistema nervoso central, diminuição da frequência respiratória e cardíaca, e risco de arritmias ventriculares. Temperaturas inferiores a 28 °C levam à assistolia, fibrilação ventricular e morte celular difusa. Há também coagulopatia induzida pelo frio, acidose mista, hipoglicemia, rabdomiólise e disfunção renal.",
+    "manifestações_clinicas": {
+      "iniciais": [
+        "Tremores intensos",
+        "Pele fria, úmida, pálida ou cianótica",
+        "Taquicardia e taquipneia compensatórias",
+        "Letargia, confusão leve"
+      ],
+      "moderadas_a_graves": [
+        "Bradipneia, bradicardia e hipotensão progressiva",
+        "Alteração do nível de consciência: sonolência, estupor, coma",
+        "Rigidez muscular generalizada",
+        "Pupilas midriáticas e lentas ou fixas",
+        "Arritmias ventriculares (FV, TV), bloqueios AV, assistolia",
+        "Edema pulmonar não cardiogênico",
+        "Anúria, acidose metabólica grave, coagulopatia"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspeita clínica deve ser levantada em qualquer paciente encontrado em ambiente frio, afogado, alcoolizado ou com sinais neurológicos sem causa evidente. A medição da temperatura central é mandatória e deve ser realizada por via esofágica, vesical ou retal profunda com termômetro de baixa faixa.",
+      "exames_essenciais": [
+        "Temperatura central (esofágica, vesical ou retal profunda)",
+        "ECG: bradicardia, ondas J de Osborn, prolongamento de PR/QRS/QT, FV, assistolia",
+        "Gasometria arterial: acidose mista, hipercapnia, hipoxemia",
+        "Eletrólitos, ureia, creatinina, glicemia",
+        "Coagulograma completo: TP, TTPa, fibrinogênio, plaquetas",
+        "Lactato, CPK, mioglobina: avaliação de isquemia e rabdomiólise",
+        "Hemograma: leucocitose, hemoconcentração ou anemia",
+        "RX de tórax: avaliar congestão pulmonar, edema ou broncoaspiração"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Bradipneia com hipoventilação e hipoxemia",
+      "Coma com Glasgow &lt; 8 e perda de reflexos protetores",
+      "Arritmias ventriculares com instabilidade hemodinâmica",
+      "Fadiga respiratória e acidose respiratória progressiva",
+      "Parada cardiorrespiratória ou risco iminente"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Remover da fonte de exposição ao frio, ambiente aquecido",
+        "Monitorização cardíaca contínua – evitar manipulação excessiva (FV por estímulo mecânico)",
+        "Aquecimento passivo: cobertores térmicos, ambiente aquecido, retirada de roupas úmidas",
+        "Aquecimento ativo externo: dispositivos de ar quente forçado, banho morno (com precaução)",
+        "Aquecimento ativo interno: O₂ aquecido e umidificado, fluidoterapia com SF ou SG aquecido (38–42 °C)",
+        "Casos graves: lavagem gástrica, peritoneal ou torácica com soluções aquecidas",
+        "Circulação extracorpórea (ECMO ou CEC) em hipotermia profunda ou PCR prolongada",
+        "Reanimação: prolongada, evitar adrenalina em T &lt; 30 °C, desfibrilar 1–3 vezes e retomar após reaquecimento",
+        "Correção de distúrbios metabólicos, monitorar eletrólitos e função renal"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A mortalidade depende do grau de hipotermia, da duração da exposição, da presença de PCR, idade e comorbidades. Hipotermia profunda com parada cardíaca tem prognóstico reservado, mas casos com resgate precoce e uso de ECMO têm sobrevida neurológica preservada. A reanimação deve ser persistente, considerando o potencial de recuperação mesmo em pacientes aparentemente em morte clínica."
+    },
+    "notas_adicionais": [
+      "Confirmar morte apenas após reaquecimento adequado e exclusão de causas reversíveis",
+      "Usar termômetros específicos para hipotermia – termômetros comuns não medem abaixo de 34 °C",
+      "Evitar movimentos bruscos durante transporte – risco de FV",
+      "Protocolos de ressuscitação em hipotermia exigem equipes treinadas e logística especializada",
+      "Registrar curva de temperatura, tempo e método de reaquecimento para avaliação posterior"
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Accidental hypothermia in adults. 2024.",
+      "ERC Guidelines. Resuscitation for hypothermic patients. 2021.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 72 – Distúrbios de termorregulação.",
+      "Diretrizes da American Heart Association (AHA) para RCP – 2020.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  },
+  "US": {
+    "title": "Severe Hypothermia",
+    "definition": "Severe hypothermia is defined as a core body temperature below 28 °C and represents a life-threatening medical emergency characterized by progressive multisystem failure and high mortality risk. It may occur due to accidental environmental exposure, trauma, sepsis, intoxication, or iatrogenic induction. Early recognition, accurate core temperature measurement, and structured rewarming strategies are crucial for neurological and hemodynamic recovery.",
+    "epidemiology": "Accidental hypothermia is more frequent in cold climates and disproportionately affects the elderly, homeless individuals, intoxicated patients, outdoor workers, and trauma victims. It is also commonly observed in severely burned patients, sepsis, and those with prolonged immobility. Therapeutic hypothermia, on the other hand, is intentionally used for neuroprotection in post-cardiac arrest care or during specific surgical procedures.",
+    "pathophysiology": "Progressive heat loss overwhelms thermoregulatory mechanisms, impairing enzymatic activity, metabolism, and cellular homeostasis. Mild hypothermia (32–35 °C) triggers compensatory vasoconstriction and shivering. Moderate hypothermia (28–32 °C) leads to progressive CNS depression, bradycardia, decreased respiratory drive, and arrhythmia risk. Below 28 °C, there is a high likelihood of ventricular fibrillation, asystole, coagulopathy, rhabdomyolysis, and irreversible cellular injury.",
+    "clinical_manifestations": {
+      "early": [
+        "Intense shivering",
+        "Cold, pale, cyanotic skin",
+        "Tachycardia and tachypnea",
+        "Mild confusion or lethargy"
+      ],
+      "moderate_to_severe": [
+        "Bradycardia, bradypnea, hypotension",
+        "Stupor or coma with unresponsiveness",
+        "Generalized muscle rigidity",
+        "Dilated, sluggish or fixed pupils",
+        "Ventricular arrhythmias (VF, VT), AV blocks, asystole",
+        "Non-cardiogenic pulmonary edema",
+        "Anuria, severe metabolic acidosis, coagulopathy"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Clinical suspicion should arise in any patient found in a cold environment, submersion victim, intoxicated or with unexplained CNS depression. Core body temperature must be measured using low-range thermometers via esophageal, bladder, or deep rectal probes.",
+      "essential_tests": [
+        "Core temperature measurement (esophageal, bladder, rectal)",
+        "ECG: bradycardia, Osborn J waves, prolonged intervals (PR/QRS/QT), VF, asystole",
+        "Arterial blood gas: mixed acidosis, hypoxemia, hypercapnia",
+        "Electrolytes, BUN, creatinine, blood glucose",
+        "Coagulation panel: PT, aPTT, fibrinogen, platelets",
+        "Lactate, CPK, myoglobin (for ischemia and rhabdomyolysis)",
+        "CBC: leukocytosis, hemoconcentration or anemia",
+        "Chest X-ray: pulmonary congestion, aspiration, or edema"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Bradypnea with hypoventilation and hypoxemia",
+      "GCS &lt; 8 with loss of airway reflexes",
+      "Life-threatening ventricular arrhythmias",
+      "Respiratory fatigue with progressive acidosis",
+      "Cardiac arrest or imminent decompensation"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Remove from cold exposure, initiate warming environment",
+        "Continuous cardiac monitoring – minimize physical stimulation (VF risk)",
+        "Passive rewarming: thermal blankets, ambient heating, remove wet clothing",
+        "Active external rewarming: forced warm air devices, warm water baths (with caution)",
+        "Active internal rewarming: humidified warm oxygen, warmed IV fluids (38–42 °C)",
+        "Advanced methods: gastric, thoracic or peritoneal lavage with warm fluids",
+        "Extracorporeal rewarming (ECMO or CPB) in deep hypothermia or cardiac arrest",
+        "CPR: prolonged effort, minimize epinephrine use if T &lt; 30 °C, defibrillate 1–3 times, resume after rewarming",
+        "Correct metabolic disturbances, monitor renal function and electrolytes"
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on core temperature, exposure duration, presence of cardiac arrest, age, and comorbidities. Severe hypothermia with cardiac arrest carries a guarded prognosis; however, survivors with early advanced rewarming techniques (e.g., ECMO) can achieve full neurological recovery. Persistent resuscitation is warranted due to the protective effects of hypothermia on the CNS."
+    },
+    "additional_notes": [
+      "Death should only be declared after adequate rewarming and exclusion of reversible causes",
+      "Use thermometers designed for hypothermia – standard devices are inaccurate &lt; 34 °C",
+      "Avoid sudden movements or rough handling during transport – risk of VF",
+      "Hypothermia resuscitation protocols require trained teams and specialized equipment",
+      "Document temperature curve, rewarming rate, and technique used"
+    ],
+    "references": [
+      "UpToDate. Accidental hypothermia in adults. 2024.",
+      "ERC Guidelines. Resuscitation for hypothermic patients. 2021.",
+      "Miller’s Anesthesia. 8th ed. Chapter 72 – Disorders of thermoregulation.",
+      "American Heart Association Guidelines for CPR and ECC – 2020.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Hipotermia Grave",
+    "definicion": "La hipotermia grave se define como una temperatura corporal central por debajo de 28 °C, representando una emergencia médica con riesgo de paro cardíaco, disfunción multiorgánica y muerte. Puede ser accidental (exposición ambiental al frío) o secundaria a sepsis, trauma, intoxicaciones o intervenciones terapéuticas como la hipotermia inducida. El reconocimiento precoz, la medición precisa de la temperatura central y una estrategia estructurada de recalentamiento son fundamentales para la supervivencia y la recuperación neurológica.",
+    "epidemiologia": "La hipotermia accidental ocurre con mayor frecuencia en regiones frías y afecta predominantemente a personas mayores, indigentes, pacientes intoxicados, trabajadores al aire libre y víctimas de inmersión. También se observa en pacientes con trauma grave, quemaduras extensas y sepsis. La hipotermia terapéutica se utiliza de forma controlada en contextos como la reanimación posparada cardíaca o en procedimientos neuroquirúrgicos.",
+    "fisiopatologia": "La pérdida progresiva de calor compromete la homeostasis térmica y afecta la función enzimática, el metabolismo y la actividad eléctrica cardíaca. Por debajo de 35 °C, se activan mecanismos compensatorios como vasoconstricción periférica y escalofríos. Entre 32 y 28 °C hay depresión neurológica progresiva, bradicardia, bradipnea y riesgo de arritmias graves. Por debajo de 28 °C, hay alta probabilidad de fibrilación ventricular, asistolia, coagulopatía inducida por el frío, rabdomiólisis, acidosis severa y lesión celular irreversible.",
+    "manifestaciones_clinicas": {
+      "tempranas": [
+        "Escalofríos intensos",
+        "Piel fría, pálida o cianótica",
+        "Taquicardia y taquipnea compensatorias",
+        "Letargo o confusión leve"
+      ],
+      "moderadas_a_graves": [
+        "Bradicardia, bradipnea, hipotensión progresiva",
+        "Estupor o coma con pérdida de reflejos",
+        "Rigidez muscular generalizada",
+        "Pupilas dilatadas y lentas o fijas",
+        "Arritmias ventriculares (FV, TV), bloqueos AV, asistolia",
+        "Edema pulmonar no cardiogénico",
+        "Anuria, acidosis metabólica severa, coagulopatía"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Debe sospecharse en cualquier paciente encontrado en un ambiente frío, en inmersión, intoxicado o con deterioro neurológico sin causa clara. La temperatura debe medirse con termómetros de baja escala mediante sonda esofágica, vesical o rectal profunda.",
+      "examenes_esenciales": [
+        "Medición de temperatura central (esofágica, vesical o rectal profunda)",
+        "ECG: bradicardia, ondas J de Osborn, prolongación de PR/QRS/QT, FV, asistolia",
+        "Gasometría arterial: acidosis mixta, hipercapnia, hipoxemia",
+        "Electrolitos, urea, creatinina, glucemia",
+        "Coagulograma: TP, TTPa, fibrinógeno, plaquetas",
+        "Lactato, CPK, mioglobina (evaluar rabdomiólisis e isquemia)",
+        "Hemograma: leucocitosis, hemoconcentración o anemia",
+        "Radiografía de tórax: congestión pulmonar, broncoaspiración, edema"
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Bradipnea con hipoventilación e hipoxemia",
+      "Coma con puntuación de Glasgow &lt; 8 y pérdida de reflejos de protección",
+      "Arritmias ventriculares inestables",
+      "Fatiga respiratoria con acidosis progresiva",
+      "Paro cardíaco o deterioro hemodinámico inminente"
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Retirar al paciente del ambiente frío y comenzar recalentamiento ambiental",
+        "Monitoreo cardíaco continuo – evitar manipulaciones bruscas (riesgo de FV)",
+        "Recalentamiento pasivo: mantas térmicas, ambiente cálido, retirar ropa mojada",
+        "Recalentamiento activo externo: dispositivos de aire caliente forzado, baño tibio (con precaución)",
+        "Recalentamiento interno activo: oxígeno humidificado caliente, fluidos intravenosos calentados (38–42 °C)",
+        "Métodos avanzados: lavado gástrico, torácico o peritoneal con soluciones calientes",
+        "Recalentamiento extracorpóreo (ECMO o circulación extracorpórea) en hipotermia profunda o PCR prolongada",
+        "RCP: prolongada, evitar adrenalina si T &lt; 30 °C, desfibrilar 1–3 veces y continuar después del recalentamiento",
+        "Corregir alteraciones metabólicas, controlar función renal y electrolitos"
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende de la temperatura central, la duración de la exposición, la presencia de paro cardíaco, la edad y las comorbilidades. La hipotermia grave con paro cardíaco tiene un pronóstico reservado, pero algunos pacientes logran recuperación neurológica completa si reciben tratamiento avanzado precoz (como ECMO). La reanimación debe mantenerse mientras no se confirme muerte tras recalentamiento adecuado."
+    },
+    "notas_adicionales": [
+      "Confirmar muerte solo después de recalentamiento completo y exclusión de causas reversibles",
+      "Usar termómetros especiales para hipotermia – los convencionales no miden &lt; 34 °C",
+      "Evitar movimientos bruscos durante el transporte – riesgo de FV",
+      "Los protocolos de reanimación en hipotermia requieren equipos entrenados y logística especializada",
+      "Registrar la curva térmica, tiempo y método de recalentamiento utilizados"
+    ],
+    "fuentes_bibliograficas": [
+      "UpToDate. Accidental hypothermia in adults. 2024.",
+      "ERC Guidelines. Resuscitation for hypothermic patients. 2021.",
+      "Miller’s Anesthesia. 8.ª ed. Capítulo 72 – Trastornos de la termorregulación.",
+      "Guías de la AHA para RCP y ACE – 2020.",
+      "Harrison’s Principios de Medicina Interna. 21.ª ed."
+    ]
+  }
+}

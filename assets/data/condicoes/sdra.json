@@ -1,0 +1,209 @@
+{
+  "PT": {
+    "titulo": "Síndrome do Desconforto Respiratório Agudo (SDRA)",
+    "definicao": "A Síndrome do Desconforto Respiratório Agudo (SDRA) é uma condição clínica caracterizada por insuficiência respiratória hipoxêmica aguda, causada por injúria inflamatória difusa aos alvéolos pulmonares. Resulta em aumento da permeabilidade da membrana alveolocapilar, edema pulmonar não cardiogênico, colapso alveolar e comprometimento grave da troca gasosa. Representa uma das principais causas de mortalidade em unidades de terapia intensiva.",
+    "epidemiologia": "A SDRA afeta aproximadamente 10% dos pacientes internados em UTI e cerca de 23% dos pacientes submetidos à ventilação mecânica invasiva. É mais comum em adultos com sepse, pneumonia grave, trauma, aspiração pulmonar, pancreatite ou transfusão maciça. A mortalidade global gira em torno de 30–45%, podendo exceder 50% em casos graves com disfunção de múltiplos órgãos.",
+    "fisiopatologia": "O processo inicia-se com ativação de macrófagos alveolares e liberação de citocinas inflamatórias (IL-1, IL-6, TNF-α), promovendo dano endotelial e epitelial pulmonar. A fase exsudativa (1–7 dias) é marcada por edema, formação de membranas hialinas e colapso alveolar. A fase proliferativa (7–14 dias) envolve fibrose inicial e proliferação de pneumócitos tipo II. Em alguns pacientes, segue-se a fase fibrosante com remodelamento irreversível.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão e vasodilatação em contexto de sepse.",
+        "Necessidade frequente de vasopressores para manutenção da perfusão tecidual.",
+        "Hipoperfusão com elevação de lactato sérico e disfunção orgânica associada."
+      ],
+      "respiratorias": [
+        "Dispneia progressiva, taquipneia (> 30 irpm) e cianose.",
+        "Hipoxemia refratária (PaO₂/FiO₂ < 300) mesmo com suplementação de oxigênio.",
+        "Sinais de trabalho respiratório aumentado: uso de musculatura acessória, batimento de asa nasal."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência por hipóxia ou sepse.",
+        "Acidose mista (metabólica e respiratória) em gasometria arterial.",
+        "Alterações eletrolíticas e hipoperfusão cerebral."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico da SDRA é clínico-radiológico, baseado nos critérios de Berlim: 1) início agudo (até 1 semana do evento clínico); 2) infiltrados bilaterais à radiografia ou TC; 3) ausência de causa cardíaca evidente; 4) relação PaO₂/FiO₂ ≤ 300 com PEEP ≥ 5 cmH₂O. A gravidade é estratificada em: leve (PaO₂/FiO₂ 200–300), moderada (100–200), grave (<100).",
+      "exames_essenciais": [
+        "Gasometria arterial: cálculo de PaO₂/FiO₂ e avaliação de pH, PaCO₂, HCO₃⁻.",
+        "Radiografia de tórax ou tomografia de tórax: infiltrado alveolar bilateral difuso.",
+        "Ecocardiograma transtorácico: excluir disfunção ventricular esquerda e causas cardiogênicas.",
+        "Lactato, eletrólitos, função renal e hepática: para avaliação sistêmica.",
+        "Microbiologia: hemoculturas, escarro, aspirado traqueal, PCR viral e urinário (pneumococo, Legionella)."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia (PaO₂/FiO₂ ≤ 300) com ou sem instabilidade hemodinâmica.",
+      "Sinais de fadiga respiratória, hipercapnia progressiva (PaCO₂ > 50 mmHg com pH < 7,3).",
+      "Rebaixamento de consciência com risco de aspiração.",
+      "SDRA grave com necessidade de sedação profunda e controle da mecânica ventilatória."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Ventilação mecânica protetora: volume corrente 4–6 mL/kg (peso predito), PEEP ≥ 5 cmH₂O.",
+        "Limitar pressão de platô < 30 cmH₂O e driving pressure < 15 cmH₂O.",
+        "Posição prona precoce por ≥ 16 h/dia em pacientes com PaO₂/FiO₂ < 150.",
+        "Bloqueadores neuromusculares por 48h em SDRA moderado a grave (ex: cisatracúrio).",
+        "Controle da causa base: antibióticos, antivirais, remoção de fonte séptica.",
+        "Balanço hídrico restritivo após estabilização, com meta de peso seco.",
+        "Avaliação precoce para ECMO venovenosa em hipoxemia refratária (PaO₂/FiO₂ < 80 por > 6h)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico da SDRA é multifatorial, influenciado pela gravidade da hipoxemia, idade, comorbidades, etiologia e tempo de início da terapia adequada. A mortalidade pode ultrapassar 45% em formas graves. A aplicação de estratégias ventilatórias baseadas em evidência reduz significativamente a morbimortalidade."
+    },
+    "notas_adicionais": [
+      "Evitar hiperventilação e alcalose respiratória iatrogênica.",
+      "Sedação deve ser titulada para permitir modos assistidos sempre que possível.",
+      "Realizar provas de ventilação espontânea diariamente para avaliar desmame.",
+      "Profilaxia para TEV, úlcera de estresse e infecção relacionada à VM.",
+      "Considerar corticosteroides em casos específicos (ex: COVID-19, SDRA por Pneumocystis).",
+      "Acompanhamento multiprofissional com fisioterapia, nutrição e reabilitação precoce."
+    ],
+    "fontes_bibliograficas": [
+      "ARDS Definition Task Force. JAMA. 2012;307(23):2526-2533.",
+      "Papazian L, et al. N Engl J Med. 2010;363(12):1107–1116.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 86 – Ventilação Mecânica e SDRA.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "UpToDate. Management of ARDS in adults. 2024.",
+      "Diretrizes AMIB – SDRA. 2023."
+    ]
+  },
+  "US": {
+    "title": "Acute Respiratory Distress Syndrome (ARDS)",
+    "definition": "ARDS is a form of non-cardiogenic acute hypoxemic respiratory failure characterized by diffuse alveolar damage, increased alveolar-capillary permeability, and bilateral pulmonary infiltrates. It results in severe gas exchange impairment and is associated with high morbidity and mortality, especially in critically ill patients.",
+    "epidemiology": "ARDS affects approximately 10% of ICU admissions and 23% of mechanically ventilated patients. The most common precipitating factors include sepsis, pneumonia, aspiration of gastric contents, trauma, pancreatitis, and massive transfusions. Overall mortality ranges from 30% to 45%, increasing with disease severity and multi-organ failure.",
+    "pathophysiology": "The pathogenesis involves an initial exudative phase (1–7 days) with inflammation, alveolar edema, and formation of hyaline membranes. This is followed by a proliferative phase (7–14 days), characterized by type II pneumocyte proliferation and early fibrosis. In some patients, a fibrotic phase occurs, leading to irreversible lung remodeling and decreased compliance. The hallmark is ventilation-perfusion mismatch, decreased functional residual capacity, and impaired gas diffusion.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hypotension due to sepsis or volume depletion.",
+        "Vasopressor dependence in moderate to severe cases.",
+        "Elevated lactate indicating tissue hypoperfusion."
+      ],
+      "respiratorias": [
+        "Severe dyspnea, tachypnea (> 30 breaths/min), and cyanosis.",
+        "Hypoxemia refractory to oxygen supplementation.",
+        "Use of accessory muscles and signs of respiratory distress."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Altered mental status due to hypoxemia or sepsis.",
+        "Combined metabolic and respiratory acidosis.",
+        "Electrolyte disturbances and systemic inflammatory response."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Diagnosis is based on the Berlin criteria: 1) acute onset within 1 week of a known clinical insult; 2) bilateral opacities on chest imaging; 3) respiratory failure not fully explained by cardiac failure or fluid overload; 4) PaO₂/FiO₂ ≤ 300 mmHg with PEEP ≥ 5 cmH₂O. Severity is stratified as mild (PaO₂/FiO₂ 200–300), moderate (100–200), or severe (<100).",
+      "exames_essenciais": [
+        "Arterial blood gas (ABG) to assess PaO₂/FiO₂ and acid-base status.",
+        "Chest X-ray or CT showing bilateral alveolar infiltrates.",
+        "Transthoracic echocardiogram to exclude left ventricular dysfunction.",
+        "Lactate, electrolytes, renal and hepatic function tests.",
+        "Microbiological workup: blood cultures, sputum, tracheal aspirate, viral PCR, urinary antigens."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "PaO₂/FiO₂ ≤ 300 despite oxygen therapy.",
+      "Respiratory muscle fatigue and hypercapnia (PaCO₂ > 50 mmHg, pH < 7.3).",
+      "Impaired consciousness with aspiration risk.",
+      "Moderate to severe ARDS requiring sedation and mechanical ventilation."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Lung-protective mechanical ventilation: tidal volume 4–6 mL/kg predicted body weight, PEEP ≥ 5 cmH₂O.",
+        "Maintain plateau pressure < 30 cmH₂O and driving pressure < 15 cmH₂O.",
+        "Early prone positioning for ≥ 16 h/day in patients with PaO₂/FiO₂ < 150.",
+        "Use of neuromuscular blockers for 48h in moderate to severe ARDS (e.g., cisatracurium).",
+        "Treatment of underlying cause: antimicrobials, source control.",
+        "Conservative fluid management after stabilization.",
+        "Consider early VV-ECMO in refractory hypoxemia (PaO₂/FiO₂ < 80 for > 6 hours)."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on the severity of hypoxemia, comorbidities, age, and time to initiation of appropriate therapy. Severe ARDS is associated with > 45% mortality. Early implementation of lung-protective strategies and multidisciplinary intensive care improves outcomes."
+    },
+    "additional_notes": [
+      "Avoid excessive tidal volumes and prevent iatrogenic alkalosis.",
+      "Titrate sedation to allow spontaneous modes when feasible.",
+      "Daily spontaneous breathing trials to assess readiness for weaning.",
+      "VTE, stress ulcer, and ventilator-associated infection prophylaxis.",
+      "Consider corticosteroids in specific settings (e.g., COVID-19, Pneumocystis-associated ARDS).",
+      "Early involvement of physical therapy, nutrition, and rehabilitation teams."
+    ],
+    "references": [
+      "ARDS Definition Task Force. JAMA. 2012;307(23):2526–2533.",
+      "Papazian L, et al. N Engl J Med. 2010;363(12):1107–1116.",
+      "Miller’s Anesthesia. 8th ed. Chapter 86 – Mechanical Ventilation and ARDS.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "UpToDate. Management of ARDS in adults. 2024.",
+      "Brazilian Intensive Care Society Guidelines – ARDS. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Síndrome de Distrés Respiratorio Agudo (SDRA)",
+    "definicion": "La SDRA es una insuficiencia respiratoria hipoxémica aguda, no cardiogénica, causada por lesión difusa del epitelio alveolar y del endotelio capilar pulmonar. Se caracteriza por aumento de la permeabilidad capilar, edema pulmonar, colapso alveolar y deterioro severo del intercambio gaseoso. Representa una de las principales causas de mortalidad en unidades de cuidados intensivos.",
+    "epidemiologia": "Afecta aproximadamente al 10% de los pacientes en UCI y hasta al 23% de los pacientes intubados. Las principales causas son sepsis, neumonía grave, aspiración, traumatismo, pancreatitis y transfusiones masivas. La mortalidad oscila entre el 30% y el 45%, y puede superar el 50% en formas graves o con disfunción multiorgánica.",
+    "fisiopatologia": "El SDRA cursa con tres fases: exudativa (1–7 días), proliferativa (7–14 días) y fibrosante (algunos casos). Inicialmente se produce activación de macrófagos alveolares y liberación de citoquinas (IL-1, IL-6, TNF-α), lo que lleva a daño de la barrera alveolo-capilar, extravasación de proteínas, formación de membranas hialinas y colapso alveolar. Posteriormente puede haber proliferación de neumocitos tipo II y desarrollo de fibrosis intersticial.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión arterial en contexto séptico o hipovolémico.",
+        "Necesidad de vasopresores para mantener la perfusión.",
+        "Hiperlactacidemia y signos de hipoperfusión tisular."
+      ],
+      "respiratorias": [
+        "Disnea intensa, taquipnea (> 30 rpm) y cianosis.",
+        "Hipoxemia refractaria a la oxigenoterapia convencional.",
+        "Uso de músculos accesorios y signos de fatiga respiratoria."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Alteración del nivel de conciencia por hipoxia o sepsis.",
+        "Acidosis respiratoria y metabólica combinadas.",
+        "Trastornos hidroelectrolíticos y respuesta inflamatoria sistémica."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico se basa en los criterios de Berlín: 1) inicio en la primera semana de un evento clínico; 2) opacidades bilaterales en radiografía o TC; 3) insuficiencia respiratoria no explicada por insuficiencia cardíaca o sobrecarga hídrica; 4) PaO₂/FiO₂ ≤ 300 con PEEP ≥ 5 cmH₂O. Se clasifica en leve (PaO₂/FiO₂ 200–300), moderado (100–200) y grave (<100).",
+      "exames_essenciais": [
+        "Gasometría arterial: cálculo de PaO₂/FiO₂ y estado ácido-base.",
+        "Radiografía de tórax o TC: infiltrados alveolares bilaterales.",
+        "Ecocardiografía transtorácica: descartar disfunción ventricular izquierda.",
+        "Lactato, electrolitos, función renal y hepática.",
+        "Cultivos: hemocultivos, esputo, aspirado traqueal, PCR viral, antígenos urinarios."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "PaO₂/FiO₂ ≤ 300 con signos de insuficiencia respiratoria.",
+      "Fatiga respiratoria, hipercapnia (PaCO₂ > 50 mmHg y pH < 7,3).",
+      "Disminución del nivel de conciencia con riesgo de aspiración.",
+      "SDRA moderado o grave que requiere sedación profunda y control de la mecánica ventilatoria."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Ventilación mecánica protectora: volumen corriente 4–6 mL/kg (peso predicho), PEEP ≥ 5 cmH₂O.",
+        "Mantener presión plateau < 30 cmH₂O y driving pressure < 15 cmH₂O.",
+        "Pronación precoz al menos 16 h/día si PaO₂/FiO₂ < 150.",
+        "Bloqueantes neuromusculares (ej. cisatracurio) durante 48h en SDRA grave.",
+        "Tratar la causa base: antibióticos, antivirales, control de foco séptico.",
+        "Restricción hídrica una vez estabilizado: evitar sobrecarga de volumen.",
+        "Evaluar ECMO veno-venosa precoz en hipoxemia refractaria (PaO₂/FiO₂ < 80 por > 6 h)."
+      ]
+    },
+    "prognosis": {
+      "comment": "El pronóstico depende de la gravedad de la hipoxemia, la etiología, la edad, las comorbilidades y la precocidad del tratamiento. La mortalidad puede superar el 45% en casos graves. La implementación precoz de estrategias de ventilación protectora y el soporte intensivo multidisciplinario mejoran el pronóstico."
+    },
+    "additional_notes": [
+      "Evitar hiperventilación excesiva y alcalosis respiratoria.",
+      "Titulación de la sedación para permitir modos espontáneos si es posible.",
+      "Realizar pruebas de respiración espontánea diarias para evaluar el destete.",
+      "Profilaxis de TEP, úlceras de estrés e infecciones asociadas a VM.",
+      "Considerar corticoides en situaciones específicas (COVID-19, Pneumocystis).",
+      "Intervención temprana de fisioterapia, nutrición y rehabilitación."
+    ],
+    "references": [
+      "ARDS Definition Task Force. JAMA. 2012;307(23):2526–2533.",
+      "Papazian L, et al. N Engl J Med. 2010;363(12):1107–1116.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 86 – Ventilación Mecánica y SDRA.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "UpToDate. Manejo del SDRA en adultos. 2024.",
+      "Sociedad Brasileña de Medicina Intensiva – Guías de SDRA. 2023."
+    ]
+  }
+}

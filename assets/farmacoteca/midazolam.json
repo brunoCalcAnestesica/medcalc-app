@@ -1,0 +1,36 @@
+{
+  "PT": {
+    "external": {
+      "name": "Midazolam",
+      "suspension": "Não se aplica (uso intravenoso, oral ou intranasal hospitalar); suspender se uso crônico de benzodiazepínicos ou opioides 24–48h antes se indicado",
+      "risk": "Depressão respiratória, sedação excessiva, amnésia, hipotensão, interação grave com opioides, álcool e inibidores do CYP3A4",
+      "reintroduction": "Pode ser reintroduzido conforme indicação anestésica ou sedativa com monitoramento intensivo (ECG, FR, PA)"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Midazolam",
+      "nomeComercial": "Dormonid, Dormire, Versed, Midaflex",
+      "mecanismoAcao": "Benzodiazepínico que potencializa ação do GABA-A, promovendo sedação, amnésia, ansiólise e relaxamento muscular",
+      "farmacocinetica": "Início IV: 1–5min; VO: 15–30min; duração: IV 15–30min; metabolizado por CYP3A4; excreção renal",
+      "farmacodinamica": "Ansiolítico e sedativo de ação rápida, ideal para indução anestésica, pré-medicação e controle de crises convulsivas",
+      "indicacoes": "Pré-medicação anestésica, sedação em UTI, procedimentos, indução, controle de convulsões agudas, status epiléptico",
+      "reacoesAdversas": "Depressão respiratória, hipotensão, bradicardia, amnésia anterógrada, agitação paradoxal (crianças), reações locais",
+      "riscoGravidez": "Categoria D (evitar no 1º trimestre)",
+      "riscoLactacao": "Evitar uso contínuo; uso único em anestesia é seguro",
+      "administracao": "IV, IM, oral, intranasal, retal (off-label), bucal (off-label)",
+      "doseMaxima": "Até 0,3–0,4mg/kg total IV (dose titulada por efeito); VO máx. 20mg",
+      "doseMinima": "0,025–0,05mg/kg IV para sedação leve",
+      "classificacao": "Benzodiazepínico de curta duração de ação",
+      "apresentacao": "Ampolas 1mg/mL, 5mg/mL; solução oral; spray nasal",
+      "interacaoMedicamento": "Opioides, álcool, antidepressivos, inibidores do CYP3A4 (cetoconazol, verapamil), macrolídeos, antifúngicos azólicos",
+      "posologia": "IV: 1–5mg; VO: 7,5–15mg; Nasal: 5–10mg; IM: 0,1–0,15mg/kg; titulação lenta IV",
+      "armazenamento": "Temperatura ambiente (15–30°C), proteger da luz",
+      "preparo": "Diluir em SF 0,9% para infusão lenta ou bolus IV; IM profundo ou nasal sem diluição",
+      "solucoesCompatíveis": "SF 0,9%, SG 5%",
+      "contraindicacoes": "Hipersensibilidade, miastenia grave, insuficiência respiratória grave sem suporte, uso recente de álcool",
+      "cuidadosMedicos": "Monitorar ECG, PA, FR, nível de consciência; ajuste em idosos, hepáticos e renais",
+      "cuidadosFarmaceuticos": "Verificar compatibilidade, estabilidade, observar ampola após abertura; manipulação asséptica",
+      "cuidadosEnfermagem": "Observar sedação, FR, nível de consciência, efeitos paradoxais, saturação e sinais vitais",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, Miller's Anesthesia, SBAR"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "nome": "Cetorolaco",
+  "nomeIngles": "Ketorolac",
+  "nomeEspanhol": "Cetorolaco",
+  "classificacao": "Anti-inflamatório não esteroidal (AINE); inibidor não seletivo da COX",
+  "mecanismoAcao": "Inibe competitivamente a ciclooxigenase (COX-1 e COX-2), bloqueando a síntese de prostaglandinas pró-inflamatórias. Possui potente efeito analgésico e anti-inflamatório.",
+  "farmacocinetica": "Absorção IM/IV rápida, pico 30-60 min (IM), início 10 min (IV), vida média 5-6h, metabolismo hepático, excreção renal (91%).",
+  "farmacodinamica": "Potente analgésico e anti-inflamatório. Eficácia analgésica similar à morfina em dor aguda. Reduz inflamação, edema e febre. Efeito máximo em 1-2h.",
+  "apresentacoes": [
+    {
+      "concentracao": "30 mg/mL",
+      "apresentacao": "Ampola 1 mL",
+      "via": "IM/IV"
+    },
+    {
+      "concentracao": "30 mg/2 mL",
+      "apresentacao": "Ampola 2 mL", 
+      "via": "IM/IV"
+    },
+    {
+      "concentracao": "60 mg/2 mL",
+      "apresentacao": "Ampola 2 mL",
+      "via": "IM/IV"
+    }
+  ],
+  "preparacao": "• IM: administrar diretamente\n• IV: diluir em 50-100 mL de SF 0,9%\n• Infusão lenta (15-30 min)\n• Não misturar com outras drogas\n• Proteger da luz",
+  "indicacoesClinicas": [
+    {
+      "indicacao": "Dor aguda moderada a intensa",
+      "dose": "30-60 mg IM/IV",
+      "frequencia": "6h",
+      "duracao": "Máximo 5 dias"
+    },
+    {
+      "indicacao": "Dor pós-operatória",
+      "dose": "30 mg IM/IV",
+      "frequencia": "6h",
+      "duracao": "Máximo 5 dias"
+    },
+    {
+      "indicacao": "Cólica renal",
+      "dose": "30-60 mg IM/IV",
+      "frequencia": "6h",
+      "duracao": "Máximo 5 dias"
+    },
+    {
+      "indicacao": "Dor traumática",
+      "dose": "30-60 mg IM/IV",
+      "frequencia": "6h",
+      "duracao": "Máximo 5 dias"
+    }
+  ],
+  "observacoes": "• Limitar uso a 5 dias\n• Monitorar função renal e hepática\n• Cuidado em idosos e pacientes com insuficiência renal\n• Suspender 48h antes de cirurgias eletivas\n• Monitorar sangramento",
+  "metabolismo": "Metabolizado no fígado por conjugação com ácido glucurônico. Forma metabólitos inativos. Excreção renal (91%) e fecal (6%).",
+  "contraindicacoes": [
+    "Hipersensibilidade ao cetorolaco ou outros AINEs",
+    "Úlcera péptica ativa",
+    "Insuficiência renal grave (ClCr <30 mL/min)",
+    "Insuficiência hepática grave",
+    "Gravidez (terceiro trimestre)",
+    "Lactação",
+    "História de asma induzida por AINEs",
+    "Síndrome de Stevens-Johnson prévia",
+    "Uso concomitante com outros AINEs"
+  ],
+  "reacoesAdversas": [
+    "Gastrintestinais: náusea, vômito, dor epigástrica, úlcera péptica, sangramento GI",
+    "Renais: insuficiência renal aguda, retenção hídrica, proteinúria",
+    "Cardiovasculares: edema, hipertensão, insuficiência cardíaca",
+    "Hematológicas: trombocitopenia, anemia, leucopenia, sangramento",
+    "Hepáticas: elevação de transaminases, hepatite",
+    "Alérgicas: rash, urticária, anafilaxia, asma",
+    "Outras: cefaleia, tontura, sonolência, zumbido"
+  ],
+  "interacaoMedicamento": "• Aumenta risco de sangramento com anticoagulantes, antiagregantes\n• Reduz efeito de diuréticos e anti-hipertensivos\n• Aumenta toxicidade de lítio e metotrexato\n• Interfere com probenecida\n• Cuidado com inibidores de CYP2C9"
+} 

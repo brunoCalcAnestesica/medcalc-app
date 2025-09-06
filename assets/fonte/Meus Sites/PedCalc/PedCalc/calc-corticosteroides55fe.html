@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+    
+<!-- Mirrored from pedajuda.com.br/calc-corticosteroides.html?ct=dexa by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Aug 2023 19:56:37 GMT -->
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>PedAjuda - Condutas e Prescrições Pediátricas</title>
+        
+        <meta name="description" content="Tudo que você precisa saber para manejar de forma correta e tranquila seus pacientes pediátricos, na palma da sua mão." />
+        <meta name="keywords" content="pediatria, calculadora, doses, condutas, prescrições, urgência, emergências, antibióticos, anti-convulsionantes, anti-fúngicos, anti-histamínicos, anti-parasitários, broncodilatadores, laxativos, anti-inflamatórios, hidratação venosa, sintomáticos, anafilaxia, asma, cetoacidose, diabetes, choque" />
+        <meta name="author" content="Lucas de Medeiros Ferreira (lucas.medeiros@icloud.com)"/>
+        
+        <link rel="icon" type="image/png" href="assets/imagens/favicon.png" />
+        
+        <!-- [INI] CSS -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/fontawesome.css">
+        <link rel="stylesheet" href="assets/css/animated.css">
+        <link rel="stylesheet" href="assets/css/estilo.css">
+        <!-- [END] CSS -->
+    </head>
+    
+    <body>
+        
+        <!-- ***** Preloader Start ***** -->
+        <div class="loader-wrapper">
+            <div class="loader animated fadeOutUp">
+                <div class="bubble-1"></div>
+                <div class="bubble-2"></div>
+                <div class="bubble-3"></div>
+            </div>
+        </div>
+        <!-- ***** Preloader End ***** -->
+        
+        <!-- ***** [INI] HEADER ***** -->
+        <header class="header-area branco">
+		<div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        
+                        <a href="index.html" class="logo">
+							<img src="assets/imagens/logo.png" alt="PedAjuda"/>
+						</a>
+
+						<ul class="nav">
+							<li><a href="index.html" class="branco">Página Inicial</a></li>
+                            <li class="submenu">
+                                <a href="javascript:;">Ferramentas <i class="fas fa-angle-down"></i></a>
+								<ul>
+									<li><a href="index.html#categorias">Cálculo de Doses</a></li>
+                                    <li><a href="index.html#puericultura">Puericultura</a></li>
+									<li><a href="index.html#condutas">Condutas em Urgência</a></li>
+								</ul>
+                            </li>
+                            <li><a href="sobre-projeto.html" class="branco">Sobre o Projeto</a></li>
+                            <li><a href="contato.html" class="branco">Contato</a></li>
+						</ul>
+						
+                        <a class="menu-trigger">
+							<span>Menu</span>
+						</a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        </header>
+        <!-- ***** [END] HEADER ***** -->
+        
+        
+        
+        <!-- ***** [INI] SECTION - CAPA ***** -->
+        <section class="section estilo7" id="capa">
+            <div class="container">
+                <div class="row">
+                
+                        <div class="col-lg-12">
+                            <h1 id="titulo"></h1>
+                        </div>
+                
+                        <div class="col-lg-12">
+                            <ol class="breadcrumb">
+                                <li><a href="index.html">Página Inicial</a></li>
+                                <li><a href="lista-corticosteroides.html">Corticosteróides</a></li>
+                                <li class="active" id="breadcrumb"></li>
+                            </ol>
+                        </div>
+                    
+                </div>
+            </div>
+        </section>
+        <!-- ***** [END] SECTION - CAPA ***** -->
+        
+        
+        
+        <!-- ***** [INI] SECTION - MEDICACOES ***** --->
+        <section class="section" id="lista-med">
+            <div class="container">
+                
+                <div class="row">
+                    <div class="col-lg-12">
+                            
+                        <div class="input-calculo estilo7">
+				            <div class="search">
+                                <form>
+				                    <input type="number" placeholder="Digite o Peso da Criança (em kg)" id="pesoInput" onkeypress="return isNumberKey(event,this)" step="0.1" >
+								    <button type="submit"><i class="fa fa-calculator"></i></button>
+								</form>
+				            </div>
+				        </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="row">
+                    
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        
+                        <div class="box-lista estilo7 scrollHere">
+                            <h4>Apresentações Disponíveis</h4>
+                        
+                            <!-- CONTEUDO DOS RESULTADOS -->
+                            <ul class="lista-apresentacoes" id="resultado-apresentacoes">
+                                
+                            </ul>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                    
+                        <div class="box-lista estilo7">
+                            <h4>Indicações Clínicas</h4>
+                            <ul class="lista-links" id="resultado-indicacoes">
+                                <!-- RESULTADO INDICACOES -->
+                            </ul>
+                        </div>
+                        <div class="box-lista estilo7">
+                            <h4>Orientações</h4>
+                            <ul class="lista-padrao" id="resultado-contra-indicacoes">
+                                <!-- RESULTADO INDICACOES -->
+                            </ul>
+                        </div>
+                    
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </section>
+        <!-- ***** [END] SECTION - MEDICACOES ***** --->
+        
+        
+        
+        <!-- ***** [INI] RODAPÉ ***** --->
+        <footer>
+            <div class="container">
+                <div class="row infopc">
+                    
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="card h-100">
+                            <img src="assets/imagens/logo.png" width="195" />
+                            <p>Projeto desenvolvido por doutorandos do curso de Medicina da Universidade Federal do Rio Grande do Norte (UFRN) e docentes do Internato de Pediatria.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="card h-100">
+                            <h5>Links Úteis</h5>
+                            <ul class="footer-nav">
+                                <li><a href="http://www.sbp.com.br/" target="_blank"><i class="fa fa-chevron-right"></i><span>SBP</span></a></li>
+                                <li><a href="https://www.nestlenutrition-institute.org/country/br/" target="_blank"><i class="fa fa-chevron-right"></i><span>Nestlé Nutrition</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="card h-100">
+                            <h5>Redes Sociais</h5>
+                            <a href="https://www.facebook.com/pedajuda.med/" target="_blank"><i class="fab fa-facebook-square"></i><p>Facebook</p></a>
+                            <a href="https://www.instagram.com/pedajuda.med" target="_blank"><i class="fab fa-instagram"></i><p>Instagram</p></a>
+                        </div>
+                    </div>
+            
+                </div>
+            
+                <div class="row copyright">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 ">
+                        © 2019 PedAjuda. Todos os Direitos Reservados.
+                    </div>
+                </div>
+                
+            </div>
+        </footer>
+        <!-- ***** [END] RODAPÉ ***** --->
+        
+        
+        
+        <!-- [INI] JS -->
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/notify.js"></script>
+        <script src="assets/js/functions.js"></script>
+        <script src="assets/js/calc-corticosteroides.js"></script>
+        
+        <script>
+   
+            
+            
+            //Proibir entrada de números no Input
+            function isNumberKey(evt, obj) {
+                var charCode = (evt.which) ? evt.which : event.keyCode
+                var value = obj.value;
+                var dotcontains = value.indexOf(".") != -1;
+                if (dotcontains)
+                if (charCode == 46) return false;
+                if (charCode == 46) return true;
+                if (charCode > 31 && (charCode < 48 || charCode > 57))
+                    return false;
+                return true;
+            }
+   
+            //Iniciar Página
+            $(document).ready(function() {
+                var split = location.search.replace("?", "").split("=");
+                var ctCodigo = split[1];
+                var ctNome = checarMedicacao(ctCodigo);
+                    
+                if(ctNome == null) {
+                    window.location.replace("lista-corticosteroides.html");
+                } else {
+                    $("#titulo").text(ctNome);
+                    $("#breadcrumb").text(ctNome);
+                }
+                
+                $("footer").css("display", "none");
+                $("html").css("background-color", "#FFF");
+            });
+            
+            
+            function alterarDose(ct, peso, i) {
+                
+                var recalcularDose = calcularDroga(ct, peso, i);
+                            
+                $(".resultado").css("display", "block");
+                $("#resultado-apresentacoes").html(recalcularDose[0]);
+                $("#resultado-indicacoes").html(recalcularDose[1]);
+                $("#resultado-contra-indicacoes").html(recalcularDose[2]);
+                
+                scrollTo(".scrollHere");
+                
+            }
+            
+            
+            $(function() {
+                
+                //Processamento do Form
+                $("form").submit(function(event) {
+                    
+                    event.preventDefault();
+                    
+                    var peso = $("#pesoInput").val(); 
+                    var ctNome = $("#titulo").text();
+                
+                    if(peso == "") {
+                        $(".input-calculo").addClass("erro");
+                    } else {
+                        peso = parseFloat(peso);
+                        if(peso == 0 || peso < 1.5) {
+                            
+                            $(".box-lista").css("display", "none");
+                            $("#resultado-apresentacoes").html("");
+                            $("#resultado-indicacoes").html("");
+                            $("#resultado-contra-indicacoes").html("");
+                            $(".input-calculo").addClass("erro");
+                            return false;
+                            
+                        } else if (peso >= 1.5) {
+                            
+                            $("footer").css("display", "block");
+                            
+                            $(".box-lista").css("display", "block");
+                            $(".input-calculo").removeClass("erro");
+                            $(".input-calculo button").html('<i class="fa fa-undo"></i>');
+                            
+                            var processarDose = calcularDroga(ctNome, peso, 0);
+                            
+                            $(".resultados").css("display", "block");
+                            $("#resultado-apresentacoes").html(processarDose[0]);
+                            $("#resultado-indicacoes").html(processarDose[1]);
+                            $("#resultado-contra-indicacoes").html(processarDose[2]);
+                            
+                            scrollTo(".scrollHere");
+                            $("input").blur();
+                            
+                            return false;
+                            
+                        } else {
+                            //ERRO: Erro qualquer!
+                            
+                            return false;
+                        }     
+                        
+                    }
+
+                });
+                
+            });
+            
+        </script>
+        <!-- [END] JS -->
+        
+    </body>
+    
+
+<!-- Mirrored from pedajuda.com.br/calc-corticosteroides.html?ct=dexa by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Aug 2023 19:56:37 GMT -->
+</html>

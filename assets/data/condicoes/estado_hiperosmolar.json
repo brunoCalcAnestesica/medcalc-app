@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Estado Hiperosmolar Hiperglicêmico",
+    "definicao": "O Estado Hiperosmolar Hiperglicêmico (EHH) é uma emergência metabólica aguda caracterizada por hiperglicemia severa (geralmente &gt; 600 mg/dL), hiperosmolalidade plasmática (&gt; 320 mOsm/kg), desidratação extrema e ausência significativa de cetose. Trata-se de uma complicação potencialmente fatal do diabetes mellitus tipo 2, especialmente em pacientes idosos, sendo frequentemente desencadeada por infecções, infarto agudo do miocárdio, AVC, uso de corticosteroides, diuréticos ou falha terapêutica no controle glicêmico.",
+    "epidemiologia": "O EHH corresponde a aproximadamente 10–15% das emergências hiperglicêmicas e apresenta mortalidade entre 10–20%, consideravelmente superior à cetoacidose diabética. Acomete principalmente diabéticos tipo 2 idosos, frágeis ou institucionalizados, com limitação ao acesso hídrico e presença de comorbidades cardiovasculares ou neurológicas. Fatores precipitantes incluem sepse, eventos tromboembólicos, pancreatite, neoplasias ou drogas hiperglicemiantes.",
+    "fisiopatologia": "A produção residual de insulina em pacientes com DM2 impede cetogênese significativa, mas não previne a hiperglicemia progressiva. O excesso de glicose causa diurese osmótica intensa, resultando em desidratação profunda, hipovolemia, hipernatremia, aumento da osmolalidade plasmática e disfunção neurológica. A hiperosmolalidade plasmática leva à retração celular, particularmente nos neurônios, podendo causar coma hiperosmolar. A ausência de cetonemia relevante distingue o EHH da cetoacidose diabética.",
+    "manifestações_clinicas": {
+      "neurologicas": [
+        "Letargia, confusão, delírio.",
+        "Convulsões, coma hiperosmolar.",
+        "Sinais focais ou mioclonias podem simular eventos neurológicos agudos."
+      ],
+      "hemodinamicas": [
+        "Taquicardia, hipotensão postural ou choque hipovolêmico.",
+        "Perfusão cutânea reduzida, extremidades frias, enchimento capilar lento."
+      ],
+      "outros": [
+        "Poliúria inicial, progredindo para oligúria ou anúria.",
+        "Sinais de infecção (febre, leucocitose, infiltrado pulmonar, disúria).",
+        "Alteração visual, náuseas, sinais de trombose venosa ou arterial."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico deve considerar a história clínica, sinais de desidratação, alteração do estado mental e exames laboratoriais compatíveis com hiperglicemia severa e hiperosmolalidade. É fundamental excluir cetoacidose diabética (pH &lt; 7,3 e cetonemia relevante). A osmolalidade plasmática efetiva é melhor preditora de gravidade neurológica.",
+      "exames_essenciais": [
+        "Glicemia &gt; 600 mg/dL.",
+        "Osmolalidade plasmática efetiva &gt; 320 mOsm/kg (2 x Na + glicemia/18).",
+        "pH &gt; 7,3 e bicarbonato sérico &gt; 18 mEq/L.",
+        "Cetonemia e cetonúria ausentes ou discretas.",
+        "Ureia, creatinina, sódio, potássio, cloro, cálcio, fósforo, magnésio.",
+        "Gasometria arterial, lactato, ECG (alterações eletrolíticas), RX de tórax.",
+        "Provas inflamatórias (PCR, leucograma), culturas (urina, sangue), pesquisa de foco infeccioso."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Rebaixamento de consciência com risco de broncoaspiração.",
+      "Coma hiperosmolar com GCS &lt; 8.",
+      "Sepse ou pneumonia associada com insuficiência respiratória.",
+      "Acidose láctica, hipoxemia refratária ou sinais de choque com falência respiratória iminente."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Reposição volêmica com SF 0,9% 15–20 mL/kg na 1ª hora (aproximadamente 1 a 1,5 L), ajustando conforme volemia, idade e função cardíaca.",
+        "Após estabilização hemodinâmica, manter hidratação contínua com SF 0,9% ou SF 0,45% (dependendo da natremia).",
+        "Insulinoterapia EV com insulina regular contínua: 0,1 U/kg/h (sem bolus inicial), iniciada após reposição volêmica adequada.",
+        "Redução da glicemia alvo: 50–70 mg/dL por hora. Se atingir 250–300 mg/dL, acrescentar SG 5% para evitar hipoglicemia.",
+        "Repor potássio se K+ &lt; 5,3 mEq/L, sempre antes da insulinoterapia se &lt; 3,3 mEq/L.",
+        "Monitorar eletrólitos e osmolaridade a cada 2 a 4 horas durante fase crítica.",
+        "Tratar fator precipitante identificado (antibioticoterapia, controle de infarto, manejo de AVE ou fármacos).",
+        "Evitar correção rápida da hiperosmolalidade (&gt; 3 mOsm/kg/h) para prevenir edema cerebral.",
+        "Considerar suporte intensivo (UTI) em pacientes com comorbidades, instabilidade hemodinâmica ou rebaixamento importante de consciência."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O EHH tem prognóstico grave se não tratado rapidamente. Os principais fatores de risco para óbito incluem idade &gt; 70 anos, creatinina &gt; 2,0 mg/dL, nível de consciência rebaixado, infecção sistêmica grave e atraso na reposição volêmica. O diagnóstico precoce, a hidratação agressiva e o controle adequado da glicemia são determinantes na redução da mortalidade e complicações neurológicas."
+    },
+    "notas_adicionais": [
+      "A insulinoterapia não deve ser iniciada antes da reposição do potássio se K+ &lt; 3,3 mEq/L.",
+      "Evite infusão excessiva de fluidos em pacientes cardiopatas ou idosos frágeis (risco de edema pulmonar).",
+      "Bicarbonato não é indicado na ausência de acidose metabólica grave não compensada.",
+      "Planejar transição para insulina subcutânea após normalização da osmolalidade e resolução clínica.",
+      "Educar o paciente quanto à hidratação, controle glicêmico e sinais de descompensação para prevenir recorrência."
+    ],
+    "fontes_bibliograficas": [
+      "Kitabchi AE, et al. Hyperglycemic Crises in Adult Patients With Diabetes. Diabetes Care. 2009.",
+      "UpToDate. Hyperosmolar hyperglycemic state in adults. 2024.",
+      "Sociedade Brasileira de Diabetes – Diretrizes 2022–2023.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo sobre distúrbios metabólicos e endócrinos."
+    ]
+  },
+  "ES": {
+    "titulo": "Estado Hiperglucémico Hiperosmolar (EHH)",
+    "definicion": "El Estado Hiperglucémico Hiperosmolar (EHH) es una complicación metabólica aguda del paciente con diabetes mellitus, caracterizada por hiperglucemia grave (generalmente &gt; 600 mg/dL), hiperosmolalidad plasmática (&gt; 320 mOsm/kg), deshidratación profunda y ausencia o presencia mínima de cetosis. Es más frecuente en pacientes mayores con diabetes tipo 2 y suele desencadenarse por infecciones, infarto agudo de miocardio, accidente cerebrovascular, uso de fármacos como diuréticos o corticoides, o suspensión del tratamiento hipoglucemiante.",
+    "epidemiologia": "El EHH representa entre el 10–15% de las emergencias hiperglucémicas y tiene una mortalidad superior a la de la cetoacidosis diabética, oscilando entre el 10 y el 20%. Afecta con mayor frecuencia a adultos mayores con diabetes tipo 2, especialmente aquellos con deterioro funcional, institucionalizados o con acceso limitado a líquidos. Las infecciones (ITU, neumonía), eventos cardiovasculares, pancreatitis y algunos fármacos son causas precipitantes frecuentes.",
+    "fisiopatologia": "Una deficiencia relativa de insulina impide el uso adecuado de la glucosa, pero evita la cetogénesis masiva. La hiperglucemia prolongada provoca diuresis osmótica, generando pérdida excesiva de agua y electrolitos. La deshidratación severa y la hiperosmolalidad resultante conducen a alteraciones neurológicas debido a la deshidratación intracelular cerebral. A diferencia de la cetoacidosis, el EHH se caracteriza por niveles de cuerpos cetónicos bajos o ausentes.",
+    "manifestaciones_clinicas": {
+      "neurologicas": [
+        "Letargo, desorientación, confusión.",
+        "Convulsiones o coma hiperosmolar.",
+        "Déficits neurológicos focales simulando ACV."
+      ],
+      "hemodinamicas": [
+        "Taquicardia, hipotensión ortostática o shock hipovolémico.",
+        "Llenado capilar lento, piel fría, mucosas secas."
+      ],
+      "otros": [
+        "Poliuria seguida de oliguria o anuria.",
+        "Síntomas de infección sistémica (fiebre, disuria, tos, disnea).",
+        "Náuseas, alteraciones visuales, signos de trombosis venosa o arterial."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico se basa en la presencia de hiperglucemia extrema, signos clínicos de deshidratación, alteración del estado mental y análisis de laboratorio. Es fundamental excluir cetoacidosis diabética mediante la evaluación del pH y cetonas. La osmolaridad plasmática efectiva (2 x Na + glucemia/18) correlaciona con la gravedad neurológica.",
+      "examenes_esenciales": [
+        "Glucemia &gt; 600 mg/dL.",
+        "Osmolalidad plasmática efectiva &gt; 320 mOsm/kg.",
+        "pH &gt; 7,3 y bicarbonato &gt; 18 mEq/L.",
+        "Cetonemia y cetonuria ausentes o mínimas.",
+        "Urea, creatinina, electrolitos, calcio, fósforo, magnesio.",
+        "Gasometría arterial, lactato, ECG, radiografía de tórax.",
+        "Hemograma, PCR, urocultivo, hemocultivos según sospecha infecciosa."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Disminución del nivel de conciencia con riesgo de broncoaspiración.",
+      "Coma hiperosmolar con GCS &lt; 8.",
+      "Insuficiencia respiratoria secundaria a sepsis o neumonía.",
+      "Acidosis láctica, hipoxemia refractaria o shock con insuficiencia multiorgánica."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Expansión con solución salina al 0,9% a razón de 15–20 mL/kg durante la primera hora (1–1,5 L), ajustando según estado hemodinámico.",
+        "Continuar hidratación con SSN o solución salina al 0,45% según natremia corregida.",
+        "Inicio de insulina regular IV continua (0,1 U/kg/h) sin bolo inicial tras la estabilización del volumen.",
+        "Reducción de glucosa objetivo: 50–70 mg/dL por hora. Añadir dextrosa al 5% si glucemia &lt; 300 mg/dL.",
+        "Reposición de potasio si K+ &lt; 5,3 mEq/L. No iniciar insulina si K+ &lt; 3,3 mEq/L.",
+        "Monitorización cada 2–4 horas de glucemia, osmolaridad, electrólitos y función renal.",
+        "Identificar y tratar el factor desencadenante (antibióticos, anticoagulación, cuidados específicos).",
+        "Evitar corrección rápida de la osmolaridad (&gt; 3 mOsm/kg/h) para prevenir edema cerebral.",
+        "Considerar ingreso en UCI en pacientes con comorbilidades severas o alteración de conciencia significativa."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico del EHH es reservado si no se trata precozmente. Los factores asociados a mayor mortalidad incluyen edad avanzada, creatinina &gt; 2,0 mg/dL, alteración del sensorio, infecciones graves y retraso en la hidratación. La detección temprana y el tratamiento intensivo con hidratación, insulina y abordaje de la causa subyacente reducen significativamente la morbimortalidad."
+    },
+    "notas_adicionales": [
+      "No iniciar insulina si el potasio sérico es &lt; 3,3 mEq/L.",
+      "Evitar sobrecarga hídrica en pacientes con insuficiencia cardíaca o edad avanzada.",
+      "El bicarbonato no está indicado salvo acidosis metabólica grave no relacionada al EHH.",
+      "Planificar la transición a insulina subcutánea cuando se resuelva la fase aguda.",
+      "Educación del paciente y seguimiento endocrinológico son clave para evitar recurrencias."
+    ],
+    "referencias": [
+      "Kitabchi AE, et al. Hyperglycemic Crises in Adult Patients With Diabetes. Diabetes Care. 2009.",
+      "UpToDate. Estado hiperglucémico hiperosmolar en adultos. 2024.",
+      "Guías de la Asociación Americana de Diabetes 2023.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo sobre trastornos metabólicos y endocrinos."
+    ]
+  },
+  "US": {
+    "title": "Hyperosmolar Hyperglycemic State (HHS)",
+    "definition": "Hyperosmolar Hyperglycemic State (HHS) is a serious acute complication of diabetes mellitus, characterized by severe hyperglycemia (typically &gt; 600 mg/dL), profound dehydration, hyperosmolarity (&gt; 320 mOsm/kg), and absence or minimal ketonemia. It occurs more frequently in older adults with type 2 diabetes, often triggered by infections, myocardial infarction, stroke, or medications that impair glucose tolerance or promote fluid loss (e.g., corticosteroids, diuretics).",
+    "epidemiology": "HHS accounts for approximately 10–15% of hyperglycemic emergencies and is associated with a mortality rate between 10–20%, significantly higher than diabetic ketoacidosis (DKA). It primarily affects elderly patients with type 2 diabetes, particularly those with restricted access to fluids, cognitive impairment, or underlying cardiovascular or renal disease. Common precipitating factors include sepsis, acute coronary syndromes, stroke, pancreatitis, and drug-induced hyperglycemia.",
+    "pathophysiology": "Relative insulin deficiency in type 2 diabetes impairs glucose utilization without sufficient ketogenesis suppression. Persistent hyperglycemia leads to osmotic diuresis, causing profound fluid and electrolyte losses. This results in hypovolemia, hemoconcentration, hypernatremia, and increased plasma osmolarity. The resulting intracellular dehydration, especially in neurons, contributes to altered mental status and potential coma. Absence of significant ketonemia differentiates HHS from DKA.",
+    "clinical_manifestations": {
+      "neurologic": [
+        "Lethargy, confusion, disorientation.",
+        "Seizures, coma in severe cases.",
+        "Focal neurological deficits or myoclonus mimicking stroke."
+      ],
+      "hemodynamic": [
+        "Tachycardia, orthostatic hypotension, hypovolemic shock.",
+        "Cold extremities, delayed capillary refill, decreased skin turgor."
+      ],
+      "others": [
+        "Initial polyuria progressing to oliguria or anuria.",
+        "Signs of infection: fever, leukocytosis, pulmonary or urinary symptoms.",
+        "Visual disturbances, nausea, signs of thrombosis."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis relies on clinical signs of dehydration, altered consciousness, and lab findings of marked hyperglycemia and hyperosmolarity. DKA should be excluded (low pH and high ketones). Effective plasma osmolality (2 x Na + glucose/18) is the most reliable marker for CNS dysfunction severity.",
+      "essential_tests": [
+        "Blood glucose &gt; 600 mg/dL.",
+        "Effective plasma osmolality &gt; 320 mOsm/kg.",
+        "pH &gt; 7.3 and bicarbonate &gt; 18 mEq/L.",
+        "Minimal or absent serum/urine ketones.",
+        "BUN, creatinine, sodium, potassium, chloride, calcium, phosphorus, magnesium.",
+        "Arterial blood gas, lactate, ECG, chest X-ray.",
+        "Inflammatory markers (CBC, CRP), blood/urine cultures, infection source evaluation."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Depressed mental status with aspiration risk.",
+      "Coma with GCS &lt; 8.",
+      "Respiratory failure due to sepsis, pneumonia, or lactic acidosis.",
+      "Hypoxemia, shock, or multiorgan failure requiring mechanical ventilation."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Aggressive fluid resuscitation with 0.9% saline: 15–20 mL/kg in the first hour (1–1.5 L), adjusted based on volume status and comorbidities.",
+        "Continue rehydration with 0.9% or 0.45% saline depending on corrected sodium levels.",
+        "Initiate IV regular insulin infusion at 0.1 U/kg/h (no bolus), after adequate volume repletion.",
+        "Target glucose reduction: 50–70 mg/dL per hour. Once glucose reaches 250–300 mg/dL, add 5% dextrose to prevent hypoglycemia.",
+        "Potassium replacement required if K+ &lt; 5.3 mEq/L. Do not initiate insulin if K+ &lt; 3.3 mEq/L.",
+        "Monitor glucose, electrolytes, osmolality, and renal function every 2–4 hours during acute phase.",
+        "Identify and treat underlying cause (e.g., antibiotics for infection, anticoagulation for thrombosis).",
+        "Avoid rapid correction of osmolality (&gt; 3 mOsm/kg/h) to prevent cerebral edema.",
+        "Consider ICU admission for patients with altered consciousness, shock, or significant comorbidities."
+      ]
+    },
+    "prognosis": {
+      "comment": "HHS carries high mortality if not promptly treated. Poor prognostic indicators include age &gt; 70 years, serum creatinine &gt; 2.0 mg/dL, low GCS, systemic infection, and delayed volume resuscitation. Early recognition, controlled glucose correction, adequate hydration, and treatment of precipitating factors significantly improve outcomes."
+    },
+    "additional_notes": [
+      "Do not start insulin until potassium is corrected if &lt; 3.3 mEq/L.",
+      "Avoid fluid overload in elderly or cardiac patients—monitor for signs of pulmonary edema.",
+      "Bicarbonate therapy is not indicated unless there is severe metabolic acidosis unrelated to HHS.",
+      "Plan transition to subcutaneous insulin after clinical stabilization and resolution of hyperosmolarity.",
+      "Patient education and structured diabetes follow-up are key to preventing recurrence."
+    ],
+    "references": [
+      "Kitabchi AE, et al. Hyperglycemic Crises in Adult Patients With Diabetes. Diabetes Care. 2009.",
+      "UpToDate. Hyperosmolar hyperglycemic state in adults. 2024.",
+      "American Diabetes Association Guidelines 2023.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter on Endocrine and Metabolic Disorders."
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "PT": {
+    "titulo": "Pneumonia Grave",
+    "definicao": "A pneumonia grave é uma infecção pulmonar aguda e potencialmente fatal que compromete extensas áreas dos pulmões, levando à insuficiência respiratória hipoxêmica, sepse e disfunção de múltiplos órgãos. É caracterizada por rápida deterioração clínica, necessidade de suporte intensivo e ventilatório, e risco elevado de mortalidade, particularmente em idosos, imunocomprometidos e pacientes com comorbidades.",
+    "epidemiologia": "A pneumonia é uma das principais causas de internação hospitalar e mortalidade infecciosa. A forma grave é responsável por 20 a 30% das internações por pneumonia adquirida na comunidade e até 50% das pneumonias nosocomiais. Os patógenos variam de acordo com o contexto clínico e fatores de risco, incluindo Streptococcus pneumoniae, Legionella pneumophila, Staphylococcus aureus, bacilos gram-negativos multirresistentes, vírus influenza e SARS-CoV-2.",
+    "fisiopatologia": "A infecção leva à ativação do sistema imunológico, com liberação de mediadores inflamatórios que aumentam a permeabilidade capilar alveolar. Isso resulta em edema pulmonar não cardiogênico, hipoxemia e diminuição da complacência pulmonar. A resposta inflamatória sistêmica pode causar sepse, disfunção endotelial, coagulopatia e lesão de múltiplos órgãos. A síndrome do desconforto respiratório agudo (SDRA) é uma complicação frequente nos casos mais graves.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial persistente, mesmo após reposição volêmica.",
+        "Taquicardia e sinais de hipoperfusão tecidual (oligúria, extremidades frias).",
+        "Sinais de choque séptico com necessidade de vasopressores."
+      ],
+      "respiratorias": [
+        "Dispneia progressiva, taquipneia (FR > 30 irpm).",
+        "Hipoxemia (SpO₂ < 90% em ar ambiente) e uso de musculatura acessória.",
+        "Estertores crepitantes, roncos e broncofonia à ausculta pulmonar."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência (confusão, sonolência, coma).",
+        "Hiponatremia, hipoglicemia ou hiperglicemia, acidose lática.",
+        "Elevação de marcadores inflamatórios e disfunção renal ou hepática associada."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é baseado na correlação entre quadro clínico respiratório agudo, achados ao exame físico e imagem compatível com infiltrado pulmonar novo. A gravidade é estratificada com base em critérios clínicos (CURB-65, PSI, qSOFA, SOFA). A identificação precoce do agente etiológico e da resistência antimicrobiana é essencial para guiar a antibioticoterapia.",
+      "exames_essenciais": [
+        "Radiografia de tórax e tomografia computadorizada: evidenciam infiltrados alveolares, consolidações, derrame pleural.",
+        "Gasometria arterial com cálculo de relação PaO₂/FiO₂: SDRA se < 300.",
+        "Hemograma completo, eletrólitos, função renal e hepática, glicemia.",
+        "Lactato sérico, PCR, procalcitonina, ferritina e DHL.",
+        "Hemoculturas e culturas de escarro e aspirado traqueal (se intubado).",
+        "Testes virais (painel respiratório, RT-PCR para influenza e SARS-CoV-2).",
+        "Antígenos urinários para pneumococo e Legionella pneumophila."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia refratária à oxigenoterapia convencional (PaO₂ < 60 mmHg ou SpO₂ < 90% com FiO₂ > 0,5).",
+      "Fadiga respiratória ou hipercapnia (PaCO₂ > 50 mmHg com pH < 7,3).",
+      "Rebaixamento do nível de consciência e risco de aspiração.",
+      "SDRA moderado a grave ou instabilidade hemodinâmica associada."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Início de antibioticoterapia empírica conforme diretrizes e epidemiologia local (idealmente na 1ª hora).",
+        "Oxigenoterapia com dispositivos de alto fluxo, VNI ou intubação orotraqueal conforme gravidade.",
+        "Reposição volêmica guiada por parâmetros clínicos e hemodinâmicos.",
+        "Uso precoce de vasopressores (noradrenalina) para manter PAM ≥ 65 mmHg.",
+        "Suporte ventilatório com estratégia protetora (volume corrente 6 mL/kg, PEEP individualizada).",
+        "Monitorização invasiva em UTI com gasometria, lactato, diurese horária e saturação venosa central.",
+        "Terapias adjuvantes: corticosteroides (em casos selecionados), antivirais, anticoagulação profilática.",
+        "Fisioterapia respiratória, prevenção de úlcera de estresse e tromboprofilaxia mecânica/química."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A pneumonia grave tem evolução variável, sendo influenciada por fatores como idade, comorbidades, patógeno envolvido, precocidade do tratamento e resposta clínica. A mortalidade pode ultrapassar 30% nos casos com SDRA, necessidade de VM ou choque séptico. Intervenções precoces e manejo agressivo melhoram o prognóstico."
+    },
+    "notas_adicionais": [
+      "Atualizar vacinação contra pneumococo e influenza em pacientes de risco.",
+      "Reavaliar antibioticoterapia diariamente com base em cultura e evolução clínica.",
+      "Evitar fluidos em excesso e avaliar balanço hídrico com ultrassom de VE e VCI.",
+      "Considerar ECMO em casos de hipoxemia grave refratária (PaO₂/FiO₂ < 80).",
+      "Instituir cuidados paliativos quando apropriado, com base em prognóstico funcional.",
+      "Notificar casos de influenza, Legionella e COVID-19 à vigilância epidemiológica local."
+    ],
+    "fontes_bibliograficas": [
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Diretrizes da Sociedade Brasileira de Pneumologia e Tisiologia – Pneumonias. 2023.",
+      "Miller’s Anesthesia. 8ª ed. Cap. 85 – Infecções Pulmonares.",
+      "UpToDate. Severe community-acquired pneumonia: Management and prognosis. 2024.",
+      "Surviving Sepsis Campaign. Guidelines 2021."
+    ]
+  },
+  "US": {
+    "title": "Severe Pneumonia",
+    "definition": "Severe pneumonia is a life-threatening pulmonary infection characterized by extensive alveolar involvement, respiratory failure, sepsis, and potential multi-organ dysfunction. It is associated with rapid clinical deterioration, need for intensive care, and high mortality rates, particularly in elderly, immunocompromised individuals, and those with comorbidities.",
+    "epidemiology": "Pneumonia remains a leading cause of infectious hospitalization and mortality worldwide. Severe forms account for 20–30% of community-acquired pneumonia (CAP) admissions and up to 50% of nosocomial cases. Common pathogens include Streptococcus pneumoniae, Legionella pneumophila, Staphylococcus aureus, multidrug-resistant gram-negative bacilli, influenza viruses, and SARS-CoV-2.",
+    "pathophysiology": "The inflammatory response to infection leads to alveolar-capillary membrane disruption, non-cardiogenic pulmonary edema, and impaired gas exchange. This triggers systemic inflammation, septic shock, endothelial dysfunction, and coagulation abnormalities. Acute respiratory distress syndrome (ARDS) is a frequent complication in severe pneumonia.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Persistent hypotension despite fluid resuscitation.",
+        "Tachycardia and peripheral hypoperfusion (cold extremities, oliguria).",
+        "Signs of septic shock requiring vasopressors."
+      ],
+      "respiratorias": [
+        "Progressive dyspnea and tachypnea (RR > 30 bpm).",
+        "Hypoxemia (SpO₂ < 90% on room air) and use of accessory muscles.",
+        "Crackles, rhonchi, and bronchial breath sounds on auscultation."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Altered mental status (confusion, drowsiness, coma).",
+        "Electrolyte imbalances (e.g., hyponatremia), hypo- or hyperglycemia, lactic acidosis.",
+        "Elevated inflammatory markers, renal or hepatic dysfunction."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Diagnosis is based on clinical-radiologic correlation: acute respiratory symptoms, systemic signs of infection, and new pulmonary infiltrates. Severity is assessed using scores such as CURB-65, PSI, qSOFA, or SOFA. Identification of etiologic agents is key to guide therapy.",
+      "exames_essenciais": [
+        "Chest X-ray and/or CT scan showing alveolar infiltrates, consolidations, or pleural effusion.",
+        "Arterial blood gas with PaO₂/FiO₂ calculation: ARDS if < 300.",
+        "Complete blood count, electrolytes, renal and liver function, blood glucose.",
+        "Lactate, CRP, procalcitonin, ferritin, and LDH.",
+        "Blood cultures, sputum or endotracheal aspirate cultures (if intubated).",
+        "Respiratory viral panel (e.g., RT-PCR for influenza and SARS-CoV-2).",
+        "Urinary antigens for Streptococcus pneumoniae and Legionella pneumophila."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Refractory hypoxemia (PaO₂ < 60 mmHg or SpO₂ < 90% on FiO₂ > 0.5).",
+      "Respiratory muscle fatigue or hypercapnia (PaCO₂ > 50 mmHg with pH < 7.3).",
+      "Impaired consciousness with aspiration risk.",
+      "Moderate-to-severe ARDS or associated hemodynamic instability."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Empiric broad-spectrum antibiotics initiated ideally within the first hour.",
+        "Oxygen therapy via high-flow devices, non-invasive ventilation (NIV), or intubation as needed.",
+        "Fluid resuscitation guided by hemodynamic parameters.",
+        "Early vasopressors (norepinephrine) to maintain MAP ≥ 65 mmHg.",
+        "Protective mechanical ventilation strategy (tidal volume 6 mL/kg, individualized PEEP).",
+        "ICU monitoring with ABG, lactate, hourly urine output, central venous saturation.",
+        "Adjunctive therapies: corticosteroids (in selected cases), antivirals, prophylactic anticoagulation.",
+        "Early respiratory physiotherapy and prevention of stress ulcers and thromboembolism."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis varies with age, comorbidities, pathogen virulence, timing of intervention, and response to treatment. Mortality exceeds 30% in ARDS, mechanical ventilation, or septic shock cases. Early aggressive management improves outcomes significantly."
+    },
+    "additional_notes": [
+      "Update pneumococcal and influenza vaccinations in high-risk patients.",
+      "Reassess antibiotic therapy daily based on cultures and clinical progress.",
+      "Avoid fluid overload; monitor fluid balance using bedside ultrasound (e.g., IVC, LV function).",
+      "Consider ECMO in refractory hypoxemia (PaO₂/FiO₂ < 80).",
+      "Implement palliative care discussions when appropriate based on functional prognosis.",
+      "Report notifiable pathogens such as influenza, Legionella, and COVID-19 to health authorities."
+    ],
+    "references": [
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Pulmonology and Phthisiology – Pneumonia Guidelines. 2023.",
+      "Miller’s Anesthesia. 8th ed. Chapter 85 – Pulmonary Infections.",
+      "UpToDate. Severe community-acquired pneumonia: Management and prognosis. 2024.",
+      "Surviving Sepsis Campaign. Guidelines 2021."
+    ]
+  },
+  "ES": {
+    "titulo": "Neumonía Grave",
+    "definicion": "La neumonía grave es una infección pulmonar aguda y potencialmente mortal que afecta extensas áreas del parénquima pulmonar, llevando a insuficiencia respiratoria hipoxémica, sepsis y disfunción multiorgánica. Se caracteriza por deterioro clínico rápido, necesidad de soporte ventilatorio y cuidados intensivos, con elevada mortalidad especialmente en pacientes ancianos, inmunosuprimidos o con comorbilidades.",
+    "epidemiologia": "La neumonía es una de las principales causas de ingreso hospitalario y mortalidad infecciosa a nivel mundial. Las formas graves representan entre el 20–30% de los casos de neumonía adquirida en la comunidad (NAC) y hasta el 50% de las neumonías nosocomiales. Entre los patógenos más frecuentes se encuentran Streptococcus pneumoniae, Legionella pneumophila, Staphylococcus aureus, bacilos gramnegativos multirresistentes, virus influenza y SARS-CoV-2.",
+    "fisiopatologia": "La infección pulmonar desencadena una respuesta inflamatoria local y sistémica con aumento de la permeabilidad alveolocapilar, edema pulmonar no cardiogénico e hipoxemia. La inflamación sistémica puede evolucionar hacia sepsis, coagulopatía, disfunción endotelial y falla multiorgánica. El síndrome de distrés respiratorio agudo (SDRA) es una complicación frecuente en los casos más graves.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión persistente a pesar de reanimación con líquidos.",
+        "Taquicardia y signos de hipoperfusión periférica (oliguria, piel fría).",
+        "Evidencia de choque séptico con necesidad de vasopresores."
+      ],
+      "respiratorias": [
+        "Disnea progresiva, taquipnea (>30 rpm).",
+        "Hipoxemia (SpO₂ < 90% en aire ambiente) con uso de musculatura accesoria.",
+        "Estertores crepitantes, roncus y soplos bronquiales a la auscultación."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Alteración del estado mental (confusión, somnolencia, coma).",
+        "Trastornos electrolíticos (hiponatremia), hipo o hiperglucemia, acidosis láctica.",
+        "Marcadores inflamatorios elevados, disfunción renal o hepática."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico se basa en la correlación clínico-radiológica: síntomas respiratorios agudos, signos sistémicos de infección e infiltrado pulmonar nuevo. Se evalúa la gravedad mediante escalas como CURB-65, PSI, qSOFA o SOFA. La identificación del agente etiológico guía la terapia dirigida.",
+      "exames_essenciais": [
+        "Radiografía de tórax y/o TC con consolidaciones, infiltrados alveolares o derrame pleural.",
+        "Gasometría arterial con PaO₂/FiO₂: define SDRA si < 300.",
+        "Hemograma, electrolitos, función renal y hepática, glucemia.",
+        "Lactato, PCR, procalcitonina, ferritina, DHL.",
+        "Hemocultivos, cultivo de esputo o aspirado endotraqueal (si intubado).",
+        "Panel viral respiratorio (incluyendo RT-PCR para influenza y SARS-CoV-2).",
+        "Antígenos urinarios para neumococo y Legionella pneumophila."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Hipoxemia refractaria (PaO₂ < 60 mmHg o SpO₂ < 90% con FiO₂ > 0,5).",
+      "Fatiga respiratoria o hipercapnia (PaCO₂ > 50 mmHg con pH < 7,3).",
+      "Compromiso del nivel de conciencia con riesgo de aspiración.",
+      "SDRA moderado a grave o inestabilidad hemodinámica asociada."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Inicio precoz de antibióticos de amplio espectro, idealmente en la primera hora.",
+        "Oxigenoterapia con dispositivos de alto flujo, VNI o intubación según la gravedad.",
+        "Reanimación con líquidos guiada por parámetros clínicos y hemodinámicos.",
+        "Uso precoz de vasopresores (norepinefrina) para mantener PAM ≥ 65 mmHg.",
+        "Ventilación mecánica protectora (volumen corriente 6 mL/kg, PEEP ajustada individualmente).",
+        "Monitoreo en UCI con gasometría, lactato, diuresis horaria y saturación venosa central.",
+        "Terapias coadyuvantes: corticoides (en casos seleccionados), antivirales, anticoagulación profiláctica.",
+        "Fisioterapia respiratoria precoz y prevención de úlceras por estrés y tromboembolismo."
+      ]
+    },
+    "prognosis": {
+      "comment": "El pronóstico depende de la edad, comorbilidades, virulencia del patógeno, inicio precoz del tratamiento y respuesta clínica. La mortalidad supera el 30% en pacientes con SDRA, ventilación mecánica o choque séptico. El manejo agresivo y temprano mejora significativamente los desenlaces clínicos."
+    },
+    "additional_notes": [
+      "Actualizar vacunas contra neumococo e influenza en pacientes de riesgo.",
+      "Reevaluar diariamente el esquema antibiótico según cultivos y evolución clínica.",
+      "Evitar sobrecarga de líquidos; valorar el balance hídrico con ecografía de VCI y función ventricular.",
+      "Considerar ECMO en hipoxemia refractaria (PaO₂/FiO₂ < 80).",
+      "Ofrecer cuidados paliativos cuando sea apropiado según el pronóstico funcional.",
+      "Notificar a las autoridades sanitarias los casos de influenza, Legionella y COVID-19."
+    ],
+    "references": [
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Neumología – Guías de Neumonía. 2023.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 85 – Infecciones Pulmonares.",
+      "UpToDate. Neumonía adquirida en la comunidad grave: manejo y pronóstico. 2024.",
+      "Surviving Sepsis Campaign. Guías 2021."
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "PT": {
+    "external": {
+      "name": "Propofol",
+      "suspension": "Não se aplica (uso hospitalar EV); avaliar suspensão de benzodiazepínicos e anticonvulsivantes se em uso crônico",
+      "risk": "Depressão respiratória, hipotensão, bradicardia, dor à injeção, risco de síndrome do propofol em infusão prolongada (PRIS)",
+      "reintroduction": "Reintroduzir conforme necessidade anestésica, com vigilância cardiovascular e suporte ventilatório"
+    },
+    "bulario": {
+      "nomePrincipioAtivo": "Propofol",
+      "nomeComercial": "Diprivan, Propovan, Recofol",
+      "mecanismoAcao": "Modulador positivo do GABA-A; promove sedação, hipnose e amnésia com rápida indução e recuperação",
+      "farmacocinetica": "Início: 30s; duração: 3–10min; metabolizado no fígado (CYP2B6); eliminação renal; redistribuição rápida",
+      "farmacodinamica": "Hipnótico intravenoso de curta ação, ideal para indução anestésica, sedação e manutenção em procedimentos ou UTI",
+      "indicacoes": "Indução e manutenção da anestesia, sedação em UTI, procedimentos diagnósticos e cirúrgicos curtos",
+      "reacoesAdversas": "Hipotensão, bradicardia, apneia, mioclonias, dor à injeção, pancreatite (rara), síndrome do propofol (PRIS)",
+      "riscoGravidez": "Categoria B",
+      "riscoLactacao": "Compatível com lactação após uso único",
+      "administracao": "Intravenosa (bolo e infusão contínua)",
+      "doseMaxima": "Infusão até 4mg/kg/h em sedação; indução 2,5mg/kg (adulto jovem saudável)",
+      "doseMinima": "Indução: 1–2mg/kg; sedação leve: 0,3–0,5mg/kg",
+      "classificacao": "Hipnótico IV não barbitúrico de ação ultracurta",
+      "apresentacao": "Emulsão oleosa 10mg/mL (frasco 20mL, 50mL, 100mL)",
+      "interacaoMedicamento": "Benzodiazepínicos, opioides, anestésicos voláteis, bloqueadores neuromusculares, álcool",
+      "posologia": "Indução: 1,5–2,5mg/kg IV; manutenção: 4–12mg/kg/h; sedação: 25–100mcg/kg/min",
+      "armazenamento": "Temperatura ambiente, agitar antes do uso, válido por 6h após abertura (em sistema fechado)",
+      "preparo": "Administrar IV lento em veia calibrosa; preferir uso com lidocaína para reduzir dor à injeção",
+      "solucoesCompatíveis": "SF 0,9%; incompatível com SG 5%, sangue total e agentes alcalinos",
+      "contraindicacoes": "Alergia a ovos ou soja (relativa), hipersensibilidade, hipotensão grave não compensada, disfunção mitocondrial",
+      "cuidadosMedicos": "Monitorar ECG, PA, SpO2, FR, sinais de PRIS, acidose metabólica e disfunção hepática/renal em uso prolongado",
+      "cuidadosFarmaceuticos": "Observar validade, emulsão uniforme, controle de tempo de infusão (alto risco microbiológico)",
+      "cuidadosEnfermagem": "Monitorar sedação, ventilação, dor à injeção, sinais vitais, nível de consciência e cor da urina (PRIS)",
+      "fontesBibliograficas": "FDA, ANVISA, EMA, Micromedex, UpToDate, Miller’s Anesthesia, SBAR"
+    }
+  }
+}

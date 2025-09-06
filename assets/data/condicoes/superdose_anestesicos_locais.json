@@ -1,0 +1,191 @@
+{
+  "PT": {
+    "titulo": "Superdose por Anestésicos Locais",
+    "definicao": "A superdose por anestésicos locais (SAL) é uma emergência potencialmente fatal causada por administração excessiva, absorção rápida ou injeção intravascular inadvertida de anestésicos locais (AL). Tal evento pode desencadear toxicidade sistêmica, conhecida como LAST (Local Anesthetic Systemic Toxicity), com manifestações neurológicas e cardiovasculares graves. A rápida identificação e o tratamento imediato são essenciais para evitar desfechos fatais.",
+    "epidemiologia": "A incidência de LAST varia entre 0,03% e 0,27% dos bloqueios periféricos, sendo maior em bloqueios intercostais, paravertebrais e peitorais profundos. Crianças, idosos, pacientes com hipoalbuminemia, doença hepática ou renal, e indivíduos submetidos a procedimentos com grandes volumes de AL são especialmente vulneráveis. A bupivacaína e a ropivacaína estão entre os agentes mais frequentemente implicados.",
+    "fisiopatologia": "Os AL bloqueiam canais de sódio dependentes de voltagem, inibindo a condução nervosa e muscular. Em níveis plasmáticos tóxicos, afetam o SNC e o miocárdio. Inicialmente, ocorre excitação do SNC (por inibição de interneurônios inibitórios), seguida por depressão generalizada. No coração, bloqueiam a condução e reduzem a contratilidade, podendo causar arritmias letais. A alta lipossolubilidade da bupivacaína favorece acúmulo miocárdico e dissociação lenta dos canais de sódio, o que justifica sua alta cardiotoxicidade.",
+    "manifestações_clinicas": {
+      "neurologicas": [
+        "Zumbido, parestesia perioral, gosto metálico.",
+        "Visão turva, agitação, confusão mental.",
+        "Tremores, mioclonias, convulsões tônico-clônicas, coma, apneia."
+      ],
+      "cardiovasculares": [
+        "Hipotensão, bradicardia progressiva.",
+        "Bloqueios atrioventriculares, taquicardia ventricular, fibrilação ventricular.",
+        "Assistolia e colapso cardiovascular súbito em intoxicação grave, especialmente com bupivacaína."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseia-se na suspeita clínica e correlação temporal entre a administração de AL e o surgimento de sintomas. LAST deve ser considerado em qualquer evento neurológico ou cardiovascular inexplicado após procedimento com anestésico local, mesmo que a dose administrada esteja dentro dos limites habituais.",
+      "exames_essenciais": [
+        "ECG contínuo, oximetria de pulso e pressão arterial não invasiva.",
+        "Gasometria arterial: avaliar oxigenação, ventilação e equilíbrio ácido-base.",
+        "Glicemia capilar: excluir hipoglicemia em casos de convulsão.",
+        "Dosagem plasmática de AL não é necessária para o diagnóstico inicial, mas pode ser usada retrospectivamente."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Rebaixamento de consciência com perda de reflexos protetores.",
+      "Apneia ou respiração irregular após convulsões.",
+      "Hipoxemia refratária (SpO₂ < 90% com FiO₂ > 0,6).",
+      "Colapso cardiovascular com necessidade de sedação para intubação orotraqueal."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Interromper imediatamente a infusão do anestésico local.",
+        "Oxigênio a 100%, via aérea segura, suporte ventilatório se necessário.",
+        "Controle das convulsões com benzodiazepínicos (midazolam, diazepam).",
+        "Evitar propofol em doses elevadas em pacientes instáveis.",
+        "Iniciar emulsão lipídica 20% (bolus 1,5 mL/kg em 1 min + infusão 0,25 mL/kg/min).",
+        "Se instabilidade persistente: repetir bolus a cada 5 min (máx. 3 vezes) e aumentar infusão para 0,5 mL/kg/min.",
+        "Volume total máximo recomendado: 10 mL/kg.",
+        "Evitar vasopressores como vasopressina; preferir baixas doses de adrenalina (≤ 1 mcg/kg por dose).",
+        "RCP prolongada se necessário (> 60 minutos), mantendo infusão lipídica."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Com intervenção precoce e adequada, os pacientes podem se recuperar completamente, mesmo após eventos graves como convulsões prolongadas ou parada cardíaca. A resposta à emulsão lipídica é frequentemente rápida. Casos não tratados rapidamente têm alta taxa de mortalidade. A educação e protocolos bem estabelecidos são fatores determinantes para o desfecho favorável."
+    },
+    "notas_adicionais": [
+      "Sempre calcular e respeitar a dose máxima de AL com base no peso e tipo de fármaco.",
+      "Fracionar a dose e aspirar antes de cada injeção para reduzir risco de injeção intravascular.",
+      "A emulsão lipídica 20% deve estar disponível em qualquer ambiente que utilize AL.",
+      "Registrar o evento em prontuário e notificar o centro de toxicologia/hospital.",
+      "Simulações regulares de emergência por LAST devem ser realizadas nas unidades assistenciais."
+    ],
+    "fontes_bibliograficas": [
+      "Neal JM, et al. ASRA Practice Advisory on Local Anesthetic Systemic Toxicity. Reg Anesth Pain Med. 2018.",
+      "UpToDate. Local anesthetic systemic toxicity. 2024.",
+      "Barash PG, et al. Clinical Anesthesia. 8ª ed. Capítulo 20 – Local Anesthetics.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Anestesiologia – Diretriz sobre Toxicidade Sistêmica por Anestésico Local. 2022."
+    ]
+  },
+  "US": {
+    "title": "Local Anesthetic Systemic Toxicity (LAST)",
+    "definition": "Local Anesthetic Systemic Toxicity (LAST) is a potentially life-threatening complication that results from excessive plasma concentrations of local anesthetics (LAs), due to overdose, rapid absorption, or inadvertent intravascular injection. It manifests as a spectrum of neurologic and cardiovascular symptoms that may progress to seizures, arrhythmias, cardiac arrest, and death if not promptly recognized and treated.",
+    "epidemiology": "The incidence of LAST is estimated to range from 0.03% to 0.27% in peripheral nerve blocks, with higher rates in intercostal, paravertebral, and pectoral blocks. Risk factors include pediatric or elderly age, hepatic or renal dysfunction, low plasma protein levels, large volume injections, or use of highly lipophilic agents like bupivacaine. Simulation-based training has improved recognition and outcomes.",
+    "pathophysiology": "Local anesthetics block voltage-gated sodium channels, inhibiting neuronal conduction. In toxic doses, they disrupt CNS inhibition leading to excitation (e.g., seizures), followed by CNS depression. In the cardiovascular system, LAs impair electrical conduction and myocardial contractility. Bupivacaine has a high affinity for cardiac sodium channels, making it particularly cardiotoxic due to slow dissociation and lipophilicity.",
+    "clinical_manifestations": {
+      "neurologic": [
+        "Tinnitus, circumoral numbness, metallic taste.",
+        "Blurred vision, agitation, confusion.",
+        "Tremors, myoclonus, generalized tonic-clonic seizures, coma, respiratory arrest."
+      ],
+      "cardiovascular": [
+        "Hypotension, progressive bradycardia.",
+        "Atrioventricular block, ventricular tachycardia or fibrillation.",
+        "Sudden cardiovascular collapse, particularly with bupivacaine."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is clinical and based on the temporal relationship between LA administration and symptom onset. LAST should be suspected in any neurologic or cardiovascular event after regional anesthesia, especially if symptoms occur during or shortly after the block.",
+      "essential_tests": [
+        "Continuous ECG, pulse oximetry, noninvasive blood pressure monitoring.",
+        "Arterial blood gas: assess ventilation, oxygenation, and acidosis.",
+        "Point-of-care glucose: exclude hypoglycemia as a seizure trigger.",
+        "Plasma LA levels are not required for diagnosis but may be useful retrospectively."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Decreased consciousness with loss of protective reflexes.",
+      "Apnea or ineffective breathing post-seizure.",
+      "Refractory hypoxemia (SpO₂ &lt; 90% despite FiO₂ &gt; 0.6).",
+      "Hemodynamic instability requiring sedation and intubation."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediately stop LA administration.",
+        "Provide 100% oxygen and secure airway; initiate ventilation as needed.",
+        "Control seizures with benzodiazepines (midazolam or diazepam).",
+        "Avoid high-dose propofol in hemodynamically unstable patients.",
+        "Initiate 20% lipid emulsion therapy: 1.5 mL/kg bolus over 1 minute + continuous infusion at 0.25 mL/kg/min.",
+        "If instability persists: repeat bolus up to 2 more times and increase infusion to 0.5 mL/kg/min.",
+        "Maximum total lipid volume: 10 mL/kg.",
+        "Avoid vasopressin; use low-dose epinephrine (≤ 1 mcg/kg).",
+        "Prolonged resuscitation (&gt; 60 minutes) may be needed during cardiac arrest."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis is excellent when LAST is recognized early and treated appropriately. Lipid emulsion therapy is effective in reversing both neurologic and cardiovascular symptoms. Delayed or missed diagnosis increases the risk of morbidity and mortality. Institutional preparedness, availability of lipid rescue kits, and regular simulation training are key to improving outcomes."
+    },
+    "additional_notes": [
+      "Always calculate maximum LA dose by weight and type of agent.",
+      "Fractionate doses and aspirate before injection to reduce intravascular injection risk.",
+      "20% lipid emulsion must be readily available wherever LAs are used.",
+      "Document events and notify pharmacy and toxicology services.",
+      "LAST management protocols should be routinely reviewed and rehearsed in clinical environments."
+    ],
+    "references": [
+      "Neal JM, et al. ASRA Practice Advisory on Local Anesthetic Systemic Toxicity. Reg Anesth Pain Med. 2018.",
+      "UpToDate. Local anesthetic systemic toxicity. 2024.",
+      "Barash PG, et al. Clinical Anesthesia. 8th ed. Chapter 20 – Local Anesthetics.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Anesthesiology – Guidelines on Systemic Toxicity of Local Anesthetics. 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Toxicidad Sistémica por Anestésicos Locales (LAST)",
+    "definicion": "La toxicidad sistémica por anestésicos locales (LAST, por sus siglas en inglés) es una complicación potencialmente mortal resultante de la administración excesiva, absorción rápida o inyección intravascular inadvertida de anestésicos locales (AL). Este cuadro clínico produce manifestaciones neurológicas y cardiovasculares graves, y requiere intervención inmediata para evitar desenlaces fatales.",
+    "epidemiologia": "La incidencia de LAST oscila entre 0,03% y 0,27% en bloqueos periféricos, siendo mayor en bloqueos intercostales, paravertebrales y planos musculares profundos. Los factores de riesgo incluyen edad pediátrica o avanzada, hipoalbuminemia, enfermedades hepáticas o renales, procedimientos con grandes volúmenes de AL y el uso de agentes altamente lipofílicos como la bupivacaína.",
+    "fisiopatologia": "Los AL bloquean los canales de sodio dependientes de voltaje, impidiendo la conducción neuronal. En concentraciones plasmáticas tóxicas, producen primero excitación del sistema nervioso central seguida de depresión. En el sistema cardiovascular, disminuyen la contractilidad miocárdica y la conducción eléctrica. La bupivacaína es particularmente cardiotóxica por su alta lipofilia y lenta disociación de los canales de sodio cardíacos.",
+    "manifestaciones_clinicas": {
+      "neurologicas": [
+        "Acúfenos, parestesias peribucales, sabor metálico.",
+        "Visión borrosa, agitación, confusión.",
+        "Temblores, mioclonías, convulsiones tónico-clónicas generalizadas, coma, apnea."
+      ],
+      "cardiovasculares": [
+        "Hipotensión, bradicardia progresiva.",
+        "Bloqueos auriculoventriculares, taquicardia ventricular, fibrilación ventricular.",
+        "Colapso cardiovascular repentino, especialmente con bupivacaína."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es clínico y debe basarse en la asociación temporal entre la administración del AL y la aparición de síntomas. LAST debe sospecharse ante cualquier alteración neurológica o cardiovascular que ocurra durante o después de una anestesia regional.",
+      "examenes_esenciales": [
+        "Monitorización continua: ECG, oximetría de pulso, presión arterial no invasiva.",
+        "Gasometría arterial: evaluar ventilación, oxigenación y equilibrio ácido-base.",
+        "Glucemia capilar: descartar hipoglucemia como causa de convulsiones.",
+        "Los niveles plasmáticos de AL no son necesarios para el diagnóstico inicial pero pueden ser útiles a posteriori."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Disminución del nivel de conciencia con pérdida de reflejos protectores.",
+      "Apnea o respiración ineficaz posterior a convulsiones.",
+      "Hipoxemia refractaria (SpO₂ &lt; 90% con FiO₂ &gt; 0,6).",
+      "Inestabilidad hemodinámica que requiere intubación y sedación."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Suspender inmediatamente la administración del AL.",
+        "Oxígeno al 100%, asegurar vía aérea, iniciar ventilación si es necesario.",
+        "Control de convulsiones con benzodiazepinas (midazolam, diazepam).",
+        "Evitar propofol en dosis altas en pacientes inestables.",
+        "Iniciar emulsión lipídica al 20%: bolo de 1,5 mL/kg en 1 minuto + infusión continua a 0,25 mL/kg/min.",
+        "Si la inestabilidad persiste: repetir el bolo hasta 2 veces más y aumentar la infusión a 0,5 mL/kg/min.",
+        "Volumen total máximo recomendado: 10 mL/kg.",
+        "Evitar vasopresina; utilizar adrenalina a dosis bajas (≤ 1 mcg/kg).",
+        "Prolongar maniobras de RCP si es necesario (&gt; 60 minutos) manteniendo infusión lipídica."
+      ]
+    },
+    "pronostico": {
+      "comentario": "Con diagnóstico precoz e intervención inmediata, el pronóstico es favorable. La emulsión lipídica ha demostrado revertir eficazmente las manifestaciones neurológicas y cardiovasculares. El retraso en el tratamiento incrementa la mortalidad. La disponibilidad de protocolos, emulsión lipídica en quirófanos y entrenamiento regular del personal son claves para mejorar los desenlaces clínicos."
+    },
+    "notas_adicionales": [
+      "Siempre calcular la dosis máxima de AL de acuerdo con el peso y tipo de fármaco.",
+      "Fraccionar la dosis y aspirar antes de cada inyección para evitar la inyección intravascular.",
+      "La emulsión lipídica debe estar disponible en todos los lugares donde se usen AL.",
+      "Documentar el evento y notificar a farmacia y toxicología.",
+      "Los protocolos de manejo de LAST deben actualizarse y simularse regularmente en entornos clínicos."
+    ],
+    "referencias": [
+      "Neal JM, et al. ASRA Practice Advisory on Local Anesthetic Systemic Toxicity. Reg Anesth Pain Med. 2018.",
+      "UpToDate. Toxicidad sistémica por anestésicos locales. 2024.",
+      "Barash PG, et al. Clinical Anesthesia. 8ª ed. Capítulo 20 – Anestésicos Locales.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Anestesiología – Directriz sobre Toxicidad Sistémica por Anestésicos Locales. 2022."
+    ]
+  }
+}

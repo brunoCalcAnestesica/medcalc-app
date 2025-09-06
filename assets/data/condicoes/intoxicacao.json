@@ -1,0 +1,230 @@
+{
+  "PT": {
+    "titulo": "Intoxicação Exógena",
+    "definicao": "Intoxicação exógena é uma síndrome clínica resultante da exposição aguda ou crônica a substâncias químicas externas ao organismo, com potencial de causar disfunções metabólicas, neurológicas, cardiovasculares ou respiratórias. Pode ocorrer por ingestão acidental, tentativa de suicídio, uso abusivo, acidentes ocupacionais ou ambientais. A gravidade varia conforme o agente, dose, tempo de exposição e condições clínicas do paciente. O manejo adequado exige abordagem sistemática, suporte intensivo e, quando indicado, administração de antídotos específicos.",
+    "epidemiologia": "As intoxicações exógenas são causa frequente de atendimentos em serviços de emergência e unidades de terapia intensiva, representando um grave problema de saúde pública. No Brasil, mais de 120 mil casos são notificados anualmente, com predomínio em crianças (por acidentes domésticos), adolescentes (tentativas de suicídio) e trabalhadores rurais (exposição a pesticidas). As principais substâncias envolvidas incluem medicamentos (benzodiazepínicos, antidepressivos, anticonvulsivantes, paracetamol), substâncias ilícitas (cocaína, crack, opiáceos), pesticidas (organofosforados e carbamatos), produtos de limpeza (soda cáustica, hipoclorito) e álcool.",
+    "fisiopatologia": "As manifestações clínicas das intoxicações exógenas decorrem da interação tóxica das substâncias com sistemas bioquímicos e fisiológicos do organismo. Os mecanismos mais comuns incluem: inibição enzimática (ex: organofosforados inibem a acetilcolinesterase), bloqueio de receptores (ex: opioides nos receptores mu), ativação de canais iônicos (ex: cocaína nos canais de sódio), lesão direta celular (ex: paracetamol e necrose hepática centrolobular), produção de metabólitos tóxicos (ex: metanol e formaldeído) e disfunção mitocondrial. O tempo de início e a gravidade variam de acordo com a toxicocinética e toxicodinâmica do agente.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Alteração do nível de consciência: agitação psicomotora, sonolência, estupor, coma",
+        "Sinais autonômicos: sudorese, midríase/miose, sialorreia, hipertensão/hipotensão",
+        "Náuseas, vômitos, dor abdominal, diarreia",
+        "Arritmias cardíacas: taquicardia, bradicardia, QRS alargado, QT prolongado",
+        "Respiração anormal: hiperventilação, apneia, bradipneia"
+      ],
+      "outras": [
+        "Convulsões ou estado de mal epiléptico",
+        "Padrões de odor característico (ex: amêndoas amargas – cianeto; alho – organofosforados)",
+        "Cianose, hipoxemia, metemoglobinemia",
+        "Rabdomiólise e insuficiência renal aguda",
+        "Hepatite fulminante (paracetamol)",
+        "Acidose metabólica com hiato aniônico aumentado (salicilato, metanol, etilenoglicol)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico deve ser clínico-epidemiológico, baseado em anamnese dirigida, exame físico detalhado e sinais clínicos compatíveis com síndromes toxicológicas (toxidromes). O uso de algoritmos e tabelas comparativas ajuda na identificação. A busca por frascos, bulas, substâncias ao redor do paciente e relato de testemunhas é fundamental. A estabilização (ABCDE) deve preceder os exames complementares.",
+      "exames_essenciais": [
+        "Glicemia capilar imediata (excluir hipoglicemia)",
+        "Gasometria arterial com lactato e ânion gap",
+        "Eletrocardiograma seriado (intervalos QT, QRS, ondas T, arritmias)",
+        "Dosagem de eletrólitos: sódio, potássio, cálcio, magnésio",
+        "Função hepática e renal",
+        "CK e mioglobina (rabdomiólise)",
+        "Toxicologia de triagem: urina e sangue (quando disponível)",
+        "Radiografia de tórax e abdominal (visualizar corpos estranhos ou pneumonite)",
+        "Coagulograma completo (intoxicações com anticoagulantes ou hepatotóxicos)",
+        "Osmol gap (se suspeita de metanol ou etilenoglicol)"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Coma profundo ou rebaixamento do nível de consciência com Glasgow ≤ 8",
+      "Apneia, bradipneia ou esforço respiratório ineficaz",
+      "Saturação < 90% refratária a oxigenoterapia convencional",
+      "Convulsões refratárias com risco de hipóxia ou lesão neurológica",
+      "Broncoaspiração de conteúdo gástrico ou secreções tóxicas"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Estabilizar via aérea, respiração e circulação (ABC)",
+        "Oxigenoterapia suplementar e intubação se indicado",
+        "Monitorização contínua de ECG, oximetria e pressão arterial",
+        "Correção de hipoglicemia com glicose hipertônica (50 mL de SG 50%)",
+        "Administração de carvão ativado (1g/kg VO) nas primeiras 1–2h se não houver contraindicações",
+        "Lavagem gástrica com sonda orogástrica em casos selecionados (menos de 1h, substâncias potencialmente letais)",
+        "Uso precoce de antídotos específicos: naloxona (opioides), flumazenil (benzodiazepínicos com cautela), N-acetilcisteína (paracetamol), atropina e pralidoxima (organofosforados)",
+        "Diálise ou hemodiálise em substâncias dializáveis (ex: metanol, etilenoglicol, salicilato, lítio)",
+        "Suporte avançado em UTI para casos graves ou com risco de deterioração clínica",
+        "Notificação obrigatória aos centros de toxicologia regionais"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A maioria das intoxicações possui bom prognóstico com suporte precoce adequado. Entretanto, agentes cardiotóxicos, neurotóxicos e hepatotóxicos em doses elevadas aumentam consideravelmente a mortalidade. Fatores associados a pior evolução incluem: início tardio do atendimento (> 6h), ausência de antídoto específico, coingestão de múltiplos agentes, presença de acidose metabólica grave e falência orgânica múltipla. O acompanhamento psiquiátrico é essencial nos casos de tentativa de suicídio."
+    },
+    "notas_adicionais": [
+      "A administração de flumazenil deve ser evitada em pacientes com histórico de epilepsia ou dependência de benzodiazepínicos",
+      "A monitorização do tempo de protrombina (TP) é essencial em hepatotoxicidade",
+      "Intoxicações mistas exigem atenção redobrada à interação entre substâncias",
+      "Cuidado com absorventes tópicos e produtos de liberação prolongada (p. ex. anticolinérgicos)",
+      "Antídotos devem ser disponibilizados em pronto-socorro de referência e UTI"
+    ],
+    "fontes_bibliograficas": [
+      "Manual de Toxicologia Clínica – FIOCRUZ. 2022.",
+      "Goldfrank’s Toxicologic Emergencies. 11ª edição.",
+      "UpToDate – General approach to drug poisoning. 2024.",
+      "Ministério da Saúde – Protocolo de Intoxicações Exógenas. 2021.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 75 – Toxicologia e Antídotos."
+    ]
+  },
+  "US": {
+    "title": "Exogenous Poisoning",
+    "definition": "Exogenous poisoning is a clinical syndrome resulting from acute or chronic exposure to chemical substances external to the body, with the potential to cause metabolic, neurological, cardiovascular, or respiratory dysfunctions. It may result from accidental ingestion, suicide attempt, abusive use, occupational or environmental accidents. Severity depends on the agent involved, dose, duration of exposure, and patient comorbidities. Proper management requires a systematic approach, intensive support, and, when indicated, administration of specific antidotes.",
+    "epidemiology": "Exogenous poisonings are a common reason for emergency room visits and intensive care admissions, representing a major public health issue. In Brazil, more than 120,000 cases are reported annually, predominantly in children (accidental ingestion), adolescents (suicide attempts), and rural workers (pesticide exposure). The main agents include medications (benzodiazepines, antidepressants, anticonvulsants, acetaminophen), illicit substances (cocaine, crack, opioids), pesticides (organophosphates and carbamates), cleaning products (sodium hydroxide, bleach), and alcohol.",
+    "pathophysiology": "Clinical manifestations of exogenous poisoning result from toxic interaction of substances with biochemical and physiological systems. Common mechanisms include: enzymatic inhibition (e.g., organophosphates inhibit acetylcholinesterase), receptor blockade (e.g., opioids at mu receptors), ion channel activation (e.g., cocaine at sodium channels), direct cellular injury (e.g., acetaminophen-induced centrilobular hepatic necrosis), toxic metabolite generation (e.g., methanol to formaldehyde), and mitochondrial dysfunction. Onset and severity depend on the toxicokinetics and toxicodynamics of the agent.",
+    "clinical_manifestations": {
+      "classic": [
+        "Altered mental status: agitation, drowsiness, stupor, coma",
+        "Autonomic signs: sweating, mydriasis/miosis, salivation, hypertension/hypotension",
+        "Nausea, vomiting, abdominal pain, diarrhea",
+        "Cardiac arrhythmias: tachycardia, bradycardia, prolonged QRS or QT",
+        "Abnormal breathing: hyperventilation, apnea, bradypnea"
+      ],
+      "other": [
+        "Seizures or status epilepticus",
+        "Characteristic odors (e.g., bitter almonds – cyanide; garlic – organophosphates)",
+        "Cyanosis, hypoxemia, methemoglobinemia",
+        "Rhabdomyolysis and acute renal failure",
+        "Fulminant hepatitis (acetaminophen)",
+        "High anion gap metabolic acidosis (salicylates, methanol, ethylene glycol)"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is based on clinical-epidemiological context, targeted history-taking, physical exam, and recognition of toxidromes. Use of algorithms and comparative charts may assist in identifying the substance. Inspection of medication bottles, labels, chemical residues, or witness accounts is essential. Stabilization following the ABCDE approach must precede laboratory investigation.",
+      "essential_tests": [
+        "Immediate capillary blood glucose (to exclude hypoglycemia)",
+        "Arterial blood gas with lactate and anion gap calculation",
+        "Serial ECGs (QT/QRS intervals, T wave morphology, arrhythmias)",
+        "Electrolytes: sodium, potassium, calcium, magnesium",
+        "Renal and liver function tests",
+        "Creatine kinase and myoglobin (for rhabdomyolysis)",
+        "Toxicology screen (urine and blood when available)",
+        "Chest and abdominal X-rays (to detect aspiration or foreign bodies)",
+        "Coagulation profile (in hepatotoxic or anticoagulant poisonings)",
+        "Osmol gap (if methanol or ethylene glycol poisoning is suspected)"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Deep coma or GCS ≤ 8",
+      "Apnea, bradypnea, or ineffective spontaneous breathing",
+      "SpO₂ < 90% despite oxygen supplementation",
+      "Refractory seizures with risk of hypoxic brain injury",
+      "Bronchoaspiration of gastric contents or toxic secretions"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Stabilize airway, breathing, and circulation (ABC)",
+        "Supplemental oxygen and intubation if indicated",
+        "Continuous monitoring of ECG, SpO₂, blood pressure",
+        "Correct hypoglycemia with IV dextrose (50 mL of 50% glucose)",
+        "Administer activated charcoal (1g/kg PO) within 1–2 hours if no contraindication",
+        "Consider gastric lavage in selected cases (within 1 hour, lethal substances)",
+        "Administer specific antidotes early: naloxone (opioids), flumazenil (benzodiazepines, with caution), N-acetylcysteine (acetaminophen), atropine and pralidoxime (organophosphates)",
+        "Consider hemodialysis for dialyzable agents (e.g., methanol, ethylene glycol, salicylates, lithium)",
+        "Provide intensive care monitoring and support for high-risk cases",
+        "Mandatory notification to regional poison control centers"
+      ]
+    },
+    "prognosis": {
+      "comment": "Most patients recover fully with early and appropriate supportive care. However, high doses of cardiotoxic, neurotoxic, or hepatotoxic agents substantially increase mortality. Poor prognostic factors include delayed treatment (>6h), lack of specific antidote, mixed substance ingestion, severe metabolic acidosis, and multi-organ failure. Psychiatric follow-up is essential after suicide attempts."
+    },
+    "additional_notes": [
+      "Flumazenil should be avoided in patients with epilepsy or chronic benzodiazepine use",
+      "Monitoring PT/INR is critical in suspected hepatotoxicity",
+      "Mixed poisonings require careful attention to drug interactions",
+      "Caution with transdermal or extended-release formulations",
+      "Antidotes should be readily available in emergency and ICU settings"
+    ],
+    "references": [
+      "Manual de Toxicologia Clínica – FIOCRUZ. 2022.",
+      "Goldfrank’s Toxicologic Emergencies. 11th edition.",
+      "UpToDate – General approach to drug poisoning. 2024.",
+      "Ministério da Saúde – Protocolo de Intoxicações Exógenas. 2021.",
+      "Miller’s Anesthesia. 8th ed. Chapter 75 – Toxicology and Antidotes."
+    ]
+  },
+  "ES": {
+    "titulo": "Intoxicación Exógena",
+    "definicion": "La intoxicación exógena es un síndrome clínico resultante de la exposición aguda o crónica a sustancias químicas externas al organismo, con potencial para causar disfunciones metabólicas, neurológicas, cardiovasculares o respiratorias. Puede ocurrir por ingestión accidental, intento de suicidio, uso abusivo, accidentes laborales o ambientales. La gravedad varía según el agente, la dosis, el tiempo de exposición y las condiciones clínicas del paciente. El manejo adecuado requiere un enfoque sistemático, soporte intensivo y, cuando esté indicado, administración de antídotos específicos.",
+    "epidemiologia": "Las intoxicaciones exógenas son una causa frecuente de atención en los servicios de urgencia y cuidados intensivos, representando un problema importante de salud pública. En Brasil, se notifican más de 120.000 casos al año, con predominio en niños (por accidentes domésticos), adolescentes (intentos de suicidio) y trabajadores rurales (exposición a pesticidas). Las principales sustancias implicadas incluyen medicamentos (benzodiacepinas, antidepresivos, anticonvulsivantes, paracetamol), sustancias ilícitas (cocaína, crack, opiáceos), pesticidas (organofosforados y carbamatos), productos de limpieza (hidróxido de sodio, hipoclorito) y alcohol.",
+    "fisiopatologia": "Las manifestaciones clínicas de las intoxicaciones exógenas se deben a la interacción tóxica de las sustancias con sistemas bioquímicos y fisiológicos del organismo. Los mecanismos más comunes incluyen: inhibición enzimática (por ejemplo, organofosforados que inhiben la acetilcolinesterasa), bloqueo de receptores (por ejemplo, opiáceos en receptores mu), activación de canales iónicos (por ejemplo, cocaína en canales de sodio), lesión celular directa (por ejemplo, necrosis hepática por paracetamol), producción de metabolitos tóxicos (por ejemplo, formaldehído a partir del metanol) y disfunción mitocondrial. La aparición y la gravedad dependen de la toxicocinética y toxicodinámica del agente.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Alteración del estado mental: agitación, somnolencia, estupor, coma",
+        "Signos autonómicos: diaforesis, midriasis/miosis, sialorrea, hipertensión/hipotensión",
+        "Náuseas, vómitos, dolor abdominal, diarrea",
+        "Arritmias cardíacas: taquicardia, bradicardia, QRS o QT prolongados",
+        "Respiración anormal: hiperventilación, apnea, bradipnea"
+      ],
+      "otras": [
+        "Convulsiones o estado epiléptico",
+        "Olores característicos (por ejemplo, almendras amargas – cianuro; ajo – organofosforados)",
+        "Cianosis, hipoxemia, metahemoglobinemia",
+        "Rabdomiólisis e insuficiencia renal aguda",
+        "Hepatitis fulminante (paracetamol)",
+        "Acidosis metabólica con brecha aniónica aumentada (salicilatos, metanol, etilenglicol)"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico se basa en el contexto clínico-epidemiológico, anamnesis dirigida, examen físico detallado y reconocimiento de toxíndromes. El uso de algoritmos y tablas comparativas puede ayudar a identificar el agente. La inspección de frascos de medicamentos, etiquetas, residuos químicos o relatos de testigos es fundamental. La estabilización con el enfoque ABCDE debe preceder a la investigación complementaria.",
+      "examenes_esenciales": [
+        "Glucemia capilar inmediata (descartar hipoglucemia)",
+        "Gasometría arterial con lactato y cálculo de brecha aniónica",
+        "ECG seriado (intervalos QT/QRS, ondas T, arritmias)",
+        "Electrólitos: sodio, potasio, calcio, magnesio",
+        "Pruebas de función renal y hepática",
+        "Creatinquinasa y mioglobina (para rabdomiólisis)",
+        "Tamizaje toxicológico (orina y sangre si está disponible)",
+        "Radiografías de tórax y abdomen (aspiración o cuerpos extraños)",
+        "Perfil de coagulación (en sospecha de hepatotoxicidad o anticoagulantes)",
+        "Brecha osmolar (si se sospecha intoxicación por metanol o etilenglicol)"
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Coma profundo o puntuación de Glasgow ≤ 8",
+      "Apnea, bradipnea o respiración ineficaz",
+      "SatO₂ < 90% a pesar de oxígeno suplementario",
+      "Convulsiones refractarias con riesgo de lesión cerebral hipóxica",
+      "Broncoaspiración de contenido gástrico o secreciones tóxicas"
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Estabilizar la vía aérea, respiración y circulación (ABC)",
+        "Oxigenoterapia suplementaria e intubación si está indicada",
+        "Monitorización continua de ECG, oximetría y presión arterial",
+        "Corregir hipoglucemia con dextrosa IV (50 mL de glucosa al 50%)",
+        "Administrar carbón activado (1g/kg VO) en las primeras 1–2 horas si no hay contraindicaciones",
+        "Considerar lavado gástrico en casos seleccionados (menos de 1 hora, sustancias letales)",
+        "Administrar antídotos específicos precozmente: naloxona (opiáceos), flumazenilo (benzodiacepinas con precaución), N-acetilcisteína (paracetamol), atropina y pralidoxima (organofosforados)",
+        "Considerar hemodiálisis para agentes dializables (por ejemplo, metanol, etilenglicol, salicilatos, litio)",
+        "Manejo intensivo en UCI para casos de alto riesgo",
+        "Notificación obligatoria a los centros de toxicología regionales"
+      ]
+    },
+    "pronostico": {
+      "comentario": "La mayoría de los pacientes se recupera completamente con atención de soporte temprana y adecuada. Sin embargo, dosis altas de agentes cardiotóxicos, neurotóxicos o hepatotóxicos aumentan sustancialmente la mortalidad. Factores de mal pronóstico incluyen tratamiento tardío (>6h), falta de antídoto específico, ingesta de múltiples sustancias, acidosis metabólica grave y falla multiorgánica. El seguimiento psiquiátrico es esencial tras intentos de suicidio."
+    },
+    "notas_adicionales": [
+      "Evitar flumazenilo en pacientes con epilepsia o uso crónico de benzodiacepinas",
+      "Monitorear TP/INR en casos de sospecha de hepatotoxicidad",
+      "Las intoxicaciones mixtas requieren especial atención a las interacciones",
+      "Precaución con formulaciones transdérmicas o de liberación prolongada",
+      "Los antídotos deben estar disponibles en áreas de urgencia y cuidados intensivos"
+    ],
+    "fuentes_bibliograficas": [
+      "Manual de Toxicología Clínica – FIOCRUZ. 2022.",
+      "Goldfrank’s Toxicologic Emergencies. 11ª edición.",
+      "UpToDate – General approach to drug poisoning. 2024.",
+      "Ministerio de Salud – Protocolo de Intoxicaciones Exógenas. 2021.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 75 – Toxicología y Antídotos."
+    ]
+  }
+}

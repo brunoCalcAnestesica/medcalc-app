@@ -1,0 +1,221 @@
+{
+  "PT": {
+    "titulo": "Epiglotite",
+    "definicao": "Epiglotite é uma inflamação aguda da epiglote e das estruturas adjacentes da supraglote (pregas ariepiglóticas, aritenoides), caracterizada por rápido desenvolvimento de edema e risco iminente de obstrução das vias aéreas superiores. Trata-se de uma emergência médica potencialmente fatal, cuja evolução pode ser rápida e imprevisível. A epiglotite pode ter origem infecciosa (principalmente bacteriana), traumática, química ou térmica.",
+    "epidemiologia": "A epiglotite era mais comum em crianças de 2 a 7 anos, especialmente por infecção pelo Haemophilus influenzae tipo b (Hib). Após a introdução da vacinação contra o Hib, a incidência em pediatria caiu drasticamente. Atualmente, a maioria dos casos ocorre em adultos, geralmente entre 30 e 50 anos. Agentes etiológicos incluem Streptococcus pneumoniae, Streptococcus beta-hemolítico do grupo A, Haemophilus influenzae não tipável, Staphylococcus aureus (inclusive MRSA), Pseudomonas spp., além de causas não infecciosas como lesões térmicas (inalação de vapor) ou trauma direto.",
+    "fisiopatologia": "A infecção da mucosa da epiglote e estruturas vizinhas promove intensa resposta inflamatória, com acúmulo de exsudato, edema e hiperemia local. O estreitamento da glote e supraglote durante a inspiração leva a estridor e esforço respiratório, com potencial para obstrução total da via aérea. A manipulação inadequada da orofaringe, especialmente com abaixadores de língua, pode precipitar colapso respiratório. A hipóxia e hipercapnia decorrentes da obstrução podem evoluir para acidose respiratória e parada cardiorrespiratória.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Início abrupto de febre alta (> 39 °C)",
+        "Dor intensa ao engolir (odinofagia desproporcional ao exame físico)",
+        "Disfagia, sialorreia e voz abafada ('voz em batata quente')",
+        "Estridor inspiratório e dispneia progressiva",
+        "Postura em tripé (sentado com tronco inclinado à frente e pescoço hiperestendido)"
+      ],
+      "outras": [
+        "Irritabilidade, letargia (em crianças pequenas)",
+        "Taquicardia e taquipneia",
+        "Cianose, tiragem intercostal e uso de musculatura acessória",
+        "Ausência de tosse (diferenciando da laringite viral)",
+        "Anorexia e recusa alimentar",
+        "Rouquidão ou disfonia"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A suspeita clínica é suficiente para iniciar medidas de suporte e não deve ser retardada por exames complementares. Em pacientes sem sinais de instabilidade respiratória, a laringoscopia indireta por nasofibroscopia pode confirmar o diagnóstico, revelando epiglote edemaciada, hiperemiada e protrusa ('epiglote em formato de chifre de carneiro'). A radiografia lateral de pescoço pode mostrar o clássico 'sinal do polegar', mas não é obrigatória. A gasometria arterial e os marcadores inflamatórios ajudam na avaliação da gravidade.",
+      "exames_essenciais": [
+        "Gasometria arterial (pH, PaO₂, PaCO₂, lactato)",
+        "Hemograma completo (leucocitose com desvio à esquerda)",
+        "PCR e procalcitonina (monitoramento inflamatório)",
+        "Hemoculturas (antes da antibioticoterapia)",
+        "Cultura de aspirado orofaríngeo ou traqueal (após via aérea assegurada)",
+        "Radiografia lateral de pescoço (sinal do polegar)",
+        "Nasofibroscopia (em ambiente controlado com suporte para via aérea difícil)"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Estridor em repouso com sinais de exaustão respiratória",
+      "Hipoxemia refratária (SpO₂ < 90% apesar de O₂ a alto fluxo)",
+      "Rebaixamento do nível de consciência ou Glasgow ≤ 8",
+      "Cianose ou apneia episódica",
+      "Evidência de obstrução laríngea iminente ou falência ventilatória"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Evitar exame oral em ambiente não preparado (risco de espasmo laríngeo)",
+        "Manter paciente na posição em que se sentir confortável (tripé, semi-Fowler)",
+        "Oxigenoterapia com FiO₂ máxima via máscara de reservatório",
+        "Preparar para intubação orotraqueal precoce em ambiente com suporte anestésico e cirúrgico",
+        "Caso não seja possível a intubação: realizar cricotireoidotomia de emergência",
+        "Antibioticoterapia empírica IV: ceftriaxona 50–100 mg/kg/dia (máx. 2 g) ou cefotaxima + vancomicina",
+        "Dexametasona 0,15–0,6 mg/kg IV (máximo 10 mg) para redução do edema",
+        "Monitorização contínua em UTI com vigilância para deterioração respiratória",
+        "Hidratação venosa e controle de temperatura",
+        "Isolamento respiratório e notificação compulsória em caso confirmado por Hib"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Com diagnóstico e manejo precoce, o desfecho costuma ser favorável, especialmente em centros com suporte de UTI e anestesia. A mortalidade em adultos varia entre 7 e 20%, sendo mais elevada nos casos com necessidade de cricotomia de emergência ou intubação tardia. A recorrência é rara, mas pode ocorrer em imunossuprimidos. O tempo médio de internação é de 3 a 7 dias."
+    },
+    "notas_adicionais": [
+      "A epiglotite é uma das principais causas de morte evitável em pediatria quando não reconhecida precocemente",
+      "A profilaxia com rifampicina é indicada para contatos domiciliares não vacinados de casos por Hib",
+      "A vacinação contra Hib é a principal medida preventiva populacional",
+      "A intubação deve ser preferencialmente realizada por profissional experiente, com videolaringoscopia se disponível",
+      "Em adultos, a apresentação pode ser mais insidiosa, com dor de garganta severa e estridor tardio"
+    ],
+    "fontes_bibliograficas": [
+      "Manual de Condutas em Pediatria – SBP. 2021.",
+      "UpToDate. Epiglottitis in adults and children. 2024.",
+      "Tintinalli’s Emergency Medicine. 9ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 59 – Doenças infecciosas das vias aéreas superiores.",
+      "CDC. Recommendations for Hib Prevention and Management. 2023."
+    ]
+  },
+  "US": {
+    "title": "Epiglottitis",
+    "definition": "Epiglottitis is an acute inflammation of the epiglottis and adjacent supraglottic structures (aryepiglottic folds, arytenoids), characterized by rapid onset of edema and the risk of sudden upper airway obstruction. It constitutes a medical emergency that may evolve rapidly and unpredictably. While it is typically infectious in origin, epiglottitis can also result from trauma, chemical injury, or thermal insult.",
+    "epidemiology": "Before the widespread introduction of the Haemophilus influenzae type b (Hib) vaccine, this pathogen was the leading cause of epiglottitis in children aged 2–7 years. Post-vaccination, pediatric cases have decreased significantly, and adult cases have become more prevalent, usually between ages 30–50. Common pathogens now include Streptococcus pneumoniae, group A Streptococcus, non-typeable H. influenzae, Staphylococcus aureus (including MRSA), and Pseudomonas spp. Non-infectious causes include steam inhalation injuries and mechanical trauma.",
+    "pathophysiology": "Bacterial invasion of the epiglottic mucosa triggers a robust inflammatory response, leading to hyperemia, exudate accumulation, and severe edema. This narrows the supraglottic airway, especially during inspiration, causing stridor and respiratory distress. Direct oropharyngeal examination may provoke reflex laryngospasm and complete airway collapse. Progressive hypoxemia and hypercapnia can lead to respiratory acidosis and cardiopulmonary arrest without timely intervention.",
+    "clinical_manifestations": {
+      "classic": [
+        "Abrupt onset of high fever (> 39°C)",
+        "Severe odynophagia (pain out of proportion to exam)",
+        "Dysphagia, drooling, and muffled 'hot potato' voice",
+        "Inspiratory stridor with progressive dyspnea",
+        "Tripod posture (sitting upright, leaning forward with neck extended)"
+      ],
+      "other": [
+        "Irritability or lethargy (in young children)",
+        "Tachypnea and tachycardia",
+        "Cyanosis, intercostal retractions, accessory muscle use",
+        "Lack of cough (helps differentiate from viral laryngotracheitis)",
+        "Anorexia and feeding refusal",
+        "Hoarseness or dysphonia"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Clinical suspicion is sufficient to initiate airway precautions and supportive care—do not delay for diagnostic testing. In stable patients, indirect laryngoscopy via flexible nasopharyngoscopy may reveal a cherry-red, swollen epiglottis. Lateral neck radiograph may demonstrate the 'thumb sign,' though imaging is not required for diagnosis. Arterial blood gases and inflammatory markers help assess disease severity.",
+      "essential_tests": [
+        "Arterial blood gas (pH, PaO₂, PaCO₂, lactate)",
+        "Complete blood count (leukocytosis with left shift)",
+        "CRP and procalcitonin (monitoring inflammatory response)",
+        "Blood cultures (prior to antibiotic therapy)",
+        "Culture from oropharyngeal or tracheal aspirate (after airway is secured)",
+        "Lateral neck X-ray (thumb sign)",
+        "Flexible nasopharyngoscopy (only in controlled setting with airway management resources)"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Resting stridor with signs of respiratory exhaustion",
+      "Refractory hypoxemia (SpO₂ < 90% despite high-flow O₂)",
+      "Altered mental status or GCS ≤ 8",
+      "Cyanosis or intermittent apnea",
+      "Clinical signs of impending upper airway obstruction"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Avoid oropharyngeal examination in uncontrolled environments",
+        "Keep the patient calm in their position of comfort (tripod, semi-Fowler)",
+        "Administer 100% FiO₂ via non-rebreather mask",
+        "Prepare for early orotracheal intubation in a controlled setting with anesthesiology and ENT backup",
+        "If intubation fails, perform emergency cricothyrotomy",
+        "Empirical IV antibiotics: ceftriaxone 50–100 mg/kg/day (max 2 g) or cefotaxime + vancomycin",
+        "IV dexamethasone 0.15–0.6 mg/kg (max 10 mg) to reduce edema",
+        "Continuous ICU monitoring for signs of respiratory decompensation",
+        "Maintain IV hydration and antipyretic therapy",
+        "Respiratory isolation until infectious etiology is clarified and reported"
+      ]
+    },
+    "prognosis": {
+      "comment": "With early recognition and proper airway management, prognosis is generally favorable, particularly in well-equipped centers. Adult mortality ranges from 7–20%, higher when emergency cricothyrotomy or late intubation is needed. Recurrence is rare, but may occur in immunocompromised individuals. Average hospital stay is typically 3–7 days."
+    },
+    "additional_notes": [
+      "Epiglottitis is a leading cause of preventable pediatric mortality when missed",
+      "Rifampin chemoprophylaxis is recommended for unvaccinated household contacts of confirmed Hib cases",
+      "Hib vaccination remains the cornerstone of population-level prevention",
+      "Intubation should be performed by experienced personnel, ideally with video laryngoscopy",
+      "In adults, the disease may present more subtly, with isolated sore throat and late-onset stridor"
+    ],
+    "references": [
+      "Brazilian Pediatric Society. Manual de Condutas em Pediatria. 2021.",
+      "UpToDate. Epiglottitis in adults and children. 2024.",
+      "Tintinalli’s Emergency Medicine. 9th ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 59 – Infectious Diseases of the Upper Airway.",
+      "CDC. Recommendations for Hib Prevention and Management. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Epiglotitis",
+    "definicion": "La epiglotitis es una inflamación aguda de la epiglotis y de las estructuras supraglóticas adyacentes (pliegues ariepiglóticos, aritenoides), caracterizada por un edema de instalación rápida y riesgo inminente de obstrucción de la vía aérea superior. Se trata de una emergencia médica grave que puede evolucionar rápidamente hacia el paro respiratorio si no se maneja oportunamente. Aunque la causa más común es infecciosa, también puede ser secundaria a lesiones térmicas, químicas o traumáticas.",
+    "epidemiologia": "Antes de la introducción generalizada de la vacuna contra Haemophilus influenzae tipo b (Hib), esta era la causa principal de epiglotitis en niños entre 2 y 7 años. Posteriormente, la incidencia pediátrica disminuyó considerablemente, siendo los casos en adultos actualmente más comunes, principalmente en edades de 30 a 50 años. Los agentes etiológicos incluyen Streptococcus pneumoniae, Streptococcus del grupo A, Haemophilus influenzae no tipificable, Staphylococcus aureus (incluyendo MRSA) y Pseudomonas spp. También puede presentarse tras inhalación de vapor o traumatismos directos.",
+    "fisiopatologia": "La invasión bacteriana de la mucosa epiglótica provoca una respuesta inflamatoria intensa con acumulación de exudado, hiperemia y edema significativo. El estrechamiento de la vía aérea supraglótica durante la inspiración genera estridor y dificultad respiratoria. La manipulación de la orofaringe puede inducir laringoespasmo y colapso total de la vía aérea. La hipoxemia y la hipercapnia progresiva conducen a acidosis respiratoria y paro cardiorrespiratorio si no se interviene a tiempo.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Fiebre alta de inicio brusco (> 39°C)",
+        "Odinofagia intensa (desproporcionada al examen físico)",
+        "Disfagia, sialorrea y voz apagada ('voz de papa caliente')",
+        "Estridor inspiratorio con disnea progresiva",
+        "Postura en trípode (sentado, inclinado hacia adelante con cuello extendido)"
+      ],
+      "otras": [
+        "Irritabilidad o letargo (en niños pequeños)",
+        "Taquipnea y taquicardia",
+        "Cianosis, retracciones intercostales, uso de músculos accesorios",
+        "Ausencia de tos (útil para diferenciar de laringotraqueítis viral)",
+        "Anorexia y rechazo a la alimentación",
+        "Disfonía o ronquera"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico debe basarse principalmente en la sospecha clínica y no debe retrasarse para realizar estudios complementarios. En pacientes estables, la nasofibrolaringoscopia puede mostrar una epiglotis edematosa, hiperémica y prominente. La radiografía lateral de cuello puede mostrar el clásico 'signo del pulgar'. No se recomienda la exploración oral sin preparación avanzada de vía aérea. La gasometría arterial y los marcadores inflamatorios ayudan a valorar la gravedad.",
+      "examenes_esenciales": [
+        "Gasometría arterial (pH, PaO₂, PaCO₂, lactato)",
+        "Hemograma completo (leucocitosis con desviación izquierda)",
+        "PCR y procalcitonina (seguimiento de inflamación)",
+        "Hemocultivos (antes de iniciar antibióticos)",
+        "Cultivo de aspirado orofaríngeo o traqueal (tras asegurar vía aérea)",
+        "Radiografía lateral de cuello (signo del pulgar)",
+        "Nasofibrolaringoscopia (solo en entorno controlado con soporte de vía aérea difícil)"
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Estridor en reposo con signos de fatiga respiratoria",
+      "Hipoxemia refractaria (SatO₂ < 90% con O₂ de alto flujo)",
+      "Alteración del estado mental o Glasgow ≤ 8",
+      "Cianosis o apneas intermitentes",
+      "Evidencia clínica de obstrucción inminente de la vía aérea superior"
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Evitar examen orofaríngeo en ambientes no controlados",
+        "Mantener al paciente tranquilo en posición de comodidad (trípode, semi-Fowler)",
+        "Administrar oxígeno al 100% con mascarilla de no reinhalación",
+        "Preparar intubación orotraqueal precoz en entorno con anestesia y cirugía disponibles",
+        "Si la intubación falla, realizar cricotiroidotomía de emergencia",
+        "Antibióticos empíricos IV: ceftriaxona 50–100 mg/kg/día (máx. 2 g) o cefotaxima + vancomicina",
+        "Dexametasona IV 0,15–0,6 mg/kg (máx. 10 mg) para reducir edema",
+        "Monitoreo continuo en UCI para detectar deterioro respiratorio",
+        "Hidratación IV y antipiréticos",
+        "Aislamiento respiratorio hasta aclarar etiología e informar al sistema sanitario"
+      ]
+    },
+    "pronostico": {
+      "comentario": "Con diagnóstico precoz y manejo adecuado de la vía aérea, el pronóstico suele ser favorable, especialmente en centros bien equipados. La mortalidad en adultos oscila entre 7–20%, siendo mayor cuando se requiere cricotiroidotomía o intubación tardía. La recurrencia es rara, pero puede ocurrir en inmunocomprometidos. La estancia hospitalaria promedio es de 3 a 7 días."
+    },
+    "notas_adicionales": [
+      "La epiglotitis es una causa importante de mortalidad pediátrica prevenible si no se reconoce",
+      "La quimioprofilaxis con rifampicina está indicada en convivientes no vacunados ante casos confirmados por Hib",
+      "La vacunación anti-Hib es la principal estrategia preventiva a nivel poblacional",
+      "La intubación debe ser realizada por personal entrenado, idealmente con videolaringoscopio",
+      "En adultos, puede presentarse con síntomas menos específicos como odinofagia aislada y estridor tardío"
+    ],
+    "fuentes_bibliograficas": [
+      "Sociedad Brasileña de Pediatría. Manual de Conductas en Pediatría. 2021.",
+      "UpToDate. Epiglotitis en adultos y niños. 2024.",
+      "Tintinalli. Medicina de Urgencias. 9ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 59 – Enfermedades infecciosas de la vía aérea superior.",
+      "CDC. Recomendaciones para la prevención y manejo de Hib. 2023."
+    ]
+  }
+}

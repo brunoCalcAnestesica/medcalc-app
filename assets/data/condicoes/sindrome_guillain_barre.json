@@ -1,0 +1,209 @@
+{
+  "PT": {
+    "titulo": "Síndrome de Guillain-Barré",
+    "definicao": "A Síndrome de Guillain-Barré (SGB) é uma polirradiculoneuropatia inflamatória aguda, imunomediada, caracterizada por fraqueza muscular progressiva, hiporreflexia ou arreflexia, e acometimento simétrico dos membros. É considerada a principal causa de paralisia flácida aguda em países industrializados e representa uma emergência neurológica potencialmente fatal. A forma clássica apresenta evolução em até quatro semanas, podendo envolver musculatura respiratória e bulbar, com risco de falência ventilatória.",
+    "epidemiologia": "A SGB tem incidência global estimada entre 1–2 casos por 100.000 habitantes/ano, com discreto predomínio no sexo masculino (relação 1,5:1). Pode ocorrer em qualquer faixa etária, mas é mais comum em adultos e idosos. Cerca de 60–70% dos pacientes relatam infecção precedente nas 4 semanas anteriores, como gastroenterite por Campylobacter jejuni, infecções respiratórias por vírus (CMV, EBV, influenza), infecção por HIV ou SARS-CoV-2. Também pode ocorrer após vacinação, cirurgia ou trauma. Surtos sazonais e geográficos têm sido descritos, principalmente associados ao Zika vírus.",
+    "fisiopatologia": "A SGB resulta de uma resposta autoimune desencadeada por mimetismo molecular entre antígenos de patógenos e gangliosídeos da bainha de mielina ou da membrana axonal dos nervos periféricos. O ataque imune leva à desmielinização segmentar (variante AIDP) ou lesão axonal direta (AMAN, AMSAN). O envolvimento das raízes espinhais e nervos cranianos explica a apresentação multineurítica. A ativação do complemento, infiltração de macrófagos e linfócitos contribuem para o dano neural. A recuperação ocorre por remielinização e regeneração axonal, podendo ser incompleta em formas graves.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Fraqueza muscular simétrica, de progressão ascendente",
+        "Arreflexia ou hiporreflexia generalizada",
+        "Parestesias em mãos e pés, com predomínio distal",
+        "Dor lombar ou radicular, especialmente à noite",
+        "Paralisia facial bilateral (em até 60% dos casos)"
+      ],
+      "outras": [
+        "Disfagia, disartria, paralisia ocular (variantes cranianas)",
+        "Disfunções autonômicas: hipotensão, hipertensão, taquiarritmias, sudorese",
+        "Retenção urinária, íleo paralítico",
+        "Dispneia, fraqueza diafragmática, tosse ineficaz",
+        "Ataxia, oftalmoplegia e arreflexia (síndrome de Miller-Fisher)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é clínico, baseado na evolução subaguda de fraqueza motora simétrica, com redução ou abolição de reflexos, associada a sintomas sensitivos. A dissociação albuminocitológica no líquor (aumento de proteína com celularidade normal) está presente em 70–90% dos casos após a primeira semana. A eletroneuromiografia define a variante (desmielinizante ou axonal) e serve como critério diagnóstico. Critérios de Brighton classificam a certeza diagnóstica em níveis (1 a 4), combinando achados clínicos, laboratoriais e neurofisiológicos.",
+      "exames_essenciais": [
+        "Punção lombar (dissociação albuminocitológica: proteína > 45 mg/dL com até 10 células/mm³)",
+        "Eletromiografia e estudo de condução nervosa (bloqueio de condução, latência prolongada, amplitude reduzida)",
+        "Sorologias: Campylobacter, CMV, EBV, HIV, Zika, Mycoplasma pneumoniae",
+        "Hemograma, ureia, creatinina, TSH, eletrólitos",
+        "Função respiratória: capacidade vital forçada (CVF < 20 mL/kg é indicativo de suporte ventilatório)",
+        "Ressonância magnética de coluna com gadolínio (realce das raízes ventrais em T1)"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "CVF < 15–20 mL/kg ou queda ≥ 30% em 24 horas",
+      "PaCO₂ > 45 mmHg ou SpO₂ < 92% com oxigênio suplementar",
+      "Disfagia grave, sialorreia com risco de broncoaspiração",
+      "Fraqueza de musculatura intercostal, diafragmática ou abdominal",
+      "Disfunção autonômica grave com arritmias ou instabilidade hemodinâmica"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Admissão precoce em unidade de terapia intensiva ou semi-intensiva",
+        "Imunoglobulina intravenosa (0,4 g/kg/dia por 5 dias) ou plasmaférese (4 a 6 sessões)",
+        "Fisioterapia motora e respiratória intensiva desde o início",
+        "Prevenção de tromboembolismo com heparina profilática e meias compressivas",
+        "Controle rigoroso de PA, FC e saturação, devido à labilidade autonômica",
+        "Hidratação, nutrição enteral precoce e prevenção de úlceras de pressão",
+        "Evitar corticoterapia isolada (ineficaz e potencialmente deletéria)",
+        "Monitorar evolução com escalas funcionais (EGOS, MRC, Hughes score)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Cerca de 80% dos pacientes recuperam a capacidade de marcha independente em até 6 meses. No entanto, 15–20% evoluem com déficits motores persistentes e até 5–10% podem apresentar insuficiência respiratória grave. A mortalidade hospitalar gira em torno de 5%. Fatores de pior prognóstico incluem idade avançada, início abrupto (< 7 dias), forma axonal, necessidade de ventilação mecânica precoce e amplitude motora reduzida ao diagnóstico."
+    },
+    "notas_adicionais": [
+      "A repetição da imunoglobulina IV não é recomendada de rotina (apenas em recaída definida)",
+      "A plasmaférese pode ser mais eficaz que IVIG em casos graves rapidamente progressivos",
+      "Evite uso prolongado de bloqueadores neuromusculares e sedativos em VM",
+      "A variante de Miller-Fisher responde bem à IVIG, com excelente prognóstico",
+      "Casos suspeitos devem ser notificados conforme protocolo epidemiológico nacional"
+    ],
+    "fontes_bibliograficas": [
+      "Adams and Victor’s Principles of Neurology. 11ª edição.",
+      "UpToDate. Guillain-Barré syndrome: Clinical features and diagnosis. 2024.",
+      "Diretrizes da Academia Brasileira de Neurologia – 2023.",
+      "Miller’s Anesthesia. 8ª ed. Cap. 40 – Neuromuscular diseases and anesthesia.",
+      "Tintinalli’s Emergency Medicine. 9ª ed."
+    ]
+  },
+  "US": {
+    "title": "Guillain-Barré Syndrome",
+    "definition": "Guillain-Barré Syndrome (GBS) is an acute, immune-mediated polyradiculoneuropathy characterized by rapidly progressive, symmetric muscle weakness, often ascending, with areflexia or hyporeflexia. It is the most common cause of acute flaccid paralysis in industrialized countries and constitutes a neurological emergency due to its potential to cause respiratory failure and autonomic instability.",
+    "epidemiology": "GBS has an estimated global incidence of 1–2 cases per 100,000 person-years, with a slight male predominance (ratio 1.5:1). It can affect any age group but is more common in adults and the elderly. Around 60–70% of patients report a preceding infection within the previous 4 weeks, including Campylobacter jejuni (most frequent), CMV, EBV, HIV, Mycoplasma pneumoniae, or SARS-CoV-2. GBS has also been associated with recent surgery, trauma, and vaccination. Seasonal and regional outbreaks, especially with Zika virus, have been reported.",
+    "pathophysiology": "GBS arises from molecular mimicry between microbial antigens and gangliosides in the peripheral nerve myelin or axolemma, triggering an autoimmune response. The classical demyelinating form (AIDP) involves macrophage-mediated myelin damage, while axonal variants (AMAN, AMSAN) involve direct attack on axons. Complement activation, macrophage infiltration, and lymphocyte recruitment contribute to the pathogenesis. Recovery is through remyelination and axonal regeneration, which may be incomplete in severe cases.",
+    "clinical_manifestations": {
+      "classic": [
+        "Symmetric ascending muscle weakness",
+        "Generalized areflexia or hyporeflexia",
+        "Distal paresthesias in hands and feet",
+        "Radicular or neuropathic pain (especially nocturnal)",
+        "Bilateral facial weakness (up to 60% of cases)"
+      ],
+      "other": [
+        "Bulbar involvement: dysphagia, dysarthria, ophthalmoplegia",
+        "Autonomic dysfunction: orthostatic hypotension, bradycardia, tachyarrhythmias",
+        "Urinary retention or paralytic ileus",
+        "Respiratory muscle weakness with dyspnea or ineffective cough",
+        "Ataxia, ophthalmoplegia, and areflexia (Miller-Fisher variant)"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is based on clinical presentation of subacute, symmetric weakness with absent or reduced deep tendon reflexes. Lumbar puncture typically reveals albuminocytologic dissociation (elevated protein with normal cell count) after the first week. Nerve conduction studies confirm demyelinating or axonal subtype. The Brighton criteria can stratify diagnostic certainty from level 1 (definite) to level 4 (possible).",
+      "essential_tests": [
+        "Lumbar puncture (elevated protein > 45 mg/dL with ≤ 10 WBCs/mm³)",
+        "Nerve conduction studies and electromyography (conduction block, prolonged latency, reduced amplitudes)",
+        "Serologies: Campylobacter, CMV, EBV, HIV, Zika, Mycoplasma",
+        "CBC, creatinine, TSH, serum electrolytes",
+        "Pulmonary function tests: vital capacity (VC < 20 mL/kg indicates risk of respiratory failure)",
+        "Spinal MRI with gadolinium (ventral root enhancement in T1-weighted sequences)"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "VC < 15–20 mL/kg or ≥ 30% drop within 24 hours",
+      "PaCO₂ > 45 mmHg or SpO₂ < 92% despite oxygen supplementation",
+      "Bulbar dysfunction with aspiration risk",
+      "Weakness of diaphragmatic, intercostal, or abdominal muscles",
+      "Autonomic instability with bradyarrhythmia or hypotension"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Early ICU or monitored unit admission",
+        "Specific immunotherapy: IVIG (0.4 g/kg/day for 5 days) or plasma exchange (4–6 sessions)",
+        "Early initiation of intensive physical and respiratory therapy",
+        "DVT prophylaxis with heparin and compression stockings",
+        "Continuous monitoring of BP, HR, oxygen saturation due to autonomic lability",
+        "Nutritional support, early enteral feeding, and pressure ulcer prevention",
+        "Avoid corticosteroids alone (ineffective and potentially harmful)",
+        "Functional status monitoring with EGOS, MRC sum score, Hughes scale"
+      ]
+    },
+    "prognosis": {
+      "comment": "Most patients recover independent ambulation within 6 months (about 80%). However, 15–20% may experience residual motor deficits, and 5–10% require mechanical ventilation during the acute phase. Hospital mortality is approximately 5%, often related to respiratory or autonomic complications. Poor prognostic factors include rapid onset (< 7 days), older age, axonal subtype, and early ventilatory dependence."
+    },
+    "additional_notes": [
+      "Routine repeat IVIG is not recommended unless there is clear relapse",
+      "Plasma exchange may be preferred over IVIG in rapidly progressing or severe cases",
+      "Avoid prolonged neuromuscular blockade and excessive sedation on mechanical ventilation",
+      "Miller-Fisher variant has excellent prognosis and responds well to IVIG",
+      "GBS is a notifiable condition in many countries and requires epidemiological surveillance"
+    ],
+    "references": [
+      "Adams and Victor’s Principles of Neurology. 11th edition.",
+      "UpToDate. Guillain-Barré syndrome: Clinical features and diagnosis. 2024.",
+      "Brazilian Academy of Neurology – National Guidelines. 2023.",
+      "Miller’s Anesthesia. 8th ed. Chapter 40 – Neuromuscular Diseases and Anesthesia.",
+      "Tintinalli’s Emergency Medicine. 9th edition."
+    ]
+  },
+  "ES": {
+    "titulo": "Síndrome de Guillain-Barré",
+    "definicion": "El síndrome de Guillain-Barré (SGB) es una polirradiculoneuropatía inflamatoria aguda de origen autoinmune, caracterizada por debilidad muscular simétrica de evolución rápida, arreflexia y, en muchos casos, compromiso respiratorio y autonómico. Representa una emergencia neurológica con potencial de progresión a insuficiencia ventilatoria. La forma clásica presenta evolución máxima en 4 semanas, siendo precedida en la mayoría de los casos por una infección viral o bacteriana.",
+    "epidemiologia": "La incidencia mundial del SGB varía entre 1–2 casos por 100.000 personas/año. Puede afectar a cualquier grupo etario, siendo más frecuente en adultos y ancianos, con predominio masculino. En más del 60% de los casos hay antecedentes de infección previa en las 4 semanas anteriores, especialmente por Campylobacter jejuni, CMV, EBV, VIH, Mycoplasma pneumoniae o SARS-CoV-2. También se ha asociado a vacunación reciente, cirugías o trauma. Durante brotes de Zika, se ha observado un aumento significativo de casos.",
+    "fisiopatologia": "El SGB se produce por mimetismo molecular entre antígenos de agentes infecciosos y gangliósidos de la mielina o del axolema del sistema nervioso periférico. Esto activa una respuesta autoinmune que genera desmielinización (variante AIDP) o daño axonal (AMAN, AMSAN). La infiltración de macrófagos, activación del complemento y linfocitos T conduce a lesión nerviosa. La recuperación depende del grado de desmielinización o daño axonal, pudiendo ser incompleta en formas graves.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Debilidad muscular simétrica, ascendente y progresiva",
+        "Arreflexia o hiporreflexia generalizada",
+        "Parestesias distales en manos y pies",
+        "Dolor radicular o lumbar, especialmente nocturno",
+        "Parálisis facial bilateral (hasta en 60% de los casos)"
+      ],
+      "otras": [
+        "Disfagia, disartria, oftalmoplejía (variantes craneanas)",
+        "Disfunción autonómica: hipotensión, taquiarritmias, sudoración",
+        "Retención urinaria, íleo paralítico",
+        "Debilidad de músculos respiratorios, disnea y tos ineficaz",
+        "Ataxia, arreflexia y oftalmoplejía (síndrome de Miller-Fisher)"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es clínico, basado en debilidad motora de instauración subaguda, simétrica, acompañada de arreflexia. El líquido cefalorraquídeo presenta disociación albúmino-citológica (aumento de proteínas con celularidad normal) en la mayoría de los casos tras la primera semana. La electromiografía permite confirmar la variante desmielinizante o axonal. Los criterios de Brighton clasifican el grado de certeza diagnóstica.",
+      "examenes_esenciales": [
+        "Punción lumbar (proteínas elevadas > 45 mg/dL con menos de 10 células/mm³)",
+        "Electromiografía y conducción nerviosa (bloqueo de conducción, latencia prolongada, reducción de amplitud)",
+        "Serologías: Campylobacter, CMV, EBV, VIH, Zika, Mycoplasma",
+        "Hemograma, función renal, TSH, electrolitos",
+        "Evaluación de función pulmonar: capacidad vital forzada (CVF < 20 mL/kg indica riesgo respiratorio)",
+        "RMN de columna con gadolinio (realce de raíces anteriores en T1)"
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "CVF < 15–20 mL/kg o caída ≥ 30% en 24 horas",
+      "PaCO₂ > 45 mmHg o SatO₂ < 92% con oxígeno suplementario",
+      "Compromiso bulbar con riesgo de aspiración",
+      "Debilidad diafragmática o intercostal significativa",
+      "Inestabilidad autonómica con bradiarritmia o hipotensión sostenida"
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Ingreso precoz en unidad de cuidados intensivos o intermedios",
+        "Terapia inmunológica específica: inmunoglobulina IV (0,4 g/kg/día por 5 días) o plasmaféresis (4–6 sesiones)",
+        "Fisioterapia motora y respiratoria intensiva desde fases iniciales",
+        "Profilaxis tromboembólica con heparina y medias de compresión",
+        "Monitoreo continuo de PA, FC, SatO₂ por riesgo de disautonomía",
+        "Soporte nutricional precoz (preferentemente vía enteral)",
+        "Evitar corticoides en monoterapia (ineficaces y potencialmente perjudiciales)",
+        "Evaluación funcional con escalas EGOS, MRC, Hughes"
+      ]
+    },
+    "pronostico": {
+      "comentario": "Aproximadamente el 80% de los pacientes recuperan la marcha independiente en 6 meses. No obstante, el 15–20% puede presentar secuelas motoras y hasta el 5–10% requerirá ventilación mecánica en fase aguda. La mortalidad hospitalaria es del 5%, asociada a complicaciones respiratorias y disautonomía. Factores de mal pronóstico incluyen edad avanzada, inicio rápido (< 7 días), forma axonal y necesidad de soporte ventilatorio precoz."
+    },
+    "notas_adicionais": [
+      "No se recomienda repetir inmunoglobulina IV de forma rutinaria salvo recaída confirmada",
+      "La plasmaféresis puede ser más eficaz que la inmunoglobulina en casos graves",
+      "Evitar bloqueantes neuromusculares o sedación prolongada sin vigilancia respiratoria adecuada",
+      "El síndrome de Miller-Fisher tiene excelente pronóstico con tratamiento",
+      "El SGB debe notificarse obligatoriamente en varios países como parte de la vigilancia epidemiológica"
+    ],
+    "fuentes_bibliograficas": [
+      "Adams y Victor. Principios de Neurología. 11ª edición.",
+      "UpToDate. Guillain-Barré: características clínicas y diagnóstico. 2024.",
+      "Academia Brasileña de Neurología. Guía Nacional 2023.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 40 – Enfermedades neuromusculares y anestesia.",
+      "Tintinalli. Medicina de Urgencias. 9ª edición."
+    ]
+  }
+}

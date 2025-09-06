@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Encefalopatia Urêmica Grave",
+    "definicao": "A encefalopatia urêmica é uma síndrome neurológica aguda ou subaguda decorrente da retenção de compostos urêmicos em pacientes com insuficiência renal avançada, particularmente em situações de uremia não tratada. Resulta de um desequilíbrio neuroquímico complexo envolvendo disfunção da barreira hematoencefálica, estresse oxidativo e acúmulo de toxinas, como guanidinas, fenóis, paratormônio e outros solutos não dializáveis. Pode evoluir rapidamente para coma e requer intervenção dialítica imediata.",
+    "epidemiologia": "A encefalopatia urêmica é uma complicação relativamente frequente da doença renal crônica (DRC) em estágio terminal e da insuficiência renal aguda oligúrica ou anúrica. Sua prevalência é estimada em 30–60% dos pacientes com ureia > 200 mg/dL e ausência de diálise. Manifestações neurológicas são mais frequentes em pacientes que retardam o início da terapia renal substitutiva ou em quadros catabólicos intensos (sepse, trauma, rabdomiólise).",
+    "fisiopatologia": "Diversas toxinas urêmicas atravessam a barreira hematoencefálica alterada e interferem com neurotransmissores, potencializando glutamato excitatório, inibindo GABA, alterando canais de cálcio e potássio e induzindo neuroinflamação. A atividade elétrica cerebral torna-se progressivamente desorganizada, e a excitotoxicidade pode desencadear crises epilépticas e comprometimento da consciência. Fatores como hiponatremia, hipocalcemia, acidose metabólica e sobrecarga hídrica agravam o quadro.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipertensão arterial persistente (frequente na DRC descompensada).",
+        "Hipotensão em contexto séptico ou dialítico inadequado.",
+        "Pericardite urêmica com tamponamento em casos avançados."
+      ],
+      "respiratorias": [
+        "Respiração acidótica (taquipneia, Kussmaul).",
+        "Edema agudo de pulmão em sobrecarga volêmica.",
+        "Risco de broncoaspiração por rebaixamento de consciência."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Asterixis, tremores finos, mioclonias multifocais e confusão mental.",
+        "Delírio, alucinações, comportamento bizarro (encefalopatia metabólica difusa).",
+        "Crises convulsivas focais ou generalizadas, com possível evolução para estado de mal epiléptico.",
+        "Rebaixamento progressivo da consciência até coma, com preservação de reflexos de tronco inicial.",
+        "EEG: lentificação difusa com padrão trifásico típico em casos graves."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseia-se na presença de insuficiência renal grave com ureia e creatinina elevadas, sintomas neurológicos progressivos e exclusão de causas estruturais ou infecciosas do SNC. A resposta clínica à diálise é um critério retrospectivo altamente sugestivo. A investigação laboratorial deve abranger distúrbios metabólicos e causas precipitantes.",
+      "exames_essenciais": [
+        "Ureia > 200 mg/dL, creatinina > 8–10 mg/dL, bicarbonato < 18 mEq/L.",
+        "Sódio, potássio, cálcio iônico, fósforo e magnésio.",
+        "Gasometria arterial: acidose metabólica com ânion gap aumentado.",
+        "TC ou RM de crânio para excluir causas estruturais.",
+        "EEG para caracterização de encefalopatia ou detecção de crises não convulsivas.",
+        "Exames infecciosos: hemoculturas, líquor (se indicado), PCR viral."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow ≤ 8 ou deterioração do nível de consciência com risco de aspiração.",
+      "Crises convulsivas refratárias ou estado de mal epiléptico.",
+      "Instabilidade respiratória associada à acidose severa ou sobrecarga hídrica.",
+      "Sedação para controle de agitação grave durante a diálise."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Início imediato de hemodiálise com parâmetros ajustados para remoção gradual de toxinas e correção da osmolaridade.",
+        "Correção de distúrbios hidroeletrolíticos e ácido-base com monitorização frequente.",
+        "Controle da pressão arterial (IECA, bloqueadores de canal de cálcio, nitratos).",
+        "Uso de anticonvulsivantes se crises: levetiracetam, valproato ou fenitoína IV.",
+        "Evitar benzodiazepínicos em excesso por potencial agravamento da encefalopatia.",
+        "Avaliação neurológica seriada, Glasgow, resposta pupilar e EEG quando disponível.",
+        "Nutrição enteral precoce e cuidados com prevenção de broncoaspiração e úlceras de pressão."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Com a instituição precoce da hemodiálise e correção das alterações metabólicas, a maioria dos casos apresenta reversão completa do quadro neurológico em até 72 horas. A persistência de sintomas pode indicar dano estrutural concomitante, epilepsia sintomática ou infecção subjacente. Prognóstico reservado em pacientes com injúria renal aguda refratária ou comprometimento multissistêmico associado."
+    },
+    "notas_adicionais": [
+      "Evitar correções rápidas de sódio ou osmolaridade para prevenir síndrome de desmielinização osmótica.",
+      "Monitorar diurese e sinais de sobrecarga volêmica ou hipervolemia não controlada.",
+      "Solicitar EEG seriado em pacientes que não despertam após 48–72h de diálise eficaz.",
+      "Investigar intoxicações medicamentosas acumuladas por depuração renal (lítio, carbamazepina, digoxina).",
+      "Reavaliar acesso vascular definitivo e planejamento de terapia renal crônica pós-estabilização."
+    ],
+    "fontes_bibliograficas": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 64 – Complicações Neurológicas em Doenças Renais.",
+      "UpToDate. Uremic encephalopathy. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Diretrizes da Sociedade Brasileira de Nefrologia – Distúrbios Neurológicos na DRC. 2023.",
+      "Levey AS, et al. KDIGO Clinical Practice Guideline for the Evaluation and Management of CKD. Kidney Int Suppl. 2013."
+    ]
+  },
+  "US": {
+    "title": "Severe Uremic Encephalopathy",
+    "definition": "Uremic encephalopathy is an acute or subacute neuropsychiatric syndrome resulting from the accumulation of uremic toxins in patients with advanced kidney failure. It is characterized by progressive cerebral dysfunction due to a complex interplay of blood-brain barrier disruption, oxidative stress, and the effects of retained solutes such as guanidines, phenols, parathyroid hormone, and other non-dialyzable toxins. It may progress rapidly to seizures and coma, requiring urgent dialysis.",
+    "epidemiology": "Uremic encephalopathy is relatively common in end-stage renal disease (ESRD) or severe acute kidney injury (AKI) with delayed dialysis. It occurs in 30–60% of patients with serum urea > 200 mg/dL who are not undergoing renal replacement therapy. Prevalence is higher in hypercatabolic states such as sepsis, trauma, or rhabdomyolysis.",
+    "pathophysiology": "The accumulation of neurotoxic solutes alters neurotransmitter activity (enhancing glutamatergic excitation and reducing GABA inhibition), increases oxidative stress, and triggers systemic and neuroinflammation. These mechanisms contribute to disruption of cerebral autoregulation and increased neural excitability, leading to EEG abnormalities, seizures, and altered mental status. Acid-base imbalances, hyponatremia, hypocalcemia, and fluid overload often exacerbate the condition.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Persistent hypertension in the context of volume overload or chronic kidney disease.",
+        "Hypotension in septic or underdialyzed patients.",
+        "Pericardial effusion or uremic pericarditis in advanced uremia."
+      ],
+      "respiratory": [
+        "Kussmaul respiration in response to metabolic acidosis.",
+        "Pulmonary edema due to fluid overload.",
+        "Aspiration risk in comatose or lethargic patients."
+      ],
+      "neurologic_and_metabolic": [
+        "Asterixis, fine tremors, multifocal myoclonus, and confusion.",
+        "Delirium, hallucinations, bizarre behavior typical of diffuse metabolic encephalopathy.",
+        "Focal or generalized tonic-clonic seizures, possibly progressing to status epilepticus.",
+        "Progressive decrease in consciousness level to coma with initially preserved brainstem reflexes.",
+        "EEG: diffuse slowing with triphasic waves in severe cases."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is based on the presence of advanced kidney failure with elevated urea and creatinine, progressive neurologic symptoms, and exclusion of structural or infectious causes. Clinical improvement following dialysis strongly supports the diagnosis. Evaluation should include metabolic disturbances and precipitating conditions.",
+      "essential_tests": [
+        "Urea > 200 mg/dL, creatinine > 8–10 mg/dL, bicarbonate < 18 mEq/L.",
+        "Serum sodium, potassium, ionized calcium, phosphorus, magnesium.",
+        "Arterial blood gas: high anion gap metabolic acidosis.",
+        "Brain CT or MRI to exclude structural abnormalities.",
+        "EEG to assess encephalopathy or detect non-convulsive seizures.",
+        "Infectious workup: blood cultures, CSF (if indicated), viral PCR."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 or progressive altered mental status with aspiration risk.",
+      "Refractory seizures or status epilepticus.",
+      "Respiratory compromise from severe acidosis or fluid overload.",
+      "Sedation required during dialysis in highly agitated or seizing patients."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediate initiation of hemodialysis with controlled parameters for gradual solute clearance.",
+        "Correction of electrolyte and acid-base imbalances with close monitoring.",
+        "Blood pressure control using ACE inhibitors, calcium channel blockers, or nitrates.",
+        "Anticonvulsants (levetiracetam, valproate, or IV phenytoin) in case of seizures.",
+        "Avoid benzodiazepine overuse due to risk of worsening encephalopathy.",
+        "Serial neurologic exams: GCS, pupillary responses, EEG when available.",
+        "Early enteral nutrition and aspiration precautions; pressure sore prevention."
+      ]
+    },
+    "prognosis": {
+      "comment": "Most patients recover neurologically within 24–72 hours following initiation of dialysis and metabolic correction. Persistent symptoms should prompt evaluation for structural brain lesions, secondary epilepsy, or underlying infection. Prognosis is worse in patients with refractory AKI or multiorgan failure."
+    },
+    "additional_notes": [
+      "Avoid rapid correction of sodium or osmolarity to prevent osmotic demyelination syndrome.",
+      "Monitor urine output and signs of volume overload or persistent hypervolemia.",
+      "Repeat EEG if patient remains unresponsive > 48–72h after adequate dialysis.",
+      "Assess for drug accumulation (e.g., lithium, carbamazepine, digoxin) due to impaired clearance.",
+      "Plan for definitive dialysis access and long-term renal replacement strategy after stabilization."
+    ],
+    "references": [
+      "Miller’s Anesthesia. 8th ed. Chapter 64 – Neurologic Complications of Renal Disease.",
+      "UpToDate. Uremic encephalopathy. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Nephrology – Neurologic Complications in CKD. 2023.",
+      "Levey AS, et al. KDIGO Guidelines for CKD Evaluation and Management. Kidney Int Suppl. 2013."
+    ]
+  },
+  "ES": {
+    "titulo": "Encefalopatía Urémica Grave",
+    "definicion": "La encefalopatía urémica es un síndrome neuropsiquiátrico agudo o subagudo causado por la acumulación de toxinas urémicas en pacientes con insuficiencia renal avanzada. Se manifiesta por alteraciones progresivas de la conciencia, actividad eléctrica cerebral desorganizada, y puede evolucionar rápidamente hacia convulsiones y coma. Requiere inicio urgente de terapia dialítica y manejo metabólico intensivo.",
+    "epidemiologia": "Es una complicación frecuente en la enfermedad renal crónica terminal (ERCT) y en la insuficiencia renal aguda oligúrica o anúrica sin terapia sustitutiva. Se estima que ocurre en 30–60% de los pacientes con niveles de urea > 200 mg/dL. La incidencia es mayor en estados hipercatabólicos (sepsis, trauma, rabdomiólisis) o cuando se retrasa el inicio de la diálisis.",
+    "fisiopatologia": "La disfunción de la barrera hematoencefálica, junto con el estrés oxidativo y la neuroinflamación, permiten que toxinas como guanidinas, fenoles y paratohormona alteren la neurotransmisión cerebral. Se potencia la excitación glutamatérgica y se inhibe la actividad GABAérgica, lo que aumenta la excitabilidad neuronal, favorece las convulsiones y deteriora el estado mental. La acidosis, hiponatremia, hipocalcemia y sobrecarga hídrica agravan el cuadro.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipertensión arterial persistente (especialmente en ERCT descompensada).",
+        "Hipotensión en contexto séptico o bajo volumen efectivo.",
+        "Derrame pericárdico o pericarditis urémica en fases avanzadas."
+      ],
+      "respiratorias": [
+        "Respiración acidótica (patrón de Kussmaul).",
+        "Edema pulmonar por sobrecarga de volumen.",
+        "Riesgo de broncoaspiración en pacientes con coma o letargia."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Asterixis, mioclonías, temblores finos y confusión progresiva.",
+        "Delirio, alucinaciones, comportamiento incoherente (encefalopatía metabólica difusa).",
+        "Crisis convulsivas generalizadas o focales, con posible estatus epiléptico.",
+        "Disminución progresiva del nivel de conciencia, inicialmente con reflejos del tronco conservados.",
+        "EEG: enlentecimiento generalizado con ondas trifásicas típicas en casos severos."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico es clínico y se basa en el contexto de insuficiencia renal avanzada, elevación de urea y creatinina, deterioro neurológico progresivo y exclusión de causas estructurales o infecciosas del sistema nervioso central. La mejoría clínica tras la diálisis es un criterio retrospectivo clave.",
+      "exames_essenciais": [
+        "Urea > 200 mg/dL, creatinina > 8–10 mg/dL, bicarbonato < 18 mEq/L.",
+        "Sodio, potasio, calcio iónico, fósforo, magnesio.",
+        "Gasometría arterial: acidosis metabólica con anión gap elevado.",
+        "TC o RM de cráneo para descartar lesiones estructurales.",
+        "EEG para valorar encefalopatía y detectar crisis no convulsivas.",
+        "Estudios infecciosos: hemocultivos, LCR (si está indicado), PCR viral."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 o deterioro progresivo del nivel de conciencia con riesgo de aspiración.",
+      "Crisis convulsivas refractarias o estatus epiléptico.",
+      "Compromiso respiratorio asociado a acidosis severa o sobrecarga de líquidos.",
+      "Necesidad de sedación durante diálisis o control de agitación grave."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Inicio inmediato de hemodiálisis con parámetros ajustados para evitar cambios osmolares bruscos.",
+        "Corrección de trastornos hidroelectrolíticos y ácido-base con monitorización frecuente.",
+        "Control de la presión arterial con IECA, bloqueadores de calcio o nitratos.",
+        "Uso de anticonvulsivos en caso de crisis: levetiracetam, valproato, fenitoína IV.",
+        "Evitar benzodiacepinas en exceso por riesgo de empeorar la encefalopatía.",
+        "Evaluaciones neurológicas seriadas, Glasgow, reflejos pupilares y EEG si está disponible.",
+        "Soporte nutricional precoz y medidas para prevenir broncoaspiración y úlceras por presión."
+      ]
+    },
+    "prognosis": {
+      "comment": "El pronóstico suele ser favorable si se inicia la diálisis de forma precoz y se corrigen las alteraciones metabólicas. La recuperación neurológica suele observarse en las primeras 24–72 horas. La persistencia de síntomas puede indicar patología estructural concomitante, epilepsia secundaria o infección subyacente."
+    },
+    "additional_notes": [
+      "Evitar correcciones rápidas de sodio o osmolaridad para prevenir desmielinización osmótica.",
+      "Controlar diuresis y signos de sobrecarga de volumen o hipervolemia persistente.",
+      "Repetir EEG si no hay mejoría neurológica tras 48–72h de diálisis efectiva.",
+      "Considerar toxicidad por fármacos acumulados por depuración renal (litio, digoxina, carbamazepina).",
+      "Planificar acceso dialítico definitivo y estrategia de reemplazo renal a largo plazo."
+    ],
+    "references": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 64 – Complicaciones neurológicas de la enfermedad renal.",
+      "UpToDate. Encefalopatía urémica. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Nefrología – Complicaciones neurológicas en ERC. 2023.",
+      "Levey AS, et al. Guías KDIGO para evaluación y tratamiento de la ERC. Kidney Int Suppl. 2013."
+    ]
+  }
+}

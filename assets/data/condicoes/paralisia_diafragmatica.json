@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Paralisia Diafragmática",
+    "definicao": "A paralisia diafragmática é uma disfunção neuromuscular caracterizada pela perda parcial ou completa da capacidade de contração do diafragma, comprometendo a ventilação pulmonar. Pode ocorrer de forma unilateral ou bilateral, com etiologias que incluem lesões do nervo frênico, doenças neuromusculares, complicações cirúrgicas torácicas e cervicais, infecções virais, neuropatias compressivas e causas idiopáticas. A condição impacta diretamente na mecânica ventilatória e pode gerar insuficiência respiratória, especialmente durante o sono ou em decúbito.",
+    "epidemiologia": "A incidência é subestimada, especialmente nos casos unilaterais, frequentemente assintomáticos ou com sintomas leves. A paralisia unilateral é mais comum e geralmente associada a cirurgias cardíacas (como revascularização do miocárdio), procedimentos cervicais (dissecções de linfonodos, tireoidectomia), traumas fechados, e infiltrações tumorais. A forma bilateral, mais rara e grave, está associada a doenças neuromusculares como ELA, miopatias, síndrome pós-poliomielite, Guillain-Barré, e poliomiosite. A disfunção do diafragma também pode ser observada em pacientes sob ventilação mecânica prolongada (atrofia induzida por desuso).",
+    "fisiopatologia": "O diafragma é o principal músculo inspiratório e é responsável por aproximadamente 70% da ventilação em repouso. Sua inervação é feita pelos nervos frênicos (raízes C3–C5). A lesão desses nervos compromete a contração diafragmática, resultando em elevação paradoxal do hemidiafragma (em casos unilaterais), redução da complacência pulmonar, hipoventilação alveolar, aumento do trabalho respiratório e dependência ventilatória. A disfunção bilateral pode levar à insuficiência respiratória crônica, principalmente em decúbito ou durante o sono REM.",
+    "manifestações_clinicas": {
+      "formas_unilaterais": [
+        "Dispneia aos esforços leves e em decúbito dorsal.",
+        "Ortópneia, especialmente durante o sono.",
+        "Redução do murmúrio vesicular na base pulmonar acometida.",
+        "Desvio contralateral do mediastino à inspiração.",
+        "Redução da tolerância ao exercício e fadiga crônica."
+      ],
+      "formas_bilaterais": [
+        "Dispneia severa em repouso e ortopneia grave.",
+        "Movimento abdominal paradoxal (abdominal para dentro durante a inspiração).",
+        "Sinais de hipoventilação noturna: cefaleia matinal, hipersonolência, confusão.",
+        "Dependência de ventilação não invasiva ou invasiva.",
+        "Hipoxemia e hipercapnia, principalmente à noite ou em decúbito."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspeita-se diante de dispneia inexplicada, sintomas posturais e achados radiológicos sugestivos. A confirmação é feita por imagem funcional do diafragma e testes de função pulmonar. A avaliação neurológica é indicada quando se suspeita de etiologia sistêmica ou neuromuscular.",
+      "exames_essenciais": [
+        "Radiografia de tórax: elevação do hemidiafragma acometido, mediastino desviado.",
+        "Ultrassonografia diafragmática: ausência de espessamento e mobilidade paradoxal.",
+        "Fluoroscopia (sniff test): ausência de descida do diafragma ou movimento paradoxal.",
+        "Espirometria: redução da CVF (capacidade vital forçada), com queda superior a 25% na posição supina.",
+        "Gasometria arterial: hipoxemia leve a moderada e hipercapnia em casos graves.",
+        "Eletromiografia diafragmática e estudo da condução do nervo frênico (em casos selecionados).",
+        "Polissonografia: avaliação de hipoventilação e apneia central em pacientes sintomáticos noturnos."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Paralisia diafragmática bilateral com insuficiência respiratória hipercápnica.",
+      "Intolerância ao decúbito ou sintomas posturais intensos.",
+      "Fracasso no desmame de ventilação mecânica após cirurgia cardíaca ou neurológica.",
+      "Presença de hipoventilação noturna com dessaturações documentadas.",
+      "Doença neuromuscular progressiva com evidência de disfunção diafragmática."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Educação do paciente quanto à mecânica respiratória e medidas posturais (elevação do dorso).",
+        "Início de ventilação não invasiva (VNI) noturna com pressão de suporte e PEEP ajustados.",
+        "Monitorização de gases arteriais e sintomas noturnos regularmente.",
+        "Reabilitação pulmonar com fortalecimento muscular inspiratório e condicionamento físico leve.",
+        "Tratamento da causa base: remoção de tumores, correção cirúrgica de lesões iatrogênicas.",
+        "Plicatura diafragmática por videotoracoscopia (VATS) em casos unilaterais sintomáticos refratários.",
+        "Estimulação diafragmática por marca-passo respiratório (em centros especializados)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico depende da etiologia, da extensão da disfunção e da resposta ao suporte ventilatório. Casos unilaterais têm boa evolução clínica, especialmente após plicatura. Casos bilaterais ou neuromusculares exigem acompanhamento prolongado e ventilação crônica, podendo evoluir com hipoventilação persistente e complicações infecciosas respiratórias. A VNI melhora sobrevida e qualidade de vida, quando corretamente indicada e monitorada."
+    },
+    "notas_adicionais": [
+      "A VNI noturna é a principal estratégia para controle de sintomas e hipoventilação noturna.",
+      "Casos pós-cirúrgicos podem se recuperar espontaneamente em até 12 meses — reavaliar antes da plicatura.",
+      "Ultrassonografia permite seguimento ambulatorial da função diafragmática.",
+      "O uso de opioides e sedativos deve ser evitado por risco de depressão ventilatória.",
+      "Pacientes com hipoventilação crônica devem ser acompanhados por pneumologistas e fisioterapeutas respiratórios."
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Evaluation and management of diaphragmatic paralysis. 2024.",
+      "Manual de Pneumologia – SBPT. 2021.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 53 – Disfunções neuromusculares respiratórias.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "American Thoracic Society – Diaphragm dysfunction guidelines. 2022.",
+      "Revista Brasileira de Terapia Intensiva – Disfunção Diafragmática. 2023."
+    ]
+  },
+  "US": {
+    "title": "Diaphragmatic Paralysis",
+    "definition": "Diaphragmatic paralysis is a neuromuscular disorder characterized by partial or complete loss of diaphragmatic contractile function, which impairs pulmonary ventilation. It may be unilateral or bilateral and can result from phrenic nerve injury, neuromuscular diseases, surgical complications (cardiothoracic or cervical), viral infections, compressive neuropathies, or idiopathic causes. It directly affects ventilatory mechanics and may lead to respiratory insufficiency, especially during sleep or in the supine position.",
+    "epidemiology": "Unilateral diaphragmatic paralysis is more frequent and often asymptomatic, commonly associated with cardiac surgeries (e.g., CABG), cervical procedures (lymph node dissection, thyroidectomy), trauma, or tumor infiltration. Bilateral paralysis, though less common, is more severe and associated with neuromuscular diseases such as ALS, myopathies, post-polio syndrome, Guillain-Barré, and polymyositis. Diaphragmatic dysfunction may also be seen in patients under prolonged mechanical ventilation due to disuse atrophy.",
+    "pathophysiology": "The diaphragm is the primary inspiratory muscle, responsible for approximately 70% of resting ventilation. It is innervated by the phrenic nerves (C3–C5). Phrenic nerve dysfunction leads to impaired diaphragmatic descent and paradoxical upward movement (in unilateral cases), decreased lung compliance, alveolar hypoventilation, increased work of breathing, and ventilatory dependence. Bilateral involvement results in significant ventilatory compromise, especially during REM sleep and in supine positioning.",
+    "clinical_manifestations": {
+      "unilateral_forms": [
+        "Exertional dyspnea and orthopnea.",
+        "Decreased breath sounds at the affected lung base.",
+        "Paradoxical elevation of the hemidiaphragm on imaging.",
+        "Reduced exercise tolerance and chronic fatigue.",
+        "Mediastinal shift to the contralateral side during inspiration."
+      ],
+      "bilateral_forms": [
+        "Severe resting dyspnea and marked orthopnea.",
+        "Paradoxical abdominal movement (inward motion during inspiration).",
+        "Signs of nocturnal hypoventilation: morning headache, hypersomnolence, confusion.",
+        "Dependence on noninvasive or invasive mechanical ventilation.",
+        "Daytime hypercapnia and nocturnal hypoxemia."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is suspected in patients with unexplained dyspnea, positional symptoms, and imaging abnormalities. Confirmation requires functional imaging and pulmonary function testing. Neurological evaluation is warranted if a systemic or neuromuscular etiology is suspected.",
+      "essential_tests": [
+        "Chest radiograph: elevated hemidiaphragm and mediastinal deviation.",
+        "Diaphragmatic ultrasound: reduced thickening and paradoxical motion.",
+        "Fluoroscopy (sniff test): absent or paradoxical diaphragmatic excursion.",
+        "Spirometry: reduced vital capacity, >25% decline in supine position.",
+        "Arterial blood gas: mild to moderate hypoxemia, hypercapnia in severe cases.",
+        "Phrenic nerve conduction studies and diaphragmatic EMG (selective use).",
+        "Polysomnography: evaluation of nocturnal hypoventilation and central sleep apnea."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Bilateral paralysis with hypercapnic respiratory failure.",
+      "Severe postural intolerance or sleep-related symptoms.",
+      "Difficult weaning from mechanical ventilation post cardiac or neurologic surgery.",
+      "Documented nocturnal desaturation and hypoventilation.",
+      "Progressive neuromuscular disorders with confirmed diaphragmatic weakness."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Patient education regarding respiratory mechanics and posture (e.g., head-of-bed elevation).",
+        "Initiation of nighttime noninvasive ventilation (NIV) with tailored settings.",
+        "Serial monitoring of blood gases and nighttime symptoms.",
+        "Pulmonary rehabilitation including inspiratory muscle training and light conditioning.",
+        "Treatment of the underlying cause: surgical decompression, tumor resection, or repair of iatrogenic injury.",
+        "Diaphragmatic plication (via VATS) in symptomatic unilateral cases.",
+        "Diaphragmatic pacing in selected chronic patients with intact phrenic nerves."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on etiology, severity of dysfunction, and response to ventilatory support. Unilateral cases often have favorable outcomes, especially post-plication. Bilateral or neuromuscular-related cases require long-term follow-up and ventilatory assistance, with increased risk of persistent hypoventilation and respiratory infections. NIV improves survival and quality of life when correctly implemented."
+    },
+    "additional_notes": [
+      "NIV is the cornerstone for nocturnal hypoventilation management.",
+      "Postoperative cases may recover spontaneously within 6–12 months — re-evaluate before plication.",
+      "Ultrasound allows ambulatory monitoring of diaphragmatic function.",
+      "Opioids and sedatives should be avoided due to ventilatory depression risk.",
+      "Patients with chronic hypoventilation should be managed by pulmonologists and respiratory therapists."
+    ],
+    "references": [
+      "UpToDate. Evaluation and management of diaphragmatic paralysis. 2024.",
+      "Manual of Pulmonology – Brazilian Thoracic Society. 2021.",
+      "Miller’s Anesthesia. 8th ed. Chapter 53 – Neuromuscular Respiratory Dysfunction.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "American Thoracic Society – Diaphragm dysfunction guidelines. 2022.",
+      "Brazilian Journal of Intensive Care – Diaphragmatic Dysfunction. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Parálisis Diafragmática",
+    "definicion": "La parálisis diafragmática es un trastorno neuromuscular caracterizado por la pérdida parcial o total de la capacidad contráctil del diafragma, lo que compromete la ventilación pulmonar. Puede presentarse de forma unilateral o bilateral y sus causas incluyen lesiones del nervio frénico, enfermedades neuromusculares, complicaciones quirúrgicas torácicas y cervicales, infecciones virales, neuropatías compresivas o etiologías idiopáticas. Afecta directamente la mecánica ventilatoria y puede generar insuficiencia respiratoria, especialmente en decúbito o durante el sueño.",
+    "epidemiologia": "La forma unilateral es más común, a menudo subdiagnosticada, y generalmente está relacionada con procedimientos quirúrgicos cardíacos (como bypass coronario), intervenciones cervicales (disección ganglionar, tiroidectomía), trauma o infiltración tumoral. La parálisis bilateral es más rara y grave, común en enfermedades neuromusculares como ELA, síndrome post-polio, miopatías, síndrome de Guillain-Barré y polimiositis. También puede observarse disfunción diafragmática en pacientes sometidos a ventilación mecánica prolongada (atrofia por desuso).",
+    "fisiopatologia": "El diafragma es el principal músculo inspiratorio, responsable de aproximadamente el 70% de la ventilación en reposo. Está inervado por los nervios frénicos (raíces C3–C5). La disfunción frénica conduce a una excursión diafragmática reducida y elevación paradójica del hemidiafragma afectado, con disminución de la complacencia pulmonar, hipoventilación alveolar, mayor trabajo respiratorio y dependencia ventilatoria. La afectación bilateral puede provocar insuficiencia respiratoria severa, hipercapnia e hipoxemia, especialmente durante el sueño REM o en decúbito.",
+    "manifestaciones_clinicas": {
+      "formas_unilaterales": [
+        "Disnea con esfuerzo y ortopnea.",
+        "Reducción del murmullo vesicular en la base pulmonar afectada.",
+        "Elevación del hemidiafragma en estudios por imágenes.",
+        "Fatiga crónica y disminución de la tolerancia al ejercicio.",
+        "Desviación mediastínica contralateral durante la inspiración."
+      ],
+      "formas_bilaterales": [
+        "Disnea intensa en reposo y ortopnea marcada.",
+        "Movimiento abdominal paradójico (hundimiento durante la inspiración).",
+        "Síntomas de hipoventilación nocturna: cefalea matutina, hipersomnolencia, confusión.",
+        "Dependencia de ventilación mecánica no invasiva o invasiva.",
+        "Hipoxemia nocturna e hipercapnia diurna progresiva."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Debe sospecharse en pacientes con disnea inexplicada, síntomas posturales y hallazgos radiológicos sugestivos. El diagnóstico se confirma mediante imágenes funcionales del diafragma y pruebas de función pulmonar. Está indicada la evaluación neurológica cuando se sospecha etiología sistémica o neuromuscular.",
+      "examenes_esenciales": [
+        "Radiografía de tórax: elevación del hemidiafragma afectado y desviación mediastínica.",
+        "Ecografía diafragmática: movilidad reducida y patrón paradójico.",
+        "Fluoroscopía (sniff test): movimiento paradójico o ausencia de descenso diafragmático.",
+        "Espirometría: reducción de la capacidad vital con caída > 25% en decúbito.",
+        "Gasometría arterial: hipoxemia leve/moderada, hipercapnia si es grave.",
+        "EMG del diafragma y estudios de conducción del nervio frénico (en casos seleccionados).",
+        "Polisomnografía: útil en pacientes con hipoventilación nocturna o sospecha de apnea central del sueño."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Parálisis diafragmática bilateral con insuficiencia respiratoria hipercápnica.",
+      "Intolerancia postural grave o síntomas severos en decúbito.",
+      "Fracaso del destete ventilatorio tras cirugía cardíaca o neurológica.",
+      "Desaturación nocturna documentada por polisomnografía o oximetría.",
+      "Progresión de enfermedad neuromuscular con disfunción diafragmática confirmada."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Educación del paciente sobre la mecánica respiratoria y estrategias posturales (elevación del cabecero).",
+        "Inicio de ventilación no invasiva nocturna (VNI) con parámetros individualizados.",
+        "Monitoreo periódico de gases arteriales y síntomas nocturnos.",
+        "Rehabilitación pulmonar: entrenamiento muscular inspiratorio, ejercicios de baja intensidad.",
+        "Tratamiento de la causa subyacente: resección tumoral, reparación quirúrgica en lesiones iatrogénicas.",
+        "Plicatura diafragmática mediante VATS en casos unilaterales sintomáticos refractarios.",
+        "Marcapasos diafragmático en pacientes seleccionados con integridad neuromuscular."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende de la causa, gravedad de la disfunción y respuesta al soporte ventilatorio. Los casos unilaterales suelen tener buena evolución, especialmente con plicatura. La parálisis bilateral o asociada a enfermedades neuromusculares requiere seguimiento prolongado y asistencia ventilatoria, con mayor riesgo de hipoventilación persistente e infecciones respiratorias. El uso adecuado de VNI mejora la supervivencia y la calidad de vida."
+    },
+    "notas_adicionales": [
+      "La VNI nocturna es esencial en el manejo de la hipoventilación asociada.",
+      "Los casos postoperatorios pueden recuperar la función en 6–12 meses — evaluar antes de plicatura.",
+      "La ecografía permite seguimiento ambulatorio de la función diafragmática.",
+      "Evitar opioides y sedantes en pacientes con hipoventilación.",
+      "El seguimiento debe ser multidisciplinario (neumología, fisioterapia respiratoria)."
+    ],
+    "fuentes_bibliograficas": [
+      "UpToDate. Evaluación y manejo de la parálisis diafragmática. 2024.",
+      "Manual de Neumología – Sociedad Brasileña de Neumología. 2021.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 53 – Disfunciones neuromusculares respiratorias.",
+      "Harrison’s Principios de Medicina Interna. 21ª ed.",
+      "Guías ATS – Disfunción diafragmática. 2022.",
+      "Revista Brasileña de Cuidados Intensivos – Disfunción diafragmática. 2023."
+    ]
+  }
+}

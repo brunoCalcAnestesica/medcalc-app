@@ -1,0 +1,185 @@
+{
+  "PT": {
+    "titulo": "Via Aérea Difícil Eletiva",
+    "definicao": "A via aérea difícil eletiva refere-se à situação em que, antes da indução anestésica, é previsto que haja dificuldade na ventilação por máscara, na intubação traqueal ou em ambas, com base em achados clínicos durante a avaliação pré-operatória. Essa antecipação permite o planejamento seguro e individualizado, utilizando técnicas avançadas e recursos auxiliares que visam garantir a manutenção da oxigenação e evitar complicações graves. Trata-se de uma condição distinta da via aérea difícil inesperada, que se caracteriza pela ausência de previsão prévia e necessidade de intervenção imediata.",
+    "epidemiologia": "A dificuldade na via aérea ocorre em 1 a 8% das anestesias gerais. Cerca de 20 a 30% dessas situações podem ser antecipadas com base em uma avaliação pré-anestésica criteriosa. Os fatores de risco incluem obesidade, apneia obstrutiva do sono, histórico prévio de intubação difícil, anomalias congênitas craniofaciais, tumores cervicais, sequelas de trauma ou radioterapia de cabeça e pescoço, e limitação funcional da coluna cervical ou da mandíbula.",
+    "fisiopatologia": "A dificuldade no manejo da via aérea pode ter origem anatômica (micrognatia, macroglossia, retrognatismo), estrutural (tumores, inflamações, fibroses), funcional (mobilidade cervical reduzida, trismo, limitação mandibular), ou fisiológica (gravidez, sepse, hipoxemia basal, aumento do consumo de oxigênio). Essas alterações comprometem a visualização das estruturas laríngeas ou dificultam a ventilação adequada, aumentando o risco de hipóxia, aspiração e complicações hemodinâmicas.",
+    "manifestações_clinicas": {
+      "sinais_preditores": [
+        "Classe de Mallampati III ou IV.",
+        "Distância tireomentoniana &lt; 6,5 cm.",
+        "Abertura oral &lt; 3 cm.",
+        "Impossibilidade de avanço mandibular (prognatismo limitado).",
+        "Pescoço curto ou espesso, limitação da extensão cervical.",
+        "Anormalidades craniofaciais congênitas ou adquiridas (tumores, traumas).",
+        "Histórico de intubação difícil ou falha em anestesias anteriores.",
+        "Presença de massa obstrutiva em vias aéreas superiores (traqueia, orofaringe, laringe)."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A avaliação da via aérea deve ser sistemática, incluindo inspeção facial, palpação cervical, mobilidade mandibular e cervical, classe de Mallampati, distância interincisivos, distância mento-hioide e tireomentoniana, e avaliação da protusão mandibular. Ferramentas compostas, como os escores LEMON, El-Ganzouri e MACOCHA, aumentam a acurácia preditiva quando comparadas à avaliação isolada. Casos oncológicos ou com suspeita de obstrução de via aérea devem ser complementados com exames de imagem ou endoscopia.",
+      "exames_essenciais": [
+        "Avaliação clínica estruturada e documentada em prontuário.",
+        "Tomografia computadorizada de pescoço e tórax (em tumores cervicomediastinais ou compressões traqueais).",
+        "Nasofibroscopia em obstruções dinâmicas, massas faríngeas ou laringeas.",
+        "Revisão de registros anestésicos anteriores, se disponíveis."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Reserva fisiológica reduzida: obesidade grau III, sepse, gestação, insuficiência respiratória.",
+      "Anatomia sugestiva de ventilação difícil por máscara: barba espessa, retrognatismo, língua volumosa.",
+      "Situações com obstrução parcial da via aérea ou risco de colapso dinâmico durante a indução."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Registrar claramente a previsão de via aérea difícil na avaliação pré-anestésica e plano anestésico.",
+        "Evitar sedação profunda, opioides ou bloqueio neuromuscular antes de garantir via aérea.",
+        "Priorizar a intubação acordada com analgesia tópica (lidocaína nebulizada ou spray), sedação leve (dexmedetomidina, remifentanil, midazolam) e técnica colaborativa.",
+        "Utilizar fibroscópio flexível, videolaringoscópio ou dispositivos supraglóticos de segunda geração conforme expertise local.",
+        "Assegurar presença de dois profissionais experientes em VA, com acesso a material completo para intubação difícil e via aérea cirúrgica (cricotireoidotomia, traqueostomia de urgência).",
+        "Definir limite de tentativas antes de mudança de estratégia.",
+        "Garantir comunicação clara com o paciente, explicando os riscos, técnicas planejadas e necessidade potencial de acordá-lo em caso de falha.",
+        "Disponibilizar oxigênio nasal de alto fluxo durante todas as etapas (apneia prolongada, preoxigenação, passagem de dispositivo óptico)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A antecipação da via aérea difícil permite adotar estratégias seguras e individualizadas, com elevada taxa de sucesso e menor risco de hipóxia, trauma de via aérea, aspiração ou morte. A intubação acordada, quando bem conduzida, é considerada padrão ouro nos casos de VA difícil eletiva. O prognóstico torna-se reservado quando há falha no planejamento ou uso inadequado de técnicas sedativas, resultando em perda da via aérea sem ventilação."
+    },
+    "notas_adicionais": [
+      "Pacientes com VA difícil conhecida devem portar cartão ou alerta médico (pulseira, documento digital).",
+      "Centros cirúrgicos devem manter carrinhos de via aérea difícil com equipamentos atualizados.",
+      "Simulações regulares com cenários de VA difícil devem fazer parte da educação permanente da equipe.",
+      "Após o procedimento, deve-se documentar detalhadamente a técnica utilizada, dificuldades encontradas e resposta do paciente.",
+      "Casos de extrema complexidade devem ser referenciados a centros com equipe multidisciplinar e suporte avançado."
+    ],
+    "fontes_bibliograficas": [
+      "Difficult Airway Society Guidelines. Anaesthesia. 2015.",
+      "UpToDate. Management of the difficult airway for general anesthesia. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 58 – Airway Management.",
+      "Diretrizes da Sociedade Brasileira de Anestesiologia – Via Aérea Difícil. 2021.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  },
+  "US": {
+    "title": "Elective Anticipated Difficult Airway",
+    "definition": "An elective anticipated difficult airway refers to a clinical scenario where, prior to anesthetic induction, difficulty with mask ventilation, tracheal intubation, or both is predicted based on preoperative assessment. Unlike unexpected difficult airway situations, this condition allows for thorough planning and implementation of advanced strategies to ensure adequate oxygenation and patient safety during airway management.",
+    "epidemiology": "Difficult airway management is encountered in 1–8% of general anesthesia cases. Approximately 20–30% of these can be predicted by careful pre-anesthetic evaluation. Risk factors include obesity, obstructive sleep apnea, craniofacial abnormalities, previous history of difficult intubation, cervical spine pathology, tumors of the head and neck, radiation therapy, or limited mandibular mobility.",
+    "pathophysiology": "Airway difficulty may stem from anatomical (micrognathia, macroglossia, limited mouth opening), structural (tumors, scarring), functional (restricted neck mobility, temporomandibular joint disorders), or physiological factors (pregnancy, sepsis, increased oxygen demand, baseline hypoxemia). These conditions impair laryngoscopic visualization or compromise effective ventilation, leading to increased risk of hypoxia and airway trauma.",
+    "clinical_manifestations": {
+      "predictive_signs": [
+        "Mallampati class III or IV.",
+        "Thyromental distance &lt; 6.5 cm.",
+        "Interincisor gap &lt; 3 cm.",
+        "Inability to protrude lower jaw beyond upper incisors.",
+        "Short, thick neck or limited cervical extension.",
+        "Craniofacial abnormalities (congenital or acquired).",
+        "History of failed or difficult intubation.",
+        "Presence of obstructive masses in the upper airway (pharynx, larynx, trachea)."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "A structured airway assessment should include facial inspection, cervical spine mobility, mandibular mobility, Mallampati classification, interincisor gap, thyromental distance, and mandibular protrusion. Composite assessment tools (LEMON, El-Ganzouri, MACOCHA) improve predictive accuracy. Imaging or endoscopy is advised in cases with suspected obstruction or malignancy.",
+      "essential_tests": [
+        "Standardized clinical airway evaluation documented in the medical record.",
+        "Neck and chest CT scan for suspected tumor or tracheal compression.",
+        "Flexible nasoendoscopy in patients with suspected upper airway obstruction.",
+        "Review of prior anesthetic records when available."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Reduced physiological reserve: morbid obesity, sepsis, pregnancy, respiratory insufficiency.",
+      "Anatomical features predicting mask ventilation difficulty (e.g., thick beard, large tongue, retrognathia).",
+      "Upper airway obstruction or suspected dynamic collapse during induction."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Clearly document anticipated difficult airway in the anesthetic plan.",
+        "Avoid deep sedation, opioids, or neuromuscular blockers before securing the airway.",
+        "Prefer awake intubation using topical anesthesia (nebulized or sprayed lidocaine), light sedation (dexmedetomidine, remifentanil, midazolam), and patient cooperation.",
+        "Utilize flexible fiberoptic bronchoscopy, videolaryngoscopy, or second-generation supraglottic devices according to institutional expertise.",
+        "Ensure presence of two experienced airway providers and immediate availability of full difficult airway equipment including surgical airway tools (cricothyrotomy, emergency tracheostomy).",
+        "Define a maximum number of attempts before changing strategy.",
+        "Communicate the plan and possible risks to the patient clearly and in advance.",
+        "Provide apneic oxygenation with high-flow nasal cannula throughout the procedure (preoxygenation, device insertion, intubation)."
+      ]
+    },
+    "prognosis": {
+      "comment": "Anticipation and planning of difficult airway scenarios significantly improve outcomes. Awake intubation, when properly executed, is considered the gold standard in elective difficult airway cases. Failure to recognize and prepare for a difficult airway can result in severe hypoxia, aspiration, brain injury, or death. Detailed documentation and appropriate follow-up are essential."
+    },
+    "additional_notes": [
+      "Patients with known difficult airways should carry medical identification (bracelet, card, digital alert).",
+      "Operating rooms should maintain updated difficult airway carts with standardized equipment.",
+      "Regular airway management simulations should be part of institutional training programs.",
+      "Postoperative documentation should include details on the technique used, challenges encountered, and response.",
+      "Complex cases should be referred to specialized centers with multidisciplinary airway teams."
+    ],
+    "references": [
+      "Difficult Airway Society Guidelines. Anaesthesia. 2015.",
+      "UpToDate. Management of the difficult airway for general anesthesia. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 58 – Airway Management.",
+      "Brazilian Society of Anesthesiology – Difficult Airway Guidelines. 2021.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Vía Aérea Difícil Electiva",
+    "definicion": "La vía aérea difícil electiva se refiere a la situación en la que, antes de la inducción anestésica, se prevé dificultad para ventilar con máscara, intubar la tráquea o ambas, basada en hallazgos clínicos durante la evaluación preoperatoria. Esta anticipación permite planificar de forma segura e individualizada el abordaje de la vía aérea, utilizando técnicas avanzadas y dispositivos auxiliares para mantener una oxigenación adecuada y evitar complicaciones graves. Se diferencia de la vía aérea difícil inesperada, que ocurre sin previsión previa y requiere manejo de emergencia.",
+    "epidemiologia": "La dificultad en el manejo de la vía aérea ocurre en aproximadamente 1 a 8% de las anestesias generales. Alrededor del 20 al 30% de estos casos pueden anticiparse mediante una evaluación anestésica adecuada. Los factores de riesgo incluyen obesidad, apnea obstructiva del sueño, antecedentes de intubación difícil, anomalías craneofaciales congénitas o adquiridas, tumores cervicales, secuelas de radioterapia o cirugía de cuello, y limitación funcional de la columna cervical o la mandíbula.",
+    "fisiopatologia": "La dificultad en el manejo de la vía aérea puede tener origen anatómico (micrognatia, macroglosia, retrognatia), estructural (tumores, infecciones, fibrosis), funcional (limitación de movilidad cervical, trismo, disfunción temporomandibular), o fisiológico (embarazo, sepsis, hipoxemia basal, aumento del consumo de oxígeno). Estas condiciones dificultan la visualización laríngea o impiden una ventilación eficaz, aumentando el riesgo de hipoxia, aspiración y eventos adversos hemodinámicos.",
+    "manifestaciones_clinicas": {
+      "signos_predictores": [
+        "Clase de Mallampati III o IV.",
+        "Distancia tiromentoniana &lt; 6,5 cm.",
+        "Apertura oral &lt; 3 cm.",
+        "Imposibilidad para protruir la mandíbula inferior.",
+        "Cuello corto o grueso, limitación de la extensión cervical.",
+        "Anomalías craneofaciales congénitas o adquiridas.",
+        "Antecedentes de intubación difícil o fallida.",
+        "Presencia de masas obstructivas en vías aéreas superiores (orofaringe, laringe, tráquea)."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "La evaluación preanestésica de la vía aérea debe ser sistemática, incluyendo inspección facial, movilidad cervical, movilidad mandibular, clasificación de Mallampati, distancia interincisiva, distancia tiromentoniana y protrusión mandibular. El uso de herramientas compuestas como LEMON, El-Ganzouri y MACOCHA mejora la precisión diagnóstica. Los casos con sospecha de obstrucción deben complementarse con tomografía o nasofibroscopia.",
+      "examenes_esenciales": [
+        "Evaluación clínica estructurada documentada en la historia anestésica.",
+        "Tomografía computarizada de cuello y tórax (en sospecha de tumor o compresión traqueal).",
+        "Nasofibrolaringoscopia en pacientes con obstrucción dinámica o masas visibles.",
+        "Revisión de antecedentes anestésicos previos si están disponibles."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Reserva fisiológica reducida: obesidad mórbida, sepsis, embarazo, insuficiencia respiratoria.",
+      "Características anatómicas sugestivas de ventilación difícil con máscara (barba espesa, macroglosia, retrognatia).",
+      "Obstrucción parcial de la vía aérea o colapso dinámico anticipado durante la inducción anestésica."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Documentar claramente el riesgo de vía aérea difícil en el plan anestésico.",
+        "Evitar sedación profunda, opioides o bloqueantes neuromusculares antes de asegurar la vía aérea.",
+        "Priorizar la intubación despierta con anestesia tópica (lidocaína nebulizada o en spray), sedación ligera (dexmedetomidina, remifentanilo, midazolam) y cooperación del paciente.",
+        "Utilizar fibrobroncoscopio flexible, videolaringoscopios o dispositivos supraglóticos de segunda generación según disponibilidad y experiencia.",
+        "Contar con al menos dos profesionales experimentados y con acceso inmediato a equipo completo de vía aérea difícil y vía aérea quirúrgica (cricotiroidotomía, traqueotomía de urgencia).",
+        "Establecer el número máximo de intentos antes de cambiar de estrategia.",
+        "Informar al paciente de los riesgos y del plan de manejo propuesto.",
+        "Proporcionar oxigenación apneica continua con cánula nasal de alto flujo durante todo el procedimiento."
+      ]
+    },
+    "pronostico": {
+      "comentario": "La identificación anticipada de la vía aérea difícil mejora significativamente la seguridad del procedimiento. La intubación despierta bien ejecutada es el estándar de oro en estos casos. La falta de previsión o la ejecución inadecuada del plan puede llevar a hipoxia severa, aspiración, daño neurológico o muerte. La documentación y seguimiento adecuado son fundamentales."
+    },
+    "notas_adicionales": [
+      "Los pacientes con vía aérea difícil conocida deben portar identificación médica (pulsera, tarjeta o alerta digital).",
+      "Los quirófanos deben contar con carros de vía aérea difícil con equipos actualizados.",
+      "Los simulacros periódicos de manejo de vía aérea difícil deben incluirse en los programas de formación continua.",
+      "Se debe documentar en el postoperatorio la técnica utilizada, dificultades encontradas y evolución.",
+      "Los casos complejos deben derivarse a centros con equipos multidisciplinarios especializados en vía aérea."
+    ],
+    "referencias": [
+      "Difficult Airway Society Guidelines. Anaesthesia. 2015.",
+      "UpToDate. Manejo de la vía aérea difícil para anestesia general. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 58 – Manejo de la Vía Aérea.",
+      "Sociedad Brasileña de Anestesiología – Guía de Vía Aérea Difícil. 2021.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  }
+}

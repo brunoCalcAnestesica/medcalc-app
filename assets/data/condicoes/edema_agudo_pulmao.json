@@ -1,0 +1,250 @@
+{
+  "PT": {
+    "titulo": "Edema Agudo de Pulmão",
+    "definicao": "O edema agudo de pulmão (EAP) é uma emergência respiratória caracterizada pelo acúmulo abrupto de líquido no espaço alveolar e intersticial pulmonar, resultando em comprometimento grave da troca gasosa e hipóxia aguda. Clinicamente, manifesta-se por dispneia paroxística, ortopneia, estertores crepitantes difusos, taquipneia compensatória e sensação de afogamento. Há rápida progressão para insuficiência respiratória, choque cardiogênico e, potencialmente, falência de múltiplos órgãos se não for tratado de forma imediata e assertiva.",
+    "epidemiologia": "O EAP é frequente em pacientes com insuficiência cardíaca congestiva (ICC) descompensada, representando cerca de 30–40% das indicações de internação em UTI por descompensação cardíaca. Em pacientes com infarto agudo do miocárdio (IAM), até 10–20% desenvolvem EAP no período agudo, associado a maior mortalidade. Valvopatias, especialmente estenose ou insuficiência mitral, podem provocar edema pulmonar agudo em até 5–10% dos casos. Em cenários não cardiogênicos, o EAP pode ocorrer em até 15–20% dos pacientes com SDRA, sepse grave ou inalação de substâncias tóxicas. A mortalidade hospitalar do EAP varia de 10% a 30%, dependendo da etiologia e comorbidades associadas.",
+    "fisiopatologia": "O EAP pode ser dividido em cardiogênico e não cardiogênico. No EAP cardiogênico, a insuficiência aguda da função sistólica ou diastólica do ventrículo esquerdo eleva abruptamente a pressão telediastólica ventricular esquerda e a pressão venocapilar pulmonar (PVP), ultrapassando a pressão oncótica plasmática e causando extravasamento de fluido para o interstício e alvéolos. Adicionalmente, a ativação do sistema renina-angiotensina-aldosterona e do sistema nervoso simpático agrava retenção de sódio e vasoconstrição, exacerbando edema e dispneia. No EAP não cardiogênico, há lesão endotelial alveolar primária, como no SDRA, sepse ou inalação de toxinas, aumentando a permeabilidade capilar e permitindo passagem de proteínas e fluido plasmático para o interstício alveolar, independentemente da PVP. A hipoxemia resultante provoca vasoconstrição pulmonar, aumentando pós-carga do ventrículo direito e contribuindo para disfunção biventricular. A queda do débito cardíaco e a hipóxia tecidual geram acidose metabólica, exacerbando a disfunção respiratória.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Instabilidade hemodinâmica com hipotensão ou hipertensão transitória devido a estímulo simpático e liberação de catecolaminas.",
+        "Sinais de baixo débito: extremidades frias, pulso fraco, tempo de enchimento capilar prolongado.",
+        "Em IAM associado, arritmias ventriculares e bloqueios atrioventriculares podem ocorrer.",
+        "No choque cardiogênico, perfusão tecidual inadequada com oligúria e acidose láctica.",
+        "Turgência jugular manifesta em EAP de origem cardíaca, refletindo pressão venosa central elevada."
+      ],
+      "respiratorias": [
+        "Dispneia paroxística súbita, progressiva para ortopneia e sensação de afogamento.",
+        "Taquipneia marcante (>25–30 irpm) com uso intenso de musculatura acessória e batimento de asa nasal.",
+        "Estertores crepitantes bilaterais, predominantemente em campos inferiores, podendo evoluir para estertores em todo pulmão.",
+        "Tosse produtiva com expectoração espumosa, cor rosa (líquido alveolar misturado com sangue).",
+        "Cianose central visível em lábios e face, associada à hipoxemia grave.",
+        "Respiração de Cheyne-Stokes em casos de disfunção ventricular esquerda grave e hipoperfusão central."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Ansiedade e inquietação intensas secundárias à sensação de asfixia.",
+        "Alteração do estado mental: confusão, agitação ou sonolência conforme a gravidade da hipoxemia.",
+        "Suor frio e diarreia vagal como reflexo vagal em alguns pacientes.",
+        "Acidose respiratória e metabólica mista: PaCO₂ elevado por fadiga respiratória e lactato elevado por hipoperfusão.",
+        "Possível choque mediado por liberação de mediadores inflamatórios em EAP não cardiogênico."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico do EAP inicia-se com avaliação rápida dos sinais vitais, histórico clínico (insuficiência cardíaca, IAM prévio, valvopatia) e exame físico focado em estertores, turgência jugular e edema periférico. A distinção entre EAP cardiogênico e não cardiogênico é orientada pelo contexto clínico, achados ecocardiográficos e parâmetros de biomarcadores. O manejo inicial não deve atrasar a confirmação diagnóstica por imagem e gasometria.",
+      "exames_essenciais": [
+        "Gasometria arterial: hipoxemia grave (PaO₂ < 60 mmHg), possível normocapnia relativa inicial, seguida de hipercapnia em fadiga respiratória, pH reduzido e lactato elevado.",
+        "Radiografia de tórax: infiltrados intersticiais bilaterais em ‘asa de borboleta’, linhas B ao ultrassom (POCUS), cardiomegalia em EAP cardiogênico e derrame pleural associado.",
+        "Ecocardiograma transtorácico: avaliação dinâmica da função sistólica/diastólica, volume atrial esquerdo, fração de ejeção, hipertrofia ventricular, regurgitação valvar, estimativa de pressão pulmonar e presença de derrame pericárdico.",
+        "BNP/NT-proBNP: valores elevados sugerem etiologia cardiogênica (BNP > 500 pg/mL ou NT-proBNP > 1800 pg/mL em idosos).",
+        "ECG: sinais de isquemia aguda (elevação/depressão de ST, bloqueio de ramo), extrassístoles, fibrilação atrial ou flutter que podem precipitar EAP.",
+        "Ultrassonografia pulmonar: linhas B difusas, consolidações subpleurais, derrame pleural e estimativa subjetiva de transudato versus exsudato.",
+        "Cateterismo cardíaco direito (Swan-Ganz): em casos selecionados, avalia pressões transpulmonares, resistência vascular pulmonar e débito cardíaco para diferenciar EAP cardiogênico de SDRA.",
+        "Hemograma, eletrólitos, função renal e hepática: avaliam comorbidades e causas precipitantes, como insuficiência renal aguda, desequilíbrios eletrolíticos (hiponatremia, hipocalemia) e função de órgãos alvo.",
+        "Gasometria semanal ou seriada após intervenções terapêuticas para monitorar resposta.",
+        "Angiotomografia de tórax: se suspeita de embolia pulmonar coexistente ou SDRA, especialmente em EAP não cardiogênico."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia refratária (SpO₂ < 88%) mesmo com ventilação não invasiva otimizada, uso de FiO₂ 1,0 e PEEP ≥ 8 cmH₂O.",
+      "Hipercapnia progressiva com pH < 7,25 e instabilidade hemodinâmica, indicando fadiga respiratória.",
+      "Glasgow ≤ 8 ou rebaixamento de consciência com risco de aspiração e necessidade de proteger vias aéreas.",
+      "Choque cardiogênico associado ao EAP, com necessidade de suporte ventilatório invasivo para otimizar oxigenação e reduzir pós-carga.",
+      "Edema pulmonar grave com necessidade de ventilação protetora (Vt 6 mL/kg, PEEP moderada) para minimizar barotrauma e atelectasia."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Elevação da cabeceira a 30–45° e posicionamento em Fowler para reduzir retorno venoso e melhorar mecânica respiratória.",
+        "Oxigenação suplementar imediata: máscara não reinalante a 15 L/min ou ventilação não invasiva (CPAP 10–12 cmH₂O, FiO₂ 1,0) para manter SpO₂ ≥ 92%.",
+        "Diuréticos de alça IV: furosemida 40–80 mg IV em bolus, ajustado conforme resposta diurética e função renal, repetindo doses se necessário para diurese de 1–2 mL/kg/h.",
+        "Vasodilatadores venosos: nitroglicerina IV em infusão contínua (10–200 mcg/min) para reduzir pré-carga, iniciar em 10 mcg/min e titrar conforme resposta."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico do EAP depende da etiologia, rapidez da intervenção e gravidade da disfunção cardíaca. Em casos agudos tratados precocemente, a recuperação pode ser rápida, com melhora significativa das trocas gasosas em horas. Pacientes com choque cardiogênico grave ou falência múltipla de órgãos apresentam maior mortalidade, que pode exceder 50%. Seguimento ambulatorial e otimização do tratamento da insuficiência cardíaca crônica reduzem recidivas."
+    },
+    "notas_adicionais": [
+      "Em pacientes com DPOC, ajustar ventilação não invasiva para evitar retenção de CO₂ e barotrauma.",
+      "Avaliar necessidade de anticoagulação em casos de infarto do miocárdio ou embolia pulmonar concomitante.",
+      "Considerar uso de dispositivos de assistência circulatória (balloon pump, ECMO) em choque refratário ao tratamento convencional.",
+      "Em EAP não cardiogênico (SDRA): seguir protocolos de ventilação protetora, posicionamento pronado e considerar ECMO em casos refratários.",
+      "Reavaliar radiografia de tórax e ecocardiograma em 6–12 horas para avaliar resposta terapêutica.",
+      "Terapia de dessensibilização progressiva em pacientes com uso crônico de diuréticos para evitar queda abrupta da pressão arterial."
+    ],
+    "fontes_bibliograficas": [
+      "Braunwald E, et al. Heart Disease. 10ª ed. Elsevier; 2015. Capítulo 30 – Insuficiência Cardíaca e Edema Pulmonar.",
+      "UpToDate. Acute pulmonary edema: clinical presentation, diagnosis, and management. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 84 – Insuficiência Cardíaca e Suporte Ventilatório.",
+      "Diretrizes da Sociedade Brasileira de Cardiologia – Insuficiência Cardíaca Aguda. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  },
+  "US": {
+    "title": "Acute Pulmonary Edema",
+    "definition": "Acute pulmonary edema (APE) is a life-threatening respiratory failure characterized by the rapid accumulation of fluid in the pulmonary interstitium and alveoli, leading to severe impairment of gas exchange and acute hypoxemia. Clinically, it presents with sudden onset of severe dyspnea, orthopnea, diffuse bilateral crackles, tachypnea, and a sensation of drowning. If not promptly recognized and treated, APE rapidly progresses to respiratory failure, cardiogenic shock, and multiorgan dysfunction.",
+    "epidemiology": "APE frequently occurs in patients with decompensated congestive heart failure (CHF), accounting for approximately 30–40% of ICU admissions for heart failure exacerbation. In acute myocardial infarction (AMI), up to 10–20% of patients develop APE during the acute phase, associated with increased mortality. Valvular heart diseases, particularly mitral stenosis or regurgitation, are responsible for APE in 5–10% of cases. In noncardiogenic scenarios, APE develops in 15–20% of patients with acute respiratory distress syndrome (ARDS), severe sepsis, or inhalation injury. Hospital mortality ranges from 10% to 30%, depending on etiology and comorbidities.",
+    "pathophysiology": "APE can be classified as cardiogenic or noncardiogenic. In cardiogenic APE, acute systolic or diastolic dysfunction of the left ventricle leads to a sudden rise in left ventricular end-diastolic pressure and pulmonary capillary wedge pressure, exceeding oncotic pressure and causing transudation of fluid into the interstitium and alveoli. Activation of the renin-angiotensin-aldosterone system and sympathetic nervous system exacerbates sodium retention and vasoconstriction, worsening pulmonary congestion and dyspnea. In noncardiogenic APE, primary alveolar-capillary membrane injury—such as in ARDS, sepsis, or toxic inhalation—increases capillary permeability, permitting protein-rich fluid to enter the alveolar space independently of left atrial pressure. Resulting hypoxemia induces pulmonary vasoconstriction, elevating right ventricular afterload and potentially causing biventricular dysfunction. Decreased cardiac output and tissue hypoxia trigger metabolic acidosis, further compromising respiratory function.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Acute hemodynamic instability with transient hypotension or hypertension due to sympathetic surge and catecholamine release.",
+        "Signs of low cardiac output: cool extremities, weak pulses, prolonged capillary refill time.",
+        "In associated AMI, ventricular arrhythmias and atrioventricular blocks may occur.",
+        "In cardiogenic shock, inadequate tissue perfusion results in oliguria and lactic acidosis.",
+        "Elevated jugular venous pressure reflecting increased central venous pressure in cardiogenic APE."
+      ],
+      "respiratory": [
+        "Sudden paroxysmal dyspnea progressing to orthopnea and sensation of drowning.",
+        "Marked tachypnea (>25–30 breaths/min) with intense use of accessory muscles and nasal flaring.",
+        "Diffuse bilateral crackles, initially predominant in lower lung fields, progressing to pan-pulmonary crackles as fluid accumulates.",
+        "Productive cough with frothy, pink-tinged sputum (indicative of alveolar fluid mixed with blood).",
+        "Central cyanosis of lips and face due to severe hypoxemia.",
+        "Cheyne-Stokes respiration pattern in severe left ventricular dysfunction and central hypoperfusion."
+      ],
+      "neurologic_and_metabolic": [
+        "Severe anxiety and restlessness secondary to impending suffocation.",
+        "Altered mental status: confusion, agitation, or somnolence correlating with hypoxemia severity.",
+        "Cold sweats and vagal symptoms (e.g., nausea) as a vagal reflex in some patients.",
+        "Mixed respiratory and metabolic acidosis: elevated PaCO₂ from respiratory muscle fatigue and elevated lactate from tissue hypoperfusion.",
+        "Potential distributive shock from systemic inflammatory mediator release in noncardiogenic APE."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis of APE relies on rapid assessment of vital signs, patient history (CHF, recent AMI, valvular disease), and physical exam focusing on crackles, jugular venous distension, and peripheral edema. Differentiating cardiogenic from noncardiogenic APE is guided by clinical context, echocardiographic findings, and biomarker levels. Initial management should not delay confirmatory imaging and arterial blood gas analysis.",
+      "essential_tests": [
+        "Arterial blood gas: reveals severe hypoxemia (PaO₂ < 60 mmHg), possible initial normocapnia followed by hypercapnia in respiratory fatigue, low pH, and elevated lactate.",
+        "Chest X-ray: shows bilateral interstitial infiltrates in a “butterfly wing” pattern, Kerley B lines, cardiomegaly in cardiogenic APE, and pleural effusions.",
+        "Transthoracic echocardiogram: dynamic assessment of systolic/diastolic left ventricular function, left atrial size, ejection fraction, ventricular hypertrophy, valvular regurgitation, estimation of pulmonary artery pressure, and pericardial effusion.",
+        "BNP/NT-proBNP: elevated levels (BNP > 500 pg/mL or NT-proBNP > 1800 pg/mL in elderly) support a cardiogenic etiology.",
+        "Electrocardiogram: identifies acute ischemia (ST elevation/depression, bundle branch block), ectopy, atrial fibrillation, or flutter which may precipitate APE.",
+        "Lung ultrasound (POCUS): diffuse B-lines, subpleural consolidations, pleural effusions, and qualitative assessment of exudate versus transudate.",
+        "Right heart catheterization (Swan-Ganz): in selected cases, measures pulmonary capillary wedge pressure, pulmonary vascular resistance, and cardiac output to distinguish cardiogenic APE from ARDS.",
+        "Complete blood count, serum electrolytes, renal and liver function tests: evaluate comorbidities and precipitating factors such as acute kidney injury or electrolyte imbalances.",
+        "Serial blood gases post-intervention to monitor therapeutic response.",
+        "CT pulmonary angiography: if pulmonary embolism or ARDS is suspected, especially in noncardiogenic APE."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Refractory hypoxemia (SpO₂ < 88%) despite optimized noninvasive ventilation (NIV), FiO₂ 1.0, and PEEP ≥ 8 cmH₂O.",
+      "Progressive hypercapnia with pH < 7.25 and hemodynamic instability indicating respiratory muscle fatigue.",
+      "Glasgow Coma Scale ≤ 8 or depressed consciousness requiring airway protection.",
+      "Cardiogenic shock associated with APE requiring invasive mechanical ventilation to optimize oxygenation and reduce afterload.",
+      "Severe pulmonary edema necessitating protective ventilation strategy (tidal volume 6 mL/kg, moderate PEEP) to minimize barotrauma and atelectasis."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Elevate head of bed 30–45° and position in Fowler’s or semi-Fowler’s to decrease venous return and improve respiratory mechanics.",
+        "Provide supplemental oxygen immediately: nonrebreather mask at 15 L/min or NIV (CPAP 10–12 cmH₂O, FiO₂ 1.0) to maintain SpO₂ ≥ 92%.",
+        "Administer IV loop diuretics: furosemide 40–80 mg IV bolus, adjusted for renal function and diuretic response, repeating doses to achieve urine output of 1–2 mL/kg/h.",
+        "Begin IV venodilators: nitroglycerin infusion (10–200 mcg/min) to reduce preload; start at 10 mcg/min and titrate based on response.",
+        "Administer arterial vasodilators (sodium nitroprusside infusion) in severe hypertension associated with APE; carefully monitor blood pressure and arterial blood gases.",
+        "In cardiogenic shock refractory to diuretics and vasodilators, initiate inotropic support (dobutamine or milrinone) to improve cardiac output.",
+        "Use vasopressors (norepinephrine) if severe hypotension persists despite adequate volume status.",
+        "If NIV fails or patient exhibits neurological or hemodynamic instability, intubate and initiate invasive mechanical ventilation with lung-protective settings (Vt 6 mL/kg, PEEP titrated to compliance and oxygenation targets).",
+        "Correct electrolyte disturbances (hyponatremia, hypokalemia, hypomagnesemia) to optimize cardiac and respiratory function.",
+        "Address underlying causes: urgent coronary reperfusion in AMI, antihypertensive therapy in hypertensive crisis, pericardiocentesis in tamponade, targeted antibiotics in sepsis.",
+        "Continuously monitor vital signs, urine output, cardiac output (if available), and ventilatory parameters."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis in APE depends on the etiology, timeliness of intervention, and degree of cardiac dysfunction. In acute cases treated promptly, rapid recovery of gas exchange can occur within hours. Patients with severe cardiogenic shock or multiorgan failure have higher mortality, often exceeding 50%. Outpatient follow-up and optimization of chronic heart failure management reduce recurrence."
+    },
+    "additional_notes": [
+      "In COPD patients, adjust NIV settings to avoid CO₂ retention and barotrauma by monitoring tidal volumes and respiratory rate.",
+      "Evaluate anticoagulation needs in concurrent myocardial infarction or suspected pulmonary embolism.",
+      "Consider mechanical circulatory support devices (intra-aortic balloon pump, ECMO) in refractory cardiogenic shock.",
+      "For noncardiogenic APE (ARDS), follow lung-protective ventilation protocols, prone positioning, and consider ECMO in refractory cases.",
+      "Repeat chest X-ray and echocardiogram 6–12 hours after therapeutic interventions to assess response.",
+      "Implement gradual diuretic tapering in chronic diuretic users to prevent abrupt hypotension."
+    ],
+    "references": [
+      "Braunwald E, et al. Heart Disease. 10th ed. Elsevier; 2015. Chapter 30 – Heart Failure and Pulmonary Edema.",
+      "UpToDate. Acute pulmonary edema: clinical presentation, diagnosis, and management. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 84 – Heart Failure and Respiratory Support.",
+      "Brazilian Society of Cardiology Guidelines – Acute Heart Failure. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Edema Agudo de Pulmón",
+    "definicion": "El edema agudo de pulmón (EAP) es una emergencia respiratoria caracterizada por la acumulación rápida de líquido en el intersticio y los alvéolos pulmonares, lo que lleva a un deterioro grave del intercambio gaseoso e hipoxemia aguda. Clínicamente, se presenta con disnea súbita e intensa, ortopnea, estertores crepitantes bilaterales difusos, taquipnea y sensación de ahogo. Si no se reconoce y trata rápidamente, el EAP progresa a insuficiencia respiratoria, shock cardiogénico y disfunción multiorgánica.",
+    "epidemiologia": "El EAP ocurre con frecuencia en pacientes con insuficiencia cardíaca congestiva (ICC) descompensada, representando aproximadamente el 30–40% de las admisiones a la UCI por descompensación cardíaca. En el infarto agudo de miocardio (IAM), hasta el 10–20% de los pacientes desarrollan EAP en la fase aguda, asociado a mayor mortalidad. Las valvulopatías, especialmente la estenosis o insuficiencia mitral, causan EAP en el 5–10% de los casos. En escenarios no cardiogénicos, el EAP se presenta en el 15–20% de los pacientes con síndrome de distrés respiratorio agudo (SDRA), sepsis grave o inhalación de toxinas. La mortalidad hospitalaria varía del 10% al 30%, según la etiología y comorbilidades.",
+    "fisiopatologia": "El EAP se clasifica en cardiogénico y no cardiogénico. En el EAP cardiogénico, la disfunción aguda sistólica o diastólica del ventrículo izquierdo provoca un aumento brusco de la presión telediastólica ventricular izquierda y la presión de enclavamiento capilar pulmonar, superando la presión oncótica plasmática y causando la transudación de líquido hacia el intersticio y los alvéolos. La activación del sistema renina-angiotensina-aldosterona y del sistema nervioso simpático agrava la retención de sodio y la vasoconstricción, empeorando la congestión pulmonar y la disnea. En el EAP no cardiogénico, la lesión primaria de la membrana alveolo-capilar —como en el SDRA, sepsis o inhalación de toxinas— aumenta la permeabilidad capilar, permitiendo que el fluido rico en proteínas entre en el espacio alveolar independientemente de la presión auricular izquierda. La hipoxemia resultante induce vasoconstricción pulmonar, elevando la poscarga del ventrículo derecho y potencialmente provocando disfunción biventricular. La disminución del gasto cardíaco y la hipoxia tisular desencadenan acidosis metabólica, comprometiendo aún más la función respiratoria.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Inestabilidad hemodinámica aguda con hipotensión transitoria o hipertensión debido a la oleada simpática y liberación de catecolaminas.",
+        "Signos de bajo gasto cardíaco: extremidades frías, pulsos débiles, tiempo de llenado capilar prolongado.",
+        "En IAM asociado, pueden presentarse arritmias ventriculares y bloqueos auriculoventriculares.",
+        "En shock cardiogénico, la perfusión tisular inadecuada provoca oliguria y acidosis láctica.",
+        "Elevación de la presión venosa yugular reflejando presión venosa central aumentada en EAP cardiogénico."
+      ],
+      "respiratorias": [
+        "Disnea paroxística súbita que progresa a ortopnea y sensación de ahogo.",
+        "Taquipnea marcada (>25–30 respiraciones/min) con uso intenso de musculatura accesoria y aleteo nasal.",
+        "Estertores crepitantes bilaterales, inicialmente predominantes en campos pulmonares inferiores, progresando a crepitantes panpulmonares a medida que se acumula líquido.",
+        "Tos productiva con esputo rosado y espumoso (indicativo de líquido alveolar mezclado con sangre).",
+        "Cianosis central en labios y cara debido a hipoxemia grave.",
+        "Respiración de Cheyne-Stokes en disfunción ventricular izquierda severa e hipoperfusión central."
+      ],
+      "neurológicas_y_metabólicas": [
+        "Ansiedad intensa e inquietud secundaria a la sensación de asfixia.",
+        "Alteración del estado mental: confusión, agitación o somnolencia que correlacionan con la gravedad de la hipoxemia.",
+        "Sudor frío y síntomas vagales (p. ej., náuseas) como respuesta vagal en algunos pacientes.",
+        "Acidosis mixta respiratoria y metabólica: PaCO₂ elevado por fatiga de los músculos respiratorios y lactato elevado por hipoperfusión tisular.",
+        "Posible shock distributivo por liberación de mediadores inflamatorios en EAP no cardiogénico."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico de EAP comienza con la evaluación rápida de signos vitales, antecedentes clínicos (ICC, IAM reciente, valvulopatías) y examen físico enfocado en crepitantes, distensión yugular y edema periférico. La diferenciación entre EAP cardiogénico y no cardiogénico se guía por el contexto clínico, hallazgos ecocardiográficos y niveles de biomarcadores. El manejo inicial no debe retrasar la confirmación diagnóstica mediante imágenes y gasometría arterial.",
+      "exames_essenciais": [
+        "Gasometría arterial: hipoxemia grave (PaO₂ < 60 mmHg), posible normocapnia inicial seguida de hipercapnia por fatiga respiratoria, pH bajo y elevación de lactato.",
+        "Radiografía de tórax: infiltrados intersticiales bilaterales en patrón de “alas de mariposa”, líneas B en ultrasonido (POCUS), cardiomegalia en EAP cardiogénico y posible derrame pleural.",
+        "Ecocardiograma transtorácico: evaluación dinámica de función sistólica/diastólica, tamaño auricular izquierdo, fracción de eyección, hipertrofia ventricular, regurgitación valvular, estimación de presión pulmonar y presencia de derrame pericárdico.",
+        "BNP/NT-proBNP: valores elevados sugieren etiología cardiogénica (BNP > 500 pg/mL o NT-proBNP > 1800 pg/mL en pacientes ancianos).",
+        "Electrocardiograma: signos de isquemia aguda (elevación/depresión de ST, bloqueo de rama), extrasístoles o fibrilación atrial/flutter que pueden precipitar EAP.",
+        "Ultrasonido pulmonar: líneas B difusas, consolidaciones subpleurales, derrame pleural y evaluación cualitativa de trasudado versus exudado.",
+        "Cateterismo cardíaco derecho (Swan-Ganz): en casos seleccionados, mide presión de enclavamiento capilar pulmonar, resistencia vascular pulmonar y gasto cardíaco para diferenciar EAP cardiogénico de SDRA.",
+        "Hemograma completo, electrolitos, función renal y hepática: evalúan comorbilidades y factores precipitantes como lesión renal aguda o desequilibrios electrolíticos (hiponatremia, hipopotasemia).",
+        "Gasometría seriada después de intervenciones terapéuticas para monitorear la respuesta.",
+        "Angiotomografía de tórax: si se sospecha embolia pulmonar coexistente o SDRA, especialmente en EAP no cardiogénico."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Hipoxemia refractaria (SpO₂ < 88%) a pesar de ventilación no invasiva optimizada con FiO₂ 1.0 y PEEP ≥ 8 cmH₂O.",
+      "Hipercapnia progresiva con pH < 7.25 e inestabilidad hemodinámica, indicando fatiga respiratoria.",
+      "Glasgow ≤ 8 o estado de conciencia deprimido con riesgo de aspiración y necesidad de protección de la vía aérea.",
+      "Shock cardiogénico asociado a EAP que requiera ventilación mecánica invasiva para optimizar la oxigenación y reducir la poscarga.",
+      "Edema pulmonar grave que necesite estrategia de ventilación protectora (volumen corriente 6 mL/kg, PEEP moderado) para minimizar barotrauma y atelectasias."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Elevar la cabecera de la cama a 30–45° y colocar en posición de Fowler para reducir el retorno venoso y mejorar la mecánica respiratoria.",
+        "Administrar oxígeno suplementario de inmediato: mascarilla de reservorio a 15 L/min o VNI (CPAP 10–12 cmH₂O, FiO₂ 1.0) para mantener SpO₂ ≥ 92%.",
+        "Administrar diuréticos de asa IV: furosemida 40–80 mg en bolo, ajustada según la función renal y la respuesta diurética, repitiendo dosis para lograr un gasto urinario de 1–2 mL/kg/h.",
+        "Iniciar vasodilatadores venosos IV: infusión de nitratos (10–200 mcg/min) para reducir la precarga; comenzar en 10 mcg/min y titular según respuesta.",
+        "Administrar vasodilatadores arteriales (nitroprusiato de sodio) en hipertensión severa asociada con EAP; monitorear cuidadosamente la presión arterial y gasometrías.",
+        "En shock cardiogénico refractario a diuréticos y vasodilatadores, iniciar soporte inotrópico (dobutamina o milrinona) para mejorar el gasto cardíaco.",
+        "Usar vasopresores (norepinefrina) si persiste la hipotensión grave a pesar de un estado de volumen adecuado.",
+        "Si la VNI fracasa o el paciente presenta inestabilidad neurológica o hemodinámica, intubar e iniciar ventilación mecánica invasiva con parámetros protectores (Vt 6 mL/kg, PEEP ajustado a la complacencia y objetivos de oxigenación).",
+        "Corregir desequilibrios electrolíticos (hiponatremia, hipopotasemia, hipomagnesemia) para optimizar la función cardíaca y respiratoria.",
+        "Tratar las causas subyacentes: reperfusión coronaria en IAM, terapia antihipertensiva en crisis hipertensiva, pericardiocentesis en tamponamiento, antibióticos dirigidos en sepsis.",
+        "Monitorear de forma continua los signos vitales, el gasto urinario, el gasto cardíaco (si está disponible) y parámetros ventilatorios."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico del EAP depende de la etiología, la rapidez de la intervención y el grado de disfunción cardíaca. En casos agudos tratados prontamente, la recuperación del intercambio gaseoso puede ocurrir en horas. Los pacientes con choque cardiogénico grave o insuficiencia multiorgánica presentan mayor mortalidad, que puede superar el 50%. El seguimiento ambulatorio y la optimización del manejo de la insuficiencia cardíaca crónica reducen la recurrencia."
+    },
+    "notas_adicionales": [
+      "En pacientes con EPOC, ajustar los parámetros de VNI para evitar retención de CO₂ y barotrauma, monitoreando el volumen corriente y la frecuencia respiratoria.",
+      "Valorar la necesidad de anticoagulación en IAM concomitante o sospecha de embolia pulmonar.",
+      "Considerar dispositivos de asistencia circulatoria (balón de contrapulsación intraaórtico, ECMO) en choque cardiogénico refractario.",
+      "En EAP no cardiogénico (SDRA), seguir protocolos de ventilación prot—ética, posición prono y considerar ECMO en casos refractarios.",
+      "Reevaluar la radiografía de tórax y el ecocardiograma 6–12 horas después de las intervenciones terapéuticas para evaluar la respuesta.",
+      "Implementar reducción progresiva de diuréticos en usuarios crónicos para prevenir hipotensión brusca."
+    ],
+    "references": [
+      "Braunwald E, et al. Heart Disease. 10th ed. Elsevier; 2015. Capítulo 30 – Heart Failure and Pulmonary Edema.",
+      "UpToDate. Acute pulmonary edema: clinical presentation, diagnosis, and management. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 84 – Heart Failure and Respiratory Support.",
+      "Brazilian Society of Cardiology Guidelines – Acute Heart Failure. 2023.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Tumor com Compressão de Tronco Encefálico",
+    "definicao": "Tumores que comprometem o tronco encefálico representam emergências neurológicas devido ao risco de disfunção vital aguda. A compressão pode ocorrer por lesões primárias ou metastáticas em fossa posterior, com rápida deterioração neurológica, comprometimento respiratório e instabilidade autonômica. Requer avaliação neurocirúrgica urgente, suporte intensivo e, frequentemente, descompressão cirúrgica.",
+    "epidemiologia": "Tumores de fossa posterior representam cerca de 60% das neoplasias intracranianas em crianças e 10–15% em adultos. A compressão de tronco encefálico é mais comum em gliomas difusos do tronco, ependimomas, meduloblastomas e metástases infratentoriais. Também pode ocorrer em lesões expansivas como cavernomas volumosos e abscessos.",
+    "fisiopatologia": "O tronco encefálico é responsável pelo controle de funções vitais (ventilação, ritmo cardíaco, consciência). A compressão mecânica direta ou deslocamento causado por efeito de massa leva à disfunção de núcleos dos pares cranianos, centros respiratórios e vias de condução. Pode haver isquemia por compressão vascular, herniação transtentorial e hidrocefalia obstrutiva associada.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Bradicardia com hipertensão (reflexo de Cushing).",
+        "Instabilidade autonômica, com flutuações pressóricas.",
+        "Arritmias e hipotensão em casos terminais."
+      ],
+      "respiratorias": [
+        "Irregularidade respiratória ou apneia central.",
+        "Padrões respiratórios patológicos (Cheyne-Stokes, ataxia respiratória).",
+        "Necessidade de ventilação mecânica precoce."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência, progressão para coma.",
+        "Paralisia de pares cranianos (III, VI, VII) com diplopia, ptose e paralisia facial.",
+        "Tremor, ataxia, rigidez de descerebração, hiperreflexia difusa."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A suspeita clínica exige neuroimagem de emergência. Sinais de disfunção de tronco em pacientes com história de neoplasia, cefaleia de instalação aguda, vômitos em jato ou alterações pupilares devem motivar TC ou RM imediata. A avaliação clínica inclui Glasgow, reatividade pupilar, padrão respiratório e reflexos do tronco.",
+      "exames_essenciais": [
+        "TC de crânio: para avaliação inicial rápida (deslocamento de estruturas da linha média, hidrocefalia).",
+        "RM de encéfalo com contraste: melhor definição da lesão, edema perilesional e invasão de estruturas do tronco.",
+        "EEG: em coma não explicado ou para diferenciar status não convulsivo.",
+        "Gasometria arterial, eletrólitos e glicemia para descartar causas metabólicas associadas.",
+        "Pressão intracraniana (PIC), se cateter disponível.",
+        "Avaliação oftalmológica com fundoscopia (edema de papila)."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow ≤ 8 ou ausência de resposta verbal/motora adequada.",
+      "Apneia, bradipneia ou padrão respiratório irregular.",
+      "Comprometimento de centros respiratórios do bulbo.",
+      "Hérnia de uncus ou amígdalas cerebelares com rebaixamento agudo."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Avaliação e estabilização das vias aéreas com intubação orotraqueal.",
+        "Manter PAM ≥ 90 mmHg e PaCO₂ entre 35–40 mmHg.",
+        "Administração de manitol 1 g/kg IV ou solução salina hipertônica 3% se sinais de hipertensão intracraniana.",
+        "Corticosteroides (dexametasona 10 mg IV bolus + 4 mg 6/6h) em tumores com edema perilesional importante.",
+        "Encaminhamento emergencial para neurocirurgia e RM com sedação.",
+        "Anticonvulsivantes profiláticos em tumores com risco de crises.",
+        "Controle rigoroso de temperatura, glicemia e sódio.",
+        "Avaliação para cirurgia de descompressão ou derivação ventricular externa (DVE)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A compressão do tronco encefálico representa risco vital imediato. O prognóstico depende da rapidez da descompressão e do suporte intensivo precoce. Lesões infiltrativas têm pior prognóstico funcional. A presença de pupilas fixas e ausência de reflexos de tronco são marcadores de mau prognóstico neurológico irreversível."
+    },
+    "notas_adicionais": [
+      "Evitar hiperventilação excessiva (PaCO₂ < 30 mmHg) por risco de isquemia secundária.",
+      "Corticosteroides não têm benefício em linfoma primário do SNC ou metástases hemorrágicas.",
+      "A sedação deve ser titulada para não mascarar sinais neurológicos evolutivos.",
+      "A elevação da cabeceira a 30° melhora drenagem venosa cerebral.",
+      "Manter osmolaridade sérica entre 300–320 mOsm/kg durante uso de manitol.",
+      "Documentar evolução neurológica com escala de coma de Glasgow horária."
+    ],
+    "fontes_bibliograficas": [
+      "Harrison's Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Cap. 66 – Tumores Cerebrais e Neurocirurgia.",
+      "UpToDate. Brain tumors in adults and brainstem compression: Clinical approach. 2024.",
+      "Adams & Victor. Princípios de Neurologia. 11ª ed.",
+      "Diretrizes da Sociedade Brasileira de Neurocirurgia – Tumores de Fossa Posterior. 2022."
+    ]
+  },
+  "US": {
+    "title": "Brainstem Compression by Tumor",
+    "definition": "Brainstem compression caused by tumors constitutes a neurosurgical emergency due to the risk of acute compromise of vital functions such as consciousness, respiration, and cardiovascular control. It may result from posterior fossa tumors, brainstem gliomas, metastases, or other mass-effect lesions. Rapid deterioration demands prompt imaging, intensive care, and potential surgical decompression.",
+    "epidemiology": "Posterior fossa tumors account for approximately 60% of brain tumors in children and 10–15% in adults. Common causes of brainstem compression include diffuse intrinsic pontine gliomas (DIPG), medulloblastomas, ependymomas, cerebellar metastases, and large vascular malformations. In adults, infratentorial metastases are frequent culprits.",
+    "pathophysiology": "The brainstem houses critical autonomic and motor nuclei responsible for respiratory drive, heart rate regulation, and consciousness. Mass effect or herniation leads to distortion of these structures, ischemia, and increased intracranial pressure (ICP). Compression of the fourth ventricle can result in obstructive hydrocephalus, further exacerbating brainstem dysfunction.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Bradycardia with systemic hypertension (Cushing’s reflex).",
+        "Autonomic instability with blood pressure fluctuations.",
+        "Cardiac arrhythmias or terminal hypotension in advanced stages."
+      ],
+      "respiratorias": [
+        "Irregular or agonal breathing patterns (e.g., Cheyne-Stokes, ataxic respiration).",
+        "Central apnea due to medullary compression.",
+        "Early need for mechanical ventilation due to respiratory center compromise."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Progressive alteration of consciousness, coma.",
+        "Cranial nerve deficits (e.g., CN III, VI, VII) with diplopia, ptosis, facial paralysis.",
+        "Decerebrate posturing, ataxia, diffuse hyperreflexia, and long tract signs."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Diagnosis is based on clinical suspicion in patients with acute neurological decline, cranial nerve involvement, and history of neoplasm. Urgent neuroimaging is mandatory to detect mass effect or herniation. Monitoring includes Glasgow Coma Scale (GCS), pupillary response, respiratory pattern, and brainstem reflexes.",
+      "exames_essenciais": [
+        "CT scan: rapid assessment for midline shift, mass effect, hydrocephalus.",
+        "Brain MRI with contrast: superior for tumor delineation, perilesional edema, brainstem invasion.",
+        "EEG: to rule out non-convulsive status epilepticus in comatose patients.",
+        "Arterial blood gases, serum electrolytes, glucose: exclude metabolic contributors.",
+        "Intracranial pressure (ICP) monitoring if catheter is available.",
+        "Fundoscopy for papilledema in suspected raised ICP."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 or absent verbal/motor response.",
+      "Apnea, bradypnea, or irregular respiratory pattern.",
+      "Bulbar compromise with loss of respiratory drive.",
+      "Uncal or tonsillar herniation with acute neurological decline."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Urgent airway protection via orotracheal intubation.",
+        "Maintain MAP ≥ 90 mmHg and PaCO₂ between 35–40 mmHg.",
+        "Osmotherapy with IV mannitol (1 g/kg) or 3% hypertonic saline for signs of intracranial hypertension.",
+        "Dexamethasone (10 mg IV bolus followed by 4 mg every 6 hours) for tumors with significant perilesional edema.",
+        "Immediate referral for neurosurgical evaluation and MRI under sedation.",
+        "Seizure prophylaxis in tumors at high risk for convulsions.",
+        "Strict control of temperature, serum sodium, and glycemia.",
+        "Consideration of external ventricular drain (EVD) or surgical decompression depending on etiology and imaging."
+      ]
+    },
+    "prognosis": {
+      "comment": "Brainstem compression carries a poor prognosis without rapid intervention. Outcome depends on the speed of decompression, degree of brainstem involvement, and etiology. Infiltrative lesions have worse neurological outcomes. Fixed pupils and absent brainstem reflexes are ominous signs of irreversible damage."
+    },
+    "additional_notes": [
+      "Avoid excessive hyperventilation (PaCO₂ < 30 mmHg) due to risk of cerebral ischemia.",
+      "Steroids are not effective in primary CNS lymphoma or hemorrhagic metastases.",
+      "Titrate sedation carefully to avoid masking neurological progression.",
+      "Head-of-bed elevation to 30° improves cerebral venous outflow.",
+      "Maintain serum osmolarity between 300–320 mOsm/kg during mannitol therapy.",
+      "Document neurological changes hourly using the Glasgow Coma Scale."
+    ],
+    "references": [
+      "Harrison's Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 66 – Brain Tumors and Neurosurgery.",
+      "UpToDate. Brain tumors in adults and brainstem compression: Clinical approach. 2024.",
+      "Adams & Victor’s Principles of Neurology. 11th ed.",
+      "Brazilian Neurosurgical Society Guidelines – Posterior Fossa Tumors. 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Compresión del Tronco Encefálico por Tumor",
+    "definicion": "La compresión del tronco encefálico por tumores representa una emergencia neurológica crítica debido al riesgo inminente de compromiso de funciones vitales como la conciencia, la ventilación y la regulación cardiovascular. Suele producirse por tumores de fosa posterior, gliomas del tronco, metástasis o lesiones expansivas con efecto de masa. El manejo debe ser inmediato, con neuroimagen urgente, soporte intensivo y evaluación neuroquirúrgica.",
+    "epidemiologia": "Los tumores de fosa posterior representan alrededor del 60% de los tumores cerebrales en niños y del 10 al 15% en adultos. Las lesiones que más frecuentemente comprimen el tronco incluyen gliomas pontinos difusos, meduloblastomas, ependimomas, metástasis cerebelosas y cavernomas voluminosos. En adultos, las metástasis infratentoriales son causa común.",
+    "fisiopatologia": "El tronco encefálico contiene núcleos esenciales para la respiración, el ritmo cardíaco y el nivel de conciencia. La compresión directa o desplazamiento por efecto de masa interfiere con estos centros vitales, provocando isquemia, aumento de la presión intracraneal e hidrocefalia obstructiva por compresión del cuarto ventrículo.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Bradicardia con hipertensión (reflejo de Cushing).",
+        "Inestabilidad autonómica con oscilaciones tensionales.",
+        "Arritmias cardíacas o hipotensión terminal en fases avanzadas."
+      ],
+      "respiratorias": [
+        "Patrones respiratorios irregulares (Cheyne-Stokes, respiración atáxica).",
+        "Apnea central por afectación bulbar.",
+        "Requerimiento precoz de ventilación mecánica."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Deterioro progresivo del nivel de conciencia, hasta coma.",
+        "Déficits de pares craneales (III, VI, VII) con diplopía, ptosis y parálisis facial.",
+        "Postura de descerebración, ataxia, hiperreflexia difusa."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "La sospecha clínica debe confirmarse con neuroimagen de urgencia. Se debe realizar tomografía o resonancia magnética en todo paciente con historia de tumor cerebral, síntomas de hipertensión endocraneana y deterioro neurológico. Evaluar reflejos del tronco, patrón respiratorio, reactividad pupilar y escala de Glasgow.",
+      "exames_essenciais": [
+        "TC de cráneo: permite evaluar efecto de masa, hidrocefalia y desplazamiento de estructuras.",
+        "RM cerebral con contraste: mejor definición del tumor, edema y afectación del tronco.",
+        "EEG: descartar estado epiléptico no convulsivo en pacientes en coma.",
+        "Gasometría arterial, electrolitos, glucemia: excluir causas metabólicas asociadas.",
+        "Monitoreo de presión intracraneal (si se dispone de catéter).",
+        "Fondo de ojo: búsqueda de papiledema."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Glasgow ≤ 8 o ausencia de respuesta verbal o motora.",
+      "Apnea, bradipnea o patrón respiratorio irregular.",
+      "Compromiso de centros respiratorios bulbares.",
+      "Hernia de uncus o amígdalas cerebelosas con deterioro agudo."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Protección inmediata de la vía aérea con intubación orotraqueal.",
+        "Mantener PAM ≥ 90 mmHg y PaCO₂ entre 35–40 mmHg.",
+        "Osmoterapia con manitol IV (1 g/kg) o solución salina hipertónica al 3% ante signos de hipertensión endocraneana.",
+        "Dexametasona (10 mg IV bolo + 4 mg cada 6 h) en tumores con edema perilesional.",
+        "Referencia neuroquirúrgica urgente y realización de RM bajo sedación.",
+        "Profilaxis anticonvulsiva si hay riesgo de crisis.",
+        "Control estricto de temperatura, natremia y glucemia.",
+        "Evaluar necesidad de drenaje ventricular externo (DVE) o descompresión quirúrgica según etiología e imagen."
+      ]
+    },
+    "prognosis": {
+      "comment": "La compresión del tronco encefálico tiene mal pronóstico si no se interviene rápidamente. El desenlace depende de la rapidez en la descompresión, el grado de afectación troncal y la etiología. Las lesiones infiltrativas tienen peor pronóstico neurológico. Pupilas fijas y ausencia de reflejos del tronco son signos ominosos de daño irreversible."
+    },
+    "additional_notes": [
+      "Evitar hiperventilación excesiva (PaCO₂ < 30 mmHg) por riesgo de isquemia cerebral.",
+      "Los corticosteroides no son útiles en linfoma primario del SNC ni en metástasis hemorrágicas.",
+      "Titular la sedación cuidadosamente para no enmascarar signos neurológicos.",
+      "Elevar la cabecera a 30° para mejorar el drenaje venoso cerebral.",
+      "Mantener osmolaridad sérica entre 300–320 mOsm/kg si se usa manitol.",
+      "Documentar cambios neurológicos por escala de Glasgow cada hora."
+    ],
+    "references": [
+      "Harrison's Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 66 – Tumores cerebrales y Neurocirugía.",
+      "UpToDate. Tumores cerebrales en adultos y compresión del tronco: abordaje clínico. 2024.",
+      "Adams & Victor. Principios de Neurología. 11ª ed.",
+      "Sociedad Brasileña de Neurocirugía – Guías de Tumores de Fosa Posterior. 2022."
+    ]
+  }
+}

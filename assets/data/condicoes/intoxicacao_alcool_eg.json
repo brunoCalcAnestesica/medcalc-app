@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Intoxicação por Álcool Etílico",
+    "definicao": "A intoxicação por álcool etílico (etanol) é uma condição clínica decorrente da ingestão aguda ou crônica de doses elevadas dessa substância, levando à depressão progressiva do sistema nervoso central. A gravidade do quadro depende da concentração plasmática, da velocidade de absorção, da tolerância individual e da presença de comorbidades. O etanol afeta múltiplos sistemas e pode resultar em alterações comportamentais, metabólicas, neurológicas e respiratórias potencialmente fatais.",
+    "epidemiologia": "O álcool etílico é a substância psicoativa mais consumida globalmente. A intoxicação aguda representa até 30% das causas de atendimento por causas externas em prontos-socorros. É especialmente prevalente entre adultos jovens do sexo masculino, sendo frequentemente associada a traumas, violência, acidentes automobilísticos e tentativa de suicídio. O risco aumenta em populações vulneráveis, em contextos de uso abusivo recreativo ou em dependência alcoólica crônica.",
+    "fisiopatologia": "O etanol é rapidamente absorvido pelo trato gastrointestinal e distribuído pela água corporal. Atua como depressor do SNC por ação agonista GABAérgica e antagonista dos receptores NMDA. A metabolização hepática ocorre predominantemente pela via do sistema da álcool desidrogenase (ADH), gerando acetaldeído e posteriormente acetato, processo dependente de NAD+. Concentrações elevadas levam à acidose lática, hipoglicemia, distúrbios hidroeletrolíticos e depressão do centro respiratório.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Vasodilatação periférica com rubor, sudorese e hipotensão relativa.",
+        "Taquicardia compensatória ou bradicardia reflexa em fases tardias.",
+        "Instabilidade hemodinâmica em casos de hipovolemia, trauma ou coingestão."
+      ],
+      "respiratorias": [
+        "Taquipneia compensatória inicial por acidose metabólica.",
+        "Depressão respiratória com hipoventilação e bradipneia em níveis elevados (&gt; 300 mg/dL).",
+        "Risco elevado de aspiração e pneumonia química em rebaixamento grave do nível de consciência."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Euforia, disartria, desinibição, incoordenação motora e nistagmo.",
+        "Sonolência, confusão, coma profundo (níveis &gt; 400–500 mg/dL).",
+        "Hipoglicemia, acidose láctica, hipotermia, convulsões, rabdomiólise."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseado na história clínica, achados físicos e confirmação laboratorial. A presença de hálito etílico, alterações comportamentais e neurológicas inespecíficas, aliada à dosagem plasmática de etanol, fundamenta o diagnóstico. Deve-se excluir intoxicações mistas (benzodiazepínicos, opioides) e causas estruturais de coma.",
+      "exames_essenciais": [
+        "Etanol sérico: interpretação deve considerar a tolerância individual.",
+        "Glicemia capilar e plasmática: risco elevado de hipoglicemia, principalmente em crianças.",
+        "Gasometria arterial: acidose metabólica, aumento do ânion gap e acidose láctica.",
+        "Eletrólitos, ureia, creatinina, AST, ALT, lactato, amônia.",
+        "ECG: distúrbios de condução ou efeitos de hipocalemia/hipomagnesemia.",
+        "Imagem de crânio (TC) se trauma, convulsão ou coma inexplicado.",
+        "CK e urina para mioglobinúria (rabdomiólise)."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Glasgow &lt; 8 com risco de broncoaspiração.",
+      "Bradipneia (&lt; 8 irpm), apneia ou hipercapnia grave (PaCO₂ &gt; 60 mmHg).",
+      "SpO₂ &lt; 90% com FiO₂ &gt; 0,6 de forma sustentada.",
+      "Instabilidade ventilatória associada a acidose respiratória descompensada ou parada respiratória iminente."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Garantir via aérea segura, posicionamento lateral e oxigenoterapia suplementar.",
+        "Monitorização intensiva de sinais vitais, Glasgow, FR, SpO₂, diurese.",
+        "Hidratação venosa com solução isotônica, reposição de eletrólitos (Mg²⁺, K⁺, fósforo).",
+        "Administração de glicose EV se hipoglicemia (&lt; 60 mg/dL) ou jejum prolongado.",
+        "Suporte ventilatório conforme necessidade clínica.",
+        "Prevenção de aspiração: jejum rigoroso, vigilância neurológica e suporte à tosse.",
+        "Avaliação toxicológica para coingestão (benzodiazepínicos, opioides, metanol).",
+        "Admissão em UTI em casos de coma, instabilidade hemodinâmica ou necessidade de ventilação."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico é geralmente favorável com medidas de suporte intensivo precoce. Entretanto, complicações graves como aspiração, pneumonia, rabdomiólise, insuficiência renal aguda, convulsões e parada cardiorrespiratória podem ocorrer em intoxicações severas. A mortalidade é elevada em coingestão com outras substâncias ou em pacientes com comorbidades graves. A intoxicação alcoólica deve ser considerada evento sentinela para rastreio de transtornos por uso de substâncias e risco suicida."
+    },
+    "notas_adicionais": [
+      "Tolerância elevada pode mascarar gravidade clínica: correlacionar clínica e nível sérico.",
+      "Evitar benzodiazepínicos empíricos, a menos que haja suspeita de abstinência.",
+      "Não utilizar naloxona empiricamente sem forte suspeita de opioide: risco de agitação e convulsão.",
+      "Rastrear sinais de trauma oculto, principalmente crânioencefálico.",
+      "Encaminhar para avaliação psiquiátrica e serviço de dependência química após estabilização."
+    ],
+    "fontes_bibliograficas": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 81 – Alcohols.",
+      "UpToDate. Ethanol intoxication in adults. 2024.",
+      "Manual de Toxicologia Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Toxicologia – Diretrizes sobre manejo da intoxicação etílica aguda. 2023."
+    ]
+  },
+  "US": {
+    "title": "Ethanol Intoxication",
+    "definition": "Ethanol intoxication is a clinical condition resulting from the acute or chronic ingestion of large amounts of ethanol, leading to progressive central nervous system depression. Severity depends on serum concentration, absorption rate, individual tolerance, and the presence of comorbidities. Ethanol affects multiple systems and may cause potentially fatal behavioral, metabolic, neurologic, and respiratory changes.",
+    "epidemiology": "Ethanol is the most widely consumed psychoactive substance globally. Acute intoxication accounts for up to 30% of emergency department visits due to external causes. It is particularly common among young adult males and frequently associated with trauma, violence, vehicular accidents, and suicide attempts. Risk increases in vulnerable populations, in recreational binge drinking, or in individuals with chronic alcohol dependence.",
+    "pathophysiology": "Ethanol is rapidly absorbed through the gastrointestinal tract and distributed in total body water. It acts as a CNS depressant via GABA-A agonism and NMDA receptor antagonism. Hepatic metabolism occurs mainly through alcohol dehydrogenase (ADH), producing acetaldehyde and then acetate in an NAD+-dependent pathway. High serum levels cause lactic acidosis, hypoglycemia, electrolyte disturbances, and respiratory center depression.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Peripheral vasodilation with flushing, sweating, and relative hypotension.",
+        "Compensatory tachycardia or reflex bradycardia in late stages.",
+        "Hemodynamic instability in hypovolemia, trauma, or co-ingestion."
+      ],
+      "respiratory": [
+        "Initial tachypnea due to compensatory metabolic acidosis.",
+        "Respiratory depression with hypoventilation and bradypnea at serum levels &gt; 300 mg/dL.",
+        "High aspiration risk and chemical pneumonitis in patients with depressed consciousness."
+      ],
+      "neurologic_and_metabolic": [
+        "Euphoria, dysarthria, disinhibition, motor incoordination, and nystagmus.",
+        "Drowsiness, confusion, deep coma (serum levels &gt; 400–500 mg/dL).",
+        "Hypoglycemia, lactic acidosis, hypothermia, seizures, rhabdomyolysis."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is based on clinical history, physical findings, and laboratory confirmation. The presence of alcohol odor, altered behavior, and nonspecific neurologic symptoms along with serum ethanol concentration supports the diagnosis. Structural causes of coma and mixed ingestions (e.g., opioids, benzodiazepines) must be excluded.",
+      "essential_tests": [
+        "Serum ethanol level (interpret in context of individual tolerance).",
+        "Capillary and serum glucose (high hypoglycemia risk, especially in children).",
+        "Arterial blood gas: metabolic acidosis, elevated anion gap, lactic acidosis.",
+        "Electrolytes, urea, creatinine, AST, ALT, lactate, ammonia.",
+        "ECG: conduction disturbances or electrolyte-induced arrhythmias.",
+        "Head CT for trauma, seizures, or unexplained coma.",
+        "Creatine kinase and urinalysis for myoglobinuria (rhabdomyolysis)."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Glasgow Coma Scale ≤ 8 with aspiration risk.",
+      "Bradypnea (&lt; 8 breaths/min), apnea, or severe hypercapnia (PaCO₂ &gt; 60 mmHg).",
+      "Sustained SpO₂ &lt; 90% despite FiO₂ &gt; 0.6.",
+      "Respiratory instability with uncompensated acidosis or impending arrest."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Secure airway, lateral decubitus position, and supplemental oxygen.",
+        "Close monitoring of vital signs, GCS, respiratory rate, SpO₂, and urine output.",
+        "IV hydration with isotonic fluids; correct electrolyte imbalances (Mg²⁺, K⁺, phosphate).",
+        "IV glucose for hypoglycemia (&lt; 60 mg/dL) or prolonged fasting.",
+        "Provide ventilatory support as clinically indicated.",
+        "Aspiration prevention: strict NPO, neurologic monitoring, assisted coughing.",
+        "Toxicologic screening for co-ingestants (benzodiazepines, opioids, methanol).",
+        "ICU admission for coma, hemodynamic instability, or need for mechanical ventilation."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis is generally favorable with early intensive supportive care. However, severe intoxications may lead to aspiration, pneumonia, rhabdomyolysis, acute kidney injury, seizures, and cardiopulmonary arrest. Mortality is higher in co-ingestion with other substances or in patients with severe comorbidities. Ethanol intoxication should be considered a sentinel event for screening substance use disorders and suicide risk."
+    },
+    "additional_notes": [
+      "High tolerance may mask clinical severity—clinical signs must guide interpretation.",
+      "Avoid empiric benzodiazepines unless withdrawal is suspected.",
+      "Do not administer naloxone empirically without strong opioid suspicion—risk of agitation/seizures.",
+      "Screen for occult trauma, especially head injury.",
+      "Refer for psychiatric evaluation and substance use disorder services after stabilization."
+    ],
+    "references": [
+      "Goldfrank’s Toxicologic Emergencies. 11th ed. Chapter 81 – Alcohols.",
+      "UpToDate. Ethanol intoxication in adults. 2024.",
+      "Clinical Toxicology Manual – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Toxicology – Guidelines for acute ethanol intoxication management. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Intoxicación por Alcohol Etílico",
+    "definicion": "La intoxicación por alcohol etílico (etanol) es una condición clínica causada por la ingestión aguda o crónica de cantidades elevadas de esta sustancia, lo que lleva a una depresión progresiva del sistema nervioso central. La gravedad depende de la concentración sérica, la velocidad de absorción, la tolerancia individual y la presencia de comorbilidades. El etanol afecta múltiples sistemas y puede causar alteraciones conductuales, metabólicas, neurológicas y respiratorias potencialmente fatales.",
+    "epidemiologia": "El etanol es la sustancia psicoactiva más consumida en todo el mundo. La intoxicación aguda representa hasta el 30% de las consultas por causas externas en los servicios de urgencia. Es especialmente prevalente entre hombres jóvenes adultos y frecuentemente se asocia con traumas, violencia, accidentes de tráfico e intentos de suicidio. El riesgo aumenta en poblaciones vulnerables, en contextos de consumo recreativo abusivo o en dependencia alcohólica crónica.",
+    "fisiopatologia": "El etanol se absorbe rápidamente por el tracto gastrointestinal y se distribuye en el agua corporal total. Actúa como depresor del sistema nervioso central a través de la potenciación del receptor GABA-A y la inhibición del receptor NMDA. Su metabolismo ocurre principalmente en el hígado por la enzima alcohol deshidrogenasa (ADH), generando acetaldehído y luego acetato, en un proceso dependiente de NAD+. Niveles elevados en sangre provocan acidosis láctica, hipoglucemia, trastornos electrolíticos y depresión del centro respiratorio.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Vasodilatación periférica con enrojecimiento, sudoración e hipotensión relativa.",
+        "Taquicardia compensatoria o bradicardia refleja en fases tardías.",
+        "Inestabilidad hemodinámica en casos de hipovolemia, trauma o coingestión."
+      ],
+      "respiratorias": [
+        "Taquipnea compensatoria inicial por acidosis metabólica.",
+        "Depresión respiratoria con hipoventilación y bradipnea en concentraciones séricas &gt; 300 mg/dL.",
+        "Alto riesgo de aspiración y neumonitis química en pacientes con disminución del estado de conciencia."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Euforia, disartria, desinhibición, incoordinación motora y nistagmo.",
+        "Somnolencia, confusión, coma profundo (niveles &gt; 400–500 mg/dL).",
+        "Hipoglucemia, acidosis láctica, hipotermia, convulsiones, rabdomiólisis."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico se basa en la historia clínica, hallazgos físicos y confirmación de laboratorio. La presencia de aliento etílico, alteraciones del comportamiento y síntomas neurológicos inespecíficos, junto con la concentración sérica de etanol, respaldan el diagnóstico. Deben descartarse causas estructurales de coma e intoxicaciones mixtas (como con benzodiacepinas u opioides).",
+      "examenes_esenciales": [
+        "Nivel sérico de etanol (interpretar en contexto de la tolerancia individual).",
+        "Glucemia capilar y plasmática (alto riesgo de hipoglucemia, especialmente en niños).",
+        "Gasometría arterial: acidosis metabólica, aumento del anión gap, acidosis láctica.",
+        "Electrolitos, urea, creatinina, AST, ALT, lactato, amonio.",
+        "ECG: alteraciones de la conducción o arritmias inducidas por trastornos electrolíticos.",
+        "TC de cráneo si hay trauma, convulsiones o coma inexplicado.",
+        "CK y análisis de orina para mioglobinuria (rabdomiólisis)."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Escala de Glasgow ≤ 8 con riesgo de broncoaspiración.",
+      "Bradipnea (&lt; 8 respiraciones/min), apnea o hipercapnia grave (PaCO₂ &gt; 60 mmHg).",
+      "SpO₂ &lt; 90% con FiO₂ &gt; 0,6 de forma sostenida.",
+      "Inestabilidad respiratoria asociada a acidosis respiratoria descompensada o paro inminente."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Asegurar la vía aérea, posición lateral de seguridad y oxigenoterapia suplementaria.",
+        "Monitoreo intensivo de signos vitales, GCS, FR, SpO₂ y diuresis.",
+        "Hidratación intravenosa con solución isotónica; corregir electrolitos (Mg²⁺, K⁺, fosfato).",
+        "Administración de glucosa IV en casos de hipoglucemia (&lt; 60 mg/dL) o ayuno prolongado.",
+        "Soporte ventilatorio según necesidad clínica.",
+        "Prevención de aspiración: dieta cero, vigilancia neurológica y asistencia para la tos.",
+        "Evaluación toxicológica para coingestión (benzodiacepinas, opioides, metanol).",
+        "Ingreso a UCI en casos de coma, inestabilidad hemodinámica o necesidad de ventilación mecánica."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico generalmente es favorable con medidas de soporte intensivo temprano. Sin embargo, intoxicaciones severas pueden derivar en aspiración, neumonía, rabdomiólisis, insuficiencia renal aguda, convulsiones y paro cardiorrespiratorio. La mortalidad es mayor en coingestión con otras sustancias o en pacientes con comorbilidades graves. La intoxicación etílica debe considerarse un evento centinela para la evaluación de trastornos por uso de sustancias y riesgo suicida."
+    },
+    "notas_adicionales": [
+      "La alta tolerancia puede enmascarar la gravedad clínica—los signos clínicos deben guiar la interpretación.",
+      "Evitar benzodiacepinas empíricas, salvo sospecha de abstinencia alcohólica.",
+      "No administrar naloxona empíricamente sin sospecha fuerte de opioides—riesgo de agitación y convulsiones.",
+      "Buscar signos de trauma oculto, especialmente craneoencefálico.",
+      "Derivar para evaluación psiquiátrica y servicios de adicción tras la estabilización."
+    ],
+    "referencias": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 81 – Alcoholes.",
+      "UpToDate. Intoxicación por etanol en adultos. 2024.",
+      "Manual de Toxicología Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Toxicología – Directrices para el manejo de la intoxicación etílica aguda. 2023."
+    ]
+  }
+}

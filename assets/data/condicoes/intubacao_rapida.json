@@ -1,0 +1,203 @@
+{
+  "PT": {
+    "titulo": "Intubação Orotraqueal de Sequência Rápida",
+    "definicao": "A intubação orotraqueal de sequência rápida (ISR) é uma técnica padronizada para manejo emergencial da via aérea, que combina sedação hipnótica e bloqueio neuromuscular de forma sequencial, com o objetivo de permitir intubação traqueal rápida e segura, minimizando o risco de aspiração, hipoxemia e trauma de via aérea. Trata-se da abordagem de escolha em situações onde há necessidade urgente de proteção de via aérea em pacientes não em jejum, instáveis ou com risco iminente de deterioração respiratória.",
+    "epidemiologia": "A ISR é amplamente utilizada em departamentos de emergência, unidades de terapia intensiva e ambiente pré-hospitalar. Estudos multicêntricos relatam que cerca de 85% das intubações emergenciais utilizam a técnica de ISR. A taxa de sucesso na primeira tentativa é maior quando conduzida por médicos experientes, com mortalidade relacionada principalmente a falhas no preparo, eventos adversos hemodinâmicos ou falha no reconhecimento de via aérea difícil.",
+    "fisiopatologia": "Durante a ISR, o uso de hipnóticos induz amnésia e inconsciência, enquanto os bloqueadores neuromusculares paralisam os músculos respiratórios e eliminam reflexos laríngeos. Isso permite condições ideais para visualização glótica e passagem do tubo endotraqueal. No entanto, a apneia induzida pode levar à rápida dessaturação, especialmente em pacientes com baixa reserva de oxigênio. A laringoscopia direta pode desencadear resposta autonômica, aumento da pressão intracraniana ou isquemia miocárdica em pacientes vulneráveis.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão pós-indução, principalmente em pacientes sépticos, hipovolêmicos ou idosos.",
+        "Hipertensão transiente, taquicardia ou arritmias supraventriculares durante laringoscopia.",
+        "Colapso cardiovascular em resposta à sedação profunda sem reposição volêmica prévia adequada."
+      ],
+      "respiratorias": [
+        "Apneia induzida, dessaturação rápida e parada respiratória se a preoxigenação for inadequada.",
+        "Broncoaspiração de conteúdo gástrico, principalmente em pacientes sem jejum.",
+        "Dificuldade de ventilação pós-intubação por edema de glote, laringoespasmo ou tubo mal posicionado."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Aumento transitório da pressão intracraniana durante a laringoscopia em TCE ou HIC.",
+        "Convulsões em pacientes com epilepsia mal controlada ou hipoglicemia não corrigida.",
+        "Distúrbios hidroeletrolíticos exacerbados pela administração de succinilcolina (hipercalemia em queimados, rabdomiólise)."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A decisão por ISR é baseada em avaliação clínica urgente de risco de perda da via aérea, hipoxemia refratária, alteração do nível de consciência (GCS ≤ 8), e deterioração hemodinâmica ou respiratória iminente. Deve-se avaliar criteriosamente a via aérea (LEMON, MACOCHA), grau de urgência e planejamento de contingência antes da sedação.",
+      "exames_essenciais": [
+        "Gasometria arterial: avaliação de oxigenação, ventilação e equilíbrio ácido-básico.",
+        "Monitorização: ECG, oximetria, pressão arterial não invasiva ou invasiva, capnografia contínua.",
+        "Checklist pré-intubação com revisão de equipamentos, fármacos e plano alternativo.",
+        "Confirmação do posicionamento traqueal com capnografia quantitativa (padrão-ouro).",
+        "Ultrassonografia de via aérea (se disponível): visualização da passagem do tubo ou movimentação bilateral do diafragma."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Apneia farmacologicamente induzida.",
+      "Sinais de fadiga respiratória ou hipoxemia refratária.",
+      "Alteração neurológica com ausência de drive respiratório ou risco de aspiração.",
+      "Acidose respiratória grave (PaCO₂ > 60 mmHg com pH < 7,25)."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Avaliação sistemática da via aérea e estratificação de risco para intubação difícil.",
+        "Preoxigenação por 3–5 minutos com FiO₂ 100% usando máscara com reservatório ou VNI.",
+        "Administração sequencial de fármacos: hipnótico (etomidato 0,3 mg/kg, ketamina 1–2 mg/kg, midazolam 0,1–0,3 mg/kg ou propofol 1–2 mg/kg) seguido por bloqueador neuromuscular (succinilcolina 1–1,5 mg/kg ou rocurônio 1,2 mg/kg).",
+        "Execução da laringoscopia e intubação até 60 segundos após bloqueio neuromuscular completo.",
+        "Confirmação imediata com capnografia, ausculta e expansão torácica simétrica.",
+        "Fixação do tubo, início da ventilação mecânica, ajuste de parâmetros e manutenção da sedoanalgesia contínua."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A ISR, quando realizada com preparo técnico, preoxigenação adequada e seleção apropriada de fármacos, apresenta elevada taxa de sucesso e baixo índice de complicações. O prognóstico está relacionado à condição clínica prévia, à experiência da equipe e à rapidez na identificação de dificuldades. Pacientes com choque, insuficiência respiratória aguda ou politrauma grave exigem abordagem coordenada com equipe multidisciplinar e suporte intensivo."
+    },
+    "notas_adicionais": [
+      "A preoxigenação passiva com cânula nasal em alto fluxo pode ser utilizada durante a apneia.",
+      "Evitar succinilcolina em pacientes com queimaduras extensas, paralisia prolongada ou síndrome neurológica crônica.",
+      "Reavaliar sedação após intubação e ajustar conforme parâmetros ventilatórios e conforto do paciente.",
+      "Documentar todas as etapas do procedimento, complicações e resposta hemodinâmica.",
+      "Simulação realística melhora significativamente o desempenho da equipe em cenários de ISR.",
+      "A intubação acordada deve ser considerada em casos de via aérea muito difícil com ventilação viável."
+    ],
+    "fontes_bibliograficas": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 55 – Manejo da Via Aérea.",
+      "Walls RM. Manual of Emergency Airway Management. 5ª ed. 2018.",
+      "UpToDate. Rapid sequence intubation in adults for emergency medicine. 2024.",
+      "Diretrizes da Sociedade Brasileira de Medicina de Emergência – Intubação de Sequência Rápida. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  },
+  "US": {
+    "title": "Rapid Sequence Intubation (RSI)",
+    "definition": "Rapid sequence intubation (RSI) is a structured emergency airway management technique involving the sequential administration of a sedative-hypnotic agent followed immediately by a neuromuscular blocker to facilitate endotracheal intubation while minimizing the risk of aspiration and hypoxia. It is the preferred approach in patients who are at high risk for airway compromise and require immediate airway protection, particularly those who are not fasting or are hemodynamically unstable.",
+    "epidemiology": "RSI is widely used in emergency departments, intensive care units, and pre-hospital environments. It is employed in approximately 85% of emergent intubations. The success rate on the first attempt increases significantly when performed by trained providers. Complications, including hypotension, hypoxia, and failed intubation, are associated with inadequate preparation or failure to recognize a difficult airway.",
+    "pathophysiology": "RSI achieves optimal intubation conditions by inducing unconsciousness and eliminating airway reflexes. Sedatives provide amnesia and blunt the hemodynamic response, while neuromuscular blockers ensure muscle paralysis. The apnea induced may lead to rapid desaturation, especially in critically ill patients with limited oxygen reserves. Direct laryngoscopy may trigger sympathetic surges, raising intracranial pressure or precipitating myocardial ischemia.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Post-induction hypotension, particularly in patients with sepsis, hypovolemia, or advanced age.",
+        "Transient hypertension, tachycardia, or supraventricular arrhythmias during laryngoscopy.",
+        "Cardiovascular collapse due to deep sedation without adequate volume resuscitation."
+      ],
+      "respiratory": [
+        "Drug-induced apnea with rapid desaturation if preoxygenation is inadequate.",
+        "Risk of aspiration from gastric contents, especially in non-fasting patients.",
+        "Post-intubation ventilation difficulties due to laryngeal edema, bronchospasm, or tube misplacement."
+      ],
+      "neurologic_and_metabolic": [
+        "Transient rise in intracranial pressure during laryngoscopy in patients with traumatic brain injury or intracranial hypertension.",
+        "Seizures in patients with poorly controlled epilepsy or uncorrected hypoglycemia.",
+        "Electrolyte disturbances exacerbated by succinylcholine (e.g., hyperkalemia in burn patients or those with neuromuscular disorders)."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "RSI is indicated based on clinical assessment in patients requiring urgent airway control due to respiratory failure, decreased consciousness (GCS ≤ 8), or anticipated deterioration. Pre-intubation airway assessment (LEMON, MACOCHA scores), urgency grading, and contingency planning are essential.",
+      "essential_tests": [
+        "Arterial blood gas: evaluates oxygenation, ventilation, and acid-base status.",
+        "Monitoring: ECG, pulse oximetry, non-invasive or invasive blood pressure, continuous capnography.",
+        "Pre-intubation checklist reviewing equipment, drug doses, and backup plans.",
+        "Quantitative capnography to confirm correct endotracheal tube placement.",
+        "Airway ultrasound (if available): visual confirmation of tube passage or diaphragmatic movement."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Pharmacologically induced apnea.",
+      "Signs of respiratory muscle fatigue or refractory hypoxemia.",
+      "Neurologic impairment with loss of respiratory drive or aspiration risk.",
+      "Severe respiratory acidosis (PaCO₂ > 60 mmHg with pH < 7.25)."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Systematic airway evaluation and risk stratification for difficult intubation.",
+        "Preoxygenation for 3–5 minutes with FiO₂ 100% using a non-rebreather mask or non-invasive ventilation.",
+        "Sequential administration of hypnotic (etomidate 0.3 mg/kg, ketamine 1–2 mg/kg, midazolam 0.1–0.3 mg/kg, or propofol 1–2 mg/kg) followed by neuromuscular blocker (succinylcholine 1–1.5 mg/kg or rocuronium 1.2 mg/kg).",
+        "Laryngoscopy and intubation within 60 seconds of complete neuromuscular blockade.",
+        "Immediate confirmation with capnography, bilateral breath sounds, and symmetrical chest rise.",
+        "Securing the tube, initiating mechanical ventilation, setting appropriate parameters, and ensuring continuous sedation and analgesia."
+      ]
+    },
+    "prognosis": {
+      "comment": "When performed by skilled providers with proper preparation, preoxygenation, and drug selection, RSI is associated with high first-attempt success and reduced complications. Prognosis depends on the patient’s baseline condition, operator experience, and ability to identify and manage airway challenges. Critically ill patients with shock, trauma, or respiratory failure require a coordinated approach and intensive support."
+    },
+    "additional_notes": [
+      "High-flow nasal cannula can be used during apnea to extend safe intubation time.",
+      "Avoid succinylcholine in patients with major burns, prolonged immobilization, or neuromuscular diseases.",
+      "Reassess and titrate sedation post-intubation according to ventilatory parameters and patient comfort.",
+      "Document all steps, drug doses, complications, and hemodynamic response during RSI.",
+      "Simulation-based training significantly improves RSI performance and reduces adverse events.",
+      "Awake intubation should be considered in patients with a predicted very difficult airway and viable spontaneous ventilation."
+    ],
+    "references": [
+      "Miller’s Anesthesia. 8th ed. Chapter 55 – Airway Management.",
+      "Walls RM. Manual of Emergency Airway Management. 5th ed. 2018.",
+      "UpToDate. Rapid sequence intubation in adults for emergency medicine. 2024.",
+      "Brazilian Emergency Medicine Society Guidelines – Rapid Sequence Intubation. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Intubación Orotraqueal de Secuencia Rápida",
+    "definicion": "La intubación orotraqueal de secuencia rápida (ISR) es una técnica estandarizada de manejo de vía aérea en emergencias que combina la administración secuencial de un agente hipnótico y un bloqueador neuromuscular para facilitar la intubación endotraqueal con rapidez y seguridad. Su objetivo es minimizar el riesgo de aspiración, hipoxemia y trauma de vía aérea. Es el método de elección en pacientes no en ayuno, inestables o con riesgo de deterioro respiratorio inminente.",
+    "epidemiologia": "La ISR se emplea ampliamente en servicios de urgencias, unidades de cuidados intensivos y escenarios prehospitalarios. Se estima que más del 85% de las intubaciones emergentes utilizan esta técnica. La tasa de éxito en el primer intento es significativamente mayor cuando es realizada por profesionales entrenados. Las complicaciones más frecuentes incluyen hipotensión post-inducción, hipoxemia y dificultad para el manejo de vía aérea difícil no identificada previamente.",
+    "fisiopatologia": "Durante la ISR, los hipnóticos inducen amnesia y pérdida de conciencia, mientras que los bloqueadores neuromusculares paralizan la musculatura respiratoria, permitiendo condiciones óptimas para la visualización de la glotis y el paso del tubo endotraqueal. La apnea inducida puede llevar a desaturación rápida, especialmente en pacientes críticos. La laringoscopia directa puede provocar respuesta simpática intensa, con aumento de presión intracraneal o isquemia miocárdica en pacientes susceptibles.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión post-inducción, especialmente en pacientes sépticos o hipovolémicos.",
+        "Hipertensión transitoria, taquicardia o arritmias durante la laringoscopia.",
+        "Colapso cardiovascular si se administra sedación profunda sin reposición de volumen adecuada."
+      ],
+      "respiratorias": [
+        "Apnea inducida farmacológicamente con desaturación si no hay preoxigenación adecuada.",
+        "Riesgo de broncoaspiración en pacientes con estómago lleno.",
+        "Dificultades post-intubación por edema laríngeo, laringoespasmo o mal posicionamiento del tubo."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Aumento transitorio de la presión intracraneal durante la laringoscopia en TCE o HIC.",
+        "Convulsiones en pacientes con epilepsia no controlada o hipoglucemia.",
+        "Trastornos electrolíticos exacerbados por succinilcolina (hiperpotasemia en quemados o miopatías)."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "La indicación de ISR es clínica y urgente, basada en signos de pérdida inminente de la vía aérea, hipoxemia refractaria, disminución del nivel de conciencia (GCS ≤ 8), o deterioro hemodinámico/respiratorio progresivo. Debe realizarse una evaluación estructurada de la vía aérea (LEMON, MACOCHA) y planificar alternativas antes de la inducción.",
+      "examenes_esenciales": [
+        "Gasometría arterial: evaluación de oxigenación, ventilación y equilibrio ácido-base.",
+        "Monitoreo: ECG, oximetría, presión arterial no invasiva/invasiva, capnografía continua.",
+        "Lista de verificación pre-intubación (materiales, fármacos, plan B).",
+        "Capnografía cuantitativa para confirmar la colocación del tubo.",
+        "Ecografía de vía aérea (si disponible): observación del paso del tubo o del movimiento diafragmático."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Apnea inducida por medicamentos.",
+      "Fatiga respiratoria o hipoxemia refractaria.",
+      "Alteración neurológica con pérdida del reflejo respiratorio o riesgo de aspiración.",
+      "Acidosis respiratoria severa (PaCO₂ > 60 mmHg con pH < 7,25)."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Evaluación estructurada de la vía aérea y estratificación del riesgo.",
+        "Preoxigenación durante 3–5 minutos con FiO₂ al 100% con mascarilla con reservorio o VNI.",
+        "Administración secuencial de hipnótico (etomidato 0,3 mg/kg, ketamina 1–2 mg/kg, midazolam 0,1–0,3 mg/kg o propofol 1–2 mg/kg) seguido de bloqueador neuromuscular (succinilcolina 1–1,5 mg/kg o rocuronio 1,2 mg/kg).",
+        "Laringoscopia e intubación dentro de los 60 segundos tras el bloqueo neuromuscular completo.",
+        "Confirmación inmediata con capnografía, auscultación bilateral y expansión torácica simétrica.",
+        "Fijación del tubo, inicio de la ventilación mecánica, ajuste de parámetros y mantenimiento de sedación y analgesia continua."
+      ]
+    },
+    "pronostico": {
+      "comentario": "La ISR realizada por personal capacitado con adecuada preoxigenación y selección farmacológica presenta altas tasas de éxito y menor incidencia de complicaciones. El pronóstico depende de la condición clínica previa, experiencia del operador y capacidad de respuesta ante una vía aérea difícil. Los pacientes críticos requieren soporte intensivo multidisciplinario para un mejor desenlace."
+    },
+    "notas_adicionales": [
+      "El uso de cánula nasal de alto flujo durante la apnea puede prolongar el tiempo de intubación segura.",
+      "Evitar succinilcolina en pacientes con quemaduras extensas, inmovilización prolongada o enfermedades neuromusculares.",
+      "Reevaluar y ajustar la sedación tras la intubación según parámetros ventilatorios y confort del paciente.",
+      "Documentar cada paso del procedimiento, dosis administradas y respuestas hemodinámicas.",
+      "El entrenamiento en simulación mejora significativamente los resultados de la ISR.",
+      "Considerar intubación despierta en pacientes con vía aérea muy difícil y ventilación espontánea preservada."
+    ],
+    "referencias": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 55 – Manejo de la Vía Aérea.",
+      "Walls RM. Manual de Manejo de la Vía Aérea de Emergencia. 5ª ed. 2018.",
+      "UpToDate. Intubación de secuencia rápida en adultos en medicina de emergencia. 2024.",
+      "Guías de la Sociedad Brasileña de Medicina de Emergencia – ISR. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed."
+    ]
+  }
+}

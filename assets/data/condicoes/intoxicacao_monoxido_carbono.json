@@ -1,0 +1,206 @@
+{
+  "PT": {
+    "titulo": "Intoxicação por Monóxido de Carbono",
+    "definicao": "A intoxicação por monóxido de carbono (CO) é uma emergência médica causada pela inalação de gás incolor, inodoro e insípido, produto da combustão incompleta de materiais orgânicos. O CO possui afinidade 200–250 vezes maior pela hemoglobina do que o oxigênio, formando carboxi-hemoglobina (COHb), o que reduz drasticamente a capacidade de transporte e liberação de oxigênio aos tecidos, levando à hipóxia tecidual e disfunção mitocondrial.",
+    "epidemiologia": "É a principal causa de morte por intoxicação não intencional no mundo. No Brasil, casos estão frequentemente relacionados a fogões, aquecedores a gás, incêndios residenciais e escapamentos de veículos em locais fechados. Grávidas, crianças, idosos e pacientes com cardiopatias ou doenças neurológicas são mais vulneráveis aos efeitos da exposição. A intoxicação pode ser acidental, homicida ou suicida.",
+    "fisiopatologia": "O CO compete com o O₂ pela hemoglobina, formando COHb e deslocando a curva de dissociação da oxi-hemoglobina para a esquerda. Além disso, inibe a citocromo c oxidase da cadeia respiratória mitocondrial, comprometendo a fosforilação oxidativa. A hipóxia resultante afeta principalmente órgãos com alta demanda metabólica (cérebro, coração). Pode ocorrer edema cerebral, arritmias, isquemia miocárdica e disfunção multiorgânica.",
+    "manifestações_clinicas": {
+      "leves": [
+        "Cefaleia frontal, náuseas, tontura.",
+        "Fadiga, visão turva, mialgia.",
+        "Alterações de humor ou concentração."
+      ],
+      "moderadas": [
+        "Confusão mental, ataxia, disartria.",
+        "Dispneia, dor torácica, palpitações.",
+        "Vômitos, síncope, rubor cutâneo (às vezes)."
+      ],
+      "graves": [
+        "Convulsões, coma, rebaixamento profundo.",
+        "Isquemia miocárdica, arritmias ventriculares.",
+        "Acidose lática, edema pulmonar não cardiogênico, rabdomiólise."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Deve ser considerado diante de sintomas inespecíficos em grupos expostos a ambientes com fontes de combustão sem ventilação adequada. Sintomas neurológicos inexplicados em múltiplas pessoas de uma mesma residência devem levantar suspeita. O diagnóstico é confirmado por co-oximetria com elevação de COHb.",
+      "exames_essenciais": [
+        "Dosagem de carboxi-hemoglobina (COHb): valores normais &lt; 3% (não fumantes), &lt; 10% (fumantes).",
+        "Gasometria arterial: acidose metabólica/lática e hipóxia tecidual.",
+        "Lactato sérico: frequentemente elevado (&gt; 2 mmol/L).",
+        "ECG e troponina: detectar isquemia cardíaca.",
+        "TC ou RM de crânio em rebaixamento persistente (avaliar edema, lesão hipóxica).",
+        "SatO₂ de oximetria de pulso pode ser falsamente normal (não detecta COHb)."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Coma (GCS ≤ 8) ou rebaixamento grave da consciência.",
+      "Crises convulsivas recorrentes.",
+      "Insuficiência respiratória por aspiração, lesão de inalação ou edema pulmonar.",
+      "Instabilidade hemodinâmica com necessidade de sedação ou suporte intensivo."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Remoção imediata do ambiente contaminado e início de oxigenoterapia com FiO₂ 100%.",
+        "Administrar O₂ por máscara com reservatório ou ventilação mecânica, conforme gravidade.",
+        "Oxigenoterapia hiperbárica (OHB) indicada em: COHb &gt; 25%, sintomas neurológicos, arritmias, gestantes com COHb &gt; 15%, acidose lática grave (&gt; 4 mmol/L), sinais de lesão cardíaca.",
+        "Monitorar continuamente sinais vitais, ECG, SpO₂, diurese e nível de consciência.",
+        "Hidratação EV e suporte sintomático (controle térmico, anticonvulsivantes se necessário).",
+        "Encaminhamento neurológico e acompanhamento ambulatorial por risco de sequelas tardias.",
+        "Avaliação psiquiátrica nos casos sugestivos de intoxicação intencional."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico depende da duração da exposição, concentração de CO, precocidade do tratamento e presença de comorbidades. A maioria dos pacientes melhora com oxigenoterapia precoce. No entanto, 10–40% dos casos graves podem desenvolver síndrome neurológica tardia (déficits cognitivos, psiquiátricos ou motores) após dias a semanas da exposição inicial."
+    },
+    "notas_adicionais": [
+      "A meia-vida do COHb é de 4–6 h em ar ambiente, 60–90 min com O₂ 100% e 20–30 min com OHB.",
+      "Grávidas devem ser tratadas com OHB independentemente da gravidade clínica, devido ao risco fetal.",
+      "Sequelas neurológicas tardias podem ser revertidas parcialmente com reabilitação precoce.",
+      "A saturação de oxigênio por oximetria de pulso não detecta COHb — uso de co-oximetria é obrigatório.",
+      "Sempre notificar o caso ao serviço de vigilância epidemiológica em intoxicações graves."
+    ],
+    "fontes_bibliograficas": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 68 – Carbon Monoxide.",
+      "UpToDate. Carbon monoxide poisoning. 2024.",
+      "Manual de Toxicologia Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Toxicologia – Protocolos de intoxicação por CO. 2023."
+    ]
+  },
+  "US": {
+    "title": "Carbon Monoxide Poisoning",
+    "definition": "Carbon monoxide (CO) poisoning is a life-threatening emergency caused by inhalation of CO gas, an odorless, colorless, and tasteless byproduct of incomplete combustion of carbon-containing fuels. CO binds to hemoglobin with over 200 times the affinity of oxygen, forming carboxyhemoglobin (COHb), thereby impairing oxygen delivery and utilization at the tissue level and leading to cellular hypoxia and mitochondrial dysfunction.",
+    "epidemiology": "CO poisoning is a leading cause of accidental poisoning-related death worldwide. In the US and other countries, it is most commonly associated with residential heating systems, gas-powered appliances, vehicle exhaust in enclosed spaces, and structural fires. Populations at higher risk include children, elderly, pregnant women, and individuals with underlying cardiopulmonary disease. It can result from accidental, suicidal, or homicidal exposure.",
+    "pathophysiology": "CO binds to hemoglobin to form COHb, reducing the oxygen-carrying capacity of blood. It also shifts the oxygen dissociation curve to the left, impairing oxygen release to tissues. Additionally, CO inhibits cytochrome c oxidase in the mitochondrial respiratory chain, disrupting cellular respiration and ATP production. High metabolic demand tissues such as brain and myocardium are most susceptible, with risks of cerebral edema, myocardial ischemia, arrhythmias, and multi-organ dysfunction.",
+    "clinical_manifestations": {
+      "mild": [
+        "Headache, nausea, dizziness.",
+        "Fatigue, blurred vision, muscle weakness.",
+        "Mild cognitive disturbances or irritability."
+      ],
+      "moderate": [
+        "Confusion, ataxia, speech difficulties.",
+        "Dyspnea, chest pain, palpitations.",
+        "Vomiting, syncope, skin flushing (rarely)."
+      ],
+      "severe": [
+        "Seizures, coma, deep unconsciousness.",
+        "Myocardial ischemia, ventricular arrhythmias.",
+        "Lactic acidosis, noncardiogenic pulmonary edema, rhabdomyolysis."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "CO poisoning should be suspected in patients with nonspecific symptoms after exposure to combustion sources in poorly ventilated areas. Multiple symptomatic individuals in the same setting is a red flag. Confirmatory diagnosis is made via co-oximetry detecting elevated COHb levels.",
+      "essential_tests": [
+        "COHb levels by co-oximetry: normal &lt; 3% (nonsmokers), &lt; 10% (smokers).",
+        "Arterial blood gas: lactic/metabolic acidosis and tissue hypoxia.",
+        "Serum lactate: often elevated (&gt; 2 mmol/L).",
+        "ECG and troponin: evaluate for myocardial ischemia.",
+        "CT or MRI brain imaging in persistent altered mental status.",
+        "SpO₂ may be falsely normal as pulse oximetry does not detect COHb."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Coma (GCS ≤ 8) or significant alteration of consciousness.",
+      "Recurrent seizures.",
+      "Acute respiratory failure from aspiration, inhalation injury, or pulmonary edema.",
+      "Hemodynamic instability requiring sedation or intensive support."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediate removal from the exposure environment and initiation of 100% FiO₂ oxygen therapy.",
+        "Oxygen via non-rebreather mask or mechanical ventilation as appropriate.",
+        "Hyperbaric oxygen therapy (HBOT) indicated for: COHb &gt; 25%, neurologic symptoms, cardiac ischemia/arrhythmia, pregnant women with COHb &gt; 15%, severe lactic acidosis (&gt; 4 mmol/L).",
+        "Continuous monitoring of vital signs, ECG, urine output, and mental status.",
+        "IV fluids, temperature control, anticonvulsants if needed.",
+        "Neurological follow-up and outpatient monitoring due to risk of delayed neuropsychiatric sequelae.",
+        "Psychiatric evaluation if intentional exposure is suspected."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on the duration and intensity of exposure, promptness of oxygen therapy, and presence of comorbidities. Most patients recover with early oxygen treatment. However, 10–40% of severely affected individuals may develop delayed neurocognitive syndrome (DNS), which manifests days to weeks post-exposure and may include memory loss, personality changes, or motor deficits."
+    },
+    "additional_notes": [
+      "COHb half-life: ~4–6 h in room air, ~60–90 min with 100% O₂, ~20–30 min with HBOT.",
+      "Pregnant women should receive HBOT regardless of symptom severity due to fetal risk.",
+      "Delayed neurologic sequelae can be partially reversible with early rehabilitation.",
+      "Pulse oximetry cannot distinguish COHb from oxyhemoglobin — co-oximetry is required.",
+      "Mandatory reporting to public health authorities in severe or occupational cases."
+    ],
+    "references": [
+      "Goldfrank’s Toxicologic Emergencies. 11th ed. Chapter 68 – Carbon Monoxide.",
+      "UpToDate. Carbon monoxide poisoning. 2024.",
+      "Clinical Toxicology Manual – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Toxicology – CO poisoning protocols. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Intoxicación por Monóxido de Carbono",
+    "definicion": "La intoxicación por monóxido de carbono (CO) es una emergencia médica potencialmente mortal causada por la inhalación de un gas incoloro, inodoro e insípido producido por la combustión incompleta de materiales que contienen carbono. El CO se une a la hemoglobina con una afinidad 200–250 veces mayor que el oxígeno, formando carboxihemoglobina (COHb), lo que reduce significativamente la capacidad de transporte y entrega de oxígeno a los tejidos, provocando hipoxia celular y disfunción mitocondrial.",
+    "epidemiologia": "Es una de las principales causas de muerte por intoxicación accidental en todo el mundo. En América Latina y otras regiones, los casos suelen estar relacionados con calentadores de gas, braseros, incendios domésticos, motores en espacios cerrados y aparatos defectuosos. Grupos vulnerables como niños, ancianos, embarazadas y personas con enfermedades cardiovasculares o neurológicas tienen mayor riesgo de complicaciones. Las exposiciones pueden ser accidentales, intencionales (suicidio) o laborales.",
+    "fisiopatologia": "El CO desplaza al O₂ de la hemoglobina, formando COHb y desplazando la curva de disociación de la oxihemoglobina hacia la izquierda, dificultando la liberación de oxígeno a los tejidos. Además, inhibe la citocromo c oxidasa en la cadena respiratoria mitocondrial, bloqueando la producción de ATP. Los órganos más afectados son aquellos con alta demanda metabólica, como el cerebro y el corazón.",
+    "manifestaciones_clinicas": {
+      "leves": [
+        "Cefalea frontal, náuseas, mareos.",
+        "Fatiga, visión borrosa, mialgias.",
+        "Cambios de humor, dificultad para concentrarse."
+      ],
+      "moderadas": [
+        "Confusión, ataxia, disartria.",
+        "Disnea, dolor torácico, palpitaciones.",
+        "Vómitos, síncope, enrojecimiento cutáneo ocasional."
+      ],
+      "graves": [
+        "Convulsiones, coma profundo.",
+        "Isquemia miocárdica, arritmias ventriculares.",
+        "Acidosis láctica, edema pulmonar no cardiogénico, rabdomiólisis."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Debe sospecharse en pacientes con síntomas neurológicos inespecíficos que hayan estado expuestos a fuentes de combustión en ambientes mal ventilados. La afectación simultánea de varios individuos en el mismo entorno es un hallazgo clave. La confirmación diagnóstica se realiza mediante cooximetría que detecta niveles elevados de COHb.",
+      "examenes_esenciales": [
+        "Cooximetría: COHb &gt; 3% en no fumadores, &gt; 10% en fumadores.",
+        "Gasometría arterial: acidosis metabólica o láctica e hipoxia tisular.",
+        "Lactato sérico: frecuentemente elevado (&gt; 2 mmol/L).",
+        "ECG y troponina: detección de isquemia miocárdica.",
+        "TC o RM cerebral si hay alteración neurológica persistente.",
+        "La oximetría de pulso puede ser falsamente normal."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Coma (GCS ≤ 8) o alteración neurológica grave.",
+      "Convulsiones recurrentes.",
+      "Insuficiencia respiratoria por aspiración, edema pulmonar o lesión por inhalación.",
+      "Inestabilidad hemodinámica que requiere sedación o soporte intensivo."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Retiro inmediato del paciente del ambiente contaminado.",
+        "Oxigenoterapia con FiO₂ 100% mediante mascarilla de reservorio o ventilación mecánica según necesidad.",
+        "Terapia hiperbárica con oxígeno (OHB) indicada si: COHb &gt; 25%, síntomas neurológicos, arritmias, embarazadas con COHb &gt; 15%, acidosis láctica &gt; 4 mmol/L, isquemia miocárdica.",
+        "Monitoreo continuo de signos vitales, ECG, diuresis y estado de conciencia.",
+        "Hidratación intravenosa, control térmico, anticonvulsivos si son necesarios.",
+        "Seguimiento neurológico y evaluación ambulatoria posterior.",
+        "Evaluación psiquiátrica en caso de exposición intencional."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende de la duración e intensidad de la exposición, la precocidad en el inicio del tratamiento y las comorbilidades del paciente. La mayoría se recupera con oxigenoterapia temprana. Sin embargo, entre el 10% y el 40% de los casos graves pueden desarrollar secuelas neurológicas tardías como trastornos cognitivos, psiquiátricos o motores, días o semanas después de la exposición inicial."
+    },
+    "notas_adicionales": [
+      "Vida media del COHb: 4–6 h en aire ambiente, 60–90 min con O₂ al 100%, 20–30 min con OHB.",
+      "Las embarazadas deben recibir OHB independientemente de los síntomas debido al riesgo fetal.",
+      "La oximetría de pulso no distingue entre O₂ y COHb, por lo tanto, se requiere cooximetría.",
+      "Las secuelas neurológicas tardías pueden ser reversibles con rehabilitación precoz.",
+      "Es obligatorio notificar los casos graves a las autoridades sanitarias."
+    ],
+    "referencias": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 68 – Monóxido de Carbono.",
+      "UpToDate. Intoxicación por monóxido de carbono. 2024.",
+      "Manual de Toxicología Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Toxicología – Protocolos sobre intoxicación por CO. 2023."
+    ]
+  }
+}

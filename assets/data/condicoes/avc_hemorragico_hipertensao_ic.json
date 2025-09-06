@@ -1,0 +1,171 @@
+{
+  "PT": {
+    "titulo": "AVC Hemorrágico com Hipertensão Intracraniana",
+    "definicao": "O acidente vascular cerebral (AVC) hemorrágico com hipertensão intracraniana é uma emergência neurológica grave caracterizada pela presença de sangramento espontâneo no parênquima cerebral associado ao aumento da pressão intracraniana (PIC). A compressão das estruturas encefálicas leva à disfunção neurológica aguda, risco de herniação cerebral e morte. Requer reconhecimento clínico e radiológico precoce, além de suporte intensivo e abordagem neurocirúrgica quando indicada.",
+    "epidemiologia": "Representa aproximadamente 10 a 15% de todos os AVCs, mas é responsável por até 50% da mortalidade relacionada a eventos cerebrovasculares. A principal causa é hipertensão arterial sistêmica crônica não controlada. Fatores de risco incluem angiopatia amiloide, uso de anticoagulantes, trombolíticos, drogas ilícitas (ex: cocaína), idade avançada, dislipidemia e história familiar de doença cerebrovascular.",
+    "fisiopatologia": "A ruptura de vasos cerebrais leva ao extravasamento sanguíneo no tecido encefálico, formando um hematoma intraparenquimatoso. Isso desencadeia efeito de massa local, edema vasogênico, elevação da PIC e redução da pressão de perfusão cerebral (PPC). A compressão de estruturas vitais e a isquemia secundária agravam o prognóstico. A expansão do hematoma nas primeiras 24 horas é um determinante chave da deterioração clínica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipertensão arterial grave (síndrome de Cushing)",
+        "Bradicardia e bradipneia em padrão de resposta à hipertensão intracraniana"
+      ],
+      "neurologicas": [
+        "Déficit motor focal súbito (ex: hemiparesia, hemiplegia)",
+        "Diminuição progressiva do nível de consciência",
+        "Sinais de herniação cerebral (anisocoria, rigidez de descerebração)",
+        "Cefaleia intensa, vômitos em jato, convulsões"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Avaliação clínica e neurológica inicial com escala de Glasgow, sinais focais, avaliação pupilar e padrão respiratório. Considerar diagnóstico diferencial com AVC isquêmico, crises convulsivas, encefalopatias metabólicas e tumores.",
+      "exames_essenciais": [
+        "Tomografia computadorizada de crânio sem contraste (urgente)",
+        "Pressão arterial, glicemia capilar e ECG",
+        "Hemograma, eletrólitos, coagulograma, TAP/INR, função renal e hepática",
+        "Avaliação do volume, localização do hematoma, presença de desvio de linha média, hidrocefalia ou herniação",
+        "Angiotomografia ou angio-RM em casos de suspeita de MAV, aneurisma ou sangramento lobar atípico"
+      ]
+    },
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Estabilização hemodinâmica e manutenção da oxigenação com SatO₂ > 94%",
+        "Controle rigoroso da PA com meta inicial de PAS entre 140–160 mmHg",
+        "Evitar hipotensão (PAM < 65 mmHg) e hipocapnia (PaCO₂ < 35 mmHg)",
+        "Cabeceira elevada a 30°, alinhamento cefálico neutro",
+        "Correção de coagulopatias (vitamina K, protrombina complexa, plasma fresco)",
+        "Controle glicêmico (alvo entre 140–180 mg/dL)",
+        "Profilaxia de TVP e úlcera de estresse após 24–48h",
+        "Monitoramento neurológico intensivo com escala de Glasgow seriada",
+        "Encaminhamento precoce para neurocirurgia se: hematoma > 30 mL, piora neurológica ou sinais de herniação",
+        "Evitar hiperglicemia, febre e hipernatremia"
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico é reservado e depende de fatores como volume e localização do hematoma, Glasgow inicial, idade, presença de herniação, extensão do edema e comorbidades. A mortalidade geral em 30 dias pode ultrapassar 40%, sendo maior em sangramentos profundos e com expansão. Intervenção precoce e cuidado intensivo especializado melhoram os desfechos."
+    },
+    "notas_adicionais": [
+      "Evitar hiperventilação rotineira – utilizar apenas em sinais clínicos de herniação",
+      "Usar manitol ou solução salina hipertônica em PIC elevada ou sinais de herniação iminente",
+      "Manter controle rigoroso da temperatura (evitar hipertermia)",
+      "Iniciar reabilitação precoce com equipe multidisciplinar após estabilização clínica"
+    ],
+    "fontes_bibliograficas": [
+      "Diretrizes da Sociedade Brasileira de Doenças Cerebrovasculares – AVC Hemorrágico 2022",
+      "AHA/ASA Guidelines for the Management of Spontaneous Intracerebral Hemorrhage 2022",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate. Acute Intracerebral Hemorrhage: Clinical Features and Diagnosis"
+    ]
+  },
+  "US": {
+    "titulo": "Hemorrhagic Stroke with Intracranial Hypertension",
+    "definicao": "Hemorrhagic stroke with intracranial hypertension is a severe neurological emergency characterized by spontaneous bleeding into the brain parenchyma that leads to elevated intracranial pressure (ICP), risk of brain herniation, and decreased cerebral perfusion pressure (CPP). Prompt recognition and aggressive management are essential to reduce morbidity and mortality.",
+    "epidemiologia": "Accounts for 10–15% of all strokes but is responsible for a disproportionately high mortality. Major risk factors include chronic hypertension, cerebral amyloid angiopathy, anticoagulant use, thrombolytics, illicit drug use (e.g., cocaine), advanced age, and vascular malformations. Expansion of the hematoma and elevated ICP are major predictors of poor outcome.",
+    "fisiopatologia": "Spontaneous rupture of cerebral vessels leads to intraparenchymal hematoma formation, mass effect, surrounding vasogenic edema, and a rise in ICP. The subsequent decrease in CPP impairs oxygen delivery, leading to secondary ischemia, neuronal injury, and brainstem compression. Herniation syndromes (uncal, central, tonsillar) may ensue in severe cases.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Severe hypertension (Cushing response)",
+        "Bradycardia and irregular respirations in advanced ICP"
+      ],
+      "neurologicas": [
+        "Sudden focal deficits (e.g., hemiparesis, gaze deviation)",
+        "Progressive deterioration of consciousness (decreased GCS)",
+        "Signs of herniation (anisocoria, extensor posturing, decerebrate rigidity)",
+        "Seizures, projectile vomiting, headache"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Initial assessment includes airway, breathing, circulation (ABCs), GCS score, pupillary exam, and identification of focal deficits. Consider differentials like ischemic stroke, seizure, metabolic encephalopathy, or CNS infections.",
+      "exames_essenciais": [
+        "Non-contrast head CT (immediate)",
+        "Blood pressure, capillary glucose, ECG",
+        "CBC, electrolytes, renal/liver function, coagulation profile",
+        "Assessment of hematoma size, location, midline shift, hydrocephalus",
+        "CT angiography or MRI/MRA if arteriovenous malformation or aneurysm suspected"
+      ]
+    },
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Stabilize airway, breathing, and circulation; maintain SpO₂ > 94%",
+        "Target SBP 140–160 mmHg (avoid SBP < 120 mmHg); MAP > 65 mmHg",
+        "Elevate head of bed to 30°, ensure neutral neck position",
+        "Reverse coagulopathy (vitamin K, prothrombin complex, FFP, reversal agents)",
+        "Glycemic control (target 140–180 mg/dL); avoid hypoglycemia",
+        "Neuro-monitoring with serial GCS and pupil checks",
+        "Early neurosurgery consult for hematoma evacuation if >30 mL, mass effect, or herniation signs",
+        "Avoid fever, hypernatremia, and hypoxia",
+        "Initiate DVT prophylaxis after 24–48h once bleeding stabilizes"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis depends on hematoma volume, location, initial GCS, age, and presence of herniation. Mortality within 30 days can exceed 40% in severe cases. Early neurocritical care, blood pressure control, and surgical intervention improve outcomes in selected patients."
+    },
+    "notas_adicionais": [
+      "Avoid routine hyperventilation unless herniation is imminent",
+      "Use mannitol or hypertonic saline for elevated ICP or impending herniation",
+      "Maintain strict temperature control (normothermia)",
+      "Start early multidisciplinary rehabilitation once stable"
+    ],
+    "fontes_bibliograficas": [
+      "American Heart Association (AHA)/American Stroke Association (ASA) Guidelines for the Management of Spontaneous Intracerebral Hemorrhage. 2022.",
+      "UpToDate. Management of acute intracerebral hemorrhage.",
+      "Marino PL. The ICU Book. 4th ed. Lippincott Williams & Wilkins.",
+      "Society of Critical Care Medicine (SCCM) – Neurocritical Care Guidelines."
+    ]
+  },
+  "ES": {
+    "titulo": "Accidente Cerebrovascular Hemorrágico con Hipertensión Intracraneal",
+    "definicao": "El accidente cerebrovascular (ACV) hemorrágico con hipertensión intracraneal es una emergencia neurológica crítica que se produce por el sangrado espontáneo dentro del parénquima cerebral. La acumulación de sangre genera aumento de la presión intracraneal (PIC), compresión de estructuras cerebrales, reducción de la perfusión cerebral y riesgo de herniación cerebral. El reconocimiento y manejo inmediato son fundamentales para mejorar el pronóstico.",
+    "epidemiologia": "Representa entre el 10 y el 15% de todos los ACVs, pero es responsable de una proporción significativa de mortalidad. Las principales causas incluyen hipertensión arterial crónica no controlada, angiopatía amiloide, uso de anticoagulantes y trombolíticos, consumo de drogas ilícitas (como cocaína) y malformaciones vasculares. La edad avanzada y antecedentes de eventos cerebrovasculares aumentan el riesgo.",
+    "fisiopatologia": "La ruptura de un vaso cerebral provoca la formación de un hematoma intracerebral, que aumenta la presión dentro del cráneo y produce desplazamiento del tejido cerebral. Esto reduce la presión de perfusión cerebral (PPC), desencadena isquemia secundaria y puede causar herniación del tronco encefálico. El edema vasogénico y la expansión del hematoma en las primeras 24 horas agravan el cuadro clínico.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipertensión arterial severa (respuesta de Cushing)",
+        "Bradicardia y alteraciones respiratorias en hipertensión intracraneal avanzada"
+      ],
+      "neurologicas": [
+        "Déficit neurológico focal súbito (ej: hemiparesia, afasia)",
+        "Disminución progresiva del nivel de conciencia",
+        "Anisocoria, rigidez de descerebración, signos de herniación cerebral",
+        "Convulsiones, cefalea intensa, vómitos en proyectil"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Evaluación clínica y neurológica inmediata con escala de Glasgow, examen pupilar, signos focales y patrón respiratorio. Considerar diagnósticos diferenciales como ACV isquémico, convulsiones, encefalopatía metabólica o tumor cerebral.",
+      "exames_essenciais": [
+        "Tomografía computarizada de cráneo sin contraste (urgente)",
+        "Presión arterial, glucemia capilar, ECG",
+        "Hemograma, electrolitos, función renal y hepática, coagulograma",
+        "Evaluación del volumen y localización del hematoma, desviación de línea media, hidrocefalia",
+        "Angio-TC o angio-RM si se sospecha malformación arteriovenosa o aneurisma"
+      ]
+    },
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Estabilizar la vía aérea, respiración y circulación; mantener SpO₂ > 94%",
+        "Reducir PAS a 140–160 mmHg si PAS > 180 mmHg, evitando hipotensión",
+        "Mantener cabecera elevada a 30°, cuello en posición neutra",
+        "Revertir coagulopatías (vitamina K, concentrado de protrombina, plasma fresco)",
+        "Control glucémico (objetivo 140–180 mg/dL), evitar hipoglucemia",
+        "Monitoreo neurológico con escala de Glasgow seriada",
+        "Consultar neurocirugía precoz si hematoma >30 mL, deterioro clínico o herniación",
+        "Evitar fiebre, hipernatremia, hipoxia",
+        "Iniciar profilaxis de trombosis venosa profunda tras estabilización hemostática (24–48 h)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico depende del tamaño y la localización del hematoma, el estado neurológico inicial (Glasgow), la edad, la presencia de herniación cerebral y comorbilidades. La mortalidad en los primeros 30 días puede superar el 40% en casos graves. El manejo precoz en unidad de cuidados neurocríticos y la intervención quirúrgica en casos seleccionados mejoran el pronóstico funcional."
+    },
+    "notas_adicionais": [
+      "Evitar hiperventilación profiláctica, salvo en herniación cerebral inminente",
+      "Utilizar manitol o solución salina hipertónica si hay signos de PIC elevada",
+      "Mantener control estricto de la temperatura (normotermia)",
+      "Iniciar rehabilitación multidisciplinaria precoz cuando sea posible"
+    ],
+    "fontes_bibliograficas": [
+      "Guías de la American Heart Association (AHA)/American Stroke Association (ASA) 2022 para el manejo del hematoma intracerebral espontáneo.",
+      "UpToDate. Manejo del hematoma intracerebral agudo.",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "Guías clínicas de la Sociedad Española de Neurología – ACV Hemorrágico 2022."
+    ]
+  }
+}

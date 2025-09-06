@@ -1,0 +1,209 @@
+{
+  "PT": {
+    "titulo": "Arritmias Ventriculares Instáveis",
+    "definicao": "Arritmias ventriculares instáveis englobam taquicardias ventriculares sustentadas com sinais de instabilidade hemodinâmica e fibrilação ventricular, constituindo emergências clínicas de altíssimo risco. Essas arritmias comprometem gravemente a perfusão tecidual e são a principal causa de morte súbita cardíaca. São definidas por sua origem nos ventrículos e incapacidade de manter débito cardíaco adequado sem intervenção imediata.",
+    "epidemiologia": "Responsáveis por mais de 70% das mortes súbitas cardíacas. São frequentes em pacientes com doença arterial coronariana, miocardiopatias dilatadas, displasia arritmogênica de ventrículo direito, síndromes genéticas (QT longo, Brugada), além de intoxicações e distúrbios hidroeletrolíticos. A incidência é maior em homens acima de 50 anos e em pacientes hospitalizados por eventos isquêmicos recentes.",
+    "fisiopatologia": "Mecanismos incluem reentrada intramiocárdica (principal), automatismo anormal e atividade deflagrada por pós-potenciais. A rápida despolarização ventricular gera perda da sincronização contrátil, redução abrupta do débito cardíaco e isquemia miocárdica secundária. Em fibrilação ventricular, há desorganização elétrica total e ausência de contração eficaz, levando à parada circulatória imediata.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial (PAS < 90 mmHg)",
+        "Pulso filiforme ou ausente",
+        "Perfusão periférica diminuída (TEC > 3s, extremidades frias)"
+      ],
+      "respiratorias": [
+        "Taquipneia e dispneia súbita",
+        "Estertores e sinais de congestão pulmonar (em casos associados à IC)",
+        "Apneia em parada cardiorrespiratória"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Tontura, síncope ou pré-síncope",
+        "Confusão mental ou rebaixamento do nível de consciência",
+        "Acidose metabólica por hipoperfusão e lactato elevado"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseado em sinais de instabilidade hemodinâmica associados à presença de ritmo ventricular rápido ou desorganizado no monitor/ECG. A identificação precoce da FV ou da TV sustentada é mandatória. A diferenciação entre TV monomórfica e outras taquiarritmias (como TSV com aberrância) é essencial, porém não deve retardar o tratamento.",
+      "exames_essenciais": [
+        "ECG de 12 derivações (TV: complexos QRS largos, dissociação AV, morfologia específica)",
+        "Monitorização contínua com desfibrilador",
+        "Gasometria arterial com lactato e pH",
+        "Eletrólitos (K+, Mg2+, Ca2+), função renal e glicemia",
+        "Troponina e marcadores de necrose miocárdica",
+        "Ecocardiograma à beira-leito em casos selecionados"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Comprometimento da consciência (Glasgow < 8)",
+      "TV sustentada refratária ou recorrente com instabilidade persistente",
+      "FV não revertida após 2 ciclos de RCP + desfibrilação"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Avaliação primária ABCDE e ativação imediata da equipe de emergência",
+        "Oxigenoterapia com FiO2 elevada, acesso venoso calibroso bilateral",
+        "Cardioversão elétrica sincronizada (TV com pulso) com energia inicial de 100 J (bifásica)",
+        "Desfibrilação imediata (TV sem pulso ou FV) com 200 J (bifásico) ou 360 J (monofásico)",
+        "RCP de alta qualidade: compressões torácicas ininterruptas a 100–120/min, profundidade 5–6 cm",
+        "Adrenalina 1 mg IV a cada 3–5 minutos após 2° ciclo de RCP",
+        "Amiodarona 300 mg IV após 3ª desfibrilação + 150 mg subsequente após nova parada",
+        "Correção de distúrbios eletrolíticos (K+ ideal 4,5–5,0 mmol/L; Mg2+ se QT longo)",
+        "Via aérea avançada (IOT) após retorno da circulação espontânea (RCE) ou em falência ventilatória",
+        "Identificar e tratar causas reversíveis (5Hs/5Ts: Hipovolemia, Hipóxia, H+ (acidose), Hipo/hipercalemia, Hipotermia / TEP, TEP, Tamponamento, Tóxicos, Tensão no pneumotórax, Trauma)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A sobrevida depende da rapidez do atendimento e da qualidade das manobras de RCP. A desfibrilação precoce em até 3 minutos é o fator isolado mais importante. Pacientes que sobrevivem devem ser avaliados para CDI, investigação etiológica e acompanhamento especializado."
+    },
+    "notas_adicionais": [
+      "Documentar tempo exato do início da parada, desfibrilação e medicações",
+      "Após RCE, iniciar cuidados pós-PCR: controle da temperatura, sedação e investigação etiológica",
+      "Considerar acesso a centro de referência em arritmias para estudo eletrofisiológico precoce",
+      "Avaliar necessidade de antiarrítmicos profiláticos e implante de CDI secundário"
+    ],
+    "fontes_bibliograficas": [
+      "American Heart Association (AHA) Guidelines for CPR and ECC, 2020",
+      "European Resuscitation Council Guidelines 2021",
+      "Marino PL. The ICU Book. 4ª ed. Lippincott Williams & Wilkins; 2014.",
+      "UpToDate: Management of ventricular tachycardia and ventricular fibrillation",
+      "Sociedade Brasileira de Arritmias Cardíacas (SOBRAC)"
+    ]
+  },
+  "ES": {
+    "titulo": "Arritmias Ventriculares Inestables",
+    "definicao": "Las arritmias ventriculares inestables incluyen la taquicardia ventricular sostenida con compromiso hemodinámico y la fibrilación ventricular, ambas consideradas emergencias clínicas de altísimo riesgo. Estas arritmias se originan en los ventrículos y comprometen severamente el gasto cardíaco, pudiendo evolucionar rápidamente hacia paro cardíaco súbito si no se tratan de forma inmediata.",
+    "epidemiologia": "Responsables de más del 70% de las muertes súbitas cardíacas. Son comunes en pacientes con enfermedad coronaria, insuficiencia cardíaca, miocardiopatías, síndromes genéticos (QT largo, Brugada), trastornos electrolíticos y uso de fármacos arritmogénicos. Mayor prevalencia en hombres mayores de 50 años y en pacientes hospitalizados post-infarto.",
+    "fisiopatologia": "Los mecanismos implicados incluyen circuitos de reentrada intramiocárdica, automatismo anormal y actividad desencadenada por pospotenciales. Esto provoca despolarizaciones rápidas y desorganizadas, pérdida de sincronía contráctil, reducción del gasto cardíaco e isquemia miocárdica secundaria. En la fibrilación ventricular hay una desorganización total del impulso eléctrico con ausencia de contracción eficaz.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión arterial (PAS < 90 mmHg)",
+        "Pulso filiforme o ausente",
+        "Perfusión periférica disminuida (llenado capilar > 3 s, extremidades frías)"
+      ],
+      "respiratorias": [
+        "Disnea súbita, taquipnea",
+        "Estertores o signos de congestión pulmonar",
+        "Apnea en paro cardiorrespiratorio"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Mareo, síncope o presíncope",
+        "Confusión mental, coma",
+        "Acidosis metabólica por hipoperfusión con lactato elevado"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnóstico clínico y electrocardiográfico. Se basa en la identificación de un ritmo ventricular rápido o desorganizado (TV o FV) asociado a signos de inestabilidad hemodinámica. Diferenciar entre TV monomórfica y TSV aberrante es importante, pero no debe retrasar la intervención.",
+      "exames_essenciais": [
+        "ECG de 12 derivaciones (QRS ancho, disociación AV, complejos de captura o fusión)",
+        "Monitoreo continuo con acceso a desfibrilador",
+        "Gasometría arterial con lactato y pH",
+        "Electrolitos (K+, Mg2+, Ca2+), función renal y glucemia",
+        "Troponinas y marcadores de necrosis miocárdica",
+        "Ecocardiograma en cama si está disponible"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Compromiso de conciencia (Glasgow < 8)",
+      "TV sostenida refractaria o recurrente con inestabilidad persistente",
+      "FV que no revierte tras 2 ciclos de RCP y desfibrilación"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Evaluación ABCDE inmediata y activación del equipo de emergencia",
+        "Oxigenoterapia con FiO2 elevada y dos accesos venosos de gran calibre",
+        "Cardioversión sincronizada (TV con pulso) con 100 J (bifásico) inicial",
+        "Desfibrilación inmediata (TV sin pulso o FV) con 200 J (bifásico) o 360 J (monofásico)",
+        "RCP de alta calidad: 100–120 compresiones/minuto, profundidad 5–6 cm, mínima interrupción",
+        "Adrenalina 1 mg IV cada 3–5 min tras el segundo ciclo de RCP",
+        "Amiodarona 300 mg IV tras la 3ª desfibrilación + 150 mg adicionales si persiste",
+        "Corrección de electrolitos (K+ objetivo 4.5–5.0 mmol/L; Mg2+ si QT largo)",
+        "Vía aérea avanzada (intubación) tras RCE o en insuficiencia respiratoria grave",
+        "Identificar causas reversibles (5Hs/5Ts: hipovolemia, hipoxia, H+ [acidosis], hipo/hiperpotasemia, hipotermia / Tóxicos, taponamiento, neumotórax a tensión, trombosis, trauma)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico depende directamente de la rapidez y calidad de la intervención. La desfibrilación precoz dentro de los 3 minutos mejora significativamente la sobrevida. El manejo post-paro, el estudio etiológico y la consideración de CDI son esenciales para prevenir recurrencias."
+    },
+    "notas_adicionais": [
+      "Registrar los tiempos exactos de parada, desfibrilación y fármacos",
+      "Iniciar cuidados post-RCE: control térmico, sedación e investigación etiológica",
+      "Considerar derivación a electrofisiología para estratificación de riesgo e implante de CDI",
+      "Evitar demoras entre ciclos de RCP y desfibrilaciones"
+    ],
+    "fontes_bibliograficas": [
+      "American Heart Association (AHA) Guidelines for CPR and ECC, 2020",
+      "European Resuscitation Council Guidelines 2021",
+      "Marino PL. The ICU Book. 4ª ed. Lippincott Williams & Wilkins; 2014.",
+      "UpToDate: Manejo de taquicardia ventricular y fibrilación ventricular",
+      "Sociedad Española de Cardiología – Código Parada Cardiaca 2021"
+    ]
+  },
+  "US": {
+    "titulo": "Unstable Ventricular Arrhythmias",
+    "definicao": "Unstable ventricular arrhythmias encompass sustained ventricular tachycardia (VT) with hemodynamic compromise and ventricular fibrillation (VF), both of which constitute life-threatening emergencies. These arrhythmias arise from the ventricles and cause significant impairment in cardiac output, often resulting in sudden cardiac arrest if not treated immediately.",
+    "epidemiologia": "Ventricular arrhythmias are responsible for over 70% of sudden cardiac deaths. They are commonly observed in patients with ischemic heart disease, heart failure, cardiomyopathies, inherited arrhythmia syndromes (e.g., long QT syndrome, Brugada syndrome), and electrolyte imbalances. They are more prevalent in men over 50 and in hospitalized patients following acute coronary events.",
+    "fisiopatologia": "The primary mechanisms include reentry circuits, abnormal automaticity, and triggered activity due to early or delayed afterdepolarizations. These result in rapid, disorganized ventricular depolarizations, causing loss of coordinated myocardial contraction, decreased cardiac output, myocardial ischemia, and circulatory collapse, particularly in VF where effective contraction ceases entirely.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Severe hypotension (SBP < 90 mmHg)",
+        "Weak or absent peripheral pulse",
+        "Signs of low perfusion (delayed capillary refill, cold extremities)"
+      ],
+      "respiratorias": [
+        "Sudden dyspnea and tachypnea",
+        "Pulmonary crackles or signs of pulmonary edema in associated heart failure",
+        "Apnea in cardiac arrest"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Dizziness, syncope or presyncope",
+        "Altered mental status or coma",
+        "Metabolic acidosis and elevated lactate due to hypoperfusion"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnosis is based on recognition of rapid or disorganized ventricular rhythms on ECG or monitor, in association with clinical signs of instability. Prompt differentiation between VT and SVT with aberrancy is useful but should not delay treatment.",
+      "exames_essenciais": [
+        "12-lead ECG (wide QRS, AV dissociation, capture/fusion beats)",
+        "Continuous cardiac monitoring with defibrillator access",
+        "Arterial blood gas (ABG) with lactate and pH",
+        "Electrolytes (K+, Mg2+, Ca2+), renal function, and glucose",
+        "Cardiac troponin and biomarkers of myocardial injury",
+        "Bedside echocardiography in select cases"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Glasgow Coma Score < 8 or respiratory failure",
+      "Refractory or recurrent VT with persistent hemodynamic instability",
+      "VF not responsive after 2 defibrillation cycles + CPR"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Primary ABCDE assessment and immediate activation of emergency response",
+        "High-flow oxygen and dual large-bore IV access",
+        "Synchronized cardioversion (VT with a pulse), starting at 100 J (biphasic)",
+        "Immediate defibrillation (pulseless VT or VF) at 200 J (biphasic) or 360 J (monophasic)",
+        "High-quality CPR: compressions at 100–120/min, 5–6 cm deep, minimal interruptions",
+        "Epinephrine 1 mg IV every 3–5 minutes after second cycle of CPR",
+        "Amiodarone 300 mg IV after 3rd shock, followed by 150 mg if needed",
+        "Electrolyte correction (target K+ 4.5–5.0 mmol/L; Mg2+ if prolonged QT)",
+        "Advanced airway (intubation) after return of spontaneous circulation or respiratory failure",
+        "Identify and treat reversible causes (5 Hs and 5 Ts: hypovolemia, hypoxia, hydrogen ion [acidosis], hypo/hyperkalemia, hypothermia; toxins, tamponade, tension pneumothorax, thrombosis, trauma)"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis is closely tied to the rapidity and quality of intervention. Early defibrillation within 3 minutes is the single most critical determinant of survival. Post-resuscitation care, ICD evaluation, and etiological workup are essential for survivors."
+    },
+    "notas_adicionais": [
+      "Record exact timing of arrest, shocks, medications, and interventions",
+      "Initiate post-resuscitation care: targeted temperature management, sedation, and cause investigation",
+      "Referral to electrophysiology for risk stratification and possible ICD implantation",
+      "Avoid delay between CPR cycles and defibrillation attempts"
+    ],
+    "fontes_bibliograficas": [
+      "American Heart Association (AHA) Guidelines for CPR and ECC, 2020",
+      "European Resuscitation Council Guidelines 2021",
+      "Marino PL. The ICU Book. 4th ed. Lippincott Williams & Wilkins; 2014.",
+      "UpToDate: Management of ventricular tachycardia and ventricular fibrillation",
+      "Heart Rhythm Society (HRS) Consensus on Sudden Cardiac Arrest"
+    ]
+  }
+}

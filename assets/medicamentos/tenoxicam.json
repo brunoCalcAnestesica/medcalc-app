@@ -1,0 +1,71 @@
+{
+  "nome": "Tenoxicam",
+  "nomeIngles": "Tenoxicam",
+  "nomeEspanhol": "Tenoxicam",
+  "classificacao": "Anti-inflamatório não esteroidal (AINE); oxicam",
+  "mecanismoAcao": "Inibe competitivamente a ciclooxigenase (COX-1 e COX-2), bloqueando a síntese de prostaglandinas pró-inflamatórias. Possui longa duração de ação.",
+  "farmacocinetica": "Absorção IM rápida, pico 2-4h, vida média 60-75h, metabolismo hepático, excreção renal (67%) e fecal (33%).",
+  "farmacodinamica": "Anti-inflamatório, analgésico e antipirético de longa duração. Reduz inflamação, edema e dor. Efeito máximo em 24-48h, duração até 7 dias.",
+  "apresentacoes": [
+    {
+      "concentracao": "20 mg/mL",
+      "apresentacao": "Ampola 1 mL",
+      "via": "IM"
+    },
+    {
+      "concentracao": "20 mg/2 mL",
+      "apresentacao": "Ampola 2 mL",
+      "via": "IM"
+    }
+  ],
+  "preparacao": "• Administrar diretamente por via IM\n• Não diluir\n• Não misturar com outras drogas\n• Proteger da luz\n• Agitar suavemente antes do uso",
+  "indicacoesClinicas": [
+    {
+      "indicacao": "Dor aguda moderada a intensa",
+      "dose": "20 mg IM",
+      "frequencia": "24h",
+      "duracao": "Máximo 7 dias"
+    },
+    {
+      "indicacao": "Dor pós-operatória",
+      "dose": "20 mg IM",
+      "frequencia": "24h",
+      "duracao": "Máximo 7 dias"
+    },
+    {
+      "indicacao": "Dor lombar aguda",
+      "dose": "20 mg IM",
+      "frequencia": "24h",
+      "duracao": "Máximo 7 dias"
+    },
+    {
+      "indicacao": "Artralgias agudas",
+      "dose": "20 mg IM",
+      "frequencia": "24h",
+      "duracao": "Máximo 7 dias"
+    }
+  ],
+  "observacoes": "• Longa duração de ação (até 7 dias)\n• Monitorar função renal e hepática\n• Cuidado em idosos e pacientes com insuficiência renal\n• Suspender 7 dias antes de cirurgias eletivas\n• Monitorar pressão arterial",
+  "metabolismo": "Metabolizado no fígado por hidroxilação e conjugação. Forma metabólitos ativos e inativos. Excreção renal (67%) e fecal (33%).",
+  "contraindicacoes": [
+    "Hipersensibilidade ao tenoxicam ou outros AINEs",
+    "Úlcera péptica ativa",
+    "Insuficiência renal grave (ClCr <30 mL/min)",
+    "Insuficiência hepática grave",
+    "Gravidez (terceiro trimestre)",
+    "Lactação",
+    "História de asma induzida por AINEs",
+    "Síndrome de Stevens-Johnson prévia",
+    "Uso concomitante com outros AINEs"
+  ],
+  "reacoesAdversas": [
+    "Gastrintestinais: náusea, vômito, dor epigástrica, úlcera péptica, sangramento GI",
+    "Renais: insuficiência renal aguda, retenção hídrica, proteinúria",
+    "Cardiovasculares: edema, hipertensão, insuficiência cardíaca",
+    "Hematológicas: trombocitopenia, anemia, leucopenia",
+    "Hepáticas: elevação de transaminases, hepatite",
+    "Alérgicas: rash, urticária, anafilaxia, asma",
+    "Outras: cefaleia, tontura, sonolência, zumbido"
+  ],
+  "interacaoMedicamento": "• Aumenta risco de sangramento com anticoagulantes, antiagregantes\n• Reduz efeito de diuréticos e anti-hipertensivos\n• Aumenta toxicidade de lítio e metotrexato\n• Interfere com probenecida\n• Cuidado com inibidores de CYP2C9"
+} 

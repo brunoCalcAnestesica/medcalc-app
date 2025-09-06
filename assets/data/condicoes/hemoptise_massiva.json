@@ -1,0 +1,239 @@
+{
+  "PT": {
+    "titulo": "Hemoptise Massiva",
+    "definicao": "Hemoptise massiva é definida como a eliminação de sangue proveniente do trato respiratório inferior em volume elevado, usualmente acima de 300–600 mL em 24 horas ou qualquer volume suficiente para causar instabilidade hemodinâmica, obstrução da via aérea ou hipoxemia grave. Representa uma emergência médica com risco de morte iminente por asfixia e requer abordagem diagnóstica e terapêutica imediata e coordenada. A origem geralmente é a circulação brônquica (sistêmica, de alta pressão), e não a pulmonar (de baixa pressão). A principal causa de mortalidade não é a exsanguinação, mas a asfixia por obstrução mecânica da via aérea por coágulos e sangue.",
+    "epidemiologia": "A hemoptise ocorre em até 15% dos pacientes com doenças pulmonares crônicas. A forma massiva representa cerca de 5% dos casos de hemoptise, porém responde por mais de 80% da mortalidade associada. Em países em desenvolvimento, a tuberculose ativa ou cicatricial e bronquiectasias pós-infecciosas são as causas predominantes. Nos países desenvolvidos, destacam-se as neoplasias pulmonares, bronquiectasias associadas à fibrose cística e vasculites sistêmicas como causa. Em pacientes anticoagulados, mesmo pequenos sangramentos podem evoluir rapidamente para hemoptise grave.",
+    "fisiopatologia": "A circulação brônquica origina-se da aorta e supre os brônquios e vias aéreas maiores, sendo responsável pela maioria dos casos de hemoptise massiva devido à sua pressão elevada. Inflamação crônica, infecção ou neoplasia levam à formação de vasos neovasculares frágeis e dilatados, predispostos à ruptura. A circulação pulmonar (baixa pressão) também pode estar envolvida em patologias específicas (ex: aneurisma de Rasmussen na tuberculose cavitária). Quando o sangue extravasa para as vias aéreas, há risco de tamponamento brônquico, shunt intrapulmonar, hipoxemia, broncoespasmo reflexo e falência respiratória aguda.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Expectoração abrupta de sangue vermelho vivo (geralmente > 300 mL em 24h)",
+        "Tosse produtiva com sangue em jato ou coágulos",
+        "Dispneia progressiva ou súbita",
+        "Desaturação e cianose",
+        "Taquipneia e taquicardia"
+      ],
+      "outras": [
+        "Dor torácica pleurítica",
+        "Hemodinâmica instável (hipotensão, sudorese fria)",
+        "Sinais de obstrução brônquica: roncos, estridor, ausência de murmúrio vesicular",
+        "Febre e sintomas constitucionais (em infecções ou neoplasias)",
+        "Perda de peso, sudorese noturna, anorexia (sugestivos de TB ou CA de pulmão)",
+        "Hematemese (diferencial com sangramento digestivo alto)",
+        "Sinais de vasculite sistêmica (púrpura, artralgias, glomerulonefrite)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A prioridade imediata é estabilizar a via aérea e manter a oxigenação. A anamnese busca identificar fatores predisponentes (histórico de TB, neoplasia, bronquiectasias, uso de anticoagulantes). O exame físico avalia os sinais respiratórios e hemodinâmicos. A diferenciação com hematêmese é essencial (sangue mais escuro, náuseas, sem tosse). A localização do sangramento é fundamental para planejar a intervenção.",
+      "exames_essenciais": [
+        "Gasometria arterial: identifica hipoxemia, hipercapnia, acidose respiratória",
+        "Hemograma completo: anemia, leucocitose, trombocitopenia",
+        "Coagulograma: TAP, TTPa, INR, fibrinogênio, tempo de sangramento",
+        "Radiografia de tórax: avalia áreas de opacidade, lesões cavitárias, desvio de mediastino",
+        "Tomografia computadorizada de tórax com contraste: exame mais sensível para localizar etiologia e avaliar necessidade de embolização",
+        "Broncoscopia rígida ou flexível: define topografia do sangramento, permite controle inicial e amostragem",
+        "Tipagem sanguínea e provas cruzadas: para transfusões imediatas",
+        "Provas reumatológicas: FAN, ANCA, anti-GBM (em suspeita de vasculite)",
+        "BAAR e cultura de escarro: se suspeita de TB ativa",
+        "D-dímero e angioTC: se suspeita de TEP"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Hipoxemia refratária (PaO₂ < 60 mmHg ou SpO₂ < 90% com FiO₂ > 0,5)",
+      "Sinais de falência ventilatória: FR > 35, uso de musculatura acessória",
+      "Glasgow ≤ 8 ou rebaixamento abrupto do nível de consciência",
+      "Acúmulo de coágulos ou sangue com obstrução da via aérea",
+      "Parada respiratória iminente"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Manter paciente em decúbito lateral com o pulmão sangrante para baixo (posição de proteção pulmonar)",
+        "Oxigenoterapia suplementar com máscara de reservatório ou VNI se tolerada",
+        "Intubação orotraqueal precoce com tubo de maior calibre (≥ 8.0 mm) para permitir broncoscopia terapêutica",
+        "Aspirar vias aéreas com sonda rígida e ventilação protetora",
+        "Broncoscopia para localização e tamponamento (balão de Fogarty se necessário)",
+        "Correção de coagulopatias com plasma fresco congelado, vitamina K, plaquetas ou protrombina ativada (PCC)",
+        "Suspensão de anticoagulantes ou reversão com antídotos específicos (ex: idarucizumabe, andexanet alfa)",
+        "Solicitação precoce à radiologia intervencionista para embolização arterial brônquica",
+        "Indicação cirúrgica imediata nos casos de falha de embolização ou sangramento incontrolável em pulmão anatomicamente ressecável",
+        "Monitoramento contínuo em UTI com suporte ventilatório e hemodinâmico"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A mortalidade da hemoptise massiva pode ultrapassar 50% quando não há controle rápido da via aérea. A embolização arterial brônquica tem taxa de sucesso inicial entre 70–90%, porém a recorrência pode ocorrer em até 30% dos casos. O prognóstico melhora significativamente quando há acesso rápido à broncoscopia, embolização e suporte intensivo. O estado funcional pulmonar prévio é fator prognóstico relevante, assim como a etiologia subjacente (neoplasia invasiva e TB ativa têm pior prognóstico)."
+    },
+    "notas_adicionais": [
+      "Sempre considerar a hemoptise como potencialmente ameaçadora à vida até prova em contrário",
+      "A broncoscopia rígida permite maior controle de sangramento e aspiração de coágulos volumosos do que a flexível",
+      "Evitar uso de broncodilatadores aerossolizados em sangramento ativo volumoso",
+      "O uso de ácido tranexâmico inalatório ou IV ainda é controverso, podendo ser considerado como medida adjuvante em casos selecionados",
+      "Reposição volêmica excessiva pode piorar o edema alveolar e prejudicar troca gasosa",
+      "Manter a equipe cirúrgica de prontidão em casos com sangramento persistente ou refratário à embolização"
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate – Evaluation and management of massive hemoptysis. Acesso em 2024.",
+      "Sociedade Brasileira de Pneumologia e Tisiologia (SBPT). Diretrizes para Hemoptise. 2022.",
+      "Miller’s Anesthesia. 8ª edição. Capítulo 75 – Distúrbios respiratórios críticos.",
+      "Harrison’s Principles of Internal Medicine – 21ª edição.",
+      "Manual de Condutas em Medicina de Urgência – Hospital das Clínicas – 2023.",
+      "British Thoracic Society. Guidelines for the management of haemoptysis. Thorax. 2021."
+    ]
+  },
+  "US": {
+    "title": "Massive Hemoptysis",
+    "definition": "Massive hemoptysis is defined as the expectoration of large volumes of blood from the lower respiratory tract, usually exceeding 300–600 mL in 24 hours, or any amount sufficient to cause airway compromise, hemodynamic instability, or life-threatening hypoxemia. It is a medical emergency with a high risk of mortality, primarily due to asphyxiation rather than exsanguination. The bleeding typically arises from the bronchial circulation (high-pressure systemic system) rather than the pulmonary circulation (low-pressure system). Immediate diagnosis and management are essential.",
+    "epidemiology": "Hemoptysis occurs in up to 15% of patients with chronic lung disease. Massive hemoptysis accounts for only about 5% of cases but is responsible for more than 80% of associated mortality. In developing countries, tuberculosis (active or post-infectious) and post-infectious bronchiectasis are the predominant causes. In developed countries, pulmonary malignancies, cystic fibrosis-related bronchiectasis, and systemic vasculitis are more common. Anticoagulated patients are at increased risk, and even moderate bleeding can rapidly progress.",
+    "pathophysiology": "Bronchial arteries, arising from the aorta, supply the airways and are the source of most massive hemoptysis events due to their higher pressure. Chronic inflammation, infection, or malignancy can lead to fragile neovascularization prone to rupture. The pulmonary circulation may be involved in specific cases, such as Rasmussen aneurysm in cavitary tuberculosis. Blood accumulation in the airways results in airway obstruction, intrapulmonary shunting, hypoxemia, reflex bronchospasm, and acute respiratory failure.",
+    "clinical_manifestations": {
+      "classic": [
+        "Abrupt expectoration of bright red blood (typically >300 mL in 24h)",
+        "Productive cough with blood clots or spurting blood",
+        "Progressive or sudden dyspnea",
+        "Oxygen desaturation and cyanosis",
+        "Tachypnea and tachycardia"
+      ],
+      "other": [
+        "Pleuritic chest pain",
+        "Hemodynamic instability (hypotension, cold sweats)",
+        "Signs of airway obstruction: wheezing, stridor, diminished breath sounds",
+        "Fever and constitutional symptoms (in infections or malignancies)",
+        "Weight loss, night sweats, anorexia (suggestive of TB or lung cancer)",
+        "Hematemesis (as differential diagnosis)",
+        "Signs of systemic vasculitis (purpura, arthralgia, renal involvement)"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Immediate stabilization of the airway and oxygenation is the priority. History should assess for risk factors (e.g., TB, cancer, bronchiectasis, anticoagulant use). Physical exam assesses respiratory and hemodynamic status. Differentiation from hematemesis is crucial (blood color, presence of nausea, coughing vs vomiting). Locating the bleeding site is essential for targeted intervention.",
+      "essential_tests": [
+        "Arterial blood gas: identifies hypoxemia, hypercapnia, and respiratory acidosis",
+        "Complete blood count: evaluates anemia, leukocytosis, thrombocytopenia",
+        "Coagulation profile: PT, aPTT, INR, fibrinogen",
+        "Chest X-ray: evaluates cavitary lesions, opacities, or mediastinal shifts",
+        "Contrast-enhanced chest CT: most sensitive to locate bleeding source and guide embolization",
+        "Flexible or rigid bronchoscopy: identifies bleeding site and allows therapeutic maneuvers",
+        "Blood typing and crossmatching: for immediate transfusion readiness",
+        "Autoimmune panel: ANA, ANCA, anti-GBM (if vasculitis suspected)",
+        "AFB smear and sputum culture: if TB is suspected",
+        "D-dimer and CT pulmonary angiography: if pulmonary embolism suspected"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Refractory hypoxemia (PaO₂ < 60 mmHg or SpO₂ < 90% on FiO₂ > 0.5)",
+      "Signs of respiratory failure: RR > 35, accessory muscle use",
+      "Glasgow ≤ 8 or abrupt loss of consciousness",
+      "Airway obstruction by clots or ongoing massive bleeding",
+      "Impending respiratory arrest"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Place the patient in lateral decubitus with the bleeding lung down (protective positioning)",
+        "Administer high-flow oxygen or non-invasive ventilation if tolerated",
+        "Early orotracheal intubation with a large-bore tube (≥ 8.0 mm) for bronchoscopy access",
+        "Suction airways aggressively; use protective mechanical ventilation strategies",
+        "Perform bronchoscopy for localization and tamponade (e.g., Fogarty balloon)",
+        "Correct coagulopathy with FFP, vitamin K, platelets, or PCC as indicated",
+        "Discontinue anticoagulants or reverse with specific agents (e.g., idarucizumab, andexanet alfa)",
+        "Early consultation with interventional radiology for bronchial artery embolization",
+        "Emergency thoracic surgery if embolization fails or anatomic resection is feasible",
+        "Continuous ICU monitoring with respiratory and hemodynamic support"
+      ]
+    },
+    "prognosis": {
+      "comment": "Mortality from massive hemoptysis can exceed 50% if airway control is delayed. Bronchial artery embolization achieves initial hemostasis in 70–90% of cases but may have recurrence in up to 30%. Early access to bronchoscopy, embolization, and ICU care significantly improves outcomes. Prognosis is poorer in patients with invasive malignancies or active TB. Baseline pulmonary function also impacts survival."
+    },
+    "additional_notes": [
+      "Always treat hemoptysis as potentially life-threatening until proven otherwise",
+      "Rigid bronchoscopy provides superior control of bleeding and clot removal compared to flexible",
+      "Avoid nebulized bronchodilators during active high-volume bleeding",
+      "Tranexamic acid (IV or nebulized) may be used as adjunctive therapy in selected cases",
+      "Excessive fluid resuscitation may worsen alveolar flooding and impair gas exchange",
+      "Have surgical backup available in cases of refractory or anatomically resectable hemorrhage"
+    ],
+    "references": [
+      "UpToDate – Evaluation and management of massive hemoptysis. Accessed 2024.",
+      "Brazilian Thoracic Society (SBPT) Guidelines – Hemoptysis, 2022.",
+      "Miller’s Anesthesia. 8th Edition. Chapter 75 – Acute Respiratory Disorders.",
+      "Harrison’s Principles of Internal Medicine – 21st Edition.",
+      "Emergency Medicine Protocols – Hospital das Clínicas, 2023.",
+      "British Thoracic Society. Guidelines for the management of haemoptysis. Thorax. 2021."
+    ]
+  },
+  "ES": {
+    "titulo": "Hemoptisis Masiva",
+    "definicion": "La hemoptisis masiva se define como la expulsión de grandes volúmenes de sangre desde el tracto respiratorio inferior, generalmente superior a 300–600 mL en 24 horas, o cualquier cantidad que cause compromiso de la vía aérea, inestabilidad hemodinámica o hipoxemia grave. Representa una emergencia médica con alto riesgo de mortalidad, principalmente por asfixia más que por exanguinación. El sangrado suele originarse de la circulación bronquial (sistémica y de alta presión) más que de la pulmonar (de baja presión). El diagnóstico y tratamiento deben ser inmediatos y coordinados.",
+    "epidemiologia": "La hemoptisis ocurre hasta en el 15% de los pacientes con enfermedades pulmonares crónicas. La forma masiva representa solo alrededor del 5% de los casos, pero es responsable de más del 80% de las muertes relacionadas. En países en desarrollo, la tuberculosis activa o postinfecciosa y las bronquiectasias son las causas predominantes. En países desarrollados, predominan las neoplasias pulmonares, las bronquiectasias asociadas a fibrosis quística y las vasculitis sistémicas. Los pacientes anticoagulados tienen mayor riesgo, y incluso sangrados moderados pueden progresar rápidamente.",
+    "fisiopatologia": "Las arterias bronquiales, que se originan en la aorta, irrigan las vías respiratorias y son la principal fuente de hemoptisis masiva debido a su alta presión. La inflamación crónica, la infección o la neoplasia pueden generar neovascularización frágil propensa a ruptura. La circulación pulmonar puede estar implicada en casos como el aneurisma de Rasmussen en la tuberculosis cavitaria. La acumulación de sangre en las vías aéreas provoca obstrucción, cortocircuito intrapulmonar, hipoxemia, broncoespasmo reflejo y falla respiratoria aguda.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Expectoración abrupta de sangre roja brillante (>300 mL en 24h)",
+        "Tos productiva con coágulos o sangre a chorro",
+        "Disnea progresiva o súbita",
+        "Desaturación de oxígeno y cianosis",
+        "Taquipnea y taquicardia"
+      ],
+      "otras": [
+        "Dolor torácico pleurítico",
+        "Inestabilidad hemodinámica (hipotensión, diaforesis fría)",
+        "Signos de obstrucción de vía aérea: sibilancias, estridor, ruidos respiratorios disminuidos",
+        "Fiebre y síntomas constitucionales (en infecciones o neoplasias)",
+        "Pérdida de peso, sudores nocturnos, anorexia (sugestivos de TB o cáncer pulmonar)",
+        "Hematemesis (diagnóstico diferencial)",
+        "Signos de vasculitis sistémica (púrpura, artralgias, compromiso renal)"
+      ]
+    },
+    "diagnostico": {
+      "abordaje_clinico": "La estabilización inmediata de la vía aérea y la oxigenación es prioritaria. La historia clínica debe evaluar factores de riesgo (TB, cáncer, bronquiectasias, anticoagulantes). El examen físico evalúa el estado respiratorio y hemodinámico. Es crucial diferenciar de hematemesis (color de la sangre, presencia de náuseas, tos vs vómitos). Localizar el sitio del sangrado es esencial para intervenir de forma dirigida.",
+      "examenes_esenciales": [
+        "Gasometría arterial: identifica hipoxemia, hipercapnia y acidosis respiratoria",
+        "Hemograma completo: anemia, leucocitosis, trombocitopenia",
+        "Pruebas de coagulación: TP, TTPa, INR, fibrinógeno",
+        "Radiografía de tórax: lesiones cavitarias, opacidades, desviación mediastínica",
+        "Tomografía de tórax con contraste: más sensible para localizar la fuente de sangrado",
+        "Broncoscopia (rígida o flexible): localiza el sangrado y permite intervenciones",
+        "Tipificación sanguínea y pruebas cruzadas: preparar transfusiones",
+        "Panel autoinmune: ANA, ANCA, anti-MBG (si se sospecha vasculitis)",
+        "Baciloscopía y cultivo de esputo: si se sospecha tuberculosis",
+        "Dímero-D y angioTC pulmonar: si se sospecha TEP"
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Hipoxemia refractaria (PaO₂ < 60 mmHg o SatO₂ < 90% con FiO₂ > 0.5)",
+      "Signos de falla respiratoria: FR > 35, uso de músculos accesorios",
+      "Glasgow ≤ 8 o deterioro abrupto del estado de conciencia",
+      "Obstrucción de la vía aérea por coágulos o sangrado activo masivo",
+      "Paro respiratorio inminente"
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Colocar al paciente en decúbito lateral con el pulmón sangrante hacia abajo (posición protectora)",
+        "Administrar oxígeno de alto flujo o VNI si es tolerada",
+        "Intubación orotraqueal temprana con tubo de gran calibre (≥ 8.0 mm) para broncoscopia",
+        "Aspirar agresivamente las vías aéreas; ventilación mecánica protectora",
+        "Realizar broncoscopia para localización y taponamiento (balón de Fogarty)",
+        "Corregir coagulopatías con plasma fresco, vitamina K, plaquetas o complejo protrombínico",
+        "Suspender anticoagulantes o revertir con antídotos específicos (ej. idarucizumab, andexanet alfa)",
+        "Consultar precozmente con radiología intervencionista para embolización arterial bronquial",
+        "Cirugía torácica de urgencia si falla la embolización o es factible la resección anatómica",
+        "Monitoreo continuo en UCI con soporte respiratorio y hemodinámico"
+      ]
+    },
+    "pronostico": {
+      "comentario": "La mortalidad por hemoptisis masiva puede superar el 50% si no se controla rápidamente la vía aérea. La embolización arterial bronquial logra hemostasia inicial en 70–90%, aunque puede haber recurrencia en hasta el 30%. El pronóstico mejora con acceso precoz a broncoscopia, embolización y cuidados intensivos. Es peor en casos de neoplasias invasivas o TB activa. La función pulmonar basal también influye en la sobrevida."
+    },
+    "notas_adicionales": [
+      "Tratar siempre la hemoptisis como potencialmente mortal hasta descartar riesgo",
+      "La broncoscopia rígida ofrece mejor control del sangrado y remoción de coágulos que la flexible",
+      "Evitar broncodilatadores nebulizados durante sangrado activo de gran volumen",
+      "El ácido tranexámico (IV o nebulizado) puede considerarse como terapia adyuvante",
+      "La sobrecarga de fluidos puede empeorar el edema alveolar y deteriorar el intercambio gaseoso",
+      "Contar con respaldo quirúrgico en caso de sangrado refractario o resecable anatómicamente"
+    ],
+    "fuentes_bibliograficas": [
+      "UpToDate – Evaluación y manejo de la hemoptisis masiva. Consultado 2024.",
+      "Sociedad Brasileña de Neumología y Tisiología – Guía de Hemoptisis. 2022.",
+      "Miller’s Anesthesia. 8ª Edición. Capítulo 75 – Trastornos respiratorios agudos.",
+      "Harrison. Principios de Medicina Interna – 21ª Edición.",
+      "Protocolos de Urgencias – Hospital das Clínicas, 2023.",
+      "British Thoracic Society – Guías para el manejo de la hemoptisis. Thorax. 2021."
+    ]
+  }
+}

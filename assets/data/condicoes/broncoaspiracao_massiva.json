@@ -1,0 +1,215 @@
+{
+  "PT": {
+    "titulo": "Broncoaspiração Massiva",
+    "definicao": "A broncoaspiração massiva é uma emergência respiratória aguda caracterizada pela entrada abrupta de grande volume de conteúdo gástrico, orofaríngeo ou material particulado nas vias aéreas inferiores. Resulta em resposta inflamatória pulmonar severa, hipoxemia refratária, colapso alveolar e risco elevado de insuficiência respiratória aguda e morte. Frequentemente ocorre em contextos de alteração do nível de consciência, durante anestesia, sedação profunda, reanimação ou em pacientes neurológicos com deglutição comprometida.",
+    "epidemiologia": "É mais prevalente em pacientes críticos, sob sedação, em ventilação mecânica, com sonda enteral, portadores de distúrbios neurológicos (AVC, TCE, demência), e em idosos. Está entre as principais causas de pneumonia aspirativa hospitalar e associada a mortalidade elevada, especialmente quando não reconhecida precocemente.",
+    "fisiopatologia": "O conteúdo aspirado pode ser ácido gástrico, alimentos ou secreções contaminadas. Isso gera três tipos principais de lesão: pneumonite química (por ácido), obstrução mecânica (por sólidos) e infecção pulmonar (pneumonia aspirativa). A aspiração leva a atelectasia, broncoespasmo, hipoxemia e, em casos graves, síndrome do desconforto respiratório agudo (SDRA).",
+    "sinais_e_sintomas": [
+      "Dispneia súbita e intensa",
+      "Taquipneia e retrações intercostais",
+      "Hipoxemia refratária à oxigenoterapia convencional",
+      "Estertores, roncos ou sibilos difusos",
+      "Tosse produtiva com secreção purulenta ou sanguinolenta",
+      "Febre, confusão mental, hipotensão em fases avançadas"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "História clínica compatível (vômitos, rebaixamento de consciência, procedimento invasivo)",
+        "Queda súbita de saturação de O2 com sinais respiratórios agudos",
+        "Alterações auscultatórias pulmonares associadas a evento aspirativo"
+      ],
+      "exames_complementares": [
+        "Gasometria arterial: PaO₂ < 60 mmHg, PaCO₂ > 45 mmHg em insuficiência respiratória",
+        "Radiografia de tórax: infiltrado em base pulmonar, predominante à direita",
+        "Tomografia de tórax: opacidades centrolobulares, broncogramas aéreos, consolidações",
+        "Hemograma e PCR: leucocitose e elevação inflamatória em pneumonia aspirativa",
+        "Broncoscopia: útil para remoção de conteúdo e diagnóstico diferencial em casos refratários"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Administração de oxigênio suplementar com máscara de reservatório",
+        "Intubação orotraqueal precoce em pacientes com hipoxemia grave ou rebaixamento de consciência",
+        "Aspiração imediata de vias aéreas (orotraqueal ou via broncoscópica)",
+        "Ventilação mecânica com estratégia protetora (Vt 6 mL/kg, PEEP otimizada)",
+        "Posicionamento em decúbito lateral com pulmão não afetado para cima",
+        "Antibioticoterapia empírica guiada para germes aspirativos (anaeróbios, enterobactérias, Staphylococcus aureus)",
+        "Broncodilatadores inalatórios e corticoides sistêmicos em casos com broncoespasmo associado",
+        "Terapia de suporte hemodinâmico com expansão volêmica e vasopressores, se necessário"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Etomidato",
+          "uso": "Indução para intubação em paciente instável",
+          "dose_mg_kg": 0.3
+        },
+        {
+          "nome": "Rocurônio",
+          "uso": "Paralisia neuromuscular para IOT rápida",
+          "dose_mg_kg": 1.2
+        },
+        {
+          "nome": "Piperacilina-Tazobactam",
+          "uso": "Tratamento empírico de pneumonia aspirativa grave",
+          "dose_g_6_6h": 4.5
+        },
+        {
+          "nome": "Clindamicina",
+          "uso": "Cobertura anaeróbia alternativa ou associada",
+          "dose_mg_6_6h": 600
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico depende do volume e tipo de material aspirado, condição clínica prévia, tempo até intervenção e desenvolvimento de complicações como pneumonia aspirativa, SDRA ou sepse. O reconhecimento precoce e a intervenção agressiva são determinantes para a sobrevida. A mortalidade em aspiração maciça pode ultrapassar 40% em UTI."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Aspiration pneumonitis and aspiration pneumonia",
+      "Diretrizes da Sociedade Brasileira de Pneumologia – Pneumonias Hospitalares e Aspirativas",
+      "Manual de Condutas da AMIB – Suporte Avançado em Medicina Intensiva"
+    ]
+  },
+  "US": {
+    "titulo": "Massive Aspiration",
+    "definicao": "Massive aspiration is an acute respiratory emergency characterized by the entry of a large volume of gastric, oropharyngeal, or particulate material into the lower airways. It results in severe pulmonary inflammation, refractory hypoxemia, alveolar collapse, and a high risk of acute respiratory failure and death. Common scenarios include reduced consciousness, anesthesia induction, advanced neurological disease, or impaired swallowing.",
+    "epidemiologia": "More frequent in critically ill patients, those on mechanical ventilation or enteral feeding, sedated or elderly patients, and individuals with neurological conditions such as stroke, traumatic brain injury, or dementia. It is a major cause of hospital-acquired aspiration pneumonia, especially when not promptly recognized.",
+    "fisiopatologia": "The aspirated material may be acidic gastric contents, food particles, or contaminated secretions. This leads to three types of injury: chemical pneumonitis, mechanical obstruction, and infectious pneumonia. Aspiration triggers bronchospasm, alveolar collapse, and hypoxemia. Severe cases may progress to acute respiratory distress syndrome (ARDS).",
+    "sinais_e_sintomas": [
+      "Sudden severe dyspnea",
+      "Tachypnea with intercostal retractions",
+      "Refractory hypoxemia despite oxygen therapy",
+      "Diffuse rales, rhonchi or wheezing",
+      "Productive cough with purulent or bloody sputum",
+      "Fever, mental confusion, or hypotension in late stages"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "Compatible clinical context (vomiting, sedation, invasive procedures)",
+        "Sudden drop in oxygen saturation with signs of respiratory distress",
+        "Pulmonary auscultation findings following a witnessed aspiration event"
+      ],
+      "exames_complementares": [
+        "Arterial blood gas: PaO₂ < 60 mmHg, PaCO₂ > 45 mmHg in respiratory failure",
+        "Chest X-ray: basal infiltrate, predominantly in the right lower lobe",
+        "Chest CT: centrilobular opacities, air bronchograms, consolidation",
+        "CBC and CRP: leukocytosis and elevated inflammatory markers in aspiration pneumonia",
+        "Bronchoscopy: useful for airway clearance and differential diagnosis in refractory cases"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Supplemental oxygen via non-rebreather mask",
+        "Early endotracheal intubation in severe hypoxemia or altered consciousness",
+        "Immediate suctioning of airways (orotracheal or bronchoscopic)",
+        "Protective mechanical ventilation (Vt 6 mL/kg, optimized PEEP)",
+        "Lateral decubitus with unaffected lung facing upward",
+        "Empiric antibiotic therapy targeting anaerobes, Gram-negative bacilli, and Staphylococcus aureus",
+        "Inhaled bronchodilators and systemic corticosteroids if bronchospasm is present",
+        "Hemodynamic support with IV fluids and vasopressors as needed"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Etomidate",
+          "uso": "Induction for intubation in hemodynamically unstable patients",
+          "dose_mg_kg": 0.3
+        },
+        {
+          "nome": "Rocuronium",
+          "uso": "Neuromuscular blockade for rapid sequence intubation",
+          "dose_mg_kg": 1.2
+        },
+        {
+          "nome": "Piperacillin-Tazobactam",
+          "uso": "Empiric treatment for severe aspiration pneumonia",
+          "dose_g_6_6h": 4.5
+        },
+        {
+          "nome": "Clindamycin",
+          "uso": "Anaerobic coverage adjunct or alternative",
+          "dose_mg_6_6h": 600
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis depends on the volume and nature of the aspirated material, baseline condition, time to intervention, and complications such as pneumonia, ARDS, or sepsis. Prompt recognition and aggressive management are essential. Mortality in massive aspiration can exceed 40% in ICU settings."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4th ed.",
+      "UpToDate – Aspiration pneumonitis and aspiration pneumonia",
+      "American Thoracic Society Guidelines – Management of Hospital-Acquired and Aspiration Pneumonia",
+      "Surviving Sepsis Campaign – Management of critically ill patients with pneumonia"
+    ]
+  },
+  "ES": {
+    "titulo": "Broncoaspiración Masiva",
+    "definicao": "La broncoaspiración masiva es una emergencia respiratoria aguda caracterizada por la entrada súbita de un gran volumen de contenido gástrico, orofaríngeo o material particulado en las vías aéreas inferiores. Esto desencadena inflamación pulmonar severa, hipoxemia refractaria, colapso alveolar y alto riesgo de insuficiencia respiratoria aguda y muerte. Suele ocurrir en pacientes con alteración del estado de conciencia, durante procedimientos anestésicos, reanimación o en enfermedades neurológicas con disfagia.",
+    "epidemiologia": "Es más común en pacientes críticos, ancianos, con enfermedades neurológicas, bajo sedación, con sonda nasogástrica o en ventilación mecánica. Representa una causa frecuente de neumonía aspirativa nosocomial y se asocia a alta mortalidad si no se detecta y trata de forma precoz.",
+    "fisiopatologia": "El material aspirado puede incluir contenido gástrico ácido, partículas alimentarias o secreciones colonizadas. Produce tres tipos principales de lesión: neumonitis química (ácido), obstrucción mecánica (sólidos) e infección pulmonar (neumonía aspirativa). El resultado incluye broncoespasmo, atelectasia, hipoxemia y potencial progresión a síndrome de distrés respiratorio agudo (SDRA).",
+    "sinais_e_sintomas": [
+      "Disnea súbita y severa",
+      "Taquipnea con retracciones intercostales",
+      "Hipoxemia refractaria al oxígeno suplementario",
+      "Estertores, roncus o sibilancias difusas",
+      "Tos con esputo purulento o hemoptoico",
+      "Fiebre, confusión o hipotensión en fases tardías"
+    ],
+    "diagnostico": {
+      "avaliacao_clinica": [
+        "Antecedentes de riesgo (vómitos, sedación, procedimientos invasivos)",
+        "Caída súbita de la saturación con signos de dificultad respiratoria",
+        "Hallazgos auscultatorios pulmonares luego de un evento presenciado de aspiración"
+      ],
+      "exames_complementares": [
+        "Gasometría arterial: PaO₂ < 60 mmHg, PaCO₂ > 45 mmHg en insuficiencia respiratoria",
+        "Radiografía de tórax: infiltrados basales, más común en el pulmón derecho",
+        "Tomografía de tórax: consolidaciones, broncograma aéreo, opacidades centrolobulillares",
+        "Hemograma y PCR: leucocitosis, elevación de marcadores inflamatorios",
+        "Broncoscopia: útil para limpieza de secreciones y diagnóstico en casos refractarios"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Oxígeno suplementario con mascarilla de reservorio",
+        "Intubación orotraqueal temprana en hipoxemia grave o alteración del sensorio",
+        "Aspiración inmediata de vía aérea (orotraqueal o broncoscópica)",
+        "Ventilación mecánica protectora (Vt 6 mL/kg, PEEP optimizada)",
+        "Decúbito lateral con pulmón sano hacia arriba",
+        "Antibioticoterapia empírica para anaerobios, enterobacterias y S. aureus",
+        "Broncodilatadores y corticosteroides si hay broncoespasmo",
+        "Soporte hemodinámico con fluidos intravenosos y vasopresores si es necesario"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Etomidato",
+          "uso": "Inducción para intubación en paciente inestable",
+          "dose_mg_kg": 0.3
+        },
+        {
+          "nome": "Rocuronio",
+          "uso": "Bloqueo neuromuscular para intubación rápida",
+          "dose_mg_kg": 1.2
+        },
+        {
+          "nome": "Piperacilina-Tazobactam",
+          "uso": "Tratamiento empírico de neumonía aspirativa grave",
+          "dose_g_6_6h": 4.5
+        },
+        {
+          "nome": "Clindamicina",
+          "uso": "Cobertura para anaerobios como alternativa o complemento",
+          "dose_mg_6_6h": 600
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico depende del volumen y tipo de material aspirado, estado basal del paciente, tiempo hasta la intervención y desarrollo de complicaciones como neumonía, SDRA o sepsis. La detección precoz y el tratamiento agresivo son esenciales. La mortalidad puede superar el 40% en aspiraciones masivas en UCI."
+    },
+    "fontes_bibliograficas": [
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Aspiration pneumonitis and aspiration pneumonia",
+      "Sociedad Española de Neumología – Neumonías aspirativas",
+      "Campaña Surviving Sepsis – Manejo del paciente crítico con neumonía"
+    ]
+  }
+}

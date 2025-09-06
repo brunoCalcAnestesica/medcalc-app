@@ -1,0 +1,200 @@
+{
+  "PT": {
+    "titulo": "DPOC Grave Descompensado",
+    "definicao": "A Doença Pulmonar Obstrutiva Crônica (DPOC) grave descompensada representa uma exacerbação aguda da obstrução ao fluxo aéreo em indivíduos com doença pulmonar estrutural prévia, levando a hipoxemia, hipercapnia, aumento do trabalho respiratório, risco de falência respiratória e necessidade de internação. É considerada uma emergência respiratória e uma das principais causas de hospitalização em adultos acima de 60 anos.",
+    "epidemiologia": "A DPOC afeta cerca de 10% da população adulta acima dos 40 anos. Estima-se que mais de 70% das hospitalizações por DPOC sejam causadas por exacerbações, sendo que 20–30% dos casos evoluem com necessidade de ventilação mecânica. O tabagismo é o principal fator de risco, seguido por exposições ocupacionais e poluição ambiental.",
+    "fisiopatologia": "Durante a exacerbação aguda, ocorre aumento da obstrução brônquica por inflamação, edema da mucosa e hipersecreção. Isso resulta em aprisionamento aéreo, hiperinsuflação dinâmica e piora da relação ventilação/perfusão. A fadiga muscular respiratória associada à hipercapnia progressiva leva à acidose respiratória e risco de parada ventilatória.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia compensatória",
+        "Hipotensão em casos avançados com fadiga respiratória",
+        "Sinais de cor pulmonale: turgência jugular, hepatomegalia, edema periférico"
+      ],
+      "respiratorias": [
+        "Dispneia acentuada com uso de musculatura acessória",
+        "Taquipneia > 30 irpm, tiragem intercostal e batimento de asa nasal",
+        "Sibilos difusos, roncos e murmúrio vesicular diminuído",
+        "Expectoração purulenta em infecções bacterianas associadas"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitação seguida por rebaixamento do nível de consciência",
+        "Asterixe, confusão mental, sonolência",
+        "Acidose respiratória descompensada (pH < 7,25 com PCO₂ > 60 mmHg)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Paciente com diagnóstico prévio de DPOC que apresenta piora súbita da dispneia, aumento da tosse e alteração das características do escarro. O diagnóstico diferencial inclui pneumonia, insuficiência cardíaca descompensada, embolia pulmonar e pneumotórax.",
+      "exames_essenciais": [
+        "Gasometria arterial (análise de pH, PCO₂, PO₂, bicarbonato)",
+        "Radiografia de tórax (para excluir pneumotórax, pneumonia, IC)",
+        "Hemograma, proteína C-reativa, eletrólitos e função renal",
+        "ECG (para descartar isquemia ou sobrecarga de ventrículo direito)",
+        "Espirometria (em fase estável, com VEF1 < 50% previsto indicando DPOC grave)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia refratária com SpO₂ < 88% mesmo com O₂ suplementar",
+      "Acidose respiratória grave (pH < 7,25) associada a sinais clínicos",
+      "Alteração aguda do nível de consciência (hipercapnia severa)",
+      "Fadiga respiratória com sinais de exaustão muscular"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxigenoterapia com titulação para SpO₂ entre 88–92% (evitar hipercapnia)",
+        "Broncodilatadores inalatórios de curta duração (salbutamol, ipratrópio) em nebulização ou aerossol dosimetrado com espaçador",
+        "Corticosteroides sistêmicos: prednisona 40 mg/dia VO ou hidrocortisona 100 mg IV a cada 8h",
+        "Antibióticos se critérios de Anthonisen: aumento da dispneia, volume e purulência do escarro",
+        "Ventilação não invasiva (VNI) se pH < 7,35 com PCO₂ > 45 mmHg e sinais de esforço respiratório",
+        "Correção de distúrbios eletrolíticos (hipofosfatemia, hipocalemia, hipomagnesemia)",
+        "Suporte nutricional, hidratação adequada e prevenção de TEV com heparina profilática"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Exacerbações graves de DPOC aumentam significativamente o risco de morte, especialmente em pacientes com VEF1 < 30%, idade avançada, comorbidades cardiovasculares ou internações repetidas. A taxa de mortalidade em exacerbações com necessidade de VNI varia de 10 a 20%, podendo chegar a 40% com ventilação invasiva."
+    },
+    "notas_adicionais": [
+      "Evitar sedativos e opioides na fase aguda devido ao risco de depressão do drive respiratório",
+      "Avaliar necessidade de suporte domiciliar com oxigenoterapia ou VNI crônica após alta",
+      "Encaminhar para programa de reabilitação pulmonar após estabilização",
+      "Reforçar cessação do tabagismo e vacinação contra influenza e pneumococo"
+    ],
+    "fontes_bibliograficas": [
+      "GOLD 2023. Global Initiative for Chronic Obstructive Lung Disease.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed.",
+      "UpToDate. Management of acute exacerbations of chronic obstructive pulmonary disease. 2023.",
+      "SBPT – Diretrizes para manejo da DPOC. Sociedade Brasileira de Pneumologia e Tisiologia. 2021."
+    ]
+  },
+  "US": {
+    "titulo": "Severe Decompensated COPD",
+    "definicao": "Severe decompensated Chronic Obstructive Pulmonary Disease (COPD) refers to an acute exacerbation characterized by worsening airflow limitation, respiratory distress, gas exchange abnormalities (hypoxemia and hypercapnia), and increased work of breathing. It is a leading cause of emergency hospitalization and may progress to respiratory failure requiring ventilatory support.",
+    "epidemiologia": "COPD affects approximately 10% of adults over 40 years old worldwide. Acute exacerbations account for over 70% of hospital admissions related to COPD. Around 20–30% of these cases require mechanical ventilation. Major risk factors include tobacco smoking, biomass exposure, occupational pollutants, and recurrent childhood respiratory infections.",
+    "fisiopatologia": "Exacerbation triggers increase bronchial inflammation, mucus production, and airway edema, resulting in airflow obstruction and dynamic hyperinflation. Gas exchange becomes impaired due to ventilation-perfusion mismatch and increased dead space, contributing to hypoxemia and hypercapnia. Respiratory muscle fatigue exacerbates acidosis and respiratory failure.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Tachycardia (compensatory)",
+        "Hypotension in late-stage fatigue",
+        "Signs of decompensated cor pulmonale: jugular venous distention, hepatomegaly, peripheral edema"
+      ],
+      "respiratorias": [
+        "Severe dyspnea with accessory muscle use",
+        "Tachypnea (>30 breaths/min), nasal flaring, intercostal retraction",
+        "Diffuse wheezing, rhonchi, diminished breath sounds",
+        "Purulent sputum in bacterial exacerbations"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitation followed by somnolence or confusion",
+        "Asterixis, CO₂ narcosis, hypercapnic encephalopathy",
+        "Respiratory acidosis (pH < 7.25 with PaCO₂ > 60 mmHg)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Exacerbation should be suspected in known COPD patients with acute worsening of dyspnea, cough, and sputum characteristics. Differential diagnoses include pneumonia, heart failure, pulmonary embolism, and pneumothorax.",
+      "exames_essenciais": [
+        "Arterial blood gas (ABG): pH, PaCO₂, PaO₂, HCO₃⁻",
+        "Chest X-ray (to rule out pneumonia, pneumothorax, heart failure)",
+        "CBC, CRP, electrolytes, renal function",
+        "ECG (to rule out cardiac ischemia or right heart strain)",
+        "Spirometry (performed after stabilization; FEV₁ < 50% indicates severe COPD)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Refractory hypoxemia (SpO₂ < 88% despite oxygen therapy)",
+      "Severe respiratory acidosis (pH < 7.25) with clinical deterioration",
+      "Altered mental status due to hypercapnia",
+      "Respiratory fatigue with signs of impending failure"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxygen therapy titrated to maintain SpO₂ between 88–92% to avoid CO₂ retention",
+        "Short-acting inhaled bronchodilators (e.g., salbutamol and ipratropium)",
+        "Systemic corticosteroids (e.g., prednisone 40 mg PO or hydrocortisone 100 mg IV q8h)",
+        "Antibiotics if sputum is purulent or if signs of infection are present (Anthonisen criteria)",
+        "Noninvasive ventilation (NIV) if pH < 7.35 with PaCO₂ > 45 mmHg and clinical signs of distress",
+        "Correct electrolyte imbalances (e.g., hypokalemia, hypophosphatemia, hypomagnesemia)",
+        "Nutritional support, fluid management, and DVT prophylaxis with low-molecular-weight heparin"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Severe COPD exacerbations significantly increase mortality risk. Poor prognostic factors include advanced age, FEV₁ < 30%, frequent prior hospitalizations, comorbidities (especially cardiac), and need for invasive mechanical ventilation. Pulmonary rehabilitation and smoking cessation are key to long-term outcomes."
+    },
+    "notas_adicionais": [
+      "Avoid high tidal volumes during ventilation to prevent barotrauma",
+      "Elevate head of bed and use carefully titrated oxygen therapy",
+      "Avoid oversedation to preserve respiratory drive",
+      "Educate patient and family on early signs of exacerbation and use of action plans"
+    ],
+    "fontes_bibliograficas": [
+      "GOLD 2023. Global Initiative for Chronic Obstructive Lung Disease.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed.",
+      "UpToDate. Management of acute exacerbations of chronic obstructive pulmonary disease. 2023.",
+      "American Thoracic Society/European Respiratory Society Guidelines."
+    ]
+  },
+  "ES": {
+    "titulo": "EPOC Grave Descompensado",
+    "definicao": "La enfermedad pulmonar obstructiva crónica (EPOC) grave descompensada se refiere a una exacerbación aguda caracterizada por un empeoramiento de la limitación al flujo aéreo, disnea severa, alteraciones del intercambio gaseoso (hipoxemia e hipercapnia), aumento del trabajo respiratorio y riesgo de insuficiencia respiratoria aguda. Representa una de las principales causas de hospitalización en adultos mayores.",
+    "epidemiologia": "Se estima que el 10% de la población adulta mayor de 40 años tiene EPOC, con un porcentaje significativo desarrollando exacerbaciones graves. El tabaquismo es el principal factor de riesgo, seguido de exposición ocupacional a polvo y sustancias químicas, biomasa y antecedentes de infecciones respiratorias recurrentes en la infancia.",
+    "fisiopatologia": "Durante la exacerbación, se incrementa la inflamación bronquial, edema de la mucosa y producción de moco, lo que provoca obstrucción al flujo aéreo, atrapamiento aéreo e hiperinsuflación dinámica. Estas alteraciones afectan negativamente la relación ventilación/perfusión y conducen a hipoxemia e hipercapnia. La fatiga muscular respiratoria agrava el cuadro clínico y puede conducir a acidosis respiratoria y fallo ventilatorio.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia como mecanismo compensatorio",
+        "Hipotensión en estadios avanzados con fatiga respiratoria",
+        "Signos de cor pulmonale: ingurgitación yugular, hepatomegalia, edemas periféricos"
+      ],
+      "respiratorias": [
+        "Disnea intensa con uso de músculos accesorios",
+        "Taquipnea (>30 rpm), aleteo nasal, tiraje intercostal",
+        "Sibilancias difusas, roncus y disminución del murmullo vesicular",
+        "Esputo purulento en exacerbaciones bacterianas"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Agitación seguida de confusión o somnolencia",
+        "Asterixis, encefalopatía hipercápnica",
+        "Acidosis respiratoria grave (pH < 7.25 con PaCO₂ > 60 mmHg)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Se sospecha una exacerbación en pacientes con diagnóstico previo de EPOC que presentan disnea súbita, aumento de la tos o cambios en las características del esputo. Deben excluirse otras causas como neumonía, insuficiencia cardíaca, tromboembolismo pulmonar o neumotórax.",
+      "exames_essenciais": [
+        "Gasometría arterial: pH, PaCO₂, PaO₂, HCO₃⁻",
+        "Radiografía de tórax (exclusión de neumonía, neumotórax, IC)",
+        "Hemograma, PCR, electrolitos, función renal",
+        "ECG (descartar isquemia miocárdica o sobrecarga ventricular derecha)",
+        "Espirometría (pos-crisis para confirmar FEV₁ < 50% en EPOC grave)"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Hipoxemia refractaria (SpO₂ < 88%) a pesar de oxígeno suplementario",
+      "Acidosis respiratoria grave (pH < 7.25) con deterioro clínico",
+      "Alteración del estado de conciencia por hipercapnia",
+      "Fatiga respiratoria con signos de inminente insuficiencia"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxigenoterapia titulada para mantener SpO₂ entre 88–92% (evitar hipercapnia)",
+        "Broncodilatadores inhalados de acción corta (salbutamol, ipratropio) en nebulización o MDI con espaciador",
+        "Corticoides sistémicos (prednisona 40 mg/día VO o hidrocortisona 100 mg IV cada 8h)",
+        "Antibióticos si cumple criterios de Anthonisen (disnea, volumen y purulencia del esputo)",
+        "Ventilación no invasiva (VNI) si pH < 7.35 con PaCO₂ > 45 mmHg y signos de esfuerzo",
+        "Corrección de alteraciones electrolíticas (hipofosfatemia, hipocalemia, hipomagnesemia)",
+        "Apoyo nutricional, hidratación adecuada y profilaxis de ETV con heparina"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Las exacerbaciones graves de la EPOC se asocian con alta mortalidad, especialmente en pacientes con FEV₁ < 30%, edad avanzada y comorbilidades cardiovasculares. La necesidad de ventilación invasiva empeora el pronóstico. La rehabilitación pulmonar y el abandono del tabaco son fundamentales para reducir nuevas exacerbaciones."
+    },
+    "notas_adicionais": [
+      "Evitar volúmenes corrientes elevados en VM para prevenir barotrauma",
+      "Mantener la cabecera elevada y el oxígeno cuidadosamente titulado",
+      "Evitar sedación excesiva que suprima el impulso respiratorio",
+      "Educar al paciente y familiares sobre señales de alerta y plan de acción"
+    ],
+    "fontes_bibliograficas": [
+      "GOLD 2023. Global Initiative for Chronic Obstructive Lung Disease.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8ª ed.",
+      "UpToDate. Manejo de las exacerbaciones agudas de la EPOC. 2023.",
+      "Sociedad Española de Neumología y Cirugía Torácica (SEPAR)."
+    ]
+  }
+}

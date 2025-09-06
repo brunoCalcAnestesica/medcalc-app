@@ -1,0 +1,209 @@
+{
+  "PT": {
+    "titulo": "Cuidados Pós-PCR com Foco em Proteção Neurológica",
+    "definicao": "Os cuidados pós-parada cardiorrespiratória (PCR) com foco em proteção neurológica compreendem um conjunto de medidas clínicas destinadas a prevenir ou minimizar lesão neurológica secundária após o retorno da circulação espontânea (RCE). A fisiopatologia envolve uma combinação de isquemia-reperfusão cerebral, instabilidade hemodinâmica, disfunção mitocondrial e inflamação sistêmica, que podem levar à síndrome pós-parada e à morte encefálica. O manejo adequado no pós-PCR é fundamental para preservar a função cerebral e garantir prognóstico favorável.",
+    "epidemiologia": "A taxa de sobrevivência à PCR extrahospitalar é de cerca de 10%, enquanto a PCR intrahospitalar possui índices mais altos (20–30%). No entanto, mais de 60% dos sobreviventes ao RCE apresentam algum grau de lesão cerebral hipóxica. A introdução de protocolos estruturados de cuidados pós-PCR com foco neuroprotetor está associada a melhora na recuperação funcional e redução da mortalidade neurológica.",
+    "fisiopatologia": "Durante a PCR, o fluxo sanguíneo cerebral cessa abruptamente, resultando em anóxia neuronal. Após o RCE, há reperfusão e reintrodução de oxigênio, o que promove uma cascata de eventos inflamatórios, geração de espécies reativas de oxigênio (ROS), ativação de vias apoptóticas, edema cerebral e perda de autorregulação vascular. A síndrome pós-PCR inclui disfunção cardiovascular, pulmonar, renal, hepática e imunológica, com a disfunção cerebral sendo o principal determinante do desfecho clínico.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial persistente (PAM < 65 mmHg) mesmo após ressuscitação volêmica.",
+        "Necessidade de vasopressores contínuos (noradrenalina, vasopressina).",
+        "Arritmias ventriculares recorrentes, taquiarritmias ou bradicardias pós-RCE."
+      ],
+      "respiratorias": [
+        "Hipoxemia com relação PaO₂/FiO₂ < 300.",
+        "Acidose respiratória ou metabólica descompensada.",
+        "Necessidade de ventilação mecânica invasiva para suporte de oxigenação e controle da PaCO₂."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Coma (Glasgow ≤ 8), ausência de reflexos de tronco cerebral nas primeiras horas.",
+        "Presença de mioclonias, status epiléptico não convulsivo.",
+        "Hipertermia, hiperglicemia (> 180 mg/dL), acidose lática e disfunção orgânica associada."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico e estratificação pós-PCR incluem avaliação contínua neurológica, hemodinâmica e laboratorial, com investigação ativa da etiologia da PCR. Exames complementares devem ser realizados em tempo oportuno para guiar as intervenções.",
+      "exames_essenciais": [
+        "ECG de 12 derivações, troponina, BNP: investigação de causa cardíaca.",
+        "Gasometria arterial, eletrólitos, função renal e hepática, glicemia capilar.",
+        "Tomografia de crânio (urgente em coma persistente, suspeita de AVC ou TCE).",
+        "EEG contínuo em pacientes com coma persistente ou mioclonias.",
+        "Biomarcadores neurológicos (NSE, S100B) para estratificação prognóstica.",
+        "Ecocardiograma transtorácico ou transesofágico para avaliação da função cardíaca e trombos."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Coma com risco de aspiração (Glasgow ≤ 8).",
+      "Hipoxemia refratária (SpO₂ < 90% com FiO₂ > 0,6).",
+      "Hipercapnia com acidose respiratória (PaCO₂ > 50 mmHg com pH < 7,2).",
+      "Controle da ventilação para manejo da PIC e estabilidade hemodinâmica."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Manutenção de oxigenação (SpO₂ 92–96%) e normocapnia (PaCO₂ 35–45 mmHg).",
+        "PAM ≥ 65 mmHg, com alvo ideal de 80–100 mmHg em pacientes com lesão cerebral suspeita.",
+        "Temperatura alvo: normotermia ativa (36°C) ou hipotermia terapêutica (32–36°C por 24–48h) em pacientes comatosos.",
+        "Controle glicêmico estrito (140–180 mg/dL), evitando hiperglicemia e hipoglicemia.",
+        "Correção de distúrbios hidroeletrolíticos, como hiponatremia, hipomagnesemia, hipocalcemia.",
+        "Uso de sedação e analgesia adequada para conforto e sincronia com VM; evitar sedação excessiva.",
+        "Monitorização neurológica contínua com avaliação de reflexos, pupilas e reatividade motora."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico neurológico é determinado pela duração da PCR, tempo de RCE, presença de sinais clínicos de recuperação neurológica, achados no EEG e exames de imagem. Decisões sobre suspensão do suporte devem ser postergadas até, no mínimo, 72 horas após normotermia, com base em avaliação multimodal. Recuperações neurológicas tardias podem ocorrer, sendo fundamental evitar julgamentos precoces."
+    },
+    "notas_adicionais": [
+      "Evitar decisões irreversíveis de limitação terapêutica nas primeiras 72h, especialmente em pacientes com coma pós-PCR.",
+      "A normotermia é tão eficaz quanto a hipotermia para pacientes comatosos, conforme estudos recentes (TTM Trial).",
+      "EEG contínuo é recomendado em pacientes com mioclonias, crises epilépticas ou coma persistente.",
+      "Incluir equipe de cuidados paliativos em pacientes com mau prognóstico confirmado por avaliação multidisciplinar.",
+      "Comunicar familiares com clareza sobre prognóstico, incertezas e tempo necessário para avaliação definitiva."
+    ],
+    "fontes_bibliograficas": [
+      "Callaway CW, et al. 2020 AHA Guidelines for CPR and ECC: Post–Cardiac Arrest Care.",
+      "Sandroni C, et al. Prognostication after cardiac arrest. Intensive Care Med. 2021.",
+      "UpToDate. Initial management of the adult post-cardiac arrest patient. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 97 – Ressuscitação e suporte pós-PCR.",
+      "Diretrizes da Sociedade Brasileira de Cardiologia – Suporte pós-PCR. 2023.",
+      "TTM Trial Investigators. Targeted Temperature Management at 33°C versus 36°C after Cardiac Arrest. N Engl J Med. 2013."
+    ]
+  },
+  "US": {
+    "title": "Post-Cardiac Arrest Care Focused on Neurologic Protection",
+    "definition": "Post-cardiac arrest care focused on neurologic protection encompasses a series of interventions aimed at preventing or minimizing secondary brain injury following return of spontaneous circulation (ROSC). Ischemia-reperfusion injury, systemic inflammation, metabolic derangement, and hemodynamic instability can lead to post-cardiac arrest syndrome and poor neurologic outcomes. Early, structured, and multidisciplinary management is essential to optimize survival with good neurologic function.",
+    "epidemiology": "Survival after out-of-hospital cardiac arrest is around 10%, and for in-hospital cardiac arrest, it ranges from 20% to 30%. Among survivors, over 60% develop some degree of hypoxic-ischemic brain injury. Implementation of post-arrest protocols that include neurologic protection strategies significantly improves neurologic recovery and reduces long-term mortality.",
+    "pathophysiology": "Cerebral anoxia during cardiac arrest and subsequent reperfusion trigger a cascade involving oxidative stress, mitochondrial dysfunction, blood-brain barrier disruption, excitotoxicity, and neuronal apoptosis. Impaired autoregulation and cerebral edema may develop, exacerbating secondary injury. Multiorgan dysfunction, particularly cardiac, respiratory, and renal, is also common in the post-arrest phase.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Persistent hypotension (MAP < 65 mmHg) despite fluid resuscitation.",
+        "Dependence on vasopressors (norepinephrine, vasopressin).",
+        "Recurrent ventricular arrhythmias, bradyarrhythmias, or tachycardias."
+      ],
+      "respiratory": [
+        "Hypoxemia with PaO₂/FiO₂ ratio < 300.",
+        "Respiratory or mixed acidosis requiring ventilatory support.",
+        "Neurogenic pulmonary edema in some cases."
+      ],
+      "neurologic_and_metabolic": [
+        "Coma (GCS ≤ 8), absent brainstem reflexes in the early hours.",
+        "Myoclonus, nonconvulsive status epilepticus.",
+        "Hyperthermia, hyperglycemia (> 180 mg/dL), lactic acidosis, and multiorgan failure."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Initial assessment includes hemodynamic stabilization, identification of reversible causes, neurologic evaluation, and monitoring for seizures and brain injury. Multimodal assessment is required for accurate prognostication.",
+      "essential_tests": [
+        "12-lead ECG, troponin, BNP: evaluate myocardial infarction or arrhythmias.",
+        "Arterial blood gas, serum electrolytes, renal and liver function, glucose.",
+        "Noncontrast head CT: indicated in persistent coma or focal deficits.",
+        "Continuous EEG: for coma, myoclonus, or suspected subclinical seizures.",
+        "Neurologic biomarkers (NSE, S100B): if available, for prognostication.",
+        "Transthoracic or transesophageal echocardiography for cardiac function and thrombus."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Coma (GCS ≤ 8) with risk of aspiration.",
+      "Refractory hypoxemia (SpO₂ < 90% on FiO₂ > 0.6).",
+      "Hypercapnia with acidosis (PaCO₂ > 50 mmHg, pH < 7.2).",
+      "Need for precise ventilation control in neurocritical care."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Maintain oxygen saturation 92–96% and normocapnia (PaCO₂ 35–45 mmHg).",
+        "Target MAP ≥ 65 mmHg, ideally 80–100 mmHg for cerebral perfusion.",
+        "Implement targeted temperature management (TTM) between 32–36°C for 24–48 hours in comatose patients.",
+        "Control blood glucose within 140–180 mg/dL; avoid hypo- or hyperglycemia.",
+        "Correct electrolyte abnormalities (Na⁺, K⁺, Mg²⁺, Ca²⁺).",
+        "Administer appropriate sedation and analgesia for ventilator synchrony, avoiding excessive sedation.",
+        "Frequent neurologic assessments including brainstem reflexes, pupils, and motor response."
+      ]
+    },
+    "prognosis": {
+      "comment": "Neurologic prognosis depends on downtime duration, time to ROSC, and post-arrest care. Multimodal prognostication should occur ≥72 hours after normothermia. Clinical examination, EEG, imaging, and biomarkers all contribute to outcome prediction. Delayed recovery is possible; early withdrawal of care should be avoided."
+    },
+    "additional_notes": [
+      "Do not make early decisions to withdraw life-sustaining therapy before 72 hours unless brain death is confirmed.",
+      "Normothermia is as effective as hypothermia in many cases (per TTM trials).",
+      "Continuous EEG monitoring is recommended in persistent coma or myoclonus.",
+      "Early involvement of palliative care in cases with poor neurologic prognosis is advisable.",
+      "Communicate prognosis clearly to families and allow time for neurologic recovery before definitive decisions."
+    ],
+    "references": [
+      "Callaway CW, et al. 2020 AHA Guidelines for CPR and ECC: Post–Cardiac Arrest Care.",
+      "Sandroni C, et al. Prognostication after cardiac arrest. Intensive Care Med. 2021.",
+      "UpToDate. Initial management of the adult post-cardiac arrest patient. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 97 – Resuscitation and Post-Cardiac Arrest Support.",
+      "Brazilian Society of Cardiology Guidelines – Post-Arrest Support. 2023.",
+      "TTM Trial Investigators. N Engl J Med. 2013;369(23):2197–2206."
+    ]
+  },
+  "ES": {
+    "titulo": "Cuidados Post-Paro con Enfoque en Protección Neurológica",
+    "definicion": "Los cuidados post-paro cardíaco con énfasis en la protección neurológica incluyen un conjunto de intervenciones dirigidas a reducir el daño cerebral secundario tras el retorno de la circulación espontánea (RCE). La lesión por isquemia-reperfusión, la inflamación sistémica, las alteraciones metabólicas y la inestabilidad hemodinámica contribuyen al síndrome post-paro y a desenlaces neurológicos desfavorables. El manejo precoz, estructurado y multidisciplinario es clave para optimizar la supervivencia con buena función neurológica.",
+    "epidemiologia": "La supervivencia tras paro cardíaco extrahospitalario ronda el 10%, mientras que en el paro intrahospitalario puede alcanzar el 20–30%. Más del 60% de los sobrevivientes presentan algún grado de lesión cerebral hipóxica-isquémica. La implementación de protocolos post-paro con enfoque neuroprotector mejora significativamente la recuperación neurológica y reduce la mortalidad.",
+    "fisiopatologia": "La anoxia cerebral durante el paro y la reperfusión posterior generan una cascada de eventos: disfunción mitocondrial, estrés oxidativo, activación glial, alteración de la autorregulación cerebral y edema. La apoptosis y necrosis neuronal pueden perpetuarse en las horas o días posteriores al evento. Además, se desarrolla disfunción multiorgánica (cardíaca, pulmonar, renal) que agrava la situación clínica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión persistente (PAM < 65 mmHg) tras volumen.",
+        "Dependencia de vasopresores (noradrenalina, vasopresina).",
+        "Arritmias recurrentes post-RCE (taquiarritmias, bradiarritmias)."
+      ],
+      "respiratorias": [
+        "Hipoxemia con PaO₂/FiO₂ < 300.",
+        "Acidosis respiratoria o mixta.",
+        "Edema pulmonar neurogénico en algunos casos."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Coma (GCS ≤ 8), reflejos de tronco ausentes en primeras horas.",
+        "Mioclonías, estatus epiléptico no convulsivo.",
+        "Hiperglucemia (> 180 mg/dL), hipertermia, acidosis láctica, fallo multiorgánico."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "La evaluación inicial incluye estabilización hemodinámica, búsqueda de causas reversibles, monitoreo neurológico y detección de crisis epilépticas. La estratificación pronóstica debe ser multimodal.",
+      "exames_essenciais": [
+        "ECG de 12 derivaciones, troponina, BNP: valorar isquemia miocárdica.",
+        "Gasometría arterial, electrolitos, función renal y hepática, glucemia.",
+        "TC de cráneo sin contraste ante coma persistente o signos focales.",
+        "EEG continuo: detectar crisis subclínicas o estatus epiléptico.",
+        "Biomarcadores neuronales (NSE, S100B), si disponibles.",
+        "Ecocardiografía transtorácica o transesofágica para función y trombos."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Coma (GCS ≤ 8) con riesgo de aspiración.",
+      "Hipoxemia refractaria (SpO₂ < 90% con FiO₂ > 0,6).",
+      "Hipercapnia con acidosis respiratoria (PaCO₂ > 50 mmHg, pH < 7,2).",
+      "Control ventilatorio para manejo de PIC y oxigenación cerebral."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Mantener SpO₂ 92–96% y PaCO₂ 35–45 mmHg.",
+        "PAM objetivo ≥ 65 mmHg (ideal 80–100 mmHg en daño neurológico).",
+        "Manejo térmico dirigido: normotermia (36°C) o hipotermia (32–36°C por 24–48h).",
+        "Control glucémico 140–180 mg/dL; evitar hipo e hiperglucemia.",
+        "Corregir alteraciones electrolíticas (Na⁺, K⁺, Mg²⁺, Ca²⁺).",
+        "Sedación y analgesia adecuadas, evitando exceso.",
+        "Evaluación neurológica frecuente: pupilas, reflejos, respuesta motora."
+      ]
+    },
+    "prognosis": {
+      "comment": "El pronóstico neurológico depende de la duración de la PCR, el tiempo hasta RCE y el manejo post-paro. La evaluación multimodal debe realizarse ≥ 72 horas tras normotermia. El examen clínico, EEG, neuroimagen y biomarcadores contribuyen a la predicción. La recuperación tardía es posible, por lo que se deben evitar decisiones prematuras."
+    },
+    "additional_notes": [
+      "Evitar retirar soporte vital antes de 72 h si no hay muerte cerebral confirmada.",
+      "La normotermia es equivalente a la hipotermia en pacientes comatosos (según TTM Trials).",
+      "EEG continuo es recomendado ante coma persistente o mioclonías.",
+      "Incluir cuidados paliativos en casos con mal pronóstico neurológico confirmado.",
+      "Comunicar de forma clara a la familia, dando tiempo para evolución neurológica."
+    ],
+    "references": [
+      "Callaway CW, et al. 2020 AHA Guidelines for CPR and ECC: Cuidados Post-Paro.",
+      "Sandroni C, et al. Prognostication after cardiac arrest. Intensive Care Med. 2021.",
+      "UpToDate. Manejo inicial del paciente adulto tras paro cardíaco. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 97 – Reanimación y cuidados post-paro.",
+      "Sociedad Brasileña de Cardiología – Guías post-PCR. 2023.",
+      "TTM Trial Investigators. N Engl J Med. 2013;369(23):2197–2206."
+    ]
+  }
+}

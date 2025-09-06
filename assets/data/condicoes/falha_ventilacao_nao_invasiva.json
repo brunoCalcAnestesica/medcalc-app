@@ -1,0 +1,185 @@
+{
+  "PT": {
+    "titulo": "Falha da Ventilação Não Invasiva (VNI)",
+    "definicao": "A falha da ventilação não invasiva (VNI) é definida como a incapacidade da VNI em atingir os objetivos terapêuticos iniciais, resultando na necessidade de intubação orotraqueal e ventilação mecânica invasiva. É considerada uma emergência clínica quando não identificada precocemente, especialmente em pacientes com insuficiência respiratória hipoxêmica ou hipercápnica grave. Pode ocorrer precocemente (nas primeiras 1–2 horas de VNI) ou tardiamente (após 24–48 horas).",
+    "epidemiologia": "A falência da VNI ocorre em 20–50% dos casos dependendo da etiologia (DPOC, edema agudo de pulmão, pneumonia, lesão pulmonar aguda), do ambiente de aplicação (enfermaria, pronto-socorro, UTI) e da experiência da equipe. É mais frequente em pacientes com hipoxemia grave, distúrbios neurológicos, sepse, ou que não conseguem cooperar com a interface. Pacientes com índice HACOR &gt; 5 nas primeiras horas têm risco aumentado de falência.",
+    "fisiopatologia": "A VNI depende da interação entre o suporte ventilatório, a integridade neuromuscular do paciente, e a adaptação à interface. A falha ocorre quando a pressão positiva não consegue compensar o esforço respiratório, ou quando há progressão da doença de base. A asincronia respiratória, fadiga da musculatura ventilatória, acúmulo de secreções e alterações da complacência torácica ou pulmonar contribuem para a falência. A hipoxemia sustentada e a acidose não corrigida são fatores críticos.",
+    "manifestações_clinicas": {
+      "indicadores_precoces": [
+        "Taquipneia persistente (&gt; 30–35 irpm) após 1–2 horas de VNI.",
+        "Hipoxemia mantida (SpO₂ &lt; 90% com FiO₂ &gt; 0,6 ou PaO₂/FiO₂ &lt; 150).",
+        "Uso de musculatura acessória, tiragem subcostal ou esternocleidomastóidea.",
+        "Alteração do nível de consciência (sonolência, agitação, torpor).",
+        "Asincronia paciente-ventilador (disparos ineficazes, ciclos incompletos).",
+        "Acidose respiratória progressiva (pH &lt; 7,25 com PaCO₂ crescente)."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é essencialmente clínico, sustentado por dados fisiológicos, laboratoriais e resposta inicial à VNI. Deve-se considerar falência quando não houver melhora clínica após 1–2 horas, ou houver deterioração progressiva. O escore HACOR (frequência cardíaca, acidose, consciência, oxigenação, frequência respiratória) é útil para predizer falência em pacientes com insuficiência respiratória aguda.",
+      "exames_essenciais": [
+        "Gasometria arterial: avaliar pH, PaCO₂, PaO₂.",
+        "Monitorização contínua: SpO₂, FR, padrão respiratório, esforço ventilatório.",
+        "Radiografia ou tomografia de tórax: avaliar causas como pneumonia, edema pulmonar, pneumotórax.",
+        "ECG: detectar isquemia, arritmias ou sinais de sobrecarga de câmaras cardíacas.",
+        "Lactato, PCR, PCT, culturas em casos com suspeita de sepse ou foco infeccioso."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Rebaixamento de consciência com risco de broncoaspiração (Glasgow &lt; 12).",
+      "Persistência de hipoxemia grave (PaO₂/FiO₂ &lt; 100) mesmo com suporte otimizado.",
+      "Acidose respiratória progressiva não responsiva (pH &lt; 7,20).",
+      "Sinais de fadiga respiratória (uso de musculatura acessória, parada respiratória iminente).",
+      "Instabilidade hemodinâmica refratária ao suporte medicamentoso."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Garantir máscara bem adaptada, selagem adequada e ausência de vazamentos.",
+        "Revisar parâmetros ventilatórios: aumentar IPAP, ajustar EPAP, avaliar trigger e ciclo.",
+        "Corrigir distúrbios associados: hipovolemia, acidose metabólica, desequilíbrios eletrolíticos.",
+        "Iniciar antibioticoterapia se infecção for a causa de base.",
+        "Monitorar resposta com reavaliações clínicas e gasométricas seriadas (30–60 minutos).",
+        "Indicar intubação orotraqueal caso não haja resposta favorável dentro das primeiras 1–2 horas ou em casos com deterioração clínica imediata.",
+        "Planejar estratégias de suporte ventilatório invasivo protetor se intubação for necessária."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A falência da VNI está associada a desfechos adversos, especialmente quando a intubação é retardada após os sinais de falência. Pacientes com HACOR &gt; 5, rebaixamento de consciência e pH &lt; 7,25 têm risco elevado de falha. A identificação precoce, o ajuste oportuno dos parâmetros ventilatórios e a decisão tempestiva de escalonamento para ventilação invasiva são fundamentais para a redução da mortalidade e das complicações associadas."
+    },
+    "notas_adicionais": [
+      "Evitar uso prolongado de VNI em pacientes sem resposta nas primeiras 2 horas.",
+      "VNI deve ser aplicada preferencialmente em ambientes monitorados com equipe treinada.",
+      "Monitorar sinais de intolerância à interface e ajustar sedação leve, se necessário.",
+      "Utilizar interface adequada (máscara oronasal ou facial total).",
+      "Revisar diariamente critérios de sucesso ou falência e documentar plano de escalonamento precoce."
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Noninvasive ventilation in acute respiratory failure. 2024.",
+      "British Thoracic Society Guidelines – NIV in Acute Respiratory Failure. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo sobre suporte ventilatório.",
+      "Sociedade Brasileira de Pneumologia – Diretrizes sobre VNI. 2023."
+    ]
+  },
+  "US": {
+    "title": "Noninvasive Ventilation (NIV) Failure",
+    "definition": "Noninvasive ventilation (NIV) failure refers to the inability of NIV to achieve its intended therapeutic goals, requiring escalation to endotracheal intubation and invasive mechanical ventilation. It may occur early (within the first 1–2 hours of NIV initiation) or later (24–48 hours). NIV failure is considered a medical emergency when not promptly recognized, particularly in patients with acute hypoxemic or hypercapnic respiratory failure.",
+    "epidemiology": "NIV failure occurs in approximately 20–50% of cases, depending on the underlying condition (e.g., COPD, cardiogenic pulmonary edema, pneumonia, ARDS), setting (ICU vs. ward), and team experience. It is more common in patients with severe hypoxemia, impaired consciousness, sepsis, poor mask tolerance, or underlying neuromuscular weakness. A HACOR score &gt; 5 within the first hours of NIV use is predictive of failure.",
+    "pathophysiology": "NIV requires the synergistic interaction between the patient’s neuromuscular drive, appropriate interface tolerance, and effective ventilator support. Failure occurs when positive airway pressure is insufficient to unload the respiratory muscles, or when the underlying disease progresses. Asynchrony, secretion retention, decreased thoracic compliance, or worsening gas exchange may contribute. Persistent hypoxemia and progressive acidosis are critical indicators.",
+    "clinical_manifestations": {
+      "early_indicators": [
+        "Persistent tachypnea (&gt; 30–35 breaths per minute) after 1–2 hours of NIV.",
+        "Ongoing hypoxemia (SpO₂ &lt; 90% with FiO₂ &gt; 0.6 or PaO₂/FiO₂ &lt; 150).",
+        "Use of accessory respiratory muscles, intercostal retractions, nasal flaring.",
+        "Altered mental status (drowsiness, agitation, lethargy).",
+        "Significant patient–ventilator asynchrony.",
+        "Progressive respiratory acidosis (pH &lt; 7.25 with rising PaCO₂)."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is primarily clinical and based on failure to improve within 1–2 hours of NIV initiation, or signs of clinical deterioration despite optimal support. The HACOR score (Heart rate, Acidosis, Consciousness, Oxygenation, Respiratory rate) is useful for early prediction of failure.",
+      "essential_tests": [
+        "Arterial blood gas (ABG): pH, PaCO₂, PaO₂.",
+        "Continuous monitoring of SpO₂, respiratory rate, ventilatory effort.",
+        "Chest imaging (CXR or CT) to assess for pneumonia, edema, pneumothorax.",
+        "ECG to evaluate for ischemia, arrhythmias, or cardiac strain.",
+        "Lactate, CRP, PCT, and cultures when infection is suspected."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Decreased consciousness with aspiration risk (GCS &lt; 12).",
+      "Persistent severe hypoxemia (PaO₂/FiO₂ &lt; 100) despite optimal NIV.",
+      "Progressive respiratory acidosis unresponsive to therapy (pH &lt; 7.20).",
+      "Signs of respiratory muscle fatigue or impending respiratory arrest.",
+      "Refractory hemodynamic instability despite vasopressors or fluids."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Ensure mask fit and minimize air leaks.",
+        "Adjust ventilator settings: increase IPAP, optimize EPAP, evaluate trigger and cycle sensitivity.",
+        "Correct contributing factors: hypovolemia, metabolic acidosis, electrolyte disturbances.",
+        "Initiate appropriate antibiotics if infection is the underlying cause.",
+        "Frequent reassessment every 30–60 minutes with clinical and ABG parameters.",
+        "Proceed with intubation if no improvement within 1–2 hours or clinical worsening.",
+        "Plan for lung-protective ventilation strategy if invasive ventilation is initiated."
+      ]
+    },
+    "prognosis": {
+      "comment": "NIV failure is associated with worse clinical outcomes, particularly if intubation is delayed. High-risk patients (e.g., HACOR &gt; 5, altered sensorium, pH &lt; 7.25) benefit from early identification and escalation of care. Timely initiation of invasive mechanical ventilation improves survival and reduces complications such as aspiration, cardiac arrest, and refractory shock."
+    },
+    "additional_notes": [
+      "Avoid prolonged NIV use in patients without clear early response.",
+      "NIV should be performed in closely monitored environments with trained staff.",
+      "Address mask discomfort or intolerance and consider light sedation when appropriate.",
+      "Choose appropriate interface (oronasal or full-face mask).",
+      "Review NIV efficacy daily and update escalation plans accordingly."
+    ],
+    "references": [
+      "UpToDate. Noninvasive ventilation in acute respiratory failure. 2024.",
+      "British Thoracic Society Guidelines – NIV in Acute Respiratory Failure. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter on Ventilatory Support.",
+      "Brazilian Thoracic Society – NIV Guidelines. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Fallo de la Ventilación No Invasiva (VNI)",
+    "definicion": "El fallo de la ventilación no invasiva (VNI) se define como la incapacidad de alcanzar los objetivos terapéuticos iniciales mediante el uso de VNI, lo que conduce a la necesidad de intubación endotraqueal y ventilación mecánica invasiva. Representa una emergencia clínica si no se reconoce a tiempo, especialmente en pacientes con insuficiencia respiratoria hipoxémica o hipercápnica grave. Puede clasificarse como fallo precoz (dentro de las primeras 1–2 horas) o tardío (después de 24–48 horas).",
+    "epidemiologia": "El fallo de la VNI ocurre en el 20–50% de los casos, dependiendo de la causa subyacente (EPOC, edema agudo de pulmón, neumonía, SDRA), el entorno (UCI, urgencias, sala general) y la experiencia del equipo. Es más común en pacientes con hipoxemia severa, sepsis, deterioro del estado de conciencia, o intolerancia a la interfaz. El puntaje HACOR &gt; 5 dentro de las primeras 2 horas de uso predice mayor riesgo de fallo.",
+    "fisiopatologia": "La efectividad de la VNI depende de la sincronía entre el esfuerzo respiratorio del paciente, la interfaz y la asistencia ventilatoria. El fallo ocurre cuando la presión positiva no logra aliviar el trabajo respiratorio o la enfermedad de base progresa. Contribuyen al fallo la asincronía paciente-ventilador, acumulación de secreciones, alteraciones de la complacencia torácica y fatiga muscular respiratoria. La hipoxemia persistente y la acidosis no corregida son marcadores clave de deterioro.",
+    "manifestaciones_clinicas": {
+      "indicadores_tempranos": [
+        "Taquipnea persistente (&gt; 30–35 rpm) tras 1–2 horas de VNI.",
+        "Hipoxemia mantenida (SpO₂ &lt; 90% con FiO₂ &gt; 0,6 o PaO₂/FiO₂ &lt; 150).",
+        "Uso de musculatura accesoria, tiraje intercostal, aleteo nasal.",
+        "Alteración del estado mental (somnolencia, agitación, letargo).",
+        "Asincronía significativa con el ventilador.",
+        "Acidosis respiratoria progresiva (pH &lt; 7,25 con PaCO₂ en aumento)."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es clínico, basado en la falta de mejoría dentro de las 1–2 horas posteriores al inicio de la VNI o la presencia de deterioro clínico progresivo. El puntaje HACOR (Frecuencia cardíaca, Acidosis, Conciencia, Oxigenación, Frecuencia respiratoria) es útil como herramienta predictiva temprana.",
+      "examenes_esenciales": [
+        "Gasometría arterial: pH, PaCO₂, PaO₂.",
+        "Monitoreo continuo de SpO₂, frecuencia respiratoria y esfuerzo ventilatorio.",
+        "Imágenes torácicas (radiografía o TC) para detectar neumonía, edema o neumotórax.",
+        "ECG para evaluar isquemia, arritmias o sobrecarga cardíaca.",
+        "Lactato, PCR, PCT y cultivos si se sospecha infección."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Disminución del nivel de conciencia con riesgo de broncoaspiración (GCS &lt; 12).",
+      "Hipoxemia severa persistente (PaO₂/FiO₂ &lt; 100) a pesar de VNI optimizada.",
+      "Acidosis respiratoria progresiva no respondiente (pH &lt; 7,20).",
+      "Signos de fatiga muscular respiratoria o paro respiratorio inminente.",
+      "Inestabilidad hemodinámica refractaria a vasopresores o líquidos."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Asegurar ajuste correcto de la mascarilla, minimizando fugas.",
+        "Ajustar parámetros del ventilador: aumentar IPAP, optimizar EPAP, ajustar disparo y ciclo.",
+        "Corregir factores contribuyentes: hipovolemia, acidosis metabólica, desequilibrios electrolíticos.",
+        "Iniciar antibióticos empíricos si hay sospecha de infección.",
+        "Reevaluación clínica y gasométrica cada 30–60 minutos.",
+        "Proceder con intubación si no hay mejoría o hay deterioro clínico evidente.",
+        "Planificar ventilación invasiva con estrategia protectora si se indica intubación."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El fallo de la VNI se asocia con peor pronóstico, especialmente si la intubación se retrasa. Pacientes con puntaje HACOR &gt; 5, pH &lt; 7,25 o deterioro del sensorio se benefician de una identificación precoz y escalamiento oportuno. La intubación a tiempo mejora la supervivencia y reduce complicaciones como broncoaspiración, paro cardíaco y shock refractario."
+    },
+    "notas_adicionales": [
+      "Evitar uso prolongado de VNI sin respuesta clínica clara en las primeras 2 horas.",
+      "La VNI debe realizarse en entornos monitorizados por personal entrenado.",
+      "Monitorear intolerancia a la máscara y considerar sedación ligera si es necesario.",
+      "Seleccionar la interfaz adecuada (mascarilla oronasal o facial total).",
+      "Revisar diariamente eficacia de la VNI y mantener plan documentado de escalamiento terapéutico."
+    ],
+    "referencias": [
+      "UpToDate. Noninvasive ventilation in acute respiratory failure. 2024.",
+      "Guías de la Sociedad Torácica Británica – VNI en insuficiencia respiratoria aguda. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo sobre soporte ventilatorio.",
+      "Sociedad Brasileña de Neumología – Guías sobre VNI. 2023."
+    ]
+  }
+}

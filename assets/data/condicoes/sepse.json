@@ -1,0 +1,278 @@
+{
+  "PT": {
+    "titulo": "Sepse",
+    "definicao": "Sepse é uma síndrome clínica complexa definida como uma disfunção orgânica potencialmente fatal causada por uma resposta desregulada do hospedeiro à infecção. Caracteriza-se por alterações hemodinâmicas, metabólicas e imunológicas que comprometem múltiplos sistemas e exigem intervenção médica urgente. A sepse é uma das principais causas de mortalidade hospitalar no mundo e está associada a desfechos adversos mesmo após a alta hospitalar.",
+    "epidemiologia": "A sepse acomete cerca de 50 milhões de pessoas anualmente no mundo e é responsável por 11 milhões de mortes, representando quase 20% da mortalidade global. No Brasil, é uma das principais causas de internação em UTI, com taxas de mortalidade que podem ultrapassar 50% em hospitais públicos. Fatores de risco incluem idade avançada, imunossupressão, câncer, diabetes mellitus, uso de dispositivos invasivos e infecções nosocomiais.",
+    "fisiopatologia": "A fisiopatologia da sepse envolve uma resposta inflamatória sistêmica descontrolada à infecção, com liberação maciça de citocinas pró-inflamatórias, ativação endotelial e distúrbios na coagulação. Esse processo leva à vasodilatação, aumento da permeabilidade capilar e hipoperfusão tecidual. Simultaneamente, ocorre imunossupressão, disfunção mitocondrial e apoptose celular, comprometendo a capacidade do organismo de controlar a infecção e manter a homeostase orgânica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial persistente (PAM &lt; 65 mmHg).",
+        "Taquicardia sustentada (&gt; 90 bpm).",
+        "Sinais de hipoperfusão: extremidades frias, pulso filiforme, tempo de enchimento capilar &gt; 3s."
+      ],
+      "respiratorias": [
+        "Frequência respiratória &gt; 22 irpm.",
+        "Hipoxemia (PaO₂/FiO₂ &lt; 300), SpO₂ &lt; 90%.",
+        "Necessidade de oxigenoterapia ou suporte ventilatório."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência (Glasgow &lt; 15).",
+        "Temperatura &gt; 38,3ºC ou &lt; 36ºC.",
+        "Oligúria (&lt; 0,5 mL/kg/h), lactato sérico &gt; 2 mmol/L, acidose metabólica."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A sepse deve ser considerada em qualquer paciente com suspeita de infecção e evidências de disfunção orgânica aguda. A utilização do escore SOFA ou qSOFA permite a triagem inicial e monitoramento da gravidade. A rápida coleta de exames laboratoriais e microbiológicos é essencial para guiar o tratamento precoce e direcionado.",
+      "exames_essenciais": [
+        "Hemoculturas periféricas e de cateter antes da antibioticoterapia.",
+        "Dosagem de lactato sérico (marcador de hipoperfusão).",
+        "Hemograma completo, PCR, procalcitonina (marcadores de inflamação/infecciosidade).",
+        "Função renal (ureia, creatinina), eletrólitos, coagulograma.",
+        "Gasometria arterial com cálculo de lactato e ânion gap.",
+        "Exames de imagem direcionados ao foco suspeito (tomografia, ultrassonografia, radiografia)."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Insuficiência respiratória aguda com PaO₂ &lt; 60 mmHg ou SpO₂ &lt; 90% com FiO₂ &gt; 0,6.",
+      "Taquipneia persistente (&gt; 30 irpm) com sinais de exaustão ventilatória.",
+      "Rebaixamento de consciência com perda do reflexo de proteção das vias aéreas.",
+      "Acidose respiratória ou metabólica com instabilidade hemodinâmica."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Início do protocolo nas primeiras 60 minutos ('golden hour').",
+        "Coleta de culturas e exames laboratoriais antes da antibioticoterapia.",
+        "Antibioticoterapia empírica de amplo espectro baseada no provável foco e perfil epidemiológico.",
+        "Reanimação volêmica com cristaloides (30 mL/kg em 3h) guiada por parâmetros clínicos e laboratoriais.",
+        "Uso precoce de vasopressores (noradrenalina) se PAM &lt; 65 mmHg após volume.",
+        "Controle do foco infeccioso (drenagem cirúrgica, remoção de dispositivos, desbridamento).",
+        "Suporte ventilatório conforme necessidade clínica (oxigênio suplementar, VNI ou intubação).",
+        "Monitorização contínua de diurese, sinais vitais, lactato e evolução clínica."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A mortalidade da sepse está diretamente relacionada à precocidade do reconhecimento e início do tratamento. Cada hora de atraso na antibioticoterapia aumenta significativamente o risco de óbito. Mesmo entre sobreviventes, são comuns as sequelas cognitivas, disfunções orgânicas persistentes e síndrome pós-UTI. A reabilitação precoce e o seguimento ambulatorial são componentes fundamentais do manejo pós-agudo."
+    },
+    "notas_adicionais": [
+      "Reforçar a importância de protocolos institucionais padronizados (bundles de sepse).",
+      "Educação continuada da equipe multiprofissional sobre sinais precoces e condutas baseadas em evidência.",
+      "Utilizar biomarcadores (como procalcitonina) para guiar decisões de escalonamento ou descalonamento de antibióticos.",
+      "Avaliar necessidade de corticoterapia em choque séptico refratário à reposição volêmica e vasopressores.",
+      "Incluir familiares no plano de cuidados e transição segura para o cuidado ambulatorial."
+    ],
+    "fontes_bibliograficas": [
+      "Surviving Sepsis Campaign – International Guidelines for Management of Sepsis and Septic Shock. 2021.",
+      "UpToDate. Sepsis syndromes in adults: Epidemiology, pathophysiology, clinical presentation, diagnosis, and prognosis. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Medicina Intensiva – Protocolo de Sepse. 2023.",
+      "Manual de Terapia Intensiva – AMIB. 2022."
+    ]
+  },
+  "US": {
+    "ES": {
+      "titulo": "Sepsis",
+      "definicion": "La sepsis es una disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a una infección. Implica una interacción compleja entre respuestas proinflamatorias y antiinflamatorias, inmunosupresión, disfunción endotelial y alteraciones en la coagulación. La sepsis progresa rápidamente y requiere identificación e intervención inmediata. Sigue siendo una de las principales causas de morbilidad y mortalidad hospitalaria a nivel mundial.",
+      "epidemiologia": "La sepsis afecta aproximadamente a 50 millones de personas al año en todo el mundo y causa 11 millones de muertes, representando cerca del 20% de la mortalidad global. Es una causa importante de admisiones en UCI y muertes hospitalarias. Los factores de riesgo incluyen edad avanzada, inmunosupresión, cáncer, diabetes mellitus, dispositivos invasivos e infecciones nosocomiales. Los países de ingresos bajos y medios soportan una carga desproporcionada de muertes por sepsis.",
+      "fisiopatologia": "La sepsis resulta de una respuesta inmune exagerada a la infección, caracterizada por la liberación excesiva de citocinas, activación endotelial, vasodilatación y aumento de la permeabilidad vascular. Estos cambios conducen a hipoperfusión tisular y disfunción multiorgánica. Al mismo tiempo, la sepsis provoca disfunción mitocondrial, apoptosis de células inmunes e inmunosupresión compensatoria, lo que compromete la capacidad del huésped para eliminar patógenos y regular la inflamación.",
+      "manifestaciones_clinicas": {
+        "hemodinamicas": [
+          "Hipotensión persistente (PAM &lt; 65 mmHg).",
+          "Taquicardia sostenida (&gt; 90 lpm).",
+          "Signos de hipoperfusión: extremidades frías, pulso débil, llenado capilar &gt; 3 segundos."
+        ],
+        "respiratorias": [
+          "Frecuencia respiratoria &gt; 22 rpm.",
+          "Hipoxemia (PaO₂/FiO₂ &lt; 300), SpO₂ &lt; 90%.",
+          "Necesidad de oxígeno suplementario o soporte ventilatorio."
+        ],
+        "neurologicas_y_metabolicas": [
+          "Alteración del estado mental (Glasgow &lt; 15).",
+          "Fiebre (&gt; 38,3°C) o hipotermia (&lt; 36°C).",
+          "Oliguria (&lt; 0,5 mL/kg/h), lactato elevado (&gt; 2 mmol/L), acidosis metabólica."
+        ]
+      },
+      "diagnostico": {
+        "enfoque_clinico": "Se debe sospechar sepsis en cualquier paciente con infección sospechada o confirmada acompañada de signos de disfunción orgánica aguda. Los puntajes SOFA y qSOFA se utilizan para evaluar la gravedad y para el triaje. La identificación temprana y la evaluación diagnóstica rápida son esenciales para iniciar una terapia dirigida y reducir la mortalidad.",
+        "examenes_esenciales": [
+          "Hemocultivos (periféricos y de catéter) antes de administrar antibióticos.",
+          "Medición de lactato sérico (marcador de hipoperfusión tisular).",
+          "Hemograma completo, proteína C reactiva (PCR), procalcitonina (marcadores inflamatorios).",
+          "Función renal (urea, creatinina), electrolitos, perfil de coagulación.",
+          "Gasometría arterial con cálculo de lactato y anión gap.",
+          "Imágenes dirigidas (TC, ecografía, radiografía de tórax) para identificar el foco infeccioso."
+        ]
+      },
+      "indicaciones_soporte_ventilatorio": [
+        "Insuficiencia respiratoria aguda con PaO₂ &lt; 60 mmHg o SpO₂ &lt; 90% con FiO₂ &gt; 0,6.",
+        "Taquipnea persistente (&gt; 30 rpm) con signos de fatiga.",
+        "Alteración de la conciencia con pérdida de reflejos protectores de la vía aérea.",
+        "Acidosis respiratoria o metabólica con inestabilidad hemodinámica."
+      ],
+      "conducta_general": {
+        "abordaje_inicial": [
+          "Iniciar el paquete de sepsis en los primeros 60 minutos (hora dorada).",
+          "Obtener cultivos y análisis antes de iniciar los antibióticos.",
+          "Administrar antibióticos de amplio espectro según el foco sospechado y los patrones locales de resistencia.",
+          "Resucitación con cristaloides (30 mL/kg en 3 horas), guiada por parámetros clínicos y de laboratorio.",
+          "Inicio temprano de vasopresores (noradrenalina) si la PAM &lt; 65 mmHg después de líquidos.",
+          "Control del foco infeccioso (drenaje quirúrgico, retiro de dispositivos, desbridamiento).",
+          "Soporte ventilatorio según necesidad clínica (oxígeno suplementario, VNI o intubación).",
+          "Monitoreo continuo de diuresis, signos vitales, lactato y progresión clínica."
+        ]
+      },
+      "pronostico": {
+        "comentario": "El pronóstico de la sepsis está estrechamente relacionado con la rapidez del reconocimiento y del tratamiento. Cada hora de retraso en el inicio de los antibióticos aumenta significativamente el riesgo de muerte. Los sobrevivientes pueden presentar secuelas como disfunción cognitiva, daño orgánico persistente y síndrome post-UCI. La rehabilitación precoz y el seguimiento ambulatorio coordinado son fundamentales para la recuperación."
+      },
+      "notas_adicionales": [
+        "Los protocolos institucionales y los paquetes estandarizados de sepsis mejoran los resultados y reducen la mortalidad.",
+        "La formación continua del equipo de salud es clave para el reconocimiento temprano y el manejo basado en evidencia.",
+        "Los biomarcadores como la procalcitonina pueden guiar las decisiones sobre el uso de antibióticos.",
+        "Considerar corticoides en casos de shock séptico refractario a líquidos y vasopresores.",
+        "Incluir a la familia en el plan de cuidados y garantizar una transición segura al manejo ambulatorio."
+      ],
+      "fuentes_bibliograficas": [
+        "Surviving Sepsis Campaign – Guías Internacionales para el Manejo de la Sepsis y el Shock Séptico. 2021.",
+        "UpToDate. Síndromes sépticos en adultos: Epidemiología, fisiopatología, manifestaciones clínicas, diagnóstico y pronóstico. 2024.",
+        "Harrison. Principios de Medicina Interna. 21ª ed.",
+        "Sociedad Brasileña de Medicina Intensiva – Protocolo de Sepsis. 2023.",
+        "Manual de Cuidados Intensivos – AMIB. 2022."
+      ]
+    },
+    "title": "Sepsis",
+    "definition": "Sepsis is a life-threatening organ dysfunction resulting from a dysregulated host response to infection. It involves a complex interaction between pro-inflammatory and anti-inflammatory responses, immune suppression, endothelial dysfunction, and coagulation abnormalities. Sepsis progresses rapidly and requires immediate identification and intervention. It remains one of the leading causes of morbidity and mortality in hospitals worldwide.",
+    "epidemiology": "Sepsis affects approximately 50 million people annually worldwide and accounts for 11 million deaths, representing nearly 20% of global mortality. It is a major cause of ICU admissions and hospital deaths. Risk factors include advanced age, immunosuppression, malignancies, diabetes mellitus, indwelling devices, and healthcare-associated infections. Low- and middle-income countries bear a disproportionate burden of sepsis-related deaths.",
+    "pathophysiology": "Sepsis results from an exaggerated immune response to infection, characterized by excessive release of cytokines, endothelial activation, vasodilation, and increased vascular permeability. These changes lead to tissue hypoperfusion and multi-organ dysfunction. Concurrently, sepsis triggers mitochondrial dysfunction, immune cell apoptosis, and compensatory immunosuppression, compromising the host's ability to eliminate pathogens and regulate inflammation.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Persistent hypotension (MAP &lt; 65 mmHg).",
+        "Sustained tachycardia (&gt; 90 bpm).",
+        "Signs of poor perfusion: cold extremities, weak pulse, capillary refill &gt; 3 seconds."
+      ],
+      "respiratory": [
+        "Respiratory rate &gt; 22 breaths/min.",
+        "Hypoxemia (PaO₂/FiO₂ &lt; 300), SpO₂ &lt; 90%.",
+        "Need for supplemental oxygen or mechanical ventilatory support."
+      ],
+      "neurologic_and_metabolic": [
+        "Altered mental status (Glasgow Coma Scale &lt; 15).",
+        "Fever (&gt; 38.3°C) or hypothermia (&lt; 36°C).",
+        "Oliguria (&lt; 0.5 mL/kg/h), elevated lactate (&gt; 2 mmol/L), metabolic acidosis."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Sepsis should be suspected in any patient with suspected or confirmed infection accompanied by signs of acute organ dysfunction. SOFA and qSOFA scores are used to assess the severity of illness and triage patients. Early identification and prompt diagnostic workup are essential to initiate targeted therapy and reduce mortality.",
+      "essential_tests": [
+        "Blood cultures (peripheral and catheter) prior to antibiotic administration.",
+        "Serum lactate measurement (marker of tissue hypoperfusion).",
+        "CBC, C-reactive protein (CRP), procalcitonin (inflammatory markers).",
+        "Renal function (urea, creatinine), electrolytes, coagulation profile.",
+        "Arterial blood gas with lactate and anion gap calculation.",
+        "Targeted imaging studies (CT, ultrasound, chest X-ray) to identify infection source."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Acute respiratory failure with PaO₂ &lt; 60 mmHg or SpO₂ &lt; 90% on FiO₂ &gt; 0.6.",
+      "Persistent tachypnea (&gt; 30 breaths/min) with signs of fatigue.",
+      "Depressed consciousness with impaired airway protective reflexes.",
+      "Respiratory or metabolic acidosis with hemodynamic instability."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Initiate sepsis bundle within the first 60 minutes (golden hour).",
+        "Obtain blood cultures and laboratory tests before starting antibiotics.",
+        "Administer broad-spectrum antibiotics based on suspected source and local resistance patterns.",
+        "Early fluid resuscitation with crystalloids (30 mL/kg over 3 hours), guided by clinical and laboratory parameters.",
+        "Early initiation of vasopressors (norepinephrine) if MAP &lt; 65 mmHg after fluid resuscitation.",
+        "Source control (e.g., surgical drainage, device removal, debridement).",
+        "Ventilatory support as needed (supplemental oxygen, noninvasive ventilation, or intubation).",
+        "Continuous monitoring of urine output, vital signs, lactate, and clinical progression."
+      ]
+    },
+    "prognosis": {
+      "comment": "The prognosis of sepsis is closely linked to the timeliness of recognition and treatment. Each hour of delay in initiating antibiotics significantly increases mortality risk. Survivors may experience long-term sequelae such as cognitive dysfunction, persistent organ impairment, and post-ICU syndrome. Early rehabilitation and coordinated outpatient follow-up are essential for recovery."
+    },
+    "additional_notes": [
+      "Institutional sepsis protocols and standardized bundles improve outcomes and reduce mortality.",
+      "Ongoing training for healthcare teams is critical for early recognition and evidence-based care.",
+      "Biomarkers such as procalcitonin can guide antimicrobial stewardship decisions.",
+      "Consider corticosteroids in patients with septic shock unresponsive to fluids and vasopressors.",
+      "Involve family in care planning and ensure safe transition to outpatient management."
+    ],
+    "references": [
+      "Surviving Sepsis Campaign – International Guidelines for Management of Sepsis and Septic Shock. 2021.",
+      "UpToDate. Sepsis syndromes in adults: Epidemiology, pathophysiology, clinical presentation, diagnosis, and prognosis. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Intensive Care Society – Sepsis Protocol. 2023.",
+      "Intensive Care Manual – AMIB. 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Sepsis",
+    "definicion": "La sepsis es una disfunción orgánica potencialmente mortal causada por una respuesta desregulada del huésped a una infección. Implica una interacción compleja entre respuestas proinflamatorias y antiinflamatorias, inmunosupresión, disfunción endotelial y alteraciones en la coagulación. La sepsis progresa rápidamente y requiere identificación e intervención inmediata. Sigue siendo una de las principales causas de morbilidad y mortalidad hospitalaria a nivel mundial.",
+    "epidemiologia": "La sepsis afecta aproximadamente a 50 millones de personas al año en todo el mundo y causa 11 millones de muertes, representando cerca del 20% de la mortalidad global. Es una causa importante de admisiones en UCI y muertes hospitalarias. Los factores de riesgo incluyen edad avanzada, inmunosupresión, cáncer, diabetes mellitus, dispositivos invasivos e infecciones nosocomiales. Los países de ingresos bajos y medios soportan una carga desproporcionada de muertes por sepsis.",
+    "fisiopatologia": "La sepsis resulta de una respuesta inmune exagerada a la infección, caracterizada por la liberación excesiva de citocinas, activación endotelial, vasodilatación y aumento de la permeabilidad vascular. Estos cambios conducen a hipoperfusión tisular y disfunción multiorgánica. Al mismo tiempo, la sepsis provoca disfunción mitocondrial, apoptosis de células inmunes e inmunosupresión compensatoria, lo que compromete la capacidad del huésped para eliminar patógenos y regular la inflamación.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión persistente (PAM &lt; 65 mmHg).",
+        "Taquicardia sostenida (&gt; 90 lpm).",
+        "Signos de hipoperfusión: extremidades frías, pulso débil, llenado capilar &gt; 3 segundos."
+      ],
+      "respiratorias": [
+        "Frecuencia respiratoria &gt; 22 rpm.",
+        "Hipoxemia (PaO₂/FiO₂ &lt; 300), SpO₂ &lt; 90%.",
+        "Necesidad de oxígeno suplementario o soporte ventilatorio."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Alteración del estado mental (Glasgow &lt; 15).",
+        "Fiebre (&gt; 38,3°C) o hipotermia (&lt; 36°C).",
+        "Oliguria (&lt; 0,5 mL/kg/h), lactato elevado (&gt; 2 mmol/L), acidosis metabólica."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Se debe sospechar sepsis en cualquier paciente con infección sospechada o confirmada acompañada de signos de disfunción orgánica aguda. Los puntajes SOFA y qSOFA se utilizan para evaluar la gravedad y para el triaje. La identificación temprana y la evaluación diagnóstica rápida son esenciales para iniciar una terapia dirigida y reducir la mortalidad.",
+      "examenes_esenciales": [
+        "Hemocultivos (periféricos y de catéter) antes de administrar antibióticos.",
+        "Medición de lactato sérico (marcador de hipoperfusión tisular).",
+        "Hemograma completo, proteína C reactiva (PCR), procalcitonina (marcadores inflamatorios).",
+        "Función renal (urea, creatinina), electrolitos, perfil de coagulación.",
+        "Gasometría arterial con cálculo de lactato y anión gap.",
+        "Imágenes dirigidas (TC, ecografía, radiografía de tórax) para identificar el foco infeccioso."
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Insuficiencia respiratoria aguda con PaO₂ &lt; 60 mmHg o SpO₂ &lt; 90% con FiO₂ &gt; 0,6.",
+      "Taquipnea persistente (&gt; 30 rpm) con signos de fatiga.",
+      "Alteración de la conciencia con pérdida de reflejos protectores de la vía aérea.",
+      "Acidosis respiratoria o metabólica con inestabilidad hemodinámica."
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Iniciar el paquete de sepsis en los primeros 60 minutos (hora dorada).",
+        "Obtener cultivos y análisis antes de iniciar los antibióticos.",
+        "Administrar antibióticos de amplio espectro según el foco sospechado y los patrones locales de resistencia.",
+        "Resucitación con cristaloides (30 mL/kg en 3 horas), guiada por parámetros clínicos y de laboratorio.",
+        "Inicio temprano de vasopresores (noradrenalina) si la PAM &lt; 65 mmHg después de líquidos.",
+        "Control del foco infeccioso (drenaje quirúrgico, retiro de dispositivos, desbridamiento).",
+        "Soporte ventilatorio según necesidad clínica (oxígeno suplementario, VNI o intubación).",
+        "Monitoreo continuo de diuresis, signos vitales, lactato y progresión clínica."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico de la sepsis está estrechamente relacionado con la rapidez del reconocimiento y del tratamiento. Cada hora de retraso en el inicio de los antibióticos aumenta significativamente el riesgo de muerte. Los sobrevivientes pueden presentar secuelas como disfunción cognitiva, daño orgánico persistente y síndrome post-UCI. La rehabilitación precoz y el seguimiento ambulatorio coordinado son fundamentales para la recuperación."
+    },
+    "notas_adicionales": [
+      "Los protocolos institucionales y los paquetes estandarizados de sepsis mejoran los resultados y reducen la mortalidad.",
+      "La formación continua del equipo de salud es clave para el reconocimiento temprano y el manejo basado en evidencia.",
+      "Los biomarcadores como la procalcitonina pueden guiar las decisiones sobre el uso de antibióticos.",
+      "Considerar corticoides en casos de shock séptico refractario a líquidos y vasopresores.",
+      "Incluir a la familia en el plan de cuidados y garantizar una transición segura al manejo ambulatorio."
+    ],
+    "fuentes_bibliograficas": [
+      "Surviving Sepsis Campaign – Guías Internacionales para el Manejo de la Sepsis y el Shock Séptico. 2021.",
+      "UpToDate. Síndromes sépticos en adultos: Epidemiología, fisiopatología, manifestaciones clínicas, diagnóstico y pronóstico. 2024.",
+      "Harrison. Principios de Medicina Interna. 21ª ed.",
+      "Sociedad Brasileña de Medicina Intensiva – Protocolo de Sepsis. 2023.",
+      "Manual de Cuidados Intensivos – AMIB. 2022."
+    ]
+  }
+}

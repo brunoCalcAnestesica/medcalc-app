@@ -1,0 +1,221 @@
+{
+  "PT": {
+    "titulo": "Intoxicação por Opioides",
+    "definicao": "A intoxicação por opioides é uma condição clínica potencialmente fatal causada pelo uso excessivo, acidental ou intencional de substâncias agonistas dos receptores opioides. Caracteriza-se pela tríade clássica de depressão respiratória, miose e rebaixamento do nível de consciência. O rápido reconhecimento e intervenção com antagonistas como a naloxona são fundamentais para evitar óbito e sequelas neurológicas. As apresentações clínicas variam conforme a substância, via de administração e presença de coingestões.",
+    "epidemiologia": "A crise de opioides é uma emergência global de saúde pública. Nos Estados Unidos, os opioides são responsáveis por mais de 70% das mortes por overdose, com crescimento exponencial dos casos relacionados a opioides sintéticos como o fentanil. No Brasil, o aumento no consumo de tramadol, codeína e morfina vem sendo observado, inclusive com relatos crescentes de uso recreativo. Populações vulneráveis incluem pacientes com dor crônica, dependentes químicos, prescrição médica inadequada e crianças expostas de forma acidental.",
+    "fisiopatologia": "Os opioides atuam principalmente nos receptores mu-opioides (MOR), localizados em áreas do SNC responsáveis pela modulação da dor e da respiração. O estímulo excessivo desses receptores inibe a atividade dos centros bulbares respiratórios, reduzindo a frequência e profundidade respiratória. Também ocorre diminuição da sensibilidade ao CO₂, levando a hipercapnia progressiva. Em doses elevadas ou formulações potentes (ex: carfentanil), há risco de apneia súbita, rigidez torácica (por fentanil), bradicardia e parada cardiorrespiratória.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Miose puntiforme bilateral",
+        "Depressão respiratória (FR &lt; 8 irpm)",
+        "Rebaixamento do nível de consciência (Glasgow &lt; 12)"
+      ],
+      "outras": [
+        "Apneia, cianose, bradipneia",
+        "Hipotensão e bradicardia",
+        "Pulso fraco ou ausente em overdose grave",
+        "Convulsões (com tramadol ou meperidina)",
+        "Rigidez muscular torácica (fentanil)",
+        "Roncospiração, vômitos, broncoaspiração",
+        "Edema pulmonar não cardiogênico",
+        "Rabdomiólise e lesão renal aguda"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseia-se no contexto clínico e na tríade de sinais característicos. História de uso ou achados de prescrição de opioides fortalecem a suspeita. A reversão com naloxona reforça o diagnóstico. É fundamental afastar diagnósticos diferenciais como AVC, hipoglicemia, intoxicação por benzodiazepínicos, trauma e infecções do SNC.",
+      "exames_essenciais": [
+        "Glicemia capilar imediata",
+        "Gasometria arterial: hipoxemia, hipercapnia, acidose respiratória",
+        "Oximetria de pulso e monitoramento contínuo de FR",
+        "ECG: avaliação de arritmias, alargamento de QRS (meperidina, metadona)",
+        "Função renal e eletrólitos (rabdomiólise, hipercalemia)",
+        "Provas hepáticas (em pacientes com hepatopatia ou uso crônico)",
+        "Toxicologia (imunoensaio e cromatografia, se disponível)",
+        "Radiografia de tórax (suspeita de broncoaspiração, edema pulmonar)"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Frequência respiratória &lt; 8 irpm com hipoxemia ou hipercapnia",
+      "Apneia, parada respiratória ou bradipneia progressiva",
+      "Glasgow &lt; 8 ou ausência de reflexos protetores de vias aéreas",
+      "Rigidez torácica com falência ventilatória (fentanil)",
+      "Intoxicação mista com sedativos prolongando depressão respiratória"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Assegurar vias aéreas e iniciar ventilação assistida com bolsa-válvula-máscara",
+        "Administrar naloxona: 0,4 a 2 mg IV, repetir a cada 2–3 min até resposta clínica (máximo 10 mg)",
+        "Alternativas: naloxona 2 mg IM ou intranasal se sem acesso IV",
+        "Manutenção com infusão contínua de naloxona (0,4–2 mg/h) em opioides de meia-vida longa",
+        "Monitorar ECG, FR, SatO₂ e nível de consciência continuamente",
+        "Evitar reanimação excessiva em paciente acordado – risco de síndrome de abstinência grave",
+        "Hidratação venosa, correção de distúrbios hidroeletrolíticos",
+        "Prevenir aspiração: decúbito lateral, aspiração de secreções, intubação precoce se necessário",
+        "Encaminhar para desintoxicação, avaliação psiquiátrica e suporte social após estabilização"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Quando tratada precocemente, a intoxicação por opioides é altamente reversível. No entanto, atrasos no atendimento, intoxicações mistas ou uso de opioides sintéticos potentes (ex: fentanil, carfentanil) elevam significativamente o risco de óbito e sequelas neurológicas. A reincidência é comum sem abordagem adequada da dependência. A distribuição domiciliar de naloxona e programas de redução de danos têm impacto positivo na redução da mortalidade."
+    },
+    "notas_adicionais": [
+      "A naloxona pode precipitar abstinência aguda em usuários crônicos – risco de agitação, dor, vômitos e convulsões",
+      "Doses elevadas ou repetidas de naloxona podem ser necessárias em opioides sintéticos",
+      "Evitar sedação concomitante com benzodiazepínicos após reversão",
+      "Monitoramento por pelo menos 6–12 horas após reversão, com maior tempo para opioides de liberação prolongada",
+      "Educação da família e oferta de naloxona nasal domiciliar reduzem mortes por overdose"
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Approach to the patient with suspected opioid overdose. 2024.",
+      "ACMT Practice Guidelines: Management of Opioid Toxicity. 2023.",
+      "Manual de Toxicologia Clínica – FIOCRUZ. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 75 – Intoxicações e Antagonistas."
+    ]
+  },
+  "US": {
+    "title": "Opioid Toxicity",
+    "definition": "Opioid toxicity is a potentially fatal clinical condition resulting from excessive, accidental, or intentional use of opioid receptor agonists. It is classically characterized by the triad of respiratory depression, pinpoint pupils (miosis), and decreased level of consciousness. Prompt recognition and reversal with antagonists such as naloxone are critical to preventing death and neurological injury. Clinical presentation varies according to the opioid involved, the route of administration, and the presence of co-ingestants.",
+    "epidemiology": "The global opioid crisis represents a major public health emergency. In the United States, opioids are responsible for over 70% of drug overdose deaths, with a rapid rise in synthetic opioids like illicit fentanyl. In Brazil, increasing use of tramadol, codeine, and morphine is noted, with growing reports of recreational misuse. At-risk populations include chronic pain patients, people with substance use disorders, individuals with inappropriate prescriptions, and children with accidental exposures.",
+    "pathophysiology": "Opioids primarily act on mu-opioid receptors (MOR) in the central nervous system, producing analgesia, sedation, and euphoria. In toxic doses, they inhibit medullary respiratory centers, causing bradypnea and apnea. Sensitivity to CO₂ diminishes, leading to progressive hypercapnia. Potent and lipophilic opioids (e.g., carfentanil) increase the risk of sudden apnea, chest wall rigidity (notably with fentanyl), bradycardia, and cardiac arrest.",
+    "clinical_manifestations": {
+      "classic": [
+        "Pinpoint pupils (bilateral miosis)",
+        "Respiratory depression (RR &lt; 8 bpm)",
+        "Decreased level of consciousness (GCS &lt; 12)"
+      ],
+      "other": [
+        "Apnea, cyanosis, bradypnea",
+        "Hypotension and bradycardia",
+        "Weak or absent pulse in severe overdose",
+        "Seizures (e.g., tramadol, meperidine)",
+        "Chest wall rigidity (e.g., fentanyl)",
+        "Snoring respirations, emesis, aspiration risk",
+        "Non-cardiogenic pulmonary edema",
+        "Rhabdomyolysis and acute kidney injury"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is clinical and based on the classic triad. Patient history or discovery of opioid prescriptions supports suspicion. Naloxone reversal reinforces diagnosis. Differential diagnoses include stroke, hypoglycemia, benzodiazepine intoxication, trauma, and CNS infections.",
+      "essential_tests": [
+        "Immediate capillary glucose check",
+        "Arterial blood gas: hypoxemia, hypercapnia, respiratory acidosis",
+        "Continuous pulse oximetry and respiratory monitoring",
+        "ECG: monitor for arrhythmias, QRS prolongation (e.g., with meperidine, methadone)",
+        "Renal function and electrolytes (rhabdomyolysis, hyperkalemia)",
+        "Liver panel (in chronic use or hepatopathy)",
+        "Toxicology screen (immunoassay and confirmatory chromatography if available)",
+        "Chest X-ray (if aspiration or pulmonary edema is suspected)"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Respiratory rate &lt; 8 bpm with hypoxemia or hypercapnia",
+      "Apnea, respiratory arrest, or progressive bradypnea",
+      "GCS &lt; 8 or absent protective airway reflexes",
+      "Chest rigidity with ventilatory failure (e.g., fentanyl)",
+      "Mixed intoxication with prolonged respiratory depression"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Ensure airway patency and initiate bag-valve-mask ventilation if needed",
+        "Administer naloxone: 0.4–2 mg IV, repeat every 2–3 minutes as needed (max 10 mg)",
+        "If no IV access: naloxone 2 mg IM or intranasal",
+        "Consider continuous naloxone infusion (0.4–2 mg/h) for long-acting opioids",
+        "Continuous monitoring of ECG, RR, SpO₂, and mental status",
+        "Avoid overstimulation during reversal to prevent acute withdrawal syndrome",
+        "Provide IV fluids and correct electrolyte disturbances",
+        "Aspiration precautions: lateral decubitus positioning, suctioning, early intubation if needed",
+        "Referral for detoxification, psychiatric assessment, and social support after stabilization"
+      ]
+    },
+    "prognosis": {
+      "comment": "With timely treatment, opioid toxicity is highly reversible. However, delays in care, mixed overdoses, or potent synthetic opioids (e.g., fentanyl, carfentanil) significantly increase the risk of death or long-term complications. Recurrence is common without proper addiction management. Community naloxone distribution and harm reduction strategies have been shown to reduce overdose mortality."
+    },
+    "additional_notes": [
+      "Naloxone may precipitate acute withdrawal in opioid-dependent individuals: agitation, pain, vomiting, seizures",
+      "Higher or repeated naloxone doses may be required for synthetic opioids",
+      "Avoid co-sedation with benzodiazepines following reversal",
+      "Observe patients for at least 6–12 hours post-reversal, longer for long-acting opioids",
+      "Educate families and provide take-home naloxone for at-risk individuals"
+    ],
+    "references": [
+      "UpToDate. Approach to the patient with suspected opioid overdose. 2024.",
+      "ACMT Practice Guidelines: Management of Opioid Toxicity. 2023.",
+      "Manual of Clinical Toxicology – FIOCRUZ. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 75 – Poisoning and Antagonists."
+    ]
+  },
+  "ES": {
+    "titulo": "Toxicidad por Opioides",
+    "definicion": "La intoxicación por opioides es una condición clínica potencialmente fatal causada por el uso excesivo, accidental o intencional de agonistas de receptores opioides. Se caracteriza clásicamente por la tríada de depresión respiratoria, miosis y disminución del nivel de conciencia. El reconocimiento precoz y la administración de antagonistas como la naloxona son fundamentales para evitar complicaciones graves y la muerte. La presentación clínica varía según el tipo de opioide, la vía de administración y la presencia de coingestas.",
+    "epidemiologia": "La crisis de opioides constituye una emergencia de salud pública a nivel mundial. En Estados Unidos, más del 70% de las muertes por sobredosis están relacionadas con opioides, en particular fentanilo y sus análogos sintéticos. En América Latina, el uso creciente de tramadol, codeína y morfina también ha generado preocupación. Los grupos de mayor riesgo incluyen pacientes con dolor crónico, personas con trastornos por consumo de sustancias, prescripciones inadecuadas y niños con exposiciones accidentales.",
+    "fisiopatologia": "Los opioides actúan principalmente sobre los receptores mu (MOR) en el sistema nervioso central, generando analgesia, sedación y euforia. En dosis elevadas, inhiben los centros respiratorios bulbares, disminuyendo la frecuencia y profundidad respiratoria, con hipoventilación, hipercapnia e hipoxia. Opioides potentes y lipofílicos como el carfentanilo pueden provocar apnea súbita, rigidez torácica (especialmente con fentanilo), bradicardia y paro cardiorrespiratorio.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Miosis puntiforme bilateral",
+        "Depresión respiratoria (FR &lt; 8 rpm)",
+        "Disminución del nivel de conciencia (GCS &lt; 12)"
+      ],
+      "otras": [
+        "Apnea, cianosis, bradipnea",
+        "Hipotensión y bradicardia",
+        "Pulso débil o ausente en sobredosis grave",
+        "Convulsiones (tramadol, meperidina)",
+        "Rigidez torácica (fentanilo)",
+        "Ruidos respiratorios tipo ronquido, vómitos, broncoaspiración",
+        "Edema pulmonar no cardiogénico",
+        "Rabdomiólisis e insuficiencia renal aguda"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es clínico, basado en la presencia de la tríada típica y la historia compatible. La respuesta a la naloxona confirma la sospecha. Es esencial descartar diagnósticos diferenciales como hipoglucemia, ACV, intoxicación por benzodiacepinas, trauma craneoencefálico e infecciones del sistema nervioso central.",
+      "examenes_esenciales": [
+        "Glucemia capilar inmediata",
+        "Gasometría arterial: hipoxemia, hipercapnia, acidosis respiratoria",
+        "Oximetría de pulso y monitoreo de la frecuencia respiratoria",
+        "ECG: arritmias, ensanchamiento de QRS (metadona, meperidina)",
+        "Función renal y electrólitos (rabdomiólisis, hipercalemia)",
+        "Pruebas hepáticas (uso crónico o hepatopatía)",
+        "Toxicología (inmunoensayo y confirmación cromatográfica)",
+        "Radiografía de tórax si se sospecha broncoaspiración o edema pulmonar"
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Frecuencia respiratoria &lt; 8 rpm con hipoxemia o hipercapnia",
+      "Apnea, paro respiratorio o bradipnea progresiva",
+      "GCS &lt; 8 o ausencia de reflejos protectores de la vía aérea",
+      "Rigidez torácica con falla ventilatoria (fentanilo)",
+      "Intoxicación mixta con sedantes de acción prolongada"
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Asegurar la vía aérea e iniciar ventilación con bolsa-válvula-mascarilla si es necesario",
+        "Administrar naloxona: 0,4–2 mg IV, repetir cada 2–3 min según respuesta (máximo 10 mg)",
+        "Alternativas: naloxona 2 mg IM o intranasal si no hay vía IV",
+        "Considerar infusión continua de naloxona (0,4–2 mg/h) en opioides de acción prolongada",
+        "Monitoreo continuo de ECG, FR, SpO₂ y estado neurológico",
+        "Evitar sobreestimulación durante la reversión para prevenir síndrome de abstinencia aguda",
+        "Hidratación IV y corrección de desequilibrios hidroelectrolíticos",
+        "Precauciones contra broncoaspiración: decúbito lateral, aspiración de secreciones, intubación temprana si es necesario",
+        "Derivación para desintoxicación, evaluación psiquiátrica y asistencia social tras estabilización"
+      ]
+    },
+    "pronostico": {
+      "comentario": "Con intervención oportuna, la intoxicación por opioides es una condición altamente reversible. Sin embargo, la atención tardía, las sobredosis mixtas y el uso de opioides sintéticos potentes (como fentanilo y carfentanilo) aumentan significativamente el riesgo de muerte o daño neurológico. La reincidencia es común sin tratamiento adecuado de la adicción. La distribución comunitaria de naloxona y las estrategias de reducción de daños han demostrado disminuir la mortalidad."
+    },
+    "notas_adicionales": [
+      "La naloxona puede precipitar un síndrome de abstinencia agudo en personas dependientes de opioides: agitación, dolor, vómitos, convulsiones",
+      "Opioides sintéticos pueden requerir dosis mayores o repetidas de naloxona",
+      "Evitar sedación con benzodiacepinas después de la reversión",
+      "Observar al paciente al menos 6–12 horas después de la reversión, más en opioides de acción prolongada",
+      "Educar a familiares y ofrecer naloxona intranasal para uso domiciliario en poblaciones de riesgo"
+    ],
+    "fuentes_bibliograficas": [
+      "UpToDate. Manejo del paciente con sospecha de sobredosis por opioides. 2024.",
+      "ACMT – Guías clínicas para el manejo de la toxicidad por opioides. 2023.",
+      "Manual de Toxicología Clínica – FIOCRUZ. 2022.",
+      "Harrison. Principios de Medicina Interna. 21ª edición.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 75 – Intoxicaciones y antagonistas."
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Intoxicação por Antidepressivos Tricíclicos",
+    "definicao": "A intoxicação por antidepressivos tricíclicos (ADT) é uma emergência médica grave, frequentemente associada a tentativa de suicídio, caracterizada por efeitos anticolinérgicos intensos, cardiotoxicidade e toxicidade do sistema nervoso central. Os ADTs como amitriptilina, nortriptilina, imipramina e clomipramina, atuam em múltiplos receptores, sendo potencialmente fatais mesmo em doses moderadas devido à sua estreita janela terapêutica.",
+    "epidemiologia": "Apesar do declínio no uso de ADTs frente à popularização dos inibidores seletivos da recaptação de serotonina (ISRS), continuam sendo uma das causas mais letais de intoxicação por fármacos. Estima-se que a ingestão de 10–20 mg/kg possa resultar em toxicidade grave. As intoxicações são mais comuns em mulheres jovens, em contexto de tentativa de suicídio, e representam cerca de 10% das admissões em centros de toxicologia.",
+    "fisiopatologia": "A toxicidade ocorre pela combinação de vários mecanismos: bloqueio dos canais rápidos de sódio cardíacos (efeito quinidina-like), resultando em alargamento do QRS e arritmias; efeitos anticolinérgicos centrais e periféricos; bloqueio de receptores alfa-1 adrenérgicos (hipotensão); bloqueio de receptores H1 (sedação); e inibição da recaptação de serotonina e noradrenalina. A acidose exacerba a toxicidade ao aumentar a ligação do fármaco aos canais de sódio.",
+    "manifestações_clinicas": {
+      "neurologicas": [
+        "Agitação psicomotora, delírio, confusão.",
+        "Mioclonias, convulsões tônico-clônicas generalizadas.",
+        "Rebaixamento do nível de consciência, coma profundo."
+      ],
+      "cardiovasculares": [
+        "Taquicardia sinusal precoce, hipotensão arterial refratária.",
+        "Alargamento do QRS (&gt; 100 ms), prolongamento de QT, eixo cardíaco desviado à direita.",
+        "Arritmias ventriculares (TV, FV), bloqueios atrioventriculares, assistolia."
+      ],
+      "anticolinergicas": [
+        "Midríase, boca seca, pele quente e seca.",
+        "Retenção urinária, íleo paralítico.",
+        "Hipertermia e rubor facial ('pele vermelha como beterraba')."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é clínico e baseado em anamnese compatível e achados típicos: toxidrome anticolinérgico + anormalidades no ECG. O QRS &gt; 100 ms é marcador de risco de convulsão, e &gt; 160 ms de arritmias ventriculares. A gasometria arterial pode revelar acidose metabólica com ânion gap aumentado. O ECG é o exame mais útil no manejo inicial.",
+      "exames_essenciais": [
+        "ECG seriado: QRS alargado, ondas R em aVR &gt; 3 mm, eixo desviado à direita.",
+        "Gasometria arterial com lactato (acidose metabólica láctica).",
+        "Eletrólitos, função renal, glicemia, cálcio e magnésio.",
+        "Dosagem de ADT sérico: limitada disponibilidade, útil apenas em casos selecionados.",
+        "Radiografia de tórax (broncoaspiração, congestão).",
+        "TC de crânio em coma inexplicado ou convulsões refratárias."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Glasgow ≤ 8 com perda de reflexos de proteção de vias aéreas.",
+      "Crises convulsivas recorrentes ou coma profundo.",
+      "Instabilidade respiratória com hipoxemia refratária.",
+      "Colapso hemodinâmico associado a depressão respiratória."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitorização contínua: ECG, pressão arterial invasiva se necessário, oximetria.",
+        "Oxigenoterapia, acesso venoso calibroso, reposição volêmica com SF 0,9%.",
+        "Carvão ativado (1 g/kg VO/NG) se ingestão &lt; 1–2h e paciente consciente com reflexos preservados.",
+        "Bicarbonato de sódio EV 1–2 mEq/kg em QRS &gt; 100 ms, acidose ou arritmias: repetir até melhora do ECG.",
+        "Noradrenalina como vasopressor de escolha em hipotensão refratária à reposição.",
+        "Benzodiazepínicos (midazolam, diazepam) para controle de convulsões.",
+        "Evitar antiarrítmicos classe I e amiodarona (potenciam bloqueio de canais de sódio).",
+        "Lipidoterapia EV (emulsão lipídica 20%) como terapia de resgate em intoxicação maciça refratária.",
+        "Hemodiálise é ineficaz (alto volume de distribuição e ligação proteica)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O risco de morte é maior nas primeiras 6–12 horas após ingestão. Fatores associados a mau prognóstico incluem QRS &gt; 160 ms, acidose persistente, convulsões refratárias e necessidade de drogas vasoativas. A maioria dos sobreviventes se recupera neurologicamente se tratados precocemente e não houver hipóxia prolongada ou arritmias fatais."
+    },
+    "notas_adicionais": [
+      "Monitorar ECG a cada 1–2 horas durante as primeiras 6–12h.",
+      "Não utilizar flumazenil em pacientes com risco convulsivo.",
+      "Avaliação psiquiátrica obrigatória após estabilização clínica.",
+      "Educação sobre o risco da automedicação e prescrição responsável de ADTs.",
+      "Atenção redobrada a pacientes com uso crônico e múltiplas comorbidades."
+    ],
+    "fontes_bibliograficas": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 63 – Cyclic Antidepressants.",
+      "UpToDate. Tricyclic antidepressant poisoning. 2024.",
+      "Manual de Toxicologia Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Toxicologia – Diretrizes para intoxicações medicamentosas. 2023."
+    ]
+  },
+  "US": {
+    "title": "Tricyclic Antidepressant (TCA) Poisoning",
+    "definition": "Tricyclic antidepressant poisoning is a life-threatening toxicologic emergency often resulting from intentional overdose. It is characterized by anticholinergic toxicity, cardiac sodium channel blockade, and central nervous system depression. Common agents include amitriptyline, nortriptyline, imipramine, and clomipramine. Due to their narrow therapeutic index and extensive tissue distribution, even moderate ingestions can be fatal without prompt medical intervention.",
+    "epidemiology": "Despite a decline in prescription rates, TCAs remain among the most dangerous pharmaceuticals in overdose. Toxicity can occur with doses as low as 10–20 mg/kg. Overdoses are frequently seen in young adults with psychiatric illness, and TCAs are responsible for a disproportionate number of deaths from drug overdose. They account for a significant percentage of ICU admissions in toxicology units.",
+    "pathophysiology": "TCAs inhibit fast sodium channels in the myocardium, causing QRS widening and ventricular arrhythmias. They exhibit anticholinergic effects via muscarinic receptor blockade, alpha-1 adrenergic antagonism (leading to hypotension), H1 histamine receptor antagonism (causing sedation), and serotonin/norepinephrine reuptake inhibition. Acidosis enhances TCA toxicity by increasing binding to sodium channels.",
+    "clinical_manifestations": {
+      "neurologic": [
+        "Agitation, delirium, confusion.",
+        "Myoclonus, generalized tonic-clonic seizures.",
+        "Depressed level of consciousness, coma."
+      ],
+      "cardiovascular": [
+        "Sinus tachycardia, refractory hypotension.",
+        "QRS &gt; 100 ms, prolonged QT interval, right axis deviation.",
+        "Ventricular arrhythmias (VT, VF), AV block, asystole."
+      ],
+      "anticholinergic": [
+        "Mydriasis, dry mouth, flushed, hot, dry skin.",
+        "Urinary retention, decreased bowel sounds, ileus.",
+        "Hyperthermia and tachypsychia."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is clinical, supported by anticholinergic toxidrome and characteristic ECG findings. A QRS duration &gt; 100 ms is associated with seizure risk; &gt; 160 ms predicts ventricular arrhythmias. Metabolic acidosis, seen on arterial blood gas, worsens sodium channel blockade. ECG is the most critical diagnostic and prognostic tool.",
+      "essential_tests": [
+        "Serial ECGs: widened QRS, R wave in aVR &gt; 3 mm, right axis deviation.",
+        "Arterial blood gas with lactate (metabolic acidosis).",
+        "Electrolytes, renal function, glucose, calcium, magnesium.",
+        "Serum TCA level (if available, not required for management).",
+        "Chest X-ray (aspiration or pulmonary congestion).",
+        "Head CT if unexplained coma or refractory seizures."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 with airway protection impairment.",
+      "Recurrent seizures or profound coma.",
+      "Hypoxemia or acute respiratory failure.",
+      "Cardiovascular collapse with associated respiratory depression."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Continuous monitoring: ECG, invasive BP if needed, pulse oximetry.",
+        "Supplemental oxygen, IV access, isotonic saline for volume resuscitation.",
+        "Activated charcoal (1 g/kg PO/NG) if within 1–2 hours of ingestion and airway protected.",
+        "Sodium bicarbonate IV (1–2 mEq/kg) if QRS &gt; 100 ms, metabolic acidosis, or arrhythmias; repeat as needed based on ECG response.",
+        "Norepinephrine for hypotension unresponsive to fluids.",
+        "Benzodiazepines (e.g., diazepam, midazolam) for seizure control.",
+        "Avoid class I antiarrhythmics and amiodarone due to sodium channel blocking properties.",
+        "IV lipid emulsion (20%) as rescue therapy for severe, refractory cases.",
+        "Hemodialysis is not effective due to high protein binding and large volume of distribution."
+      ]
+    },
+    "prognosis": {
+      "comment": "Most fatalities occur within 6–12 hours of ingestion. Poor prognostic indicators include QRS &gt; 160 ms, persistent metabolic acidosis, refractory seizures, and vasopressor dependence. Survivors often recover fully neurologically if managed promptly and in the absence of prolonged hypoxia or malignant arrhythmias."
+    },
+    "additional_notes": [
+      "Repeat ECG every 1–2 hours until QRS narrows.",
+      "Avoid flumazenil due to risk of seizure precipitation.",
+      "Mandatory psychiatric evaluation after stabilization.",
+      "Educate patients on safe use and storage of TCAs.",
+      "Closely monitor polypharmacy in patients with comorbidities or multiple prescriptions."
+    ],
+    "references": [
+      "Goldfrank’s Toxicologic Emergencies. 11th ed. Chapter 63 – Cyclic Antidepressants.",
+      "UpToDate. Tricyclic antidepressant poisoning. 2024.",
+      "Clinical Toxicology Manual – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Toxicology – Medication Overdose Guidelines. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Intoxicación por Antidepresivos Tricíclicos",
+    "definicion": "La intoxicación por antidepresivos tricíclicos (ATC) representa una emergencia médica grave que puede comprometer la vida, especialmente en contextos de sobredosis intencional. Se caracteriza por toxicidad anticolinérgica, cardiotoxicidad (bloqueo de los canales de sodio), y afectación neurológica central. Los fármacos más comunes incluyen amitriptilina, nortriptilina, imipramina y clomipramina. Incluso dosis moderadas pueden ser fatales debido a su estrecho margen terapéutico y amplio volumen de distribución.",
+    "epidemiologia": "A pesar de una reducción en la prescripción de ATC, siguen siendo responsables de un porcentaje significativo de muertes por sobredosis. Ingestas superiores a 10–20 mg/kg se asocian con toxicidad grave. La intoxicación suele afectar a mujeres jóvenes en intentos suicidas. Los ATC son una causa frecuente de ingreso en unidades de cuidados intensivos por intoxicación medicamentosa.",
+    "fisiopatologia": "Los ATC bloquean los canales rápidos de sodio cardíacos, provocando ensanchamiento del QRS y arritmias ventriculares. También producen bloqueo muscarínico (efectos anticolinérgicos), antagonismo alfa-1 adrenérgico (hipotensión), antagonismo H1 (sedación) e inhibición de la recaptación de serotonina y noradrenalina. La acidosis metabólica potencia la toxicidad al aumentar la afinidad del fármaco por los canales de sodio.",
+    "manifestaciones_clinicas": {
+      "neurologicas": [
+        "Agitación, confusión, delirio.",
+        "Mioclonías, convulsiones tónico-clónicas generalizadas.",
+        "Depresión del nivel de conciencia, coma."
+      ],
+      "cardiovasculares": [
+        "Taquicardia sinusal, hipotensión refractaria.",
+        "QRS &gt; 100 ms, prolongación del QT, desviación derecha del eje.",
+        "Arritmias ventriculares (TV, FV), bloqueo AV, asistolia."
+      ],
+      "anticolinergicas": [
+        "Midriasis, sequedad bucal, piel caliente y seca.",
+        "Retención urinaria, íleo paralítico.",
+        "Hipertermia, enrojecimiento facial."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es clínico, basado en historia compatible, signos del síndrome anticolinérgico y alteraciones electrocardiográficas características. Un QRS &gt; 100 ms predice riesgo de convulsión, y &gt; 160 ms riesgo de arritmia ventricular. La gasometría arterial puede evidenciar acidosis metabólica con aumento del anión gap.",
+      "examenes_esenciales": [
+        "ECG seriado: QRS ensanchado, onda R en aVR &gt; 3 mm, desviación derecha del eje.",
+        "Gasometría arterial con lactato (acidosis metabólica láctica).",
+        "Electrolitos, creatinina, glucemia, calcio, magnesio.",
+        "Concentración sérica de ATC (si disponible, no esencial para el manejo).",
+        "Radiografía de tórax (aspiración o congestión).",
+        "TC de cráneo si hay coma inexplicado o convulsiones refractarias."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Glasgow ≤ 8 con pérdida de reflejos protectores.",
+      "Convulsiones recurrentes o coma profundo.",
+      "Hipoxemia o insuficiencia respiratoria aguda.",
+      "Colapso hemodinámico asociado a depresión respiratoria."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Monitoreo continuo: ECG, PA invasiva si es necesario, oximetría.",
+        "Oxigenoterapia, acceso venoso de gran calibre, expansión con solución salina 0,9%.",
+        "Carbón activado (1 g/kg VO/NG) si la ingesta fue &lt; 1–2 horas y con reflejos conservados.",
+        "Bicarbonato de sodio IV (1–2 mEq/kg) en QRS &gt; 100 ms, acidosis o arritmias; repetir hasta normalización.",
+        "Noradrenalina como vasopresor de elección si hipotensión es refractaria.",
+        "Benzodiacepinas (midazolam o diazepam) para convulsiones.",
+        "Evitar antiarrítmicos clase I y amiodarona (empeoran el bloqueo de sodio).",
+        "Terapia de emulsión lipídica IV (20%) como recurso en casos refractarios graves.",
+        "La hemodiálisis no es eficaz (alta unión proteica y gran volumen de distribución)."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El mayor riesgo de muerte se concentra en las primeras 6–12 horas post-ingesta. Factores de mal pronóstico incluyen QRS &gt; 160 ms, acidosis persistente, convulsiones refractarias y uso de vasopresores. Con tratamiento precoz, la mayoría de los pacientes sobrevive sin secuelas neurológicas si no hubo hipoxia prolongada o arritmias malignas."
+    },
+    "notas_adicionales": [
+      "Repetir ECG cada 1–2 horas hasta normalización.",
+      "Evitar flumazenil por riesgo de convulsiones.",
+      "Evaluación psiquiátrica obligatoria tras la estabilización clínica.",
+      "Educar sobre el uso responsable de ATC y riesgos de sobredosis.",
+      "Vigilar de cerca a pacientes con polifarmacia o comorbilidades psiquiátricas."
+    ],
+    "referencias": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 63 – Antidepresivos Cíclicos.",
+      "UpToDate. Intoxicación por antidepresivos tricíclicos. 2024.",
+      "Manual de Toxicología Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Toxicología – Guías de sobredosis por medicamentos. 2023."
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "PT": {
+    "titulo": "Traumatismo Cranioencefálico Grave",
+    "definicao": "O traumatismo cranioencefálico (TCE) grave é definido como qualquer lesão cerebral traumática associada a uma escala de coma de Glasgow (ECG) ≤ 8, após ressuscitação inicial. Representa uma condição neurológica crítica de alta complexidade, caracterizada por disfunção cerebral aguda, risco iminente de hipertensão intracraniana, herniação cerebral, instabilidade autonômica e lesões secundárias progressivas. A abordagem exige medidas rápidas e coordenadas para estabilização sistêmica e controle neurointensivo.",
+    "epidemiologia": "O TCE é uma das principais causas de morbimortalidade em adultos jovens, representando cerca de 50% das mortes traumáticas em vítimas de acidentes de trânsito, quedas, ferimentos penetrantes e violência interpessoal. Em países de baixa e média renda, é responsável por importante carga de internações prolongadas e incapacidades permanentes. Estima-se que 10 a 15% dos pacientes com TCE sofram lesões graves, e entre esses, até 40–50% evoluam com óbito ou sequelas neurológicas severas. A mortalidade aumenta na presença de pupilas não reativas, hipotensão e hipoxemia pré-hospitalar.",
+    "fisiopatologia": "O TCE grave envolve lesões primárias — resultantes do impacto mecânico direto (contusão, laceração, fraturas, hemorragias intra e extracranianas, lesão axonal difusa) — e lesões secundárias, que se instalam progressivamente em função da cascata inflamatória, disfunção mitocondrial, edema cerebral, hipoperfusão, hipertensão intracraniana (HIC), crises epilépticas e distúrbios neuroendócrinos. A integridade da barreira hematoencefálica é comprometida, favorecendo disfunção autorregulatória e colapso da perfusão cerebral.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Reflexo de Cushing: bradicardia, hipertensão e irregularidade respiratória em HIC.",
+        "Instabilidade hemodinâmica associada a trauma torácico, abdominal ou pélvico concomitante.",
+        "Hipotensão arterial como marcador de pior prognóstico quando associada a TCE (PAM < 65 mmHg)."
+      ],
+      "respiratorias": [
+        "Padrões respiratórios anormais: Cheyne-Stokes, apneustica, atáxica (indicam disfunção do tronco cerebral).",
+        "Hipoxemia e hipercapnia secundárias à redução do drive respiratório ou broncoaspiração.",
+        "Risco elevado de insuficiência respiratória com necessidade de ventilação mecânica precoce."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência (ECG ≤ 8), agitação psicomotora ou coma.",
+        "Déficits motores focais, hemiparesia, midríase fixa unilateral ou bilateral (sinais de herniação transtentorial).",
+        "Crises epilépticas precoces ou tardias, e encefalopatia hipóxico-isquêmica associada.",
+        "Distúrbios neuroendócrinos: hiponatremia (SIADH), diabetes insipidus, síndrome cerebral perdedora de sal."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A avaliação inicial segue o protocolo ABCDE com atenção para Glasgow, reatividade pupilar, simetria motora e sinais de herniação. História do evento traumático, tempo de ocorrência e intervenções prévias são cruciais. A sedação e paralisia farmacológica podem mascarar sinais neurológicos, devendo ser documentadas cuidadosamente.",
+      "exames_essenciais": [
+        "Tomografia computadorizada de crânio sem contraste: exame de escolha para avaliação de hematomas, fraturas, linhas médias, hidrocefalia e edema.",
+        "Monitorização da pressão intracraniana (PIC): indicada em pacientes com ECG ≤ 8 e alterações na imagem ou com risco elevado de HIC.",
+        "Ressonância magnética cerebral: útil em fase subaguda para avaliação de lesão axonal difusa e hematomas profundos.",
+        "EEG contínuo: em rebaixamento persistente, suspeita de status epiléptico não convulsivo ou prognóstico neurológico.",
+        "Doppler transcraniano: avalia fluxo sanguíneo cerebral, vasoespasmo e hipertensão intracraniana.",
+        "Laboratórios: eletrólitos, função renal e hepática, coagulograma, gasometria arterial, marcadores de lesão cerebral (S100B, NSE)."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Rebaixamento grave da consciência com perda dos reflexos de proteção das vias aéreas.",
+      "Hipoxemia refratária (SpO₂ < 92%) ou hipercapnia significativa.",
+      "Herniação cerebral iminente com bradipneia, apneia ou respiração agônica.",
+      "Controle da PIC com hiperventilação transitória e sedação contínua em casos de hipertensão intracraniana."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Estabilização hemodinâmica agressiva com meta de PAM ≥ 65–70 mmHg, utilizando cristaloides e vasopressores conforme necessidade.",
+        "Intubação orotraqueal com sequência rápida utilizando agentes neuroprotetores (etomidato, cetamina, propofol) e bloqueadores neuromusculares.",
+        "Monitorização invasiva: PIC, PAM, SpO₂, capnografia (PaCO₂ entre 35–40 mmHg), temperatura e débito urinário.",
+        "Controle da PIC: elevar cabeceira a 30°, alinhamento cervical, sedação profunda, analgesia e osmoterapia com manitol 0,25–1 g/kg ou solução salina hipertônica 3%.",
+        "Correção de distúrbios eletrolíticos e da glicemia, evitando oscilações bruscas.",
+        "Evitar hiperpirexia (alvo < 37,5 °C) e tratar infecções precocemente.",
+        "Drenagem ventricular externa em hidrocefalia obstrutiva ou PIC refratária.",
+        "Craniectomia descompressiva em lesões expansivas ou PIC refratária com risco de herniação.",
+        "Profilaxia de TVP, úlcera de estresse, pneumonia associada à ventilação e crises epilépticas precoces (fenitoína ou levetiracetam)."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O desfecho do TCE grave está relacionado à gravidade da lesão inicial, resposta terapêutica nas primeiras 48–72 horas e presença de complicações como HIC, infecções ou crises epilépticas. A presença de sinais clínicos de herniação cerebral, hipoxemia prolongada e hipotensão são indicadores de mau prognóstico. A recuperação neurológica pode ser parcial ou total com suporte multidisciplinar intensivo e reabilitação precoce."
+    },
+    "notas_adicionais": [
+      "Evitar hiperventilação crônica prolongada (PaCO₂ < 30 mmHg) após fase aguda.",
+      "Evitar soluções hipotônicas; preferir SF 0,9% ou NaCl 3% sob controle de osmolaridade sérica.",
+      "Contraindicado o uso de corticoides em TCE grave devido ao aumento de mortalidade.",
+      "Avaliação diária da possibilidade de despertar neurológico e desmame de sedação.",
+      "Encaminhamento precoce para centro de reabilitação neurológica intensiva após estabilização.",
+      "Registro contínuo de dados neurológicos e protocolos de neurointensivismo baseados em diretrizes internacionais."
+    ],
+    "fontes_bibliograficas": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 31 – Traumatic Brain Injury.",
+      "Guidelines for the Management of Severe Traumatic Brain Injury – Brain Trauma Foundation. 2020.",
+      "UpToDate. Severe traumatic brain injury in adults: Initial management. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Diretrizes da Associação Brasileira de Neurointensivismo – TCE Grave. 2022.",
+      "Carney N, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. Neurosurgery. 2017."
+    ]
+  },
+  "US": {
+    "title": "Severe Traumatic Brain Injury",
+    "definition": "Severe traumatic brain injury (TBI) is defined as any brain trauma resulting in a post-resuscitation Glasgow Coma Scale (GCS) score of ≤8. It represents a critical neurologic emergency characterized by acute cerebral dysfunction, impending intracranial hypertension, brain herniation, autonomic instability, and progressive secondary injuries. Effective management requires rapid stabilization and advanced neurocritical care interventions.",
+    "epidemiology": "TBI is a leading cause of death and disability in young adults, accounting for up to 50% of trauma-related mortality. In low- and middle-income countries, it is a major contributor to prolonged hospitalization and long-term neurologic disability. An estimated 10–15% of TBI cases are classified as severe, with mortality or severe neurological sequelae in up to 40–50% of these patients. Poor outcomes are associated with unreactive pupils, prehospital hypotension, and hypoxemia.",
+    "pathophysiology": "Severe TBI involves both primary injury—direct mechanical insult such as contusion, laceration, hemorrhage, and diffuse axonal injury—and secondary injury, which evolves over time due to ischemia, mitochondrial dysfunction, excitotoxicity, cerebral edema, intracranial hypertension (ICH), seizures, and neuroinflammation. Disruption of the blood-brain barrier contributes to impaired autoregulation and perfusion deficits.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Cushing’s reflex: bradycardia, systemic hypertension, and irregular respiration indicating increased ICP.",
+        "Hemodynamic instability in cases with associated thoracoabdominal or pelvic trauma.",
+        "Hypotension (MAP < 65 mmHg) is an independent predictor of poor outcome in severe TBI."
+      ],
+      "respiratory": [
+        "Abnormal respiratory patterns (Cheyne-Stokes, apneustic, ataxic) indicating brainstem dysfunction.",
+        "Hypoxemia and hypercapnia secondary to impaired respiratory drive or aspiration.",
+        "High risk of early respiratory failure requiring mechanical ventilation."
+      ],
+      "neurologic_and_metabolic": [
+        "Decreased level of consciousness (GCS ≤ 8), coma, or psychomotor agitation.",
+        "Focal neurological deficits, hemiparesis, fixed dilated pupils (sign of transtentorial herniation).",
+        "Early or late post-traumatic seizures; associated hypoxic-ischemic encephalopathy.",
+        "Neuroendocrine disorders: SIADH-induced hyponatremia, central diabetes insipidus, cerebral salt wasting syndrome."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Initial evaluation follows the ABCDE trauma protocol, with close attention to GCS, pupil reactivity, motor symmetry, and herniation signs. History of trauma mechanism, timing, and prehospital interventions is essential. Sedation or pharmacologic paralysis must be documented as it may obscure neurologic findings.",
+      "essential_tests": [
+        "Non-contrast head CT: gold-standard to assess hematomas, fractures, midline shifts, hydrocephalus, and cerebral edema.",
+        "Invasive intracranial pressure (ICP) monitoring: indicated for patients with GCS ≤ 8 and abnormal CT findings or at high risk for ICH.",
+        "MRI brain: useful in subacute phase for detecting diffuse axonal injury and deep hematomas.",
+        "Continuous EEG: for persistent coma, suspected nonconvulsive seizures, or to evaluate prognosis.",
+        "Transcranial Doppler ultrasound: evaluates cerebral blood flow, vasospasm, and intracranial hypertension.",
+        "Laboratory studies: serum electrolytes, renal and liver function, coagulation profile, arterial blood gas, brain injury biomarkers (e.g., S100B, NSE)."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Severely depressed consciousness with loss of airway protective reflexes.",
+      "Refractory hypoxemia (SpO₂ < 92%) or significant hypercapnia.",
+      "Imminent brain herniation with apnea, agonal breathing, or bradypnea.",
+      "ICP management requiring transient hyperventilation and deep sedation."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Aggressive hemodynamic stabilization with target MAP ≥ 65–70 mmHg using isotonic fluids and vasopressors as needed.",
+        "Rapid sequence intubation using neuroprotective agents (etomidate, ketamine, propofol) and neuromuscular blockade.",
+        "Invasive monitoring: ICP, MAP, SpO₂, end-tidal CO₂ (target PaCO₂ 35–40 mmHg), temperature, urine output.",
+        "ICP control strategies: 30° head elevation, midline head positioning, deep sedation, analgesia, osmotherapy (mannitol 0.25–1 g/kg or 3% hypertonic saline).",
+        "Correction of electrolyte disturbances and glucose fluctuations (avoid hypo/hyperglycemia).",
+        "Maintain normothermia (<37.5°C) and treat infections aggressively.",
+        "External ventricular drain placement in obstructive hydrocephalus or refractory ICP.",
+        "Decompressive craniectomy in cases with large mass effect or refractory intracranial hypertension.",
+        "Prophylaxis: deep vein thrombosis (DVT), stress ulcer, ventilator-associated pneumonia, and early seizures (phenytoin or levetiracetam)."
+      ]
+    },
+    "prognosis": {
+      "comment": "Outcome in severe TBI is influenced by initial injury severity, therapeutic response during the first 48–72 hours, and occurrence of secondary insults such as ICH, infection, or seizures. Poor prognosis is associated with clinical herniation signs, prolonged hypoxemia, and hypotension. With intensive multidisciplinary support and early rehabilitation, partial or complete neurologic recovery may be achieved in select cases."
+    },
+    "additional_notes": [
+      "Avoid prolonged chronic hyperventilation (PaCO₂ < 30 mmHg) beyond the acute phase.",
+      "Avoid hypotonic fluids; use isotonic saline or 3% NaCl under serum osmolality monitoring.",
+      "Steroids are contraindicated in severe TBI due to increased mortality.",
+      "Daily sedation holidays and neurologic assessment are essential for early awakening and ventilator weaning.",
+      "Early transfer to a dedicated neurorehabilitation center after clinical stabilization.",
+      "Continuous documentation of neurologic trends and adherence to neurocritical care protocols is recommended."
+    ],
+    "references": [
+      "Miller’s Anesthesia. 8th ed. Chapter 31 – Traumatic Brain Injury.",
+      "Guidelines for the Management of Severe Traumatic Brain Injury – Brain Trauma Foundation. 2020.",
+      "UpToDate. Severe traumatic brain injury in adults: Initial management. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Carney N, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. Neurosurgery. 2017."
+    ]
+  },
+  "ES": {
+    "titulo": "Traumatismo Craneoencefálico Grave",
+    "definicion": "El traumatismo craneoencefálico (TCE) grave se define como cualquier lesión cerebral traumática asociada a una puntuación en la escala de coma de Glasgow (ECG) ≤ 8 después de la reanimación inicial. Representa una emergencia neurológica crítica de alta complejidad, con disfunción cerebral aguda, riesgo de hipertensión intracraneal, herniación cerebral, inestabilidad autonómica y lesiones secundarias progresivas. Su manejo requiere estabilización sistémica rápida y cuidados neurocríticos especializados.",
+    "epidemiologia": "El TCE es una de las principales causas de muerte y discapacidad en adultos jóvenes, representando hasta el 50% de las muertes traumáticas. En países de ingresos bajos y medios, contribuye significativamente a hospitalizaciones prolongadas y discapacidades neurológicas permanentes. Se estima que entre el 10 y el 15% de los TCE son graves, con tasas de mortalidad o secuelas neurológicas severas que alcanzan el 40–50%. Los peores pronósticos están relacionados con pupilas no reactivas, hipotensión e hipoxemia prehospitalaria.",
+    "fisiopatologia": "El TCE grave incluye lesiones primarias —como contusión, laceración, hemorragia, fracturas y lesión axonal difusa— causadas por el impacto directo, y lesiones secundarias que se desarrollan progresivamente por isquemia, disfunción mitocondrial, edema cerebral, hipertensión intracraneal (HIC), convulsiones e inflamación neurotóxica. La alteración de la barrera hematoencefálica y la autorregulación cerebral comprometen la perfusión y aumentan el riesgo de daño neuronal irreversible.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Reflejo de Cushing: bradicardia, hipertensión y respiración irregular (indicativos de HIC).",
+        "Inestabilidad hemodinámica en politraumatismos asociados.",
+        "Hipotensión arterial (PAM < 65 mmHg) como marcador de mal pronóstico."
+      ],
+      "respiratorias": [
+        "Patrones respiratorios anormales (Cheyne-Stokes, apnéustica, atáxica) por lesión del tronco encefálico.",
+        "Hipoxemia e hipercapnia por disminución del impulso respiratorio o broncoaspiración.",
+        "Alto riesgo de insuficiencia respiratoria precoz con necesidad de ventilación mecánica."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Disminución del nivel de conciencia (ECG ≤ 8), agitación o coma.",
+        "Déficits motores focales, hemiparesia, midriasis fija unilateral o bilateral (signo de herniación transtentorial).",
+        "Convulsiones precoces o tardías, encefalopatía hipóxico-isquémica asociada.",
+        "Trastornos neuroendocrinos: hiponatremia (SIADH), diabetes insípida central, síndrome perdedor de sal cerebral."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "La evaluación inicial sigue el protocolo ABCDE con atención especial al Glasgow, respuesta pupilar, simetría motora y signos de herniación. Es fundamental conocer el mecanismo del trauma, el tiempo transcurrido y las intervenciones prehospitalarias. La sedación y la parálisis farmacológica pueden enmascarar signos neurológicos y deben registrarse cuidadosamente.",
+      "examenes_esenciales": [
+        "TC de cráneo sin contraste: examen inicial para detectar hematomas, fracturas, desplazamiento de la línea media, hidrocefalia y edema.",
+        "Monitoreo de presión intracraneal (PIC): indicado en pacientes con ECG ≤ 8 y alteraciones en la imagen o riesgo elevado de HIC.",
+        "Resonancia magnética cerebral: útil en fase subaguda para evaluar lesión axonal difusa y hematomas profundos.",
+        "EEG continuo: en casos de coma persistente, sospecha de estatus epiléptico no convulsivo o evaluación pronóstica.",
+        "Doppler transcraneal: evaluación del flujo cerebral, vasoespasmo e hipertensión intracraneal.",
+        "Laboratorios: electrolitos, función renal y hepática, coagulograma, gasometría arterial, biomarcadores neuronales (S100B, NSE)."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Deterioro profundo de la conciencia con pérdida de reflejos protectores de la vía aérea.",
+      "Hipoxemia refractaria (SpO₂ < 92%) o hipercapnia significativa.",
+      "Hernia cerebral inminente con bradipnea, apnea o respiración agónica.",
+      "Control de la PIC con hiperventilación transitoria y sedación continua en casos de HIC."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Estabilización hemodinámica intensiva con objetivo de PAM ≥ 65–70 mmHg utilizando cristaloides y vasopresores.",
+        "Intubación con secuencia rápida utilizando agentes neuroprotectores (etomidato, ketamina, propofol) y relajantes musculares.",
+        "Monitoreo invasivo: PIC, PAM, SpO₂, capnografía (PaCO₂ entre 35–40 mmHg), temperatura y diuresis.",
+        "Control de la PIC: elevación de la cabecera a 30°, alineación cervical, sedación profunda, analgesia, osmoterapia con manitol 0,25–1 g/kg o solución salina hipertónica al 3%.",
+        "Corrección de alteraciones hidroelectrolíticas y glucemia, evitando fluctuaciones bruscas.",
+        "Evitar hipertermia (objetivo < 37,5 °C) y tratar infecciones precozmente.",
+        "Drenaje ventricular externo en hidrocefalia obstructiva o PIC refractaria.",
+        "Craneotomía descompresiva en lesiones expansivas o HIC refractaria con riesgo de herniación.",
+        "Profilaxis: trombosis venosa profunda, úlceras de estrés, neumonía asociada a ventilación, convulsiones precoces (fenitoína o levetiracetam)."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico del TCE grave depende de la gravedad inicial, la respuesta en las primeras 48–72 horas y la aparición de complicaciones como HIC, infecciones o crisis convulsivas. La presencia de signos de herniación cerebral, hipoxemia prolongada o hipotensión se asocia a peores resultados. El soporte neurointensivo y la rehabilitación precoz pueden mejorar la recuperación neurológica."
+    },
+    "notas_adicionales": [
+      "Evitar hiperventilación crónica (PaCO₂ < 30 mmHg) más allá de la fase aguda.",
+      "Evitar soluciones hipotónicas; preferir suero salino al 0,9% o NaCl 3% con monitoreo de osmolaridad.",
+      "Contraindicados los corticoides en TCE grave por aumento de mortalidad.",
+      "Evaluación diaria del despertar neurológico y desmonte progresivo de la sedación.",
+      "Derivación precoz a centros de rehabilitación neurointensiva tras la estabilización clínica.",
+      "Documentación continua del estado neurológico y seguimiento de protocolos de neurointensivismo."
+    ],
+    "referencias": [
+      "Miller’s Anesthesia. 8ª ed. Capítulo 31 – Traumatismo Craneoencefálico.",
+      "Guías de la Brain Trauma Foundation para el Manejo del TCE Grave. 2020.",
+      "UpToDate. Manejo inicial del traumatismo craneoencefálico grave en adultos. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Carney N, et al. Guidelines for the Management of Severe Traumatic Brain Injury, Fourth Edition. Neurosurgery. 2017."
+    ]
+  }
+}

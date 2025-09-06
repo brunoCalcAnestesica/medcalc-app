@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Meningite com Rebaixamento do Nível de Consciência",
+    "definicao": "Meningite é a inflamação aguda das meninges e do espaço subaracnóideo, frequentemente de origem infecciosa. Quando cursa com rebaixamento do nível de consciência, indica envolvimento encefálico significativo, podendo evoluir para hipertensão intracraniana, crises epilépticas, herniação cerebral e morte. Essa associação representa uma emergência médica com necessidade de intervenção imediata e tratamento empírico precoce.",
+    "epidemiologia": "A meningite bacteriana aguda é mais prevalente em crianças, adultos jovens e idosos. No Brasil, os principais agentes são Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae tipo b e Listeria monocytogenes (especialmente em idosos e imunossuprimidos). O rebaixamento do nível de consciência está presente em 30–60% dos casos graves e associa-se a maior risco de mortalidade, sequelas neurológicas permanentes e necessidade de suporte ventilatório.",
+    "fisiopatologia": "A invasão do espaço subaracnóideo por microrganismos desencadeia resposta inflamatória exacerbada com liberação de citocinas, aumento da permeabilidade capilar e extravasamento de células e proteínas para o líquor. O processo leva à formação de edema cerebral vasogênico, intersticial e citotóxico, aumento da pressão intracraniana (PIC) e redução da perfusão cerebral. A disfunção neuronal generalizada resulta em rebaixamento do nível de consciência e, em casos graves, herniação cerebral. Vasculite meníngea e trombose venosa cortical também podem contribuir para dano neurológico.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão associada à sepse, especialmente em infecção meningocócica.",
+        "Púrpura fulminante em meningococcemia.",
+        "Choque séptico em evolução com má perfusão periférica."
+      ],
+      "respiratorias": [
+        "Hiperventilação compensatória.",
+        "Bradipneia e apneia em casos de herniação cerebral iminente.",
+        "Necessidade de suporte ventilatório invasivo em GCS ≤ 8."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Confusão, sonolência, torpor ou coma.",
+        "Rigidez de nuca, sinais de Brudzinski e Kernig positivos.",
+        "Crises convulsivas focais ou generalizadas, com ou sem recuperação do sensório."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é clínico-epidemiológico e deve ser confirmado por punção lombar com análise do líquor. Em pacientes com rebaixamento do nível de consciência, deve-se realizar TC de crânio antes da punção lombar para excluir hipertensão intracraniana. A coleta de culturas e o início da antibioticoterapia não devem ser retardados.",
+      "exames_essenciais": [
+        "Punção lombar: celularidade >1000 células/mm³ (predomínio de neutrófilos), hipoglicorraquia, proteinorraquia, gram positivo ou negativo e cultura positiva.",
+        "TC de crânio: indicada antes da punção em casos de rebaixamento de consciência, papiledema, crise convulsiva recente ou déficit focal.",
+        "Hemoculturas: positivas em até 80% dos casos de meningite bacteriana.",
+        "PCR do líquor para detecção rápida de DNA bacteriano.",
+        "Lactato e procalcitonina séricos: auxiliares no diagnóstico diferencial com meningites virais.",
+        "EEG em casos com rebaixamento prolongado ou suspeita de crises não convulsivas.",
+        "Avaliação do GCS e sinais de herniação cerebral (anisocoria, resposta extensor dos membros, apneia)."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "GCS ≤ 8 ou deterioração neurológica rápida.",
+      "Hipoxemia refratária ou hipercapnia com instabilidade hemodinâmica.",
+      "Crises epilépticas recorrentes ou status epilepticus.",
+      "Presença de hipertensão intracraniana com rebaixamento progressivo do nível de consciência."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Administração de antibióticos empíricos antes mesmo da confirmação diagnóstica.",
+        "Dexametasona 10 mg IV a cada 6h iniciada antes do antibiótico em suspeita de pneumococo.",
+        "Transferência para UTI com suporte ventilatório e neurológico contínuo.",
+        "Intubação orotraqueal e ventilação protetora em pacientes com coma ou crise convulsiva prolongada.",
+        "Controle da PIC: sedação, manitol 0,25–1 g/kg, salina hipertônica 3%, elevação da cabeceira a 30°.",
+        "Punção lombar de alívio apenas sob monitoramento e em casos de PIC controlada.",
+        "Anticonvulsivantes profiláticos em pacientes com crises ou TC sugestiva de envolvimento cortical."
+      ]
+    },
+    "prognostico": {
+      "comentario": "A meningite associada a rebaixamento do nível de consciência apresenta prognóstico reservado. A mortalidade é elevada e o risco de sequelas neurológicas como déficit motor, perda auditiva e epilepsia é maior. A intervenção precoce com antibióticos, suporte ventilatório e manejo agressivo da PIC são determinantes para a sobrevida e recuperação funcional."
+    },
+    "notas_adicionais": [
+      "O atraso na administração dos antibióticos está diretamente associado a aumento da mortalidade.",
+      "Ceftriaxona + vancomicina é o esquema inicial preferido para adultos até 50 anos.",
+      "Ampicilina deve ser adicionada em pacientes idosos ou imunossuprimidos (Listeria monocytogenes).",
+      "A dexametasona deve ser mantida por 4 dias em infecções por pneumococo confirmadas.",
+      "É obrigatória a notificação compulsória dos casos confirmados de meningite meningocócica.",
+      "O EEG pode detectar crises subclínicas e orientar ajuste terapêutico em encefalopatia prolongada."
+    ],
+    "fontes_bibliograficas": [
+      "Harrison's Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Cap. 67 – Doenças Neurológicas Agudas.",
+      "UpToDate. Acute bacterial meningitis in adults: Clinical features and diagnosis. 2024.",
+      "SBInfecto. Diretrizes Brasileiras para Meningite Bacteriana. 2021.",
+      "Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases. 9ª ed."
+    ]
+  },
+  "US": {
+    "title": "Meningitis with Depressed Level of Consciousness",
+    "definition": "Meningitis is an acute inflammation of the leptomeninges and subarachnoid space, most often caused by bacterial, viral, or fungal infections. When accompanied by a depressed level of consciousness, it indicates diffuse brain involvement and is associated with a higher risk of neurological deterioration, seizures, herniation, and death. This combination is a true neurologic emergency that requires immediate empiric treatment.",
+    "epidemiology": "Bacterial meningitis is most prevalent in children under 5, the elderly, and immunocompromised individuals. The leading pathogens in adults include Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae type b, and Listeria monocytogenes. Altered mental status occurs in 30–60% of severe cases and is strongly correlated with mortality and long-term neurological sequelae. Delay in initiating antimicrobial therapy is a key modifiable risk factor for poor outcomes.",
+    "pathophysiology": "Pathogen entry into the cerebrospinal fluid triggers a robust inflammatory response, with cytokine release, increased blood-brain barrier permeability, and leukocyte infiltration. This results in vasogenic, interstitial, and cytotoxic cerebral edema, elevated intracranial pressure (ICP), and reduced cerebral perfusion. Neuronal dysfunction and ischemia contribute to altered mental status. Additional complications include meningeal vasculitis, cortical thrombosis, and secondary herniation.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hypotension due to sepsis, particularly in meningococcal infection.",
+        "Cutaneous purpura and petechiae in meningococcemia.",
+        "Septic shock with cold extremities and delayed capillary refill."
+      ],
+      "respiratorias": [
+        "Compensatory hyperventilation early in the course.",
+        "Bradypnea and apnea in impending cerebral herniation.",
+        "Need for mechanical ventilation in GCS ≤ 8 or respiratory failure."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Confusion, stupor, lethargy, or coma.",
+        "Positive meningeal signs: neck stiffness, Brudzinski, Kernig.",
+        "Seizures: focal or generalized, with or without full recovery of consciousness."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Diagnosis is based on clinical suspicion and cerebrospinal fluid analysis. In patients with depressed consciousness, a CT scan is recommended before lumbar puncture to rule out mass effect or elevated ICP. Blood cultures and empiric antibiotics should be administered promptly without delay.",
+      "exames_essenciais": [
+        "Lumbar puncture: CSF pleocytosis (>1000 cells/mm³), hypoglycorrhachia, elevated protein, positive gram stain and culture.",
+        "Brain CT before LP if GCS < 13, papilledema, recent seizures, or focal deficit.",
+        "Blood cultures: positive in up to 80% of bacterial meningitis cases.",
+        "CSF PCR for rapid pathogen identification.",
+        "Serum lactate and procalcitonin to aid in distinguishing bacterial from viral causes.",
+        "EEG in patients with persistent encephalopathy or suspected nonconvulsive status epilepticus.",
+        "Neurological evaluation using GCS and signs of cerebral herniation (anisocoria, extensor posturing, apnea)."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 or rapid neurological deterioration.",
+      "Refractory hypoxemia or hypercapnia with hemodynamic instability.",
+      "Recurrent seizures or status epilepticus.",
+      "Signs of elevated ICP with declining level of consciousness."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Prompt administration of broad-spectrum IV antibiotics before confirmation.",
+        "Dexamethasone 10 mg IV every 6 hours, initiated before or with the first antibiotic dose if pneumococcal infection is suspected.",
+        "Immediate ICU transfer for continuous neurological and respiratory support.",
+        "Orotracheal intubation and protective mechanical ventilation in patients with coma or prolonged seizures.",
+        "ICP control: sedation, mannitol (0.25–1 g/kg), 3% hypertonic saline, head elevation to 30°.",
+        "Therapeutic LP may be considered only under close monitoring and controlled ICP.",
+        "Prophylactic antiepileptic therapy in patients with seizures or cortical involvement on neuroimaging."
+      ]
+    },
+    "prognosis": {
+      "comment": "Meningitis with depressed level of consciousness carries a poor prognosis. Mortality and risk of long-term sequelae such as motor deficits, hearing loss, and epilepsy are significantly increased. Early antibiotic therapy, airway protection, and aggressive ICP management are key to improving survival and neurological recovery."
+    },
+    "additional_notes": [
+      "Delays in antibiotic initiation are directly associated with increased mortality.",
+      "Initial empiric regimen: ceftriaxone plus vancomycin for patients under 50.",
+      "Add ampicillin in elderly or immunocompromised individuals for Listeria coverage.",
+      "Continue dexamethasone for 4 days if pneumococcal infection is confirmed.",
+      "Mandatory reporting of confirmed meningococcal meningitis cases to public health authorities.",
+      "EEG is useful to detect subclinical seizures and guide therapy adjustment in persistent encephalopathy."
+    ],
+    "references": [
+      "Harrison's Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 67 – Acute Neurologic Diseases.",
+      "UpToDate. Acute bacterial meningitis in adults: Clinical features and diagnosis. 2024.",
+      "Brazilian Society of Infectious Diseases. Guidelines on Bacterial Meningitis. 2021.",
+      "Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Diseases. 9th ed."
+    ]
+  },
+  "ES": {
+    "titulo": "Meningitis con Disminución del Nivel de Conciencia",
+    "definicion": "La meningitis es una inflamación aguda de las leptomeninges y del espacio subaracnoideo, generalmente de origen infeccioso. Cuando se asocia a disminución del nivel de conciencia, sugiere compromiso encefálico difuso y se considera una urgencia neurológica. Puede evolucionar rápidamente con edema cerebral, crisis convulsivas, hipertensión intracraneana y riesgo de herniación cerebral.",
+    "epidemiologia": "La meningitis bacteriana es más frecuente en niños menores de 5 años, adultos mayores e inmunocomprometidos. Streptococcus pneumoniae y Neisseria meningitidis son los principales agentes etiológicos en adultos. La alteración del sensorio está presente en hasta 60% de los casos graves y se asocia con mayor mortalidad, necesidad de ventilación mecánica y riesgo de secuelas neurológicas permanentes. El inicio temprano del tratamiento antimicrobiano reduce drásticamente las complicaciones.",
+    "fisiopatologia": "La invasión del espacio subaracnoideo por patógenos genera una respuesta inflamatoria masiva, con liberación de citocinas, disfunción de la barrera hematoencefálica y acumulación de células y proteínas en el líquido cefalorraquídeo. Esto conduce a edema cerebral (vasogénico, intersticial y citotóxico), aumento de la presión intracraneana y reducción del flujo sanguíneo cerebral. Las complicaciones incluyen trombosis venosa cortical, vasculitis meníngea y herniación cerebral secundaria.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión secundaria a sepsis meningocócica.",
+        "Púrpura fulminante o petequias generalizadas.",
+        "Choque séptico con extremidades frías y llenado capilar prolongado."
+      ],
+      "respiratorias": [
+        "Hiperventilación compensatoria inicial.",
+        "Bradipnea o apnea en fases avanzadas por disfunción de tronco cerebral.",
+        "Necesidad de ventilación mecánica en pacientes con GCS ≤ 8 o compromiso respiratorio."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Letargia, estupor, coma.",
+        "Signos meníngeos positivos: rigidez de nuca, Brudzinski, Kernig.",
+        "Crisis convulsivas focales o generalizadas, con o sin recuperación completa del sensorio."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "El diagnóstico se basa en la sospecha clínica y en el análisis del líquido cefalorraquídeo. En pacientes con nivel de conciencia alterado se debe realizar tomografía antes de la punción lumbar para descartar hipertensión endocraneana. La terapia antibiótica empírica no debe retrasarse.",
+      "exames_essenciais": [
+        "Punción lumbar: pleocitosis (>1000 células/mm³), hipoglucorraquia, hiperproteinorraquia, gram y cultivo positivos.",
+        "TC de cráneo: antes de la PL si GCS < 13, papiledema, crisis recientes o déficit neurológico focal.",
+        "Hemocultivos: positivos en hasta 80% de los casos de meningitis bacteriana.",
+        "PCR del LCR para identificación rápida del agente causal.",
+        "Lactato sérico y procalcitonina para diferenciar causas bacterianas y virales.",
+        "EEG si hay sospecha de status epiléptico no convulsivo o encefalopatía prolongada.",
+        "Evaluación neurológica con escala de Glasgow y signos de herniación cerebral (anisocoria, posturas de descerebración, apnea)."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8 o deterioro neurológico acelerado.",
+      "Hipoxemia o hipercapnia refractarias con inestabilidad hemodinámica.",
+      "Crisis epilépticas recurrentes o status epiléptico.",
+      "Signos de hipertensión intracraneana con disminución progresiva del nivel de conciencia."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Inicio inmediato de antibióticos intravenosos de amplio espectro.",
+        "Dexametasona 10 mg IV cada 6h iniciada antes o junto con la primera dosis de antibiótico (sospecha de neumococo).",
+        "Traslado a unidad de cuidados intensivos con monitoreo neurológico y respiratorio.",
+        "Intubación orotraqueal y ventilación protectora en pacientes con coma o convulsiones prolongadas.",
+        "Control de la PIC: sedación, manitol (0,25–1 g/kg), solución salina hipertónica al 3%, elevación de la cabeza a 30°.",
+        "PL terapéutica solo bajo monitoreo y si la PIC está controlada.",
+        "Antiepilépticos profilácticos en pacientes con convulsiones o imagen con compromiso cortical."
+      ]
+    },
+    "prognosis": {
+      "comment": "La meningitis asociada a alteración del estado de conciencia tiene un pronóstico reservado. Se asocia con mayor riesgo de muerte y secuelas como déficit neurológico, hipoacusia y epilepsia. El inicio precoz del tratamiento antibiótico, el manejo agresivo de la PIC y el soporte intensivo son determinantes para la supervivencia y recuperación funcional."
+    },
+    "additional_notes": [
+      "El retraso en el inicio de antibióticos se asocia directamente a aumento de la mortalidad.",
+      "Esquema inicial recomendado: ceftriaxona + vancomicina en adultos menores de 50 años.",
+      "Agregar ampicilina en mayores de 50 años o inmunocomprometidos para cubrir Listeria monocytogenes.",
+      "La dexametasona debe mantenerse durante 4 días si se confirma infección por neumococo.",
+      "La notificación obligatoria es requerida en casos de meningitis meningocócica confirmada.",
+      "El EEG permite detectar crisis subclínicas y orientar tratamiento en encefalopatías persistentes."
+    ],
+    "references": [
+      "Harrison's Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 67 – Enfermedades Neurológicas Agudas.",
+      "UpToDate. Meningitis bacteriana aguda en adultos: características clínicas y diagnóstico. 2024.",
+      "Sociedad Brasileña de Infectología. Guía de Meningitis Bacteriana. 2021.",
+      "Mandell, Douglas y Bennett. Principios y Práctica de Enfermedades Infecciosas. 9ª ed."
+    ]
+  }
+}

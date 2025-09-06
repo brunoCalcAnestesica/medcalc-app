@@ -1,0 +1,194 @@
+{
+  "PT": {
+    "titulo": "Asma Aguda Grave",
+    "definicao": "A asma aguda grave, ou estado de mal asmático, é uma exacerbação intensa e potencialmente fatal da asma, caracterizada por obstrução brônquica refratária ao tratamento inicial com broncodilatadores e corticosteroides. Essa condição cursa com hipoxemia, retenção de CO₂, fadiga muscular respiratória e risco iminente de parada respiratória, sendo uma emergência médica crítica.",
+    "epidemiologia": "Afeta principalmente crianças e adultos jovens com asma mal controlada, exposição a gatilhos como infecções virais, alérgenos, poluentes ou uso inadequado de medicações. A mortalidade é maior em indivíduos com histórico de intubação, hospitalizações frequentes ou uso excessivo de beta2-agonistas de ação curta (SABA).",
+    "fisiopatologia": "Há broncoconstrição difusa, inflamação intensa da mucosa brônquica e hipersecreção de muco, resultando em aumento da resistência das vias aéreas, aprisionamento aéreo e hiperinsuflação dinâmica. A complacência pulmonar diminui, o trabalho respiratório aumenta e, em fases avançadas, ocorre falência ventilatória com acidose respiratória e hipercapnia.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia (resposta à hipóxia ou beta2-agonistas)",
+        "Hipotensão arterial em casos de pneumotórax ou ventilação mecânica inapropriada"
+      ],
+      "respiratorias": [
+        "Dispneia intensa, ortopneia",
+        "Sibilos difusos ou ausência de ruídos respiratórios (silêncio torácico)",
+        "Uso de musculatura acessória, tiragem, batimento de asa de nariz"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Ansiedade, agitação ou torpor",
+        "Hipoxemia (SpO₂ < 92%), hipercapnia, acidose",
+        "Fadiga muscular respiratória e confusão em estágios terminais"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Suspeita baseada em paciente com diagnóstico prévio de asma que apresenta dispneia progressiva, uso de musculatura acessória, necessidade de doses repetidas de broncodilatadores e resposta insuficiente ao tratamento inicial.",
+      "exames_essenciais": [
+        "Oximetria de pulso e avaliação clínica seriada",
+        "Gasometria arterial: hipercapnia (PaCO₂ > 45 mmHg), acidose respiratória (pH < 7,25)",
+        "Radiografia de tórax (excluir pneumotórax, pneumonia, atelectasia)",
+        "Lactato, eletrólitos, hemograma e PCR para avaliação de gravidade"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Rebaixamento do nível de consciência (Glasgow < 12)",
+      "Hipoxemia refratária (SpO₂ < 90% com oxigênio suplementar)",
+      "Hipercapnia grave com acidose (PaCO₂ > 60 mmHg e pH < 7,20)",
+      "Silêncio auscultatório ou falência iminente da musculatura respiratória"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxigenoterapia com FiO₂ 100% via máscara com reservatório",
+        "Salbutamol inalatório contínuo (2,5 mg a cada 20 min ou bomba dosimetrada com espaçador)",
+        "Brometo de ipratrópio 0,5 mg a cada 20 min nas primeiras 2 horas",
+        "Corticosteroides sistêmicos precoces: hidrocortisona 200 mg IV ou prednisolona 50 mg VO",
+        "Sulfato de magnésio 2–4 g IV em infusão lenta (20–30 min)",
+        "Hidratação venosa cuidadosa para evitar hiper-hidratação e congestão",
+        "Ventilação não invasiva em pacientes conscientes com sinais de fadiga",
+        "IOT precoce se deterioração clínica, utilizando sedação com quetamina e estratégia de ventilação protetora com permissividade à hipercapnia"
+      ]
+    },
+    "prognostico": {
+      "comentario": "A maioria dos pacientes responde ao tratamento intensivo nas primeiras horas. Casos que evoluem para necessidade de IOT apresentam maior risco de complicações como barotrauma, hipoperfusão cerebral e infecção. O controle da doença de base e educação do paciente são essenciais para evitar recorrência."
+    },
+    "notas_adicionais": [
+      "Evitar morfina, benzodiazepínicos e agentes que deprimam o centro respiratório",
+      "Evitar hiperventilação mecânica – preferir estratégia de hipercapnia permissiva",
+      "Avaliar fatores desencadeantes e revisar plano terapêutico ao final do episódio",
+      "Encaminhar para pneumologista ou programa de manejo da asma após a alta"
+    ],
+    "fontes_bibliograficas": [
+      "GINA 2023 – Global Initiative for Asthma: Global Strategy for Asthma Management and Prevention.",
+      "Marino PL. The ICU Book. 4ª ed. Lippincott Williams & Wilkins; 2014.",
+      "Sociedade Brasileira de Pneumologia – Diretrizes para o Manejo da Asma, 2020.",
+      "UpToDate. Acute exacerbations of asthma in adults: Emergency department and inpatient management."
+    ]
+  },
+  "US": {
+    "titulo": "Severe Acute Asthma",
+    "definicao": "Severe acute asthma, also known as status asthmaticus, is a life-threatening exacerbation of asthma characterized by progressive airflow obstruction unresponsive to initial treatment with inhaled bronchodilators and corticosteroids. It presents with hypoxemia, hypercapnia, respiratory muscle fatigue, and risk of respiratory arrest, requiring immediate intervention.",
+    "epidemiologia": "Common in children and young adults with poorly controlled asthma, particularly when exposed to triggers such as viral infections, allergens, pollution, or poor adherence to medication. Higher mortality rates are seen in patients with prior intubations, frequent hospitalizations, or excessive use of short-acting beta2-agonists (SABA).",
+    "fisiopatologia": "Severe bronchoconstriction, airway inflammation, and mucus hypersecretion lead to increased airway resistance, air trapping, dynamic hyperinflation, and reduced pulmonary compliance. These changes increase respiratory workload and, in advanced cases, cause ventilatory failure, hypercapnia, and respiratory acidosis.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Tachycardia (due to hypoxia or beta2-agonists)",
+        "Hypotension in advanced cases or due to complications (e.g., pneumothorax)"
+      ],
+      "respiratorias": [
+        "Severe dyspnea, orthopnea",
+        "Diffuse wheezing or silent chest on auscultation",
+        "Use of accessory muscles, nasal flaring, intercostal retractions"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Anxiety, agitation or lethargy",
+        "Progressive hypoxemia and hypercapnia",
+        "Confusion or decreased consciousness in advanced stages"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Clinical diagnosis based on history of asthma and an acute episode of worsening shortness of breath, poor response to initial treatment, and signs of increased work of breathing.",
+      "exames_essenciais": [
+        "Pulse oximetry and serial clinical assessments",
+        "Arterial blood gas (ABG): PaCO₂ > 45 mmHg and pH < 7.25 indicate severity",
+        "Chest X-ray (rule out pneumothorax, pneumonia, atelectasis)",
+        "Lactate, electrolytes, CBC, and CRP to evaluate severity and rule out complications"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Decreased level of consciousness (GCS < 12)",
+      "Severe hypoxemia despite high-flow oxygen (SpO₂ < 90%)",
+      "Severe hypercapnia (PaCO₂ > 60 mmHg and pH < 7.20)",
+      "Silent chest or signs of impending respiratory failure"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "High-flow oxygen via non-rebreather mask (FiO₂ 100%)",
+        "Continuous nebulized salbutamol (2.5 mg every 20 min or via MDI with spacer)",
+        "Inhaled ipratropium bromide 0.5 mg every 20 min in first 2 hours",
+        "Early administration of systemic corticosteroids (hydrocortisone 200 mg IV or prednisolone 50 mg PO)",
+        "IV magnesium sulfate 2–4 g over 20–30 min in cases of poor initial response",
+        "Careful IV hydration to avoid fluid overload",
+        "Non-invasive ventilation in alert, cooperative patients with fatigue",
+        "Early intubation in clinical deterioration using ketamine for sedation and protective ventilation strategy with permissive hypercapnia"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis is good with early and aggressive treatment. Patients requiring intubation are at higher risk of complications such as barotrauma and infections. Long-term management and education are essential to prevent recurrence."
+    },
+    "notas_adicionais": [
+      "Avoid sedatives, opioids, or any agents that depress respiratory drive",
+      "Avoid hyperventilation with mechanical ventilation – use permissive hypercapnia strategy",
+      "Identify triggers and reassess maintenance treatment upon discharge",
+      "Refer to pulmonologist or asthma management program for follow-up"
+    ],
+    "fontes_bibliograficas": [
+      "GINA 2023 – Global Initiative for Asthma: Global Strategy for Asthma Management and Prevention.",
+      "Marino PL. The ICU Book. 4th ed. Lippincott Williams & Wilkins; 2014.",
+      "British Thoracic Society/Scottish Intercollegiate Guidelines Network. BTS/SIGN asthma guideline 2019.",
+      "UpToDate. Severe asthma exacerbations in adults: Emergency department and inpatient management."
+    ]
+  },
+  "ES": {
+    "titulo": "Asma Aguda Grave",
+    "definicao": "El asma aguda grave, también conocida como estado asmático, es una exacerbación potencialmente mortal de asma que se caracteriza por obstrucción bronquial persistente, refractaria al tratamiento inicial con broncodilatadores y corticosteroides inhalados. Requiere intervención urgente debido al riesgo de hipoxemia severa, fatiga muscular respiratoria y paro respiratorio inminente.",
+    "epidemiologia": "Frecuente en niños, adolescentes y adultos jóvenes con asma mal controlada, exposición a alérgenos, infecciones respiratorias o factores desencadenantes ambientales. La mortalidad es mayor en pacientes con antecedentes de hospitalizaciones, intubación o uso excesivo de agonistas beta2 de corta acción.",
+    "fisiopatologia": "Se produce broncoconstricción difusa, inflamación de la mucosa bronquial y aumento de la secreción mucosa, lo que genera aumento de la resistencia al flujo aéreo, atrapamiento de aire, hiperinsuflación dinámica y disminución de la distensibilidad pulmonar. En fases avanzadas hay fatiga muscular respiratoria, hipercapnia y acidosis respiratoria.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Taquicardia por hipoxia o fármacos",
+        "Hipotensión en caso de neumotórax o fatiga extrema"
+      ],
+      "respiratorias": [
+        "Disnea severa, ortopnea",
+        "Sibilancias generalizadas o tórax silencioso",
+        "Uso de musculatura accesoria, retracciones, aleteo nasal"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Ansiedad, agitación, somnolencia",
+        "Hipoxemia persistente, hipercapnia",
+        "Confusión, estupor, coma"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Diagnóstico clínico basado en historia previa de asma, disnea progresiva, sibilancias persistentes, uso de musculatura accesoria y respuesta insuficiente al tratamiento convencional.",
+      "exames_essenciais": [
+        "Oximetría de pulso",
+        "Gasometría arterial (PaCO₂ > 45 mmHg, pH < 7.25)",
+        "Radiografía de tórax (descartar neumotórax, neumonía, atelectasia)",
+        "Electrolitos, hemograma, lactato, PCR"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Disminución del nivel de conciencia",
+      "Hipoxemia refractaria (SatO₂ < 90%)",
+      "Hipercapnia severa con acidosis (PaCO₂ > 60 mmHg, pH < 7.20)",
+      "Tórax silencioso o signos de agotamiento respiratorio"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Oxígeno con mascarilla de reservorio (FiO₂ 100%)",
+        "Salbutamol nebulizado continuo o con espaciador cada 20 min",
+        "Bromuro de ipratropio 0.5 mg cada 20 min durante 2 h",
+        "Corticoides sistémicos tempranos: hidrocortisona 200 mg IV o prednisona 50 mg VO",
+        "Sulfato de magnesio 2–4 g IV lento en 20–30 min si no hay respuesta",
+        "Hidratación cautelosa para evitar sobrecarga",
+        "Ventilación no invasiva en pacientes conscientes y cooperativos",
+        "Intubación precoz en caso de deterioro, usando ketamina y ventilación protectora con hipercapnia permisiva"
+      ]
+    },
+    "prognostico": {
+      "comentario": "La mayoría de los pacientes responde al tratamiento agresivo inicial. Aquellos que requieren intubación presentan mayor riesgo de complicaciones respiratorias e infecciosas. La educación del paciente y el seguimiento ambulatorio son fundamentales para evitar recaídas."
+    },
+    "notas_adicionais": [
+      "Evitar morfina, benzodiacepinas o sedantes que depriman el centro respiratorio",
+      "Evitar hiperventilación en VM – utilizar estrategia de hipercapnia permisiva",
+      "Evaluar factores desencadenantes y revisar tratamiento de mantenimiento",
+      "Derivar a neumología o programa de control del asma tras el alta"
+    ],
+    "fontes_bibliograficas": [
+      "GINA 2023 – Estrategia Global para el Manejo y la Prevención del Asma.",
+      "Sociedad Española de Neumología – SEPAR.",
+      "Marino PL. The ICU Book. 4ª ed. Lippincott Williams & Wilkins; 2014.",
+      "UpToDate. Exacerbaciones graves de asma en adultos: manejo hospitalario y en urgencias."
+    ]
+  }
+}

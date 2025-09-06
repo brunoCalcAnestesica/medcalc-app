@@ -1,0 +1,203 @@
+{
+  "PT": {
+    "titulo": "Obstrução de Vias Aéreas Superiores",
+    "definicao": "A obstrução de vias aéreas superiores (VA) é uma emergência médica crítica caracterizada pela limitação parcial ou total do fluxo aéreo entre as narinas ou cavidade oral e a carina. Envolve estruturas como nasofaringe, orofaringe, laringe e traqueia cervical. As causas incluem infecção, inflamação, edema, trauma, corpo estranho, tumores e anomalias anatômicas. O reconhecimento e tratamento imediato são essenciais para evitar parada cardiorrespiratória por hipóxia.",
+    "epidemiologia": "Mais comum em crianças (epiglotite, crupe, corpo estranho), adultos com neoplasias de cabeça e pescoço, vítimas de trauma cervical/facial e pacientes submetidos a procedimentos orotraqueais. Ambientes pré-hospitalares concentram os casos mais graves, frequentemente com diagnóstico inicial clínico. Obstruções agudas são mais letais do que subagudas ou crônicas, e a prevalência aumenta em populações com barreiras de acesso a cuidados de emergência.",
+    "fisiopatologia": "A obstrução limita o fluxo aéreo e eleva a resistência das vias aéreas, resultando em hipoventilação, hipóxia, hipercapnia e acidose respiratória. Obstruções supraglóticas tendem a causar colapso inspiratório (estridor), enquanto subglóticas ou traqueais podem gerar estridor bifásico ou sibilos. A resposta ventilatória inclui aumento do esforço respiratório, ativação de musculatura acessória e, em casos avançados, fadiga muscular e colapso ventilatório.",
+    "manifestações_clinicas": {
+      "sinais_inespecificos": [
+        "Estridor inspiratório (característico de obstrução supraglótica).",
+        "Roncos, sibilos centrais ou estridor bifásico (obstrução subglótica ou traqueal).",
+        "Dispneia, retrações supraesternais e intercostais.",
+        "Cianose, taquipneia, uso de musculatura acessória.",
+        "Afonia, disfonia, engasgos, odinofagia ou disfagia.",
+        "Ansiedade, agitação e sensação iminente de morte."
+      ],
+      "sinais_graves": [
+        "Silêncio respiratório (obstrução total).",
+        "Bradicardia, hipotensão e parada cardiorrespiratória.",
+        "Movimentos respiratórios paradoxais.",
+        "Rebaixamento do nível de consciência ou coma hipoxêmico."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é essencialmente clínico, baseado na avaliação da dinâmica respiratória, ausculta, padrão ventilatório e alterações de fonação. Em casos subagudos ou crônicos, exames complementares são importantes para identificar a etiologia e planejar a intervenção definitiva.",
+      "exames_essenciais": [
+        "Laringoscopia direta ou fibronasofibroscopia (em ambiente controlado).",
+        "Radiografia cervical em perfil (sinal do polegar na epiglotite, estreitamento subglótico no crupe).",
+        "Tomografia de pescoço e tórax em suspeitas tumorais ou obstrução subaguda.",
+        "Gasometria arterial: hipoxemia, hipercapnia e acidose respiratória.",
+        "Monitorização de oximetria, capnografia e sinais vitais."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Estridor em repouso com SpO₂ &lt; 90% ou desconforto respiratório acentuado.",
+      "Fadiga muscular respiratória evidente.",
+      "Rebaixamento do nível de consciência com risco de broncoaspiração.",
+      "Evidência de obstrução total ou colapso iminente.",
+      "Hipoventilação progressiva com acidose respiratória grave."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Assegurar via aérea com manobras básicas (elevação do mento, tração mandibular, cânula orofaríngea se necessário).",
+        "Oxigenoterapia com FiO₂ elevada por máscara de reservatório.",
+        "Evitar sedação em obstruções parciais instáveis — pode precipitar colapso total.",
+        "Intubação orotraqueal por profissional experiente com preparo para via aérea difícil.",
+        "Em falha de intubação ou obstrução total, realizar cricotireoidotomia ou traqueostomia de urgência.",
+        "Identificar e tratar a causa base: antibióticos (epiglotite), corticoterapia (edema), broncoscopia (corpo estranho), cirurgia (tumores, trauma).",
+        "Transferência para centro terciário com suporte cirúrgico e intensivista se necessário."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O desfecho depende do tempo de obstrução, da etiologia e da resposta precoce à intervenção. Casos tratados prontamente apresentam recuperação completa. Obstruções prolongadas levam a encefalopatia hipóxica, lesões neurológicas irreversíveis e óbito. Monitoramento contínuo e equipe treinada em manejo de via aérea são cruciais para reduzir a mortalidade."
+    },
+    "notas_adicionais": [
+      "Preparar-se para falência de via aérea em pacientes com tumores cervicais, traumas penetrantes e pós-operatório de pescoço.",
+      "Capnografia contínua auxilia na detecção precoce de deterioração ventilatória.",
+      "A intubação em ambiente hostil ou por profissional inexperiente aumenta risco de lesão e falha.",
+      "A presença de estridor em repouso é critério de gravidade e demanda avaliação imediata.",
+      "Equipamento de via aérea difícil deve estar sempre disponível em emergências respiratórias."
+    ],
+    "fontes_bibliograficas": [
+      "Manual de Suporte Avançado de Vida em Anestesia – SAVA SBA. 2022.",
+      "UpToDate. Evaluation and management of upper airway obstruction in adults. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 55 – Difficult Airway Management.",
+      "Diretrizes da Sociedade Brasileira de Otorrinolaringologia – Vias aéreas superiores. 2023."
+    ]
+  },
+  "US": {
+    "title": "Upper Airway Obstruction",
+    "definition": "Upper airway obstruction is a life-threatening emergency characterized by partial or complete blockage of airflow between the nares or oral cavity and the carina. It involves structures such as the nasopharynx, oropharynx, larynx, and cervical trachea. Causes include infection, inflammation, trauma, edema, foreign bodies, tumors, and anatomical anomalies. Immediate recognition and airway intervention are essential to prevent hypoxic cardiorespiratory arrest.",
+    "epidemiology": "It is more common in pediatric populations (e.g., epiglottitis, croup, foreign bodies), patients with head and neck tumors, facial/cervical trauma victims, and those undergoing oropharyngeal procedures. Prehospital environments often report the most critical cases. Acute obstructions carry a higher mortality than subacute or chronic ones. Prevalence increases in populations with delayed access to emergency care.",
+    "pathophysiology": "Airway obstruction increases resistance and impairs airflow, resulting in hypoventilation, hypoxemia, hypercapnia, and respiratory acidosis. Supraglottic obstructions typically produce inspiratory stridor due to dynamic collapse, while subglottic or tracheal lesions may generate biphasic stridor or central wheezing. Progressive ventilatory failure results from increased work of breathing, use of accessory muscles, and eventual respiratory muscle fatigue.",
+    "clinical_manifestations": {
+      "nonspecific_signs": [
+        "Inspiratory stridor (supraglottic obstruction).",
+        "Central wheezing, biphasic stridor (subglottic or tracheal obstruction).",
+        "Dyspnea with intercostal and suprasternal retractions.",
+        "Cyanosis, tachypnea, use of accessory muscles.",
+        "Aphonia, dysphonia, choking, odynophagia, dysphagia.",
+        "Agitation, anxiety, sense of impending doom."
+      ],
+      "severe_signs": [
+        "Silent chest (complete obstruction).",
+        "Bradycardia, hypotension, cardiorespiratory arrest.",
+        "Paradoxical chest wall movements.",
+        "Depressed consciousness or hypoxic coma."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is primarily clinical and based on assessment of respiratory effort, breath sounds, ventilation pattern, and phonatory changes. In subacute or chronic cases, complementary imaging and endoscopic evaluations aid in identifying the etiology and determining definitive management.",
+      "essential_tests": [
+        "Direct laryngoscopy or flexible nasolaryngoscopy (in a controlled setting).",
+        "Lateral neck X-ray (thumb sign in epiglottitis, steeple sign in croup).",
+        "CT scan of neck and chest (tumors, subacute airway narrowing).",
+        "Arterial blood gas: respiratory acidosis, hypercapnia, hypoxemia.",
+        "Continuous pulse oximetry, capnography, vital signs monitoring."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Resting stridor with SpO₂ &lt; 90% or marked respiratory distress.",
+      "Visible respiratory muscle fatigue.",
+      "Decreased level of consciousness with aspiration risk.",
+      "Impending airway collapse or total obstruction.",
+      "Progressive hypoventilation with severe acidosis."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Basic airway maneuvers: chin lift, jaw thrust, oral airway if indicated.",
+        "Administer high FiO₂ via non-rebreather mask.",
+        "Avoid sedation in unstable partial obstructions to prevent complete collapse.",
+        "Endotracheal intubation by an experienced provider, anticipating difficult airway.",
+        "If intubation fails or total obstruction occurs, perform emergency cricothyrotomy or tracheostomy.",
+        "Treat underlying cause: antibiotics (epiglottitis), corticosteroids (edema), bronchoscopy (foreign body), surgical intervention (tumor, trauma).",
+        "Transfer to tertiary center with surgical and intensive care backup if necessary."
+      ]
+    },
+    "prognosis": {
+      "comment": "Outcome depends on duration of obstruction, underlying cause, and timeliness of intervention. Prompt airway management typically results in full recovery. Delayed treatment may lead to hypoxic encephalopathy, irreversible neurologic injury, or death. Continuous monitoring and team preparedness are essential to improve outcomes."
+    },
+    "additional_notes": [
+      "Prepare for airway failure in patients with cervical tumors, penetrating trauma, and postoperative head/neck surgery.",
+      "Continuous capnography helps detect early ventilatory deterioration.",
+      "Attempted intubation in unstable environments by inexperienced providers increases risk of injury.",
+      "Resting stridor is a marker of severity and requires urgent evaluation.",
+      "Difficult airway equipment must be immediately available during airway emergencies."
+    ],
+    "references": [
+      "Manual de Suporte Avançado de Vida em Anestesia – SAVA SBA. 2022.",
+      "UpToDate. Evaluation and management of upper airway obstruction in adults. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 55 – Difficult Airway Management.",
+      "Brazilian Otolaryngology Society Guidelines – Upper Airway Emergencies. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Obstrucción de las Vías Aéreas Superiores",
+    "definicion": "La obstrucción de las vías aéreas superiores es una emergencia médica crítica caracterizada por la limitación parcial o total del flujo aéreo entre las narinas o la cavidad oral y la carina. Involucra estructuras como la nasofaringe, orofaringe, laringe y tráquea cervical. Las causas incluyen infección, inflamación, edema, trauma, cuerpos extraños, tumores y anomalías anatómicas. El reconocimiento precoz y el manejo inmediato son esenciales para prevenir una parada cardiorrespiratoria hipóxica.",
+    "epidemiologia": "Es más común en niños (epiglotitis, crup, cuerpo extraño), adultos con tumores de cabeza y cuello, víctimas de trauma facial o cervical y pacientes sometidos a procedimientos orotraqueales. Los casos más graves suelen presentarse en ambientes prehospitalarios. Las obstrucciones agudas son más letales que las subagudas o crónicas. La prevalencia aumenta en poblaciones con acceso limitado a atención médica de urgencia.",
+    "fisiopatologia": "La obstrucción aumenta la resistencia de las vías aéreas e interfiere con el flujo de aire, provocando hipoventilación, hipoxemia, hipercapnia y acidosis respiratoria. Las obstrucciones supraglóticas suelen generar colapso inspiratorio y estridor; las subglóticas o traqueales pueden causar estridor bifásico o sibilancias centrales. La fatiga muscular respiratoria, el uso de músculos accesorios y la hipoxia progresiva pueden conducir a una insuficiencia respiratoria aguda.",
+    "manifestaciones_clinicas": {
+      "signos_inespecificos": [
+        "Estridor inspiratorio (obstrucción supraglótica).",
+        "Ronquidos, estridor bifásico o sibilancias centrales (obstrucción subglótica o traqueal).",
+        "Disnea, retracciones intercostales y supras esternales.",
+        "Cianosis, taquipnea, uso de musculatura accesoria.",
+        "Afonía, disfonía, disfagia, odinofagia, atragantamiento.",
+        "Ansiedad, agitación, sensación de muerte inminente."
+      ],
+      "signos_graves": [
+        "Ausencia de ruidos respiratorios (obstrucción total).",
+        "Bradicardia, hipotensión, paro cardiorrespiratorio.",
+        "Movimientos respiratorios paradójicos.",
+        "Disminución del nivel de conciencia o coma hipóxico."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es eminentemente clínico y debe basarse en la observación del patrón respiratorio, la auscultación, la dinámica ventilatoria y los cambios en la fonación. En casos subagudos o crónicos, se requieren estudios complementarios para definir la etiología y planificar el tratamiento definitivo.",
+      "examenes_esenciales": [
+        "Laringoscopia directa o nasofibroscopía en un entorno controlado.",
+        "Radiografía lateral de cuello (signo del pulgar en epiglotitis, signo de torre en crup).",
+        "Tomografía computarizada de cuello y tórax en sospechas de tumor o estrechamiento subagudo.",
+        "Gasometría arterial: hipoxemia, hipercapnia, acidosis respiratoria.",
+        "Monitoreo continuo de oximetría, capnografía y signos vitales."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Estridor en reposo con SpO₂ &lt; 90% o dificultad respiratoria severa.",
+      "Fatiga muscular respiratoria visible.",
+      "Disminución del estado de conciencia con riesgo de aspiración.",
+      "Obstrucción total o colapso inminente.",
+      "Hipoventilación progresiva con acidosis respiratoria severa."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Asegurar la vía aérea con maniobras básicas (elevación del mentón, tracción mandibular, cánula orofaríngea si es necesario).",
+        "Oxigenoterapia con FiO₂ elevada mediante mascarilla con reservorio.",
+        "Evitar sedación en obstrucciones parciales inestables para prevenir colapso total.",
+        "Intubación orotraqueal por un profesional experimentado, preparado para vía aérea difícil.",
+        "Si la intubación falla o hay obstrucción total, realizar cricotiroidotomía o traqueostomía de urgencia.",
+        "Tratar la causa subyacente: antibióticos (epiglotitis), corticoides (edema), broncoscopia (cuerpo extraño), cirugía (tumor, trauma).",
+        "Transferencia a centro de referencia con soporte quirúrgico e intensivo si es necesario."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende del tiempo de obstrucción, la causa y la rapidez en la intervención. La detección temprana y el manejo adecuado suelen resultar en recuperación completa. La obstrucción prolongada puede provocar encefalopatía hipóxica, daño neurológico irreversible o muerte. El monitoreo constante y la preparación del equipo son fundamentales para reducir la mortalidad."
+    },
+    "notas_adicionales": [
+      "Prepararse para vía aérea difícil en pacientes con tumores cervicales, trauma penetrante o postoperatorio de cuello.",
+      "La capnografía continua permite detectar deterioro ventilatorio precoz.",
+      "La intubación en ambientes hostiles o por personal inexperto aumenta el riesgo de complicaciones.",
+      "El estridor en reposo es un marcador de gravedad y requiere evaluación urgente.",
+      "El equipo para manejo de vía aérea difícil debe estar siempre disponible en emergencias respiratorias."
+    ],
+    "referencias": [
+      "Manual de Suporte Avançado de Vida em Anestesia – SAVA SBA. 2022.",
+      "UpToDate. Evaluation and management of upper airway obstruction in adults. 2024.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 55 – Difficult Airway Management.",
+      "Guías de la Sociedad Brasileña de Otorrinolaringología – Vías aéreas superiores. 2023."
+    ]
+  }
+}

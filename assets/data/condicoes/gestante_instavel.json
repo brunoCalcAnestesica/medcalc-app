@@ -1,0 +1,254 @@
+{
+  "PT": {
+    "titulo": "Gestante Instável",
+    "definicao": "A gestante instável é definida como aquela que apresenta sinais clínicos de instabilidade hemodinâmica, respiratória, neurológica ou metabólica durante a gravidez, colocando em risco a vida materna e fetal. Trata-se de uma condição emergencial complexa que requer abordagem sistematizada, monitoramento contínuo e atuação de equipe multidisciplinar experiente. As causas podem ser obstétricas, como a pré-eclâmpsia grave, o descolamento prematuro de placenta (DPP) e a hemorragia pós-parto (HPP), ou clínicas, como sepse, embolia pulmonar (TEP), insuficiência cardíaca descompensada e anafilaxia. A gestação modifica profundamente a fisiologia materna, o que pode mascarar sinais precoces de descompensação e agravar rapidamente o quadro clínico.",
+    "epidemiologia": "As complicações graves da gestação são responsáveis por aproximadamente 830 mortes maternas por dia em todo o mundo, sendo 99% delas em países em desenvolvimento. As principais causas de morte materna incluem hemorragias graves (27%), distúrbios hipertensivos (14%), infecções (11%), embolias (9%) e causas cardiovasculares (8%). No Brasil, a mortalidade materna ainda permanece elevada, com valores que oscilam entre 50 e 70 mortes por 100 mil nascidos vivos. A mortalidade fetal também aumenta consideravelmente nos casos de instabilidade materna, especialmente quando há comprometimento da oxigenação uteroplacentária.",
+    "fisiopatologia": "Durante a gravidez ocorrem profundas alterações fisiológicas que influenciam a resposta às doenças críticas. O débito cardíaco aumenta em até 50%, com maior volume plasmático, podendo mascarar sinais iniciais de hipovolemia. A resistência vascular sistêmica diminui, resultando em hipotensão relativa. O consumo de oxigênio aumenta e a capacidade residual funcional pulmonar diminui, predispondo à hipoxemia mais precoce. A elevação do diafragma e a alcalose respiratória leve são comuns. A compressão da veia cava inferior em decúbito dorsal reduz o retorno venoso e pode precipitar colapso hemodinâmico. Além disso, há maior risco de eventos tromboembólicos, maior sensibilidade a drogas anestésicas e alterações na resposta imunológica, facilitando a instalação de quadros sépticos severos.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Hipotensão arterial sustentada (PAS < 90 mmHg ou PAM < 65 mmHg)",
+        "Taquicardia materna persistente (> 110 bpm)",
+        "Taquipneia (> 24 incursões por minuto) ou dispneia súbita",
+        "Hipoxemia (SpO₂ < 94%) mesmo com oxigenoterapia",
+        "Rebaixamento do nível de consciência (Glasgow < 13)",
+        "Oligúria (< 0,5 mL/kg/h) ou anúria"
+      ],
+      "outras": [
+        "Sangramento vaginal profuso ou oculto",
+        "Dor abdominal intensa ou útero doloroso à palpação (em DPP)",
+        "Edema agudo de pulmão (em eclâmpsia ou cardiopatia)",
+        "Convulsões (eclâmpsia ou causas neurológicas secundárias)",
+        "Febre alta, calafrios e leucocitose (sepse)",
+        "Dor torácica pleurítica e hemoptise (TEP)",
+        "Rigidez de nuca, fotofobia (meningite)",
+        "Púrpura e equimoses (coagulopatia de consumo ou CIVD)"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Deve-se iniciar pela avaliação primária (ABCDE) com estabilização das vias aéreas, respiração, circulação, estado neurológico e controle de exposição. A anamnese obstétrica detalhada (semanas de gestação, intercorrências, partos prévios) e o exame físico completo guiarão a suspeita etiológica. É fundamental monitorar continuamente sinais vitais maternos e parâmetros fetais. A avaliação fetal com cardiotocografia deve ocorrer o mais precocemente possível. A monitorização invasiva está indicada em casos graves, como cateter arterial e, em alguns casos, cateter venoso central.",
+      "exames_essenciais": [
+        "Hemograma completo (avaliar anemia, infecção, plaquetopenia)",
+        "Gasometria arterial com lactato e pH",
+        "Função renal: ureia, creatinina",
+        "Função hepática: AST, ALT, bilirrubinas, LDH",
+        "Eletrólitos: sódio, potássio, cálcio, magnésio",
+        "Coagulograma: TAP, TTPA, INR, fibrinogênio, dímero-D",
+        "Glicemia capilar e sorologia para sífilis e HIV (se não realizados)",
+        "ECG (identificar arritmias, sobrecarga, sinais de isquemia)",
+        "Ultrassonografia obstétrica e pélvica",
+        "FAST ou USG abdominal à beira-leito (trauma ou instabilidade sem causa definida)",
+        "Hemoculturas, uroculturas e culturas de secreções (em suspeita de sepse)",
+        "Dosagem de proteínas totais, albumina, PCR e procalcitonina (se disponível)"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Sinais de insuficiência respiratória com hipoxemia refratária (PaO₂ < 60 mmHg com FiO₂ > 50%)",
+      "Rebaixamento de consciência com Glasgow ≤ 8",
+      "Frequência respiratória > 35 irpm com esforço respiratório exaustivo",
+      "Acidose respiratória ou metabólica grave (pH < 7,2)",
+      "Sinais de falência respiratória iminente (uso de musculatura acessória, apneia)",
+      "Edema agudo de pulmão com SatO₂ < 90% apesar de O₂ suplementar"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Posicionamento lateral esquerdo imediato para aliviar compressão da veia cava",
+        "Acesso venoso periférico calibroso bilateral (mínimo 18G) e coleta de exames",
+        "Reposição volêmica inicial com cristaloides aquecidos (500–1000 mL) em bolus",
+        "Oxigenoterapia por máscara de reservatório ou intubação se necessário",
+        "Monitorização contínua: ECG, oximetria, capnografia, pressão arterial invasiva",
+        "Avaliação ultrassonográfica precoce: obstétrica, abdominal, cardíaca",
+        "Tratar causa base: sulfato de magnésio em eclâmpsia, antibiótico empírico em sepse, hemoderivados em hemorragia grave",
+        "Administração de drogas vasoativas se choque refratário (noradrenalina de escolha)",
+        "Indicação de cesariana de emergência se sofrimento fetal agudo ou falha na resposta materna após medidas iniciais",
+        "Transferência imediata para centro terciário com UTI obstétrica se disponível"
+      ]
+    },
+    "prognostico": {
+      "comentario": "O desfecho clínico depende da etiologia, da precocidade do diagnóstico e da efetividade das medidas de suporte instituídas. A mortalidade materna é reduzida com equipes treinadas, protocolos de resposta rápida e centros especializados em medicina materno-fetal. A sobrevida fetal está intimamente ligada à estabilização hemodinâmica materna e à idade gestacional. Em casos de instabilidade grave com feto viável, o parto pode representar a única medida terapêutica efetiva para salvar ambos os pacientes."
+    },
+    "notas_adicionais": [
+      "O transporte de gestantes instáveis deve ser realizado por equipes treinadas com suporte ventilatório e hemodinâmico disponível",
+      "Sempre considerar causas não obstétricas de instabilidade em gestantes: sepse, TEP, anafilaxia, hemorragias digestivas",
+      "O ácido tranexâmico está indicado em hemorragias obstétricas dentro das primeiras 3 horas (1g IV em bolus + 1g em 8h)",
+      "Eclâmpsia é tratada com sulfato de magnésio (4g IV em bolus + 1g/h por 24h)",
+      "A monitorização fetal contínua é essencial, porém não deve atrasar medidas de estabilização materna",
+      "A administração de corticosteroides (betametasona) deve ser considerada em idade gestacional entre 24–34 semanas se parto for iminente"
+    ],
+    "fontes_bibliograficas": [
+      "Manual Técnico de Assistência à Gestante de Alto Risco – Ministério da Saúde, 2022.",
+      "Miller’s Anesthesia. 8ª edição. Capítulo 75 – Critical Care in Pregnancy.",
+      "Cunningham, Williams Obstetrics. 25ª edição – Capítulos 34 e 37.",
+      "Sociedade Brasileira de Medicina Intensiva (AMIB) – Protocolo de UTI Obstétrica, 2023.",
+      "American College of Obstetricians and Gynecologists (ACOG) Practice Bulletin No. 222 – Critical care in pregnancy, 2023.",
+      "UpToDate. Evaluation and management of the critically ill pregnant patient. Acesso em 2024."
+    ]
+  },
+  "US": {
+    "title": "Unstable Pregnant Patient",
+    "definition": "The unstable pregnant patient is defined as one presenting clinical signs of hemodynamic, respiratory, neurological, or metabolic instability during pregnancy, posing a risk to both maternal and fetal life. It is a complex emergency condition requiring a structured approach, continuous monitoring, and coordinated action by an experienced multidisciplinary team. Causes may be obstetric (e.g., severe preeclampsia, placental abruption, postpartum hemorrhage) or clinical (e.g., sepsis, pulmonary embolism, decompensated heart failure, anaphylaxis). Pregnancy deeply alters maternal physiology, often masking early signs of decompensation and exacerbating clinical deterioration.",
+    "epidemiology": "Severe pregnancy-related complications account for approximately 830 maternal deaths per day worldwide, 99% of which occur in developing countries. Major causes of maternal death include severe hemorrhage (27%), hypertensive disorders (14%), infections (11%), embolism (9%), and cardiovascular conditions (8%). In Brazil, maternal mortality remains high, ranging from 50 to 70 deaths per 100,000 live births. Fetal mortality also increases significantly in the setting of maternal instability, especially when uteroplacental oxygenation is compromised.",
+    "pathophysiology": "Pregnancy induces profound physiological changes that affect the body’s response to critical illness. Cardiac output increases by up to 50% along with plasma volume, which can mask early signs of hypovolemia. Systemic vascular resistance decreases, resulting in relative hypotension. Oxygen consumption rises, and functional residual capacity is reduced, leading to earlier hypoxemia. Diaphragmatic elevation and mild respiratory alkalosis are also typical. Inferior vena cava compression in the supine position reduces venous return and may precipitate hemodynamic collapse. There is also an increased risk of thromboembolic events, enhanced sensitivity to anesthetics, and altered immune response, facilitating severe infections.",
+    "clinical_manifestations": {
+      "classic": [
+        "Sustained hypotension (SBP < 90 mmHg or MAP < 65 mmHg)",
+        "Persistent maternal tachycardia (> 110 bpm)",
+        "Tachypnea (> 24 breaths per minute) or sudden dyspnea",
+        "Hypoxemia (SpO₂ < 94%) despite oxygen therapy",
+        "Altered mental status (Glasgow < 13)",
+        "Oliguria (< 0.5 mL/kg/h) or anuria"
+      ],
+      "other": [
+        "Heavy or occult vaginal bleeding",
+        "Severe abdominal pain or tender uterus (suggestive of abruption)",
+        "Acute pulmonary edema (eclampsia or cardiopathy)",
+        "Seizures (eclampsia or other neurologic causes)",
+        "High fever, chills, leukocytosis (suggestive of sepsis)",
+        "Pleuritic chest pain and hemoptysis (suggestive of PE)",
+        "Nuchal rigidity, photophobia (suggestive of meningitis)",
+        "Purpura and ecchymoses (suggestive of DIC)"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Begin with a primary ABCDE assessment, focusing on airway, breathing, circulation, disability, and exposure. A detailed obstetric history (gestational age, complications, prior deliveries) and thorough physical exam help determine the underlying cause. Continuous monitoring of maternal vital signs and fetal well-being is essential. Fetal evaluation via cardiotocography should be initiated as early as feasible. In severe cases, invasive monitoring (arterial line, central venous catheter) may be indicated.",
+      "essential_tests": [
+        "Complete blood count (for anemia, infection, thrombocytopenia)",
+        "Arterial blood gas with lactate and pH",
+        "Renal function tests: urea, creatinine",
+        "Liver function: AST, ALT, bilirubin, LDH",
+        "Electrolytes: sodium, potassium, calcium, magnesium",
+        "Coagulation panel: PT, aPTT, INR, fibrinogen, D-dimer",
+        "Capillary glucose and infectious disease screening (e.g., HIV, syphilis)",
+        "ECG (to detect arrhythmias, strain, ischemia)",
+        "Obstetric and pelvic ultrasound",
+        "FAST or bedside abdominal ultrasound (if trauma or unclear etiology)",
+        "Blood, urine, and secretion cultures (in suspected sepsis)",
+        "CRP, albumin, total protein, procalcitonin (if available)"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Respiratory failure with refractory hypoxemia (PaO₂ < 60 mmHg on FiO₂ > 50%)",
+      "Decreased consciousness with Glasgow ≤ 8",
+      "Respiratory rate > 35 bpm with signs of exhaustion",
+      "Severe respiratory or metabolic acidosis (pH < 7.2)",
+      "Imminent respiratory failure (use of accessory muscles, apnea)",
+      "Pulmonary edema with SpO₂ < 90% despite supplemental O₂"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediate left lateral positioning to relieve vena cava compression",
+        "Bilateral large-bore IV access (at least 18G) and initial labs",
+        "Initial fluid resuscitation with warm crystalloids (500–1000 mL bolus)",
+        "High-flow oxygen or intubation if necessary",
+        "Continuous monitoring: ECG, oximetry, capnography, invasive BP if available",
+        "Early bedside ultrasound: obstetric, abdominal, cardiac",
+        "Treat underlying cause: magnesium sulfate for eclampsia, empiric antibiotics for sepsis, blood products for hemorrhage",
+        "Initiate vasopressors in refractory shock (norepinephrine preferred)",
+        "Consider emergency cesarean section for non-reassuring fetal status or maternal deterioration",
+        "Urgent transfer to tertiary care facility with obstetric ICU if available"
+      ]
+    },
+    "prognosis": {
+      "comment": "Outcome depends on the underlying etiology, promptness of diagnosis, and effectiveness of supportive measures. Maternal mortality decreases significantly with trained teams, rapid response protocols, and specialized maternal care centers. Fetal survival is closely tied to maternal hemodynamic stabilization and gestational age. In cases of severe instability with a viable fetus, delivery may be the only definitive therapeutic option to save both mother and child."
+    },
+    "additional_notes": [
+      "Transport of unstable pregnant patients should be conducted by advanced life support teams with respiratory and hemodynamic support capabilities",
+      "Always consider non-obstetric causes of maternal instability: sepsis, PE, anaphylaxis, GI bleeding",
+      "Tranexamic acid is indicated in obstetric hemorrhage within 3 hours (1g IV bolus + 1g over 8 hours)",
+      "Eclampsia management includes magnesium sulfate (4g IV bolus + 1g/h for 24 hours)",
+      "Continuous fetal monitoring is essential but should not delay maternal stabilization",
+      "Corticosteroids (e.g., betamethasone) should be administered between 24–34 weeks if preterm delivery is anticipated"
+    ],
+    "references": [
+      "Brazilian Ministry of Health – High-Risk Pregnancy Guidelines, 2022.",
+      "Miller’s Anesthesia. 8th edition. Chapter 75 – Critical Care in Pregnancy.",
+      "Cunningham, Williams Obstetrics. 25th edition – Chapters 34 and 37.",
+      "Brazilian Society of Intensive Care Medicine (AMIB) – Obstetric ICU Protocols, 2023.",
+      "American College of Obstetricians and Gynecologists (ACOG) Practice Bulletin No. 222 – Critical care in pregnancy, 2023.",
+      "UpToDate. Evaluation and management of the critically ill pregnant patient. Accessed 2024."
+    ]
+  },
+  "ES": {
+    "titulo": "Gestante Inestable",
+    "definicion": "La gestante inestable se define como aquella que presenta signos clínicos de inestabilidad hemodinámica, respiratoria, neurológica o metabólica durante el embarazo, lo que pone en riesgo la vida de la madre y del feto. Es una condición de emergencia compleja que requiere un enfoque sistemático, monitoreo continuo y acción coordinada de un equipo multidisciplinario experimentado. Las causas pueden ser obstétricas (como preeclampsia grave, desprendimiento prematuro de placenta, hemorragia posparto) o clínicas (como sepsis, embolia pulmonar, insuficiencia cardíaca descompensada, anafilaxia). El embarazo modifica profundamente la fisiología materna, lo que puede enmascarar los signos iniciales de descompensación y agravar rápidamente el cuadro clínico.",
+    "epidemiologia": "Las complicaciones graves del embarazo causan aproximadamente 830 muertes maternas al día en todo el mundo, el 99% en países en desarrollo. Las principales causas de muerte materna incluyen hemorragia grave (27%), trastornos hipertensivos (14%), infecciones (11%), embolias (9%) y enfermedades cardiovasculares (8%). En Brasil, la mortalidad materna sigue siendo alta, entre 50 y 70 muertes por cada 100.000 nacidos vivos. La mortalidad fetal también aumenta significativamente cuando hay inestabilidad materna, especialmente si se compromete la oxigenación útero-placentaria.",
+    "fisiopatologia": "Durante el embarazo ocurren profundas modificaciones fisiológicas que influyen en la respuesta a enfermedades críticas. El gasto cardíaco aumenta hasta un 50%, junto con el volumen plasmático, lo que puede enmascarar signos precoces de hipovolemia. La resistencia vascular sistémica disminuye, produciendo hipotensión relativa. Aumenta el consumo de oxígeno y disminuye la capacidad funcional residual, favoreciendo la hipoxemia temprana. También se observa elevación diafragmática y alcalosis respiratoria leve. La compresión de la vena cava inferior en decúbito supino reduce el retorno venoso y puede precipitar colapso hemodinámico. Además, hay mayor riesgo de eventos tromboembólicos, sensibilidad aumentada a anestésicos y alteración de la respuesta inmunitaria, lo que favorece infecciones graves.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Hipotensión arterial sostenida (PAS < 90 mmHg o PAM < 65 mmHg)",
+        "Taquicardia materna persistente (> 110 lpm)",
+        "Taquipnea (> 24 rpm) o disnea súbita",
+        "Hipoxemia (SatO₂ < 94%) a pesar de oxígeno suplementario",
+        "Alteración del estado de conciencia (Glasgow < 13)",
+        "Oliguria (< 0,5 mL/kg/h) o anuria"
+      ],
+      "otras": [
+        "Sangrado vaginal profuso u oculto",
+        "Dolor abdominal intenso o útero doloroso a la palpación (sugiere DPP)",
+        "Edema pulmonar agudo (en eclampsia o cardiopatía)",
+        "Convulsiones (por eclampsia o causas neurológicas secundarias)",
+        "Fiebre alta, escalofríos, leucocitosis (sepsis)",
+        "Dolor torácico pleurítico y hemoptisis (TEP)",
+        "Rigidez de nuca, fotofobia (meningitis)",
+        "Púrpura y equimosis (coagulopatía de consumo o CID)"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Se debe iniciar con la evaluación primaria ABCDE, enfocándose en vía aérea, respiración, circulación, estado neurológico y exposición. Una historia obstétrica detallada (edad gestacional, complicaciones, partos previos) y examen físico orientarán la etiología. Es esencial el monitoreo continuo de signos vitales maternos y bienestar fetal. La evaluación fetal mediante cardiotocografía debe realizarse lo antes posible. En casos graves, está indicada la monitorización invasiva (línea arterial, catéter venoso central).",
+      "examenes_esenciales": [
+        "Hemograma completo (para anemia, infección, trombocitopenia)",
+        "Gasometría arterial con lactato y pH",
+        "Función renal: urea, creatinina",
+        "Función hepática: AST, ALT, bilirrubinas, LDH",
+        "Electrólitos: sodio, potasio, calcio, magnesio",
+        "Coagulograma: TP, TTPa, INR, fibrinógeno, dímero-D",
+        "Glucemia capilar y serologías infecciosas (VIH, sífilis)",
+        "ECG (para arritmias, sobrecarga, isquemia)",
+        "Ecografía obstétrica y pélvica",
+        "FAST o ecografía abdominal al lado de la cama (en trauma o etiología incierta)",
+        "Hemocultivos, urocultivos y cultivos de secreciones (en sospecha de sepsis)",
+        "Proteínas totales, albúmina, PCR y procalcitonina (si está disponible)"
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Insuficiencia respiratoria con hipoxemia refractaria (PaO₂ < 60 mmHg con FiO₂ > 50%)",
+      "Glasgow ≤ 8 con compromiso de la vía aérea",
+      "Frecuencia respiratoria > 35 rpm con signos de agotamiento",
+      "Acidosis grave (pH < 7,2)",
+      "Fallo respiratorio inminente (uso de musculatura accesoria, apnea)",
+      "Edema pulmonar con SatO₂ < 90% pese a oxígeno"
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Colocar en decúbito lateral izquierdo inmediato para aliviar compresión de la vena cava",
+        "Accesos venosos periféricos calibrosos bilaterales (mínimo 18G) y toma de muestras",
+        "Reposición con cristaloides templados (500–1000 mL en bolo)",
+        "Oxigenoterapia con mascarilla reservorio o intubación si es necesario",
+        "Monitoreo continuo: ECG, oximetría, capnografía, presión arterial invasiva",
+        "Ecografía temprana: obstétrica, abdominal, cardíaca",
+        "Tratamiento etiológico: sulfato de magnesio en eclampsia, antibióticos en sepsis, hemoderivados en sangrado",
+        "Vasopresores si hay shock refractario (noradrenalina preferida)",
+        "Considerar cesárea de urgencia si hay sufrimiento fetal o deterioro materno",
+        "Transferencia inmediata a unidad obstétrica de cuidados intensivos si está disponible"
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende de la etiología, del tiempo de diagnóstico y de la efectividad del tratamiento. La mortalidad materna se reduce significativamente con equipos capacitados, protocolos de respuesta rápida y unidades obstétricas especializadas. La supervivencia fetal está directamente relacionada con la estabilización materna y la edad gestacional. En casos de inestabilidad grave con feto viable, el parto puede ser la única medida salvadora."
+    },
+    "notas_adicionales": [
+      "El traslado de gestantes inestables debe realizarse con equipos especializados y soporte avanzado disponible",
+      "Considerar siempre causas no obstétricas: sepsis, TEP, anafilaxia, sangrados digestivos",
+      "Ácido tranexámico está indicado en hemorragias obstétricas < 3h (1g IV bolo + 1g en 8h)",
+      "Manejo de eclampsia con sulfato de magnesio (4g IV bolo + 1g/h por 24h)",
+      "El monitoreo fetal continuo es esencial, pero no debe retrasar la estabilización materna",
+      "Corticoides (betametasona) indicados entre 24–34 semanas si parto prematuro es probable"
+    ],
+    "fuentes_bibliograficas": [
+      "Guía Técnica para la Atención del Embarazo de Alto Riesgo – Ministerio de Salud de Brasil, 2022.",
+      "Miller’s Anesthesia. 8ª edición. Capítulo 75 – Cuidados Críticos en el Embarazo.",
+      "Cunningham, Obstetricia de Williams. 25ª edición – Capítulos 34 y 37.",
+      "Sociedad Brasileña de Medicina Intensiva – Protocolo de UCI Obstétrica, 2023.",
+      "American College of Obstetricians and Gynecologists (ACOG) – Boletín N.º 222: Cuidados críticos en el embarazo, 2023.",
+      "UpToDate – Evaluación y manejo de la paciente embarazada críticamente enferma. Acceso en 2024."
+    ]
+  }
+}

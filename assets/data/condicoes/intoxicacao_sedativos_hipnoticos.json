@@ -1,0 +1,212 @@
+{
+  "ES": {
+    "titulo": "Intoxicación por Sedantes e Hipnóticos",
+    "definicion": "La intoxicación por sedantes e hipnóticos es una emergencia médica caracterizada por la depresión del sistema nervioso central (SNC) tras el uso excesivo o la coingesta de sustancias como benzodiacepinas, barbitúricos, hipnóticos no benzodiacepínicos (z-drugs) u otros agentes con propiedades sedantes. Estos fármacos son comúnmente utilizados para tratar insomnio, ansiedad, epilepsia, trastornos psiquiátricos y para sedación preoperatoria. En sobredosis o combinaciones, pueden causar coma, depresión respiratoria y muerte.",
+    "epidemiologia": "Las intoxicaciones por sedantes e hipnóticos son una causa frecuente de atención en servicios de urgencias, especialmente en casos de intento de suicidio, uso recreativo o automedicación. Afectan principalmente a mujeres jóvenes con antecedentes psiquiátricos. La coingesta con alcohol, opioides o antidepresivos tricíclicos se presenta en más del 60% de los casos y agrava significativamente el cuadro clínico.",
+    "fisiopatologia": "Estos agentes actúan como agonistas del receptor GABA-A, incrementando la inhibición neuronal en el SNC. Las benzodiacepinas aumentan la frecuencia de apertura de los canales de cloro, mientras que los barbitúricos prolongan su duración. A dosis elevadas, suprimen la actividad cortical y del tronco encefálico, disminuyendo el impulso respiratorio y los reflejos protectores de vía aérea. Las z-drugs tienen especificidad por ciertos subtipos de GABA-A, pero pierden esta selectividad en sobredosis.",
+    "manifestaciones_clinicas": {
+      "neurologicas": [
+        "Somnolencia, confusión, disartria.",
+        "Ataxia, letargo progresivo.",
+        "Coma flácido con reflejos troncoencefálicos preservados en sobredosis aisladas de benzodiacepinas.",
+        "Convulsiones en intoxicación por barbitúricos o abstinencia en pacientes dependientes."
+      ],
+      "respiratorias": [
+        "Bradipnea, hipoventilación, hipoxemia progresiva.",
+        "Paro respiratorio en sobredosis combinadas con opioides o barbitúricos.",
+        "Aspiración con neumonitis química y falla respiratoria secundaria."
+      ],
+      "cardiovasculares": [
+        "Hipotensión leve, bradicardia en pacientes susceptibles.",
+        "Inestabilidad hemodinámica con sobredosis masiva de barbitúricos.",
+        "Prolongación del QT y arritmias en combinación con agentes cardiotóxicos."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico es principalmente clínico y debe considerarse ante un paciente comatoso con pupilas reactivas, respiración espontánea y antecedentes de acceso a sedantes. Una respuesta transitoria al flumazenilo puede apoyar el diagnóstico, pero debe utilizarse con precaución. El tamizaje toxicológico tiene utilidad limitada y no debe retrasar el tratamiento.",
+      "examenes_esenciales": [
+        "Gasometría arterial: para evaluar hipoventilación, acidosis y oxigenación.",
+        "Oximetría de pulso y capnografía para evaluar la ventilación.",
+        "Glucemia capilar para descartar hipoglucemia.",
+        "Toxicología urinaria (detección limitada).",
+        "ECG para detectar bradicardia o prolongación del QT.",
+        "TC de cráneo si se sospecha causa estructural o traumatismo."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Escala de Glasgow ≤ 8 con pérdida de reflejos protectores.",
+      "Apnea, hipoventilación grave o hipoxemia refractaria.",
+      "PaCO₂ &gt; 60 mmHg con pH &lt; 7.25 indicando acidosis respiratoria.",
+      "Inestabilidad respiratoria post flumazenilo o convulsiones."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Monitorización cardiorrespiratoria continua y protección de vía aérea.",
+        "Decúbito lateral para prevenir aspiración.",
+        "Oxígeno suplementario y ventilación no invasiva si es tolerada.",
+        "Carbón activado si la ingestión fue &lt; 1 h y se mantienen los reflejos.",
+        "Hidratación intravenosa y corrección de alteraciones electrolíticas y térmicas.",
+        "Flumazenilo solo en pacientes seleccionados (sin uso crónico ni antecedentes de epilepsia).",
+        "Evitar reversión brusca en intoxicaciones mixtas por riesgo de convulsiones o arritmias.",
+        "Intubación orotraqueal si hay compromiso respiratorio grave o paro inminente."
+      ]
+    },
+    "pronostico": {
+      "comentario": "La intoxicación por benzodiacepinas aisladas suele tener buen pronóstico con soporte adecuado. El riesgo de mortalidad aumenta considerablemente en casos de polifarmacia y comorbilidades. La recuperación neurológica suele ser completa salvo en casos de hipoxia prolongada. Es fundamental el seguimiento psiquiátrico en sobredosis intencional o recurrente."
+    },
+    "notas_adicionales": [
+      "Evitar flumazenilo en pacientes con epilepsia, dependencia a benzodiacepinas o sospecha de coingesta con antidepresivos tricíclicos.",
+      "Las z-drugs tienen menor riesgo respiratorio en sobredosis aislada pero pueden inducir confusión o caídas.",
+      "Los barbitúricos tienen vida media prolongada y riesgo de reintoxicación.",
+      "Documentar siempre los factores precipitantes (intento suicida, error de dosificación, uso recreativo).",
+      "Derivar a evaluación psiquiátrica y servicios de adicciones a pacientes con alto riesgo de recurrencia."
+    ],
+    "referencias": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 68 – Sedative-Hypnotic Agents.",
+      "UpToDate. Intoxicación por sedantes e hipnóticos. 2024.",
+      "Manual de Toxicología Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Toxicología – Guías sobre sobredosis por sedantes e hipnóticos. 2023."
+    ]
+  },
+  "PT": {
+    "titulo": "Intoxicação por Sedativos e Hipnóticos",
+    "definicao": "A intoxicação por sedativos e hipnóticos é uma emergência médica caracterizada pela depressão do sistema nervoso central (SNC) decorrente do uso em excesso ou da coingestão de substâncias como benzodiazepínicos, barbitúricos, hipnóticos não benzodiazepínicos (z-drugs), entre outros fármacos com propriedades sedativo-hipnóticas. Esses agentes são amplamente utilizados para tratamento de insônia, ansiedade, epilepsia, sedação pré-operatória e distúrbios psiquiátricos. Em doses elevadas ou combinados a outras substâncias, podem evoluir para rebaixamento de consciência, falência respiratória e morte.",
+    "epidemiologia": "As intoxicações por sedativos e hipnóticos representam uma das principais causas de internação por intoxicação exógena. São frequentes em contextos de tentativa de suicídio, uso abusivo, automedicação ou interações medicamentosas inadvertidas. Mulheres jovens com transtornos psiquiátricos estão entre os grupos mais afetados. A coingestão com álcool, opioides ou antidepressivos tricíclicos é comum e agrava significativamente o prognóstico.",
+    "fisiopatologia": "Os sedativos e hipnóticos atuam principalmente como agonistas do receptor GABA-A, intensificando a ação inibitória do neurotransmissor GABA no SNC. Benzodiazepínicos aumentam a frequência de abertura dos canais de cloro, enquanto barbitúricos prolongam sua duração. Em concentrações elevadas, promovem inibição global do córtex cerebral e do tronco encefálico, comprometendo centros respiratórios e de vigília. Fármacos como zolpidem e zopiclona possuem alta seletividade para subtipos específicos do receptor GABA, mas em superdose perdem essa especificidade.",
+    "manifestações_clinicas": {
+      "neurologicas": [
+        "Confusão mental, sonolência, fala arrastada.",
+        "Ataxia, disartria, letargia progressiva.",
+        "Coma flácido com reflexos preservados em monointoxicações por benzodiazepínicos.",
+        "Convulsões em intoxicação por barbitúricos ou abstinência abrupta em usuários crônicos."
+      ],
+      "respiratorias": [
+        "Bradipneia, hipoventilação, dessaturação progressiva.",
+        "Parada respiratória em coingestão com opioides ou em intoxicações por barbitúricos.",
+        "Aspiração com pneumonite química e insuficiência respiratória associada."
+      ],
+      "cardiovasculares": [
+        "Hipotensão leve, bradicardia em pacientes predispostos.",
+        "Instabilidade hemodinâmica com barbitúricos em dose elevada.",
+        "Prolongamento do intervalo QT e risco de arritmias com uso combinado de outras drogas cardiotóxicas."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico é clínico e deve ser considerado em pacientes com rebaixamento de consciência, sem sinais focais e com pupilas normorreagentes, especialmente se há acesso conhecido a sedativos. A resposta transitória ao flumazenil pode auxiliar no diagnóstico em contextos específicos, mas seu uso deve ser criterioso. A avaliação toxicológica complementar pode ser útil, mas os testes rápidos possuem limitações.",
+      "exames_essenciais": [
+        "Gasometria arterial: avaliar hipoventilação, pH e hipoxemia.",
+        "Oximetria de pulso e capnografia para monitorar troca gasosa.",
+        "Glicemia capilar para exclusão de hipoglicemia.",
+        "Toxicologia urinária (screening): pode não detectar todas as substâncias.",
+        "ECG: identificar bradicardia, distúrbios de condução e intervalo QT.",
+        "TC de crânio se houver suspeita de etiologia neurológica não tóxica."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Glasgow ≤ 8 com ausência de reflexos protetores de vias aéreas.",
+      "Apneia, hipoventilação grave ou hipoxemia refratária ao oxigênio suplementar.",
+      "PaCO₂ &gt; 60 mmHg com acidemia significativa (pH &lt; 7,25).",
+      "Episódios de convulsão ou instabilidade respiratória pós-flumazenil."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitorização cardiorrespiratória contínua, acesso venoso e suporte ventilatório.",
+        "Posicionamento lateral para evitar broncoaspiração.",
+        "Oxigenoterapia suplementar e ventilação não invasiva conforme tolerância.",
+        "Carvão ativado se ingestão recente (&lt; 1h) e paciente alerta/protegido.",
+        "Hidratação venosa, correção de distúrbios eletrolíticos e temperatura.",
+        "Flumazenil: apenas em pacientes sem uso crônico, epilepsia ou risco de abstinência.",
+        "Evitar antagonismo abrupto em intoxicações mistas (risco de convulsões, arritmias).",
+        "Ventilação mecânica invasiva se critérios gasométricos forem atingidos ou risco iminente de parada respiratória."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Monointoxicações por benzodiazepínicos tendem a ter evolução benigna com suporte adequado. O risco de mortalidade aumenta consideravelmente em casos com múltiplas drogas depressoras ou em pacientes com comorbidades. A recuperação neurológica é geralmente completa, exceto nos casos de hipóxia prolongada. A abordagem psiquiátrica e social pós-intoxicação é fundamental para prevenção de recorrência."
+    },
+    "notas_adicionais": [
+      "Evitar flumazenil em pacientes com epilepsia, dependência de benzodiazepínicos ou coingestão com antidepressivos tricíclicos.",
+      "Z-drugs em monointoxicação têm menor risco, mas podem causar confusão, sonambulismo e quedas.",
+      "Barbitúricos possuem meia-vida longa e risco de acúmulo com reintoxicação tardia.",
+      "Sempre investigar e documentar fatores precipitantes (tentativa de suicídio, erro terapêutico, uso abusivo).",
+      "Encaminhar pacientes reincidentes para equipe de saúde mental e centro especializado em dependência química."
+    ],
+    "fontes_bibliograficas": [
+      "Goldfrank’s Toxicologic Emergencies. 11ª ed. Capítulo 68 – Sedative-Hypnotic Agents.",
+      "UpToDate. Sedative-hypnotic drug intoxication. 2024.",
+      "Manual de Toxicologia Clínica – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedade Brasileira de Toxicologia – Diretrizes sobre sedativos e hipnóticos. 2023."
+    ]
+  },
+  "US": {
+    "title": "Sedative and Hypnotic Intoxication",
+    "definition": "Sedative and hypnotic intoxication is a clinical emergency resulting from the excessive ingestion or combination of central nervous system (CNS) depressants such as benzodiazepines, barbiturates, and non-benzodiazepine hypnotics (z-drugs like zolpidem and zopiclone). These substances are commonly used for treating insomnia, anxiety, seizure disorders, and pre-anesthetic sedation. Overdose can result in profound CNS depression, respiratory failure, and death, especially when co-ingested with alcohol, opioids, or other depressants.",
+    "epidemiology": "Sedative-hypnotic overdose is a common cause of emergency department admissions for toxicologic emergencies. It is frequently associated with intentional overdose, recreational misuse, or drug interactions. Women with psychiatric comorbidities, particularly young adults, are disproportionately affected. More than 60% of cases involve polypharmacy, particularly with alcohol or opioids, significantly worsening prognosis.",
+    "pathophysiology": "These agents act as GABA-A receptor agonists, enhancing inhibitory neurotransmission in the CNS. Benzodiazepines increase the frequency of chloride channel opening, while barbiturates prolong its duration. At high doses, they suppress cortical and brainstem activity, impairing arousal, respiratory drive, and protective airway reflexes. Z-drugs initially act selectively on GABA-A receptor subtypes but lose specificity in overdose.",
+    "clinical_manifestations": {
+      "neurologic": [
+        "Mental confusion, drowsiness, slurred speech.",
+        "Ataxia, dysarthria, progressive lethargy.",
+        "Flaccid coma with preserved brainstem reflexes in isolated benzodiazepine overdose.",
+        "Seizures may occur with barbiturate overdose or withdrawal in dependent individuals."
+      ],
+      "respiratory": [
+        "Bradypnea, hypoventilation, progressive oxygen desaturation.",
+        "Respiratory arrest in polyintoxication with opioids or barbiturates.",
+        "Aspiration with chemical pneumonitis and secondary respiratory failure."
+      ],
+      "cardiovascular": [
+        "Mild hypotension, bradycardia in susceptible individuals.",
+        "Hemodynamic instability in massive barbiturate overdose.",
+        "QT prolongation and arrhythmias when combined with cardiotoxic agents."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Diagnosis is primarily clinical and should be suspected in comatose patients with reactive pupils and preserved respiratory patterns, especially when access to sedatives is known. A transient response to flumazenil may support the diagnosis but must be used cautiously. Urine toxicology screening has limited sensitivity and should not delay treatment.",
+      "essential_tests": [
+        "Arterial blood gas to assess hypoventilation, pH, and oxygenation.",
+        "Pulse oximetry and capnography for ventilation monitoring.",
+        "Capillary blood glucose to exclude hypoglycemia.",
+        "Urine drug screen (limited detection).",
+        "ECG to detect bradycardia or QT prolongation.",
+        "Head CT in case of suspected structural CNS lesion or trauma."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Glasgow Coma Scale ≤ 8 with absent airway protective reflexes.",
+      "Apnea, severe hypoventilation, or refractory hypoxemia.",
+      "PaCO₂ &gt; 60 mmHg with pH &lt; 7.25 indicating respiratory acidosis.",
+      "Post-flumazenil respiratory instability or seizure activity."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Continuous cardiorespiratory monitoring and airway protection.",
+        "Lateral positioning to prevent aspiration.",
+        "Supplemental oxygen and noninvasive ventilation if tolerated.",
+        "Activated charcoal if ingestion &lt; 1 hour and airway reflexes are intact.",
+        "IV fluids and correction of electrolyte and temperature disturbances.",
+        "Flumazenil use is restricted to specific indications (no chronic use, no seizure history).",
+        "Avoid abrupt reversal in mixed overdose due to seizure or arrhythmia risk.",
+        "Endotracheal intubation if respiratory parameters are compromised or arrest is imminent."
+      ]
+    },
+    "prognosis": {
+      "comment": "Isolated benzodiazepine overdoses generally have a favorable outcome with supportive care. Mortality risk increases with polypharmacy and comorbidities. Full neurologic recovery is common unless hypoxia is prolonged. Psychiatric and addiction follow-up is essential in intentional overdose or recurrent presentations."
+    },
+    "additional_notes": [
+      "Avoid flumazenil in chronic benzodiazepine users, epilepsy, or suspected TCA co-ingestion.",
+      "Z-drugs have lower respiratory risk in monointoxication but may cause confusion or falls.",
+      "Barbiturates have a long half-life and may require prolonged monitoring.",
+      "Identify and document contributing factors (e.g., suicide attempt, recreational use, dosing error).",
+      "Refer high-risk individuals for psychiatric assessment and substance use treatment."
+    ],
+    "references": [
+      "Goldfrank’s Toxicologic Emergencies. 11th ed. Chapter 68 – Sedative-Hypnotic Agents.",
+      "UpToDate. Sedative-hypnotic drug intoxication. 2024.",
+      "Clinical Toxicology Manual – CRAT-SP. 2022.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Toxicology – Guidelines on sedative and hypnotic overdose. 2023."
+    ]
+  }
+}

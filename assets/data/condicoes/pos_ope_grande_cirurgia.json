@@ -1,0 +1,218 @@
+{
+  "PT": {
+    "titulo": "Cuidados Pós-Operatórios de Grande Cirurgia",
+    "definicao": "Os cuidados pós-operatórios de grande cirurgia compreendem um conjunto de ações clínicas, assistenciais e multidisciplinares destinadas à estabilização hemodinâmica, prevenção de complicações e reabilitação funcional de pacientes submetidos a procedimentos cirúrgicos de alto risco. Incluem monitorização intensiva, suporte ventilatório, controle de dor, profilaxia tromboembólica, correção de distúrbios metabólicos, vigilância infecciosa e estratégias de mobilização precoce. A abordagem deve ser sistemática e personalizada de acordo com o tipo de cirurgia e o perfil do paciente.",
+    "epidemiologia": "Cirurgias de grande porte, como as cardíacas, vasculares, torácicas, neurocirúrgicas e abdominais complexas, possuem maior incidência de complicações no pós-operatório. Aproximadamente 20–30% dos pacientes apresentam algum tipo de complicação sistêmica, como infecção, disfunção pulmonar ou cardiovascular, e até 10% podem evoluir com óbito. Pacientes idosos, com múltiplas comorbidades ou submetidos a cirurgias prolongadas têm risco significativamente maior.",
+    "fisiopatologia": "O trauma cirúrgico desencadeia uma resposta inflamatória sistêmica com liberação de catecolaminas, citocinas e hormônios do eixo HPA (hipotálamo-hipófise-adrenal), resultando em aumento da demanda metabólica, retenção hídrica, hiperglicemia, imunossupressão transitória e disfunção endotelial. Esses mecanismos podem comprometer a homeostase de múltiplos sistemas, predispondo a complicações respiratórias, cardiovasculares, infecciosas e tromboembólicas. A anestesia e a hipovolemia intraoperatória também impactam negativamente a função orgânica no pós-operatório imediato.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão por hipovolemia ou vasoplegia.",
+        "Hipertensão associada à dor ou suspensão de antihipertensivos.",
+        "Arritmias (FA, ESV, BAV) relacionadas a distúrbios hidroeletrolíticos ou isquemia.",
+        "Choque hipovolêmico ou distributivo em casos graves."
+      ],
+      "respiratorias": [
+        "Atelectasia e hipoventilação por dor torácica ou abdominal.",
+        "Broncoaspiração em pacientes com reflexo de tosse deprimido.",
+        "Hipoxemia associada a congestão, infecção ou embolia pulmonar.",
+        "Retenção de CO₂ por hipoventilação em uso de opioides."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Delirium pós-operatório, especialmente em idosos.",
+        "Rebaixamento de consciência por hipoglicemia, hipoxemia ou encefalopatia.",
+        "Alterações do sódio e potássio com impacto cardiovascular e neurológico.",
+        "Hiperglicemia induzida pelo estresse cirúrgico e uso de corticoides."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A monitorização clínica rigorosa deve incluir avaliação frequente dos sinais vitais, nível de consciência, débito urinário, dor, função respiratória e estado hemodinâmico. Protocolos de avaliação sistemática como o MEWS (Modified Early Warning Score) ajudam a detectar precocemente deteriorações clínicas.",
+      "exames_essenciais": [
+        "Hemograma completo, eletrólitos, função renal, hepática e coagulograma.",
+        "ECG de controle em pacientes com risco cardíaco.",
+        "Gasometria arterial em pacientes com sinais de instabilidade respiratória ou acidose.",
+        "Radiografia de tórax para exclusão de atelectasia, pneumonia ou congestão.",
+        "Lactato sérico para avaliação de perfusão tecidual.",
+        "Dosagem de marcadores inflamatórios e cultivos em casos de febre ou suspeita de infecção."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Hipoxemia refratária à oxigenoterapia convencional (SpO₂ &lt; 90% com FiO₂ &gt; 0,6).",
+      "Alteração do nível de consciência com risco de aspiração.",
+      "Hipercapnia com acidose respiratória e sinais de fadiga muscular.",
+      "Doença pulmonar prévia descompensada ou complicação pós-operatória (TEP, pneumonia, SDRA)."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Admissão em unidade de terapia intensiva ou unidade de recuperação pós-anestésica com monitorização contínua.",
+        "Controle da dor com analgesia multimodal: AINEs, opioides, anestesia regional (bloqueios, cateteres).",
+        "Prevenção de complicações respiratórias com fisioterapia, espirometria de incentivo e deambulação precoce.",
+        "Profilaxia de TVP com anticoagulante de baixo peso molecular e medidas mecânicas.",
+        "Reposição hídrica orientada por metas hemodinâmicas (PAM, débito urinário, lactato).",
+        "Reinício gradual da dieta conforme peristaltismo e tolerância, preferencialmente via oral.",
+        "Correção precoce de distúrbios metabólicos e controle rigoroso da glicemia.",
+        "Cuidados com ferida cirúrgica: curativos estéreis, controle de sinais flogísticos e antibioticoterapia conforme necessidade."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico pós-operatório está relacionado ao tipo de procedimento, experiência da equipe cirúrgica, condição clínica basal e precocidade na identificação de complicações. A adoção de protocolos de recuperação acelerada (ERAS), reabilitação precoce e monitoramento intensivo são estratégias eficazes para redução da morbimortalidade e do tempo de internação hospitalar."
+    },
+    "notas_adicionais": [
+      "Escalas como ASA, SAPS 3 e POSSUM devem ser utilizadas para estratificação de risco pré e pós-operatória.",
+      "A implementação de checklists e protocolos padronizados aumenta a segurança do paciente.",
+      "Monitorar delirium com escalas como CAM-ICU em pacientes idosos ou sedados.",
+      "Priorizar suporte nutricional precoce, idealmente via oral ou enteral.",
+      "A comunicação clara com familiares e o envolvimento da equipe multidisciplinar são essenciais para o sucesso do pós-operatório."
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Postoperative patient care in the surgical ward. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 86 – Postoperative Critical Care.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Diretrizes da Sociedade Brasileira de Anestesiologia – Cuidados Pós-Operatórios. 2022.",
+      "ERAS® Society Guidelines for Perioperative Care in Major Abdominal Surgery. 2023."
+    ]
+  },
+  "US": {
+    "title": "Postoperative Care After Major Surgery",
+    "definition": "Postoperative care following major surgery encompasses a set of clinical, surgical, and multidisciplinary strategies aimed at ensuring hemodynamic stability, preventing complications, and facilitating functional recovery. This involves close monitoring, ventilatory support when needed, pain control, thromboembolism prophylaxis, metabolic management, infection surveillance, and early mobilization. Care must be individualized according to the type of surgery, patient comorbidities, and perioperative risk assessment.",
+    "epidemiology": "Major surgeries, such as cardiac, thoracic, neurosurgical, and complex abdominal procedures, carry higher risks of postoperative complications. Studies show that 20–30% of these patients develop systemic complications, including infections, respiratory failure, or cardiovascular instability, and mortality can reach 10% in high-risk populations. Older adults and those with multiple comorbidities are especially vulnerable.",
+    "pathophysiology": "Surgical trauma triggers a systemic inflammatory response marked by cytokine release, sympathetic activation, and hormonal changes from the HPA axis. These changes increase metabolic demand, fluid retention, hyperglycemia, temporary immunosuppression, and endothelial dysfunction. This may compromise multiple organ systems and increase the risk of postoperative complications, including respiratory compromise, cardiovascular events, thromboembolism, and infection. Anesthetic agents and intraoperative hypovolemia also contribute to early postoperative organ dysfunction.",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Hypotension due to hypovolemia or vasodilation.",
+        "Hypertension triggered by pain or withdrawal of antihypertensives.",
+        "Arrhythmias (AF, PVCs, AV blocks) related to electrolyte imbalance or ischemia.",
+        "Hypovolemic or distributive shock in severe cases."
+      ],
+      "respiratory": [
+        "Atelectasis and hypoventilation due to pain or abdominal splinting.",
+        "Aspiration in patients with impaired airway reflexes.",
+        "Hypoxemia caused by congestion, pneumonia, or pulmonary embolism.",
+        "CO₂ retention due to opioid-induced hypoventilation."
+      ],
+      "neurologic_and_metabolic": [
+        "Postoperative delirium, especially in elderly patients.",
+        "Altered mental status due to hypoglycemia, hypoxia, or metabolic encephalopathy.",
+        "Electrolyte disturbances (e.g., hyponatremia, hypokalemia) affecting cardiovascular and neurologic function.",
+        "Stress-induced hyperglycemia, worsened by corticosteroids or diabetes."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Routine postoperative assessment should include frequent monitoring of vital signs, mental status, urine output, pain, respiratory effort, and hemodynamic trends. Early warning scores such as MEWS (Modified Early Warning Score) may help identify clinical deterioration promptly.",
+      "essential_tests": [
+        "Complete blood count, electrolytes, renal and liver function tests, coagulation profile.",
+        "Baseline ECG in patients with cardiac risk.",
+        "Arterial blood gas (ABG) in patients with respiratory compromise or suspected acidosis.",
+        "Chest X-ray for suspected atelectasis, pneumonia, or volume overload.",
+        "Serum lactate to assess perfusion status.",
+        "Inflammatory markers and blood cultures if infection is suspected."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Refractory hypoxemia despite supplemental oxygen (SpO₂ &lt; 90% on FiO₂ &gt; 0.6).",
+      "Depressed consciousness increasing aspiration risk.",
+      "Hypercapnia with respiratory acidosis and fatigue.",
+      "Decompensated chronic lung disease or new postoperative respiratory failure."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Admission to a postoperative recovery unit or ICU with continuous monitoring.",
+        "Multimodal pain management: opioids, NSAIDs, regional anesthesia (e.g., nerve blocks, epidurals).",
+        "Prevention of respiratory complications via incentive spirometry, chest physiotherapy, early mobilization.",
+        "Venous thromboembolism (VTE) prophylaxis with LMWH and mechanical devices.",
+        "Goal-directed fluid resuscitation guided by MAP, urine output, and lactate.",
+        "Gradual reintroduction of oral intake based on gastrointestinal function.",
+        "Early correction of electrolyte and acid-base disturbances; tight glycemic control.",
+        "Wound care and infection prevention: sterile dressings, surveillance for surgical site infection (SSI), and antibiotics as needed."
+      ]
+    },
+    "prognosis": {
+      "comment": "The prognosis after major surgery depends on surgical complexity, baseline patient condition, and prompt recognition and management of complications. Enhanced recovery protocols (ERAS), early rehabilitation, and structured postoperative monitoring have been shown to reduce morbidity, mortality, and hospital stay."
+    },
+    "additional_notes": [
+      "Use of risk stratification tools (ASA, SAPS 3, POSSUM) helps guide perioperative management.",
+      "Standardized protocols and surgical safety checklists enhance patient outcomes.",
+      "Assess for postoperative delirium using tools such as CAM-ICU in elderly or sedated patients.",
+      "Early nutritional support (oral or enteral) is preferred when feasible.",
+      "Effective communication with patients and family and coordination with multidisciplinary teams are essential."
+    ],
+    "references": [
+      "UpToDate. Postoperative patient care in the surgical ward. 2024.",
+      "Miller’s Anesthesia. 8th ed. Chapter 86 – Postoperative Critical Care.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Brazilian Society of Anesthesiology – Postoperative Care Guidelines. 2022.",
+      "ERAS® Society Guidelines for Perioperative Care in Major Abdominal Surgery. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Cuidados Postoperatorios de Cirugía Mayor",
+    "definicion": "Los cuidados postoperatorios de cirugía mayor comprenden un conjunto integral de intervenciones clínicas y asistenciales enfocadas en la estabilización hemodinámica, la prevención de complicaciones y la recuperación funcional. Estos cuidados incluyen vigilancia continua, soporte ventilatorio si es necesario, control del dolor, profilaxis de tromboembolismo venoso, manejo metabólico, prevención de infecciones y movilización precoz. El abordaje debe adaptarse a cada paciente, considerando el tipo de cirugía, las comorbilidades y el riesgo perioperatorio.",
+    "epidemiologia": "Las cirugías de gran complejidad —como las cardiovasculares, torácicas, neuroquirúrgicas y abdominales mayores— presentan mayores tasas de complicaciones postoperatorias. Se estima que entre un 20–30% de los pacientes desarrollan alguna complicación sistémica (infecciones, insuficiencia respiratoria, disfunción cardiovascular), y la mortalidad puede alcanzar hasta el 10% en pacientes de alto riesgo. Los adultos mayores y pacientes con múltiples comorbilidades son especialmente vulnerables.",
+    "fisiopatologia": "El trauma quirúrgico desencadena una respuesta inflamatoria sistémica mediada por citocinas, activación simpática y cambios hormonales (eje HPA). Esta respuesta aumenta las demandas metabólicas, induce retención de líquidos, hiperglucemia, inmunosupresión transitoria y disfunción endotelial. Tales alteraciones comprometen la homeostasis de múltiples órganos, favoreciendo complicaciones respiratorias, cardiovasculares, tromboembólicas e infecciosas. Los agentes anestésicos y la hipovolemia intraoperatoria también contribuyen a la disfunción orgánica temprana.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión por hipovolemia o vasodilatación.",
+        "Hipertensión asociada al dolor o suspensión de antihipertensivos.",
+        "Arritmias (FA, extrasístoles, bloqueos AV) por alteraciones electrolíticas o isquemia.",
+        "Shock hipovolémico o distributivo en situaciones graves."
+      ],
+      "respiratorias": [
+        "Atelectasia e hipoventilación por dolor o inmovilidad toracoabdominal.",
+        "Broncoaspiración en pacientes con reflejo de tos disminuido.",
+        "Hipoxemia secundaria a congestión, infección o tromboembolismo pulmonar.",
+        "Retención de CO₂ por hipoventilación inducida por opioides."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Delirio postoperatorio, especialmente en pacientes mayores.",
+        "Alteración del estado mental por hipoglucemia, hipoxia o encefalopatía metabólica.",
+        "Trastornos de sodio y potasio que afectan funciones neurológicas y cardiovasculares.",
+        "Hiperglucemia inducida por estrés quirúrgico o corticoides."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "Se requiere evaluación clínica continua del estado general del paciente: signos vitales, nivel de conciencia, diuresis, dolor, función respiratoria y estado hemodinámico. Herramientas como el MEWS (Modified Early Warning Score) ayudan a identificar signos tempranos de deterioro clínico.",
+      "examenes_esenciales": [
+        "Hemograma completo, electrólitos, función renal y hepática, coagulograma.",
+        "ECG basal en pacientes con riesgo cardíaco.",
+        "Gasometría arterial en casos con compromiso respiratorio o acidosis sospechada.",
+        "Radiografía de tórax para valorar atelectasia, neumonía o sobrecarga de volumen.",
+        "Lactato sérico como marcador de hipoperfusión.",
+        "Marcadores inflamatorios y cultivos si se sospecha infección."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Hipoxemia refractaria a oxigenoterapia (SpO₂ &lt; 90% con FiO₂ &gt; 0,6).",
+      "Disminución del nivel de conciencia con riesgo de aspiración.",
+      "Hipercapnia con acidosis respiratoria y fatiga muscular.",
+      "Descompensación de enfermedad pulmonar crónica o nueva insuficiencia respiratoria postoperatoria."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Admisión en unidad de cuidados postoperatorios o UCI con monitorización continua.",
+        "Manejo multimodal del dolor: opioides, AINEs, anestesia regional (bloqueos, epidurales).",
+        "Prevención de complicaciones respiratorias mediante espirometría incentivada, fisioterapia torácica y movilización precoz.",
+        "Profilaxis de tromboembolismo venoso con heparina de bajo peso molecular y métodos mecánicos.",
+        "Reposición hídrica guiada por metas: PAM, diuresis, lactato.",
+        "Reinicio progresivo de dieta según función gastrointestinal.",
+        "Corrección temprana de alteraciones hidroelectrolíticas; control glicémico estricto.",
+        "Cuidados de la herida quirúrgica y prevención de infección del sitio operatorio (SSI)."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico tras una cirugía mayor depende de la complejidad del procedimiento, las condiciones previas del paciente y la detección precoz de complicaciones. Los protocolos de recuperación acelerada (ERAS), la rehabilitación precoz y la monitorización estructurada reducen la morbimortalidad y la duración de la hospitalización."
+    },
+    "notas_adicionales": [
+      "El uso de escalas de riesgo (ASA, SAPS 3, POSSUM) orienta el manejo perioperatorio.",
+      "Los protocolos estandarizados y listas de verificación aumentan la seguridad del paciente.",
+      "Evaluar delirium postoperatorio con herramientas como CAM-ICU en pacientes mayores o sedados.",
+      "Se recomienda iniciar soporte nutricional precoz (oral o enteral) siempre que sea posible.",
+      "La comunicación efectiva con pacientes y familiares, y la coordinación del equipo multidisciplinario, son esenciales."
+    ],
+    "referencias": [
+      "UpToDate. Cuidados del paciente postoperatorio en sala quirúrgica. 2024.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 86 – Cuidados críticos postoperatorios.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Sociedad Brasileña de Anestesiología – Guías de cuidados postoperatorios. 2022.",
+      "ERAS® Society. Guías para el manejo perioperatorio en cirugía abdominal mayor. 2023."
+    ]
+  }
+}

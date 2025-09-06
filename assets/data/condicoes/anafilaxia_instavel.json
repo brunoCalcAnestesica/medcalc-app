@@ -1,0 +1,212 @@
+{
+  "PT": {
+    "titulo": "Anafilaxia com Instabilidade Hemodinâmica",
+    "definicao": "A anafilaxia com instabilidade hemodinâmica é uma reação alérgica sistêmica grave, de início súbito, caracterizada por vasodilatação sistêmica, extravasamento capilar e colapso circulatório. Pode evoluir rapidamente para parada cardiorrespiratória se não for reconhecida e tratada de forma imediata.",
+    "epidemiologia": "A anafilaxia ocorre em até 2% da população geral ao longo da vida, sendo mais frequente em pacientes com histórico de atopia, alergia alimentar ou uso prévio de anestésicos. A forma com instabilidade hemodinâmica é menos comum, porém associada a mortalidade elevada se não houver intervenção precoce.",
+    "fisiopatologia": "A reação anafilática é mediada principalmente por IgE, com liberação maciça de histamina, triptase, leucotrienos e outras citocinas pró-inflamatórias. Esses mediadores provocam vasodilatação, aumento da permeabilidade capilar, broncoespasmo e disfunção miocárdica, resultando em queda acentuada da pressão arterial e choque distributivo.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial grave",
+        "Taquicardia compensatória ou bradicardia terminal",
+        "Choque refratário a volume"
+      ],
+      "respiratorias": [
+        "Broncoespasmo com sibilância",
+        "Edema de glote e estridor",
+        "Hipoxemia e dificuldade respiratória"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Rebaixamento do nível de consciência",
+        "Convulsões em casos graves",
+        "Acidose metabólica por hipoperfusão"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Baseado em critérios clínicos como início súbito de sintomas após exposição a alérgeno conhecido, associado a instabilidade hemodinâmica, comprometimento respiratório e/ou cutâneo.",
+      "exames_essenciais": [
+        "Monitorização contínua de sinais vitais",
+        "Gasometria arterial",
+        "Dosagem de triptase (ajuda na confirmação retrospectiva)",
+        "ECG e marcadores de injúria miocárdica em casos graves"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Obstrução de via aérea superior (edema de glote)",
+      "Rebaixamento do nível de consciência",
+      "Insuficiência respiratória aguda por broncoespasmo ou hipoxemia"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Administração imediata de adrenalina intramuscular (0,01 mg/kg) ou intravenosa em casos graves",
+        "Reposição volêmica agressiva com cristaloides",
+        "Oxigenoterapia com alto fluxo",
+        "Intubação orotraqueal precoce se via aérea ameaçada",
+        "Uso de vasopressores contínuos se choque refratário",
+        "Antihistamínicos e corticosteroides como adjuvantes",
+        "Considerar broncodilatadores e bloqueadores H2",
+        "Monitorar glicemia capilar seriada para descartar hipoglicemia associada",
+        "Considerar hidrocortisona EV em pacientes com uso crônico de corticosteroides",
+        "Avaliar necessidade de suporte ventilatório prolongado após estabilização inicial"
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico é favorável se a adrenalina for administrada precocemente. A demora no reconhecimento ou na intervenção está associada a maior mortalidade. Pacientes com instabilidade hemodinâmica requerem internação em UTI."
+    },
+    "notas_adicionais": [
+      "A adrenalina é a droga de escolha e deve ser usada sem demora.",
+      "Evite sedativos que possam agravar hipotensão.",
+      "A via intravenosa de adrenalina deve ser usada apenas por profissionais experientes.",
+      "Monitorar resposta clínica e repetir doses se necessário.",
+      "Manter vigilância prolongada para possíveis bifásicas.",
+      "Registrar evento como anafilaxia no prontuário com descrição detalhada",
+      "Encaminhar para alergologista para investigação etiológica e imunoprofilaxia futura"
+    ],
+    "fontes_bibliograficas": [
+      "Guyton AC, Hall JE. Tratado de Fisiologia Médica. 14ª ed. Elsevier; 2021.",
+      "Morgan GE, Mikhail MS, Murray MJ. Clinical Anesthesiology. 6th ed. McGraw-Hill; 2018.",
+      "Marino P. The ICU Book. 4th ed. Wolters Kluwer; 2014.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Kraut JA, Madias NE. Metabolic Acidosis: Pathophysiology, Diagnosis and Management. Nat Rev Nephrol. 2010."
+    ]
+  },
+  "US": {
+    "titulo": "Anaphylaxis with Hemodynamic Instability",
+    "definicao": "Anaphylaxis with hemodynamic instability is a severe, sudden-onset systemic allergic reaction characterized by systemic vasodilation, capillary leakage, and circulatory collapse. It can rapidly progress to cardiopulmonary arrest if not promptly recognized and treated.",
+    "epidemiologia": "Anaphylaxis occurs in up to 2% of the general population over a lifetime, more frequently in patients with a history of atopy, food allergy, or prior anesthetic exposure. The form with hemodynamic instability is less common but associated with high mortality if early intervention is not provided.",
+    "fisiopatologia": "The anaphylactic reaction is primarily mediated by IgE with massive release of histamine, tryptase, leukotrienes, and other pro-inflammatory cytokines. These mediators induce vasodilation, increased capillary permeability, bronchospasm, and myocardial dysfunction, leading to severe hypotension and distributive shock.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Severe arterial hypotension",
+        "Compensatory tachycardia or terminal bradycardia",
+        "Volume-refractory shock"
+      ],
+      "respiratorias": [
+        "Bronchospasm with wheezing",
+        "Glottic edema and stridor",
+        "Hypoxemia and respiratory distress"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Depressed level of consciousness",
+        "Seizures in severe cases",
+        "Metabolic acidosis due to hypoperfusion"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Based on clinical criteria such as sudden onset of symptoms after exposure to a known allergen, associated with hemodynamic instability, respiratory and/or cutaneous involvement.",
+      "exames_essenciais": [
+        "Continuous vital signs monitoring",
+        "Arterial blood gas analysis",
+        "Tryptase measurement (helps confirm diagnosis retrospectively)",
+        "ECG and cardiac injury markers in severe cases"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Upper airway obstruction (glottic edema)",
+      "Depressed level of consciousness",
+      "Acute respiratory failure due to bronchospasm or hypoxemia"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Immediate administration of intramuscular epinephrine (0.01 mg/kg) or intravenous in severe cases",
+        "Aggressive volume resuscitation with crystalloids",
+        "High-flow oxygen therapy",
+        "Early orotracheal intubation if airway is compromised",
+        "Continuous vasopressor use in refractory shock",
+        "Antihistamines and corticosteroids as adjuncts",
+        "Consider bronchodilators and H2 blockers",
+        "Monitor capillary blood glucose to rule out associated hypoglycemia",
+        "Consider IV hydrocortisone in patients with chronic corticosteroid use",
+        "Evaluate need for prolonged ventilatory support after initial stabilization"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Prognosis is favorable if epinephrine is administered early. Delays in recognition or treatment are associated with increased mortality. Patients with hemodynamic instability require ICU admission."
+    },
+    "notas_adicionais": [
+      "Epinephrine is the drug of choice and must be administered without delay.",
+      "Avoid sedatives that may worsen hypotension.",
+      "Intravenous epinephrine should only be used by experienced professionals.",
+      "Monitor clinical response and repeat doses if needed.",
+      "Maintain extended observation for possible biphasic reactions.",
+      "Document the event as anaphylaxis in the medical record with detailed description.",
+      "Refer to allergist for etiological investigation and future immunoprophylaxis."
+    ],
+    "fontes_bibliograficas": [
+      "Guyton AC, Hall JE. Tratado de Fisiologia Médica. 14ª ed. Elsevier; 2021.",
+      "Morgan GE, Mikhail MS, Murray MJ. Clinical Anesthesiology. 6th ed. McGraw-Hill; 2018.",
+      "Marino P. The ICU Book. 4th ed. Wolters Kluwer; 2014.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Kraut JA, Madias NE. Metabolic Acidosis: Pathophysiology, Diagnosis and Management. Nat Rev Nephrol. 2010."
+    ]
+  },
+  "ES": {
+    "titulo": "Anafilaxia con Inestabilidad Hemodinámica",
+    "definicao": "La anafilaxia con inestabilidad hemodinámica es una reacción alérgica sistémica grave, de inicio súbito, caracterizada por vasodilatación sistémica, fuga capilar y colapso circulatorio. Puede evolucionar rápidamente hacia un paro cardiorrespiratorio si no se reconoce y trata de inmediato.",
+    "epidemiologia": "La anafilaxia ocurre en hasta el 2% de la población general a lo largo de la vida, siendo más frecuente en pacientes con antecedentes de atopia, alergias alimentarias o uso previo de anestésicos. La forma con inestabilidad hemodinámica es menos común pero asociada a alta mortalidad si no se interviene precozmente.",
+    "fisiopatologia": "La reacción anafiláctica es mediada principalmente por IgE, con liberación masiva de histamina, triptasa, leucotrienos y otras citocinas proinflamatorias. Estos mediadores provocan vasodilatación, aumento de la permeabilidad capilar, broncoespasmo y disfunción miocárdica, lo que resulta en hipotensión grave y choque distributivo.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión arterial grave",
+        "Taquicardia compensatoria o bradicardia terminal",
+        "Choque refractario a volumen"
+      ],
+      "respiratorias": [
+        "Broncoespasmo con sibilancias",
+        "Edema de glotis y estridor",
+        "Hipoxemia y dificultad respiratoria"
+      ],
+      "neurologicas_e_metabolicas": [
+        "Disminución del nivel de conciencia",
+        "Convulsiones en casos graves",
+        "Acidosis metabólica por hipoperfusión"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Basado en criterios clínicos como aparición súbita de síntomas tras la exposición a un alérgeno conocido, asociado a inestabilidad hemodinámica, compromiso respiratorio y/o cutáneo.",
+      "exames_essenciais": [
+        "Monitoreo continuo de signos vitales",
+        "Gasometría arterial",
+        "Dosificación de triptasa (útil para confirmación retrospectiva)",
+        "ECG y marcadores de daño miocárdico en casos graves"
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Obstrucción de vía aérea superior (edema de glotis)",
+      "Disminución del nivel de conciencia",
+      "Insuficiencia respiratoria aguda por broncoespasmo o hipoxemia"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Administración inmediata de adrenalina intramuscular (0,01 mg/kg) o intravenosa en casos graves",
+        "Reposición agresiva de volumen con cristaloides",
+        "Oxigenoterapia de alto flujo",
+        "Intubación orotraqueal temprana si hay compromiso de la vía aérea",
+        "Uso continuo de vasopresores en choque refractario",
+        "Antihistamínicos y corticosteroides como adyuvantes",
+        "Considerar broncodilatadores y bloqueadores H2",
+        "Monitorear glucemia capilar para descartar hipoglucemia asociada",
+        "Considerar hidrocortisona IV en pacientes con uso crónico de corticosteroides",
+        "Evaluar la necesidad de soporte ventilatorio prolongado tras estabilización inicial"
+      ]
+    },
+    "prognostico": {
+      "comentario": "El pronóstico es favorable si se administra adrenalina de forma precoz. La demora en el reconocimiento o en el tratamiento se asocia a mayor mortalidad. Los pacientes con inestabilidad hemodinámica requieren ingreso en UCI."
+    },
+    "notas_adicionais": [
+      "La adrenalina es el medicamento de elección y debe administrarse sin demora.",
+      "Evitar sedantes que puedan agravar la hipotensión.",
+      "La adrenalina intravenosa solo debe usarse por profesionales experimentados.",
+      "Monitorear la respuesta clínica y repetir dosis si es necesario.",
+      "Mantener observación prolongada por posibles reacciones bifásicas.",
+      "Registrar el evento como anafilaxia en la historia clínica con descripción detallada.",
+      "Remitir al alergólogo para investigación etiológica y profilaxis futura."
+    ],
+    "fontes_bibliograficas": [
+      "Guyton AC, Hall JE. Tratado de Fisiologia Médica. 14ª ed. Elsevier; 2021.",
+      "Morgan GE, Mikhail MS, Murray MJ. Clinical Anesthesiology. 6th ed. McGraw-Hill; 2018.",
+      "Marino P. The ICU Book. 4th ed. Wolters Kluwer; 2014.",
+      "Barash PG, Cullen BF, Stoelting RK, et al. Clinical Anesthesia. 8th ed. Wolters Kluwer; 2017.",
+      "Kraut JA, Madias NE. Metabolic Acidosis: Pathophysiology, Diagnosis and Management. Nat Rev Nephrol. 2010."
+    ]
+  }
+}

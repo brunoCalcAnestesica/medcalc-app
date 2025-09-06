@@ -1,0 +1,221 @@
+{
+  "PT": {
+    "titulo": "Queimaduras Agudas",
+    "definicao": "Queimaduras agudas são lesões traumáticas agudas dos tecidos corporais, causadas por exposição a agentes térmicos (calor ou frio), químicos, elétricos ou radiação. As consequências envolvem desde dano localizado até alterações sistêmicas severas. A gravidade é determinada por profundidade, extensão (percentual de superfície corporal queimada – SCQ), local anatômico e condições clínicas do paciente. Queimaduras profundas e extensas podem levar a desidratação, infecção, falência orgânica e morte.",
+    "epidemiologia": "Estima-se que ocorram cerca de 11 milhões de queimaduras graves anualmente no mundo, com mais de 180 mil mortes. No Brasil, mais de 1 milhão de pessoas são vítimas de queimaduras por ano, das quais 10% necessitam de hospitalização. As faixas etárias mais afetadas são crianças menores de 5 anos e adultos entre 20 e 40 anos. A maioria das lesões ocorre no domicílio ou no ambiente de trabalho, sendo escaldaduras e chamas as principais causas.",
+    "fisiopatologia": "A exposição a altas temperaturas provoca desnaturação proteica, destruição celular e liberação de citocinas inflamatórias. Lesões maiores que 20% da SCQ desencadeiam resposta inflamatória sistêmica, com vasodilatação, aumento da permeabilidade capilar e extravasamento de fluido intravascular, levando a hipovolemia e potencial choque. Queimaduras por eletricidade causam lesões profundas e rabdomiólise; as químicas promovem necrose por contato direto com substâncias irritantes ou corrosivas. A inalação de fumaça pode provocar edema de via aérea superior e lesão alveolar.",
+    "manifestações_clinicas": {
+      "classicas": [
+        "Eritema (queimadura superficial de primeiro grau)",
+        "Flictenas (segundo grau superficial)",
+        "Área esbranquiçada, seca e indolor (segundo grau profundo/terceiro grau)",
+        "Edema acentuado em extremidades ou face",
+        "Dor intensa nas queimaduras superficiais e ausência de dor em lesões profundas"
+      ],
+      "outras": [
+        "Rouquidão, tosse carbonácea, estridor (queimadura por inalação)",
+        "Urina escura (mioglobinúria por rabdomiólise)",
+        "Hipotensão e taquicardia (choque hipovolêmico)",
+        "Confusão mental, acidose metabólica",
+        "Infecção da ferida e sepse em fases tardias"
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A avaliação inicial deve seguir o protocolo ABCDE. É essencial estimar a profundidade da queimadura (1º, 2º ou 3º grau) e a extensão pela Regra dos 9 (adultos) ou tabelas específicas como Lund-Browder (crianças). Áreas especiais (face, mãos, pés, períneo, articulações, queimaduras circulares) sempre indicam maior gravidade. Deve-se investigar sinais de lesão por inalação e exposição elétrica ou química.",
+      "exames_essenciais": [
+        "Gasometria arterial e carboxihemoglobina (se inalação de fumaça)",
+        "Eletrocardiograma (queimadura elétrica)",
+        "Hemograma completo (leucocitose inicial, anemia tardia)",
+        "Função renal e eletrólitos (avaliação da perfusão e hidratação)",
+        "CK total e mioglobina urinária (rastreio de rabdomiólise)",
+        "Radiografia de tórax (edema pulmonar, aspiração)",
+        "Culturas (se sinais de infecção sistêmica ou local)",
+        "USG à beira-leito se suspeita de síndrome compartimental"
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Queimaduras faciais com estridor ou rouquidão",
+      "Carboxihemoglobina > 10% (intoxicação por CO)",
+      "Comprometimento respiratório progressivo",
+      "Rebaixamento de consciência ou Glasgow ≤ 8",
+      "Necessidade de suporte em queimaduras >40% SCQ com instabilidade"
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Remoção imediata do agente causador (interromper combustão ou irrigar com água corrente)",
+        "ABCDE com suporte de via aérea antecipado se necessário",
+        "Administração de O₂ 100% em máscara com reservatório",
+        "Reposição volêmica com cristaloides pela fórmula de Parkland (4 mL × kg × %SCQ)",
+        "Monitorar diurese (meta ≥ 0,5 mL/kg/h ou 1 mL/kg/h em crianças)",
+        "Controle rigoroso da dor com opioides e sedação leve",
+        "Curativos com solução salina e cobertura com gazes estéreis",
+        "Avaliação cirúrgica precoce para desbridamento ou escarotomia se necessário",
+        "Profilaxia antitetânica e antibióticos apenas se infecção estabelecida",
+        "Encaminhar para centro de queimados se critérios de gravidade forem atendidos"
+      ]
+    },
+    "prognostico": {
+      "comentario": "Queimaduras extensas ou profundas, especialmente em idosos, crianças e pacientes com comorbidades, apresentam alto risco de mortalidade. Queimaduras com inalação associada, atraso no atendimento e infecção secundária também agravam o prognóstico. A recuperação funcional e estética requer abordagem multidisciplinar prolongada com fisioterapia, terapia ocupacional, apoio psicológico e, muitas vezes, múltiplas cirurgias reconstrutivas."
+    },
+    "notas_adicionais": [
+      "Cobrir o paciente com lençóis limpos para transporte e evitar hipotermia",
+      "Evitar uso de gelo, pasta de dente ou outras substâncias não estéreis na lesão",
+      "Queimaduras elétricas sempre exigem investigação de lesões profundas ocultas",
+      "Monitorar sinais de síndrome compartimental em membros e tórax com queimaduras circulares",
+      "Evitar excesso de reposição volêmica — risco de edema pulmonar e abdominal compartimental"
+    ],
+    "fontes_bibliograficas": [
+      "Ministério da Saúde. Protocolo de Tratamento de Pacientes Queimados. 2021.",
+      "American Burn Association. Advanced Burn Life Support (ABLS). 2023.",
+      "UpToDate. Initial management of the burned adult patient. 2024.",
+      "Tintinalli’s Emergency Medicine Manual. 9ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 74 – Trauma e Queimaduras."
+    ]
+  },
+  "US": {
+    "title": "Burns Leit",
+    "definition": "Acute burns are acute traumatic injuries to body tissues caused by exposure to thermal (heat or cold), chemical, electrical, or radiation agents. They may result in localized damage or trigger systemic inflammatory responses depending on the extent, depth, anatomical location, and the patient’s overall health. Deep or extensive burns compromise skin barrier function, leading to fluid loss, infection, metabolic imbalance, and organ failure.",
+    "epidemiology": "Globally, approximately 11 million severe burn injuries occur annually, with more than 180,000 deaths. In Brazil, over 1 million burn cases are reported each year, with around 10% requiring hospitalization. The most affected populations are children under 5 years old and adults between 20 and 40 years. Most burns occur at home or in the workplace, primarily caused by scalding and open flame exposure.",
+    "pathophysiology": "Thermal injury causes protein denaturation, cell destruction, and the release of local and systemic inflammatory mediators. Burns involving >20% of total body surface area (TBSA) can trigger a systemic inflammatory response, characterized by vasodilation, increased capillary permeability, and plasma leakage, leading to hypovolemia and potential shock. Electrical burns often cause deep tissue necrosis and rhabdomyolysis. Chemical burns result from direct contact with corrosive agents. Inhalation injuries may cause upper airway edema and alveolar damage.",
+    "clinical_manifestations": {
+      "classic": [
+        "Erythema (first-degree superficial burn)",
+        "Blisters (superficial second-degree burn)",
+        "Pale, dry, painless areas (deep second-degree or third-degree burns)",
+        "Severe swelling, especially on face or extremities",
+        "Intense pain in superficial burns; absent sensation in deep injuries"
+      ],
+      "other": [
+        "Hoarseness, carbonaceous sputum, stridor (suggestive of inhalation injury)",
+        "Dark urine (rhabdomyolysis with myoglobinuria)",
+        "Hypotension and tachycardia (burn shock)",
+        "Mental confusion, metabolic acidosis",
+        "Wound infection and sepsis in late stages"
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Initial assessment follows the ABCDE trauma protocol. Burn depth (1st, 2nd, 3rd degree) and surface area (using the Rule of Nines for adults or Lund-Browder chart for children) must be estimated. Burns involving critical areas (face, hands, feet, perineum, joints) or circumferential burns indicate increased severity. Inhalation, electrical, or chemical injuries must be promptly identified.",
+      "essential_tests": [
+        "Arterial blood gas and carboxyhemoglobin level (if smoke inhalation suspected)",
+        "Electrocardiogram (for electrical burns)",
+        "Complete blood count (initial leukocytosis, delayed anemia)",
+        "Renal function and electrolytes (assess perfusion and hydration)",
+        "Total creatine kinase and urine myoglobin (rhabdomyolysis screening)",
+        "Chest X-ray (pulmonary edema, aspiration)",
+        "Wound cultures (if systemic or local infection suspected)",
+        "Bedside ultrasound if compartment syndrome is suspected"
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Facial burns with stridor or hoarseness",
+      "Carboxyhemoglobin > 10% (carbon monoxide poisoning)",
+      "Progressive respiratory compromise",
+      "Decreased consciousness or Glasgow ≤ 8",
+      "Need for support in unstable burns >40% TBSA"
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Immediately remove the causative agent (stop burning or irrigate with cool water)",
+        "Initiate ABCDE approach with early airway protection if needed",
+        "Administer 100% oxygen via non-rebreather mask",
+        "Begin fluid resuscitation using Parkland formula (4 mL × weight [kg] × %TBSA)",
+        "Monitor urine output (goal ≥ 0.5 mL/kg/h or 1 mL/kg/h in children)",
+        "Strict pain control with opioids and light sedation",
+        "Irrigate wounds with saline and apply sterile dressings",
+        "Early surgical consultation for debridement or escharotomy as needed",
+        "Administer tetanus prophylaxis; antibiotics only if infection is evident",
+        "Transfer to a burn center if severity criteria are met"
+      ]
+    },
+    "prognosis": {
+      "comment": "Extensive or deep burns, particularly in elderly, pediatric, or comorbid patients, are associated with high mortality. Inhalation injury, delayed treatment, and secondary infection worsen outcomes. Long-term functional and cosmetic recovery requires multidisciplinary rehabilitation involving physiotherapy, occupational therapy, psychological support, and often multiple reconstructive surgeries."
+    },
+    "additional_notes": [
+      "Cover the patient with clean sheets during transport and prevent hypothermia",
+      "Avoid applying ice, toothpaste, or unsterile substances to the wound",
+      "Electrical burns always require evaluation for deep tissue injury",
+      "Monitor for signs of compartment syndrome in circumferential burns",
+      "Avoid excessive fluid resuscitation to prevent pulmonary or abdominal compartment syndrome"
+    ],
+    "references": [
+      "Brazilian Ministry of Health. Burn Patient Treatment Protocol. 2021.",
+      "American Burn Association. Advanced Burn Life Support (ABLS) Manual. 2023.",
+      "UpToDate. Initial management of the burned adult patient. 2024.",
+      "Tintinalli’s Emergency Medicine Manual. 9th ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 74 – Trauma and Burns."
+    ]
+  },
+  "ES": {
+    "titulo": "Quemaduras Agudas",
+    "definicion": "Las quemaduras agudas  son lesiones traumáticas agudas de los tejidos corporales causadas por la exposición a agentes térmicos (calor o frío), químicos, eléctricos o radiación. Pueden provocar desde daños localizados hasta respuestas inflamatorias sistémicas graves. La gravedad se determina por la profundidad, la extensión (porcentaje de superficie corporal quemada – SCQ), la localización anatómica y las condiciones clínicas del paciente. Las quemaduras extensas o profundas comprometen la función de barrera de la piel, lo que conlleva pérdida de líquidos, infecciones, desequilibrios metabólicos y fallo multiorgánico.",
+    "epidemiologia": "Se estima que ocurren aproximadamente 11 millones de quemaduras graves cada año en el mundo, con más de 180.000 muertes. En Brasil, se notifican más de 1 millón de casos por año, con un 10% de hospitalizaciones. Las poblaciones más afectadas son los niños menores de 5 años y los adultos de entre 20 y 40 años. La mayoría de las quemaduras ocurren en el hogar o en el lugar de trabajo, siendo las escaldaduras y las llamas las principales causas.",
+    "fisiopatologia": "La lesión térmica provoca desnaturalización de proteínas, destrucción celular y liberación de mediadores inflamatorios locales y sistémicos. Las quemaduras que afectan más del 20% de la SCQ pueden desencadenar una respuesta inflamatoria sistémica con vasodilatación, aumento de la permeabilidad capilar y pérdida de volumen plasmático, lo que lleva a hipovolemia y shock. Las quemaduras eléctricas suelen causar necrosis tisular profunda y rabdomiólisis. Las quemaduras químicas resultan del contacto con agentes corrosivos. Las lesiones por inhalación pueden provocar edema de la vía aérea superior y daño alveolar.",
+    "manifestaciones_clinicas": {
+      "clasicas": [
+        "Eritema (quemadura superficial de primer grado)",
+        "Ampollas (quemadura de segundo grado superficial)",
+        "Áreas pálidas, secas e indoloras (quemaduras de segundo grado profundo o tercer grado)",
+        "Edema severo, especialmente en cara o extremidades",
+        "Dolor intenso en quemaduras superficiales; ausencia de dolor en lesiones profundas"
+      ],
+      "otras": [
+        "Disfonía, esputo carbonáceo, estridor (sugiere lesión por inhalación)",
+        "Orina oscura (rabdomiólisis con mioglobinuria)",
+        "Hipotensión y taquicardia (shock por quemadura)",
+        "Confusión mental, acidosis metabólica",
+        "Infección de la herida y sepsis en fases avanzadas"
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "La evaluación inicial sigue el protocolo ABCDE. Se debe estimar la profundidad (1º, 2º, 3º grado) y la extensión de la quemadura (utilizando la Regla de los Nueves en adultos o la tabla de Lund-Browder en niños). Las quemaduras en áreas críticas (cara, manos, pies, periné, articulaciones) o las circunferenciales indican mayor gravedad. Es imprescindible identificar lesiones por inhalación, eléctricas o químicas.",
+      "examenes_esenciales": [
+        "Gasometría arterial y carboxihemoglobina (si se sospecha inhalación de humo)",
+        "Electrocardiograma (quemaduras eléctricas)",
+        "Hemograma completo (leucocitosis inicial, anemia tardía)",
+        "Función renal y electrólitos (evaluar perfusión e hidratación)",
+        "CK total y mioglobina urinaria (detección de rabdomiólisis)",
+        "Radiografía de tórax (edema pulmonar, aspiración)",
+        "Cultivo de heridas (si se sospecha infección local o sistémica)",
+        "Ecografía a pie de cama si se sospecha síndrome compartimental"
+      ]
+    },
+    "indicaciones_soporte_ventilatorio": [
+      "Quemaduras faciales con estridor o disfonía",
+      "Carboxihemoglobina > 10% (intoxicación por monóxido de carbono)",
+      "Compromiso respiratorio progresivo",
+      "Disminución del nivel de conciencia o Glasgow ≤ 8",
+      "Necesidad de soporte en quemaduras inestables >40% SCQ"
+    ],
+    "conducta_general": {
+      "abordaje_inicial": [
+        "Retirar inmediatamente el agente causal (detener la combustión o irrigar con agua corriente)",
+        "Iniciar protocolo ABCDE con protección precoz de la vía aérea si es necesario",
+        "Administrar oxígeno al 100% con mascarilla de reservorio",
+        "Reposición de volumen con fórmula de Parkland (4 mL × peso [kg] × %SCQ)",
+        "Monitorear diuresis (objetivo ≥ 0,5 mL/kg/h o 1 mL/kg/h en niños)",
+        "Control estricto del dolor con opioides y sedación ligera",
+        "Irrigación de heridas con solución salina y apósitos estériles",
+        "Consulta quirúrgica precoz para desbridamiento o escarotomía si es necesario",
+        "Profilaxis antitetánica; antibióticos solo si hay signos de infección",
+        "Traslado a centro especializado en quemaduras si se cumplen criterios de gravedad"
+      ]
+    },
+    "pronostico": {
+      "comentario": "Las quemaduras extensas o profundas, especialmente en ancianos, niños y pacientes con comorbilidades, presentan alta mortalidad. Las lesiones por inhalación, el retraso en la atención y la infección secundaria empeoran el pronóstico. La recuperación funcional y estética a largo plazo requiere rehabilitación multidisciplinaria con fisioterapia, terapia ocupacional, apoyo psicológico y, a menudo, múltiples cirugías reconstructivas."
+    },
+    "notas_adicionales": [
+      "Cubrir al paciente con sábanas limpias durante el transporte y prevenir la hipotermia",
+      "Evitar aplicar hielo, pasta dental o sustancias no estériles sobre la herida",
+      "Las quemaduras eléctricas requieren siempre evaluación de daño tisular profundo",
+      "Vigilar signos de síndrome compartimental en quemaduras circunferenciales",
+      "Evitar la sobrecarga de líquidos para prevenir edema pulmonar o síndrome compartimental abdominal"
+    ],
+    "fuentes_bibliograficas": [
+      "Ministerio de Salud de Brasil. Protocolo de tratamiento para pacientes quemados. 2021.",
+      "American Burn Association. Manual ABLS – Advanced Burn Life Support. 2023.",
+      "UpToDate. Manejo inicial del paciente quemado adulto. 2024.",
+      "Tintinalli. Medicina de Urgencias. 9ª edición.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 74 – Trauma y Quemaduras."
+    ]
+  }
+}

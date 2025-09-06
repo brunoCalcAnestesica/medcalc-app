@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+    
+<!-- Mirrored from pedajuda.com.br/puericultura-suplementacao.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Aug 2023 19:56:33 GMT -->
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>PedAjuda - Condutas e Prescrições Pediátricas</title>
+        
+        <meta name="description" content="Tudo que você precisa saber para manejar de forma correta e tranquila seus pacientes pediátricos, na palma da sua mão." />
+        <meta name="keywords" content="pediatria, calculadora, doses, condutas, prescrições, urgência, emergências, antibióticos, anti-convulsionantes, anti-fúngicos, anti-histamínicos, anti-parasitários, broncodilatadores, laxativos, anti-inflamatórios, hidratação venosa, sintomáticos, anafilaxia, asma, cetoacidose, diabetes, choque" />
+        <meta name="author" content="Lucas de Medeiros Ferreira (lucas.medeiros@icloud.com)"/>
+        
+        <link rel="icon" type="image/png" href="assets/imagens/favicon.png" />
+        
+        <!-- [INI] CSS -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/fontawesome.css">
+        <link rel="stylesheet" href="assets/css/animated.css">
+        <link rel="stylesheet" href="assets/css/estilo.css">
+        <!-- [END] CSS -->
+    </head>
+    
+    <body>
+        
+        <!-- ***** Preloader Start ***** -->
+        <div class="loader-wrapper">
+            <div class="loader animated fadeOutUp">
+                <div class="bubble-1"></div>
+                <div class="bubble-2"></div>
+                <div class="bubble-3"></div>
+            </div>
+        </div>
+        <!-- ***** Preloader End ***** -->
+        
+        <!-- ***** [INI] HEADER ***** -->
+        <header class="header-area branco">
+		<div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        
+                        <a href="index.html" class="logo">
+							<img src="assets/imagens/logo.png" alt="PedAjuda"/>
+						</a>
+
+						<ul class="nav">
+							<li><a href="index.html" class="branco">Página Inicial</a></li>
+                            <li class="submenu">
+                                <a href="javascript:;">Ferramentas <i class="fas fa-angle-down"></i></a>
+								<ul>
+									<li><a href="index.html#categorias">Cálculo de Doses</a></li>
+                                    <li><a href="index.html#puericultura">Puericultura</a></li>
+									<li><a href="index.html#condutas">Condutas em Urgência</a></li>
+								</ul>
+                            </li>
+                            <li><a href="sobre-projeto.html" class="branco">Sobre o Projeto</a></li>
+                            <li><a href="contato.html" class="branco">Contato</a></li>
+						</ul>
+						
+                        <a class="menu-trigger">
+							<span>Menu</span>
+						</a>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        </header>
+        <!-- ***** [END] HEADER ***** -->
+        
+        
+        
+        <!-- ***** [INI] SECTION - CAPA ***** -->
+        <section class="section estilo-pueri-3" id="capa">
+            <div class="container">
+                <div class="row">
+                
+                        <div class="col-lg-12">
+                            <h1>Suplementação</h1>
+                        </div>
+                
+                        <div class="col-lg-12">
+                            <ol class="breadcrumb">
+                                <li><a href="index.html">Página Inicial</a></li>
+                                <li class="active">Suplementação</li>
+                            </ol>
+                        </div>
+                    
+                </div>
+            </div>
+        </section>
+        <!-- ***** [END] SECTION - CAPA ***** -->
+        
+        
+        
+        
+        
+        <section class="section" id="entenda-crescimento" style="padding-top: 40px;">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <!--<h1>Qual a Idade da Criança?</h1>-->
+                        <h3 style="margin-bottom: 0px; line-height: 22px;">Selecione a data de nascimento e o peso da criança, e classifique sua maturidade fetal.</h3>
+                        
+                        <form>
+                        <div class="row">
+                            
+                            <div class="col-lg-3 col-md-3 col-sm-12 col-12 input-data" style="margin-top: 20px;">
+                                <input type="tel" placeholder="Data do Nascimento" id="dataInput" >
+								<button type="button" id="dataButton"><i class="fa fa-calendar-alt"></i></button>
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-3 col-sm-12 col-12" style="text-align: center; padding-top: 10px; margin-top: 20px;">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input form-radio" type="radio" name="maturidadeFetal" id="inlineRadio1" value="RNT" checked>
+                                    <label class="form-check-label" for="inlineRadio1">A Termo</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input form-radio" type="radio" name="maturidadeFetal" id="inlineRadio2" value="RNPT">
+                                    <label class="form-check-label" for="inlineRadio2">Prematuro</label>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-3 col-sm-12 col-12 input-data" style="margin-top: 20px;">
+                                <input type="number" placeholder="Peso Atual (em gramas)" id="pesoInput" onkeypress="return isNumberKey(event,this)" step="0.1" >
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-3 col-sm-12 col-12" style="margin-top: 20px;">
+                                <button type="submit" class="suplementacao" id="buttonSuplementar">SUPLEMENTAR</button>
+                            </div>
+                            
+                        </div>
+                        </form>
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        
+        
+        
+        
+        <!-- ***** [INI] SECTION - MEDICACOES ***** --->
+        <section class="section scrollHere" id="lista-suplementacao" style="padding-top: 0px; display: none; background-color: #FFF;">
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <div class="lista-curvas-crescimento" style="margin-top: 0px; padding-top: 30px; padding-bottom: 30px;">
+                            
+                            <div class="row">
+                                
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12 suplementacao-box">
+                                    <div class="titulo-suplementacao" id="vitaminaA-box">
+                                        <div><i class="far fa-eye"></i></div>
+                                        <h2>Vitamina A</h2>
+                                    </div>
+                                    <ul class="lista-prescricao" id="vitaminaA-lista">
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12 suplementacao-box">
+                                    <div class="titulo-suplementacao" id="vitaminaD-box">
+                                        <div id="vitaminaD-icon"><i class="fas fa-bone"></i></div>
+                                        <h2>Vitamina D</h2>
+                                    </div>
+                                    <ul class="lista-prescricao" id="vitaminaD-lista">
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12 suplementacao-box">
+                                    <div class="titulo-suplementacao" id="ferro-box">
+                                        <div>F</div>
+                                        <h2>Ferro Elementar</h2>
+                                    </div>
+                                    <ul class="lista-prescricao" id="ferro-lista">
+                                        
+                                    </ul>
+                                </div>
+                                
+                                <div class="col-lg-6 col-md-6 col-sm-12 col-12 suplementacao-box" id="zinco">
+                                    <div class="titulo-suplementacao" id="zinco-box">
+                                        <div>Z</div>
+                                        <h2>Sulfato de Zinco</h2>
+                                    </div>
+                                    <ul class="lista-prescricao" id="zinco-lista">
+                                        
+                                    </ul>
+                                </div>
+                            
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </section>
+        <!-- ***** [END] SECTION - MEDICACOES ***** --->
+        
+        
+        
+        
+        
+        <!-- ***** [INI] RODAPÉ ***** --->
+        <footer>
+            <div class="container">
+                <div class="row infopc">
+                    
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+                        <div class="card h-100">
+                            <img src="assets/imagens/logo.png" width="195" />
+                            <p>Projeto desenvolvido por doutorandos do curso de Medicina da Universidade Federal do Rio Grande do Norte (UFRN) e docentes do Internato de Pediatria.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="card h-100">
+                            <h5>Links Úteis</h5>
+                            <ul class="footer-nav">
+                                <li><a href="http://www.sbp.com.br/" target="_blank"><i class="fa fa-chevron-right"></i><span>SBP</span></a></li>
+                                <li><a href="https://www.nestlenutrition-institute.org/country/br/" target="_blank"><i class="fa fa-chevron-right"></i><span>Nestlé Nutrition</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+                        <div class="card h-100">
+                            <h5>Redes Sociais</h5>
+                            <a href="https://www.facebook.com/pedajuda.med/" target="_blank"><i class="fab fa-facebook-square"></i><p>Facebook</p></a>
+                            <a href="https://www.instagram.com/pedajuda.med" target="_blank"><i class="fab fa-instagram"></i><p>Instagram</p></a>
+                        </div>
+                    </div>
+            
+                </div>
+            
+                <div class="row copyright">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12 ">
+                        © 2019 PedAjuda. Todos os Direitos Reservados.
+                    </div>
+                </div>
+                
+            </div>
+        </footer>
+        <!-- ***** [END] RODAPÉ ***** --->
+        
+        
+        
+        <!-- [INI] JS -->
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/mask.js"></script>
+        <script src="assets/js/functions.js"></script>
+        <script src="assets/js/modal.js"></script>
+        <script src="assets/js/pueri-suplementacao.js"></script>
+        
+        <script>
+            
+            $(document).ready(function(){
+                $('#dataInput').mask('00/00/0000');
+                function isNumberKey(evt, obj) {
+                var charCode = (evt.which) ? evt.which : event.keyCode
+                var value = obj.value;
+                var dotcontains = value.indexOf(".") != -1;
+                if (dotcontains)
+                if (charCode == 46) return false;
+                if (charCode == 46) return true;
+                if (charCode > 31 && (charCode < 48 || charCode > 57))
+                    return false;
+                return true;
+            }
+            });
+            
+            $("form").submit(function( event ) {
+                
+                var data = $("#dataInput").val();
+                var peso = $("#pesoInput").val();
+                var maturidade = $("input[name=maturidadeFetal]:checked").val();
+                
+               
+                              
+                
+                var idade = qtdeDias(data);
+                
+                if(data == "" || peso == "" || peso <= 1000 || maturidade == "" || idade <= 0) {
+                    $(".input-data").addClass('erro');
+                    $(".input-data").addClass('erro');
+                    $("button.suplementacao").addClass('erro');
+                    $("#buttonSuplementar").html('SUPLEMENTAR');
+                    $("#lista-suplementacao").css('display', 'none');
+                } else {
+                    
+                    $("#lista-suplementacao").css('display', 'none');
+                    
+                    idade = parseInt(idade);
+                    peso = parseFloat(peso);
+                    
+                    //Já verificado
+                     if(maturidade == "RNPT") {
+                    swal({
+                        title: "Recém Nascido Prematuro",
+                        text: "Insira o peso da criança ao nascimento (em gramas):",
+                        content: "input",
+                        icon: "warning",
+                        buttons: "Confirmar",
+                        dangerMode: true,
+                    })
+                        .then((value) => {
+                            var respostaSuplementacao = suplementacao(idade, peso, maturidade, value);
+                    
+                        $("#vitaminaA-box h2").html("Vitamina A + D");
+                        $("#vitaminaD-box h2").html("Vitamina C");
+                        $("#vitaminaD-icon").html('C');
+                        
+                        if(respostaSuplementacao[0] == null) {
+                            respostaSuplementacao[0] = "<li> Não há necessidade da suplementação de Vitamina A, devendo ser iniciada após os 6 meses de vida e suspendendo após 6 anos de vida.</li>";
+                            $("#vitaminaA-lista").html(respostaSuplementacao[0]);
+                            $("#vitaminaA-box div").addClass('erro');
+                            $("#vitaminaA-box h2").addClass('erro');
+                        } else {
+                            $("#vitaminaA-lista").html(respostaSuplementacao[0]);
+                            $("#vitaminaA-box div").removeClass('erro');
+                            $("#vitaminaA-box h2").removeClass('erro');
+                        }
+                    
+                        if(respostaSuplementacao[1] == null) {
+                            respostaSuplementacao[1] = "<li>Não há necessidade da suplementação de Vitamina C, devendo ser iniciada após os 7 dias de vida e suspendendo aos 40 dias de vida.</li>";
+                            $("#vitaminaD-lista").html(respostaSuplementacao[1]);
+                            $("#vitaminaD-box div").addClass('erro');
+                            $("#vitaminaD-box h2").addClass('erro');
+                        } else {
+                            $("#vitaminaD-lista").html(respostaSuplementacao[1]);
+                            $("#vitaminaD-box div").removeClass('erro');
+                            $("#vitaminaD-box h2").removeClass('erro');
+                        }
+                    
+                        if(respostaSuplementacao[2] == null) {
+                            
+                            if(maturidade == "RNT") {
+                                respostaSuplementacao[2] = "<li> Não há necessidade da suplementação de ferro, devendo ser iniciado ao 3º mês de vida e suspenso aos 2 anos de vida.</li>";    
+                            } else {
+                                respostaSuplementacao[2] = "<li> Não há necessidade da suplementação de ferro, devendo ser iniciado aos 30 dias de vida e suspenso aos 2 anos de vida.</li>";
+                            }
+                            
+                            $("#ferro-lista").html(respostaSuplementacao[2]);
+                            $("#ferro-box div").addClass('erro');
+                            $("#ferro-box h2").addClass('erro');
+                        } else {
+                            $("#ferro-lista").html(respostaSuplementacao[2]);
+                            $("#ferro-box div").removeClass('erro');
+                            $("#ferro-box h2").removeClass('erro');
+                        }
+                        
+                        if(respostaSuplementacao[3] == null) {
+                            respostaSuplementacao[3] = "<li> Não há necessidade da suplementação do Sulfato de Zinco, devendo ser iniciada naqueles com peso ao nascimento inferior a 1.500g, após 7 dias de vida e suspendendo aos 6 meses.</li>";
+                            $("#zinco-lista").html(respostaSuplementacao[3]);
+                            $("#zinco-box div").addClass('erro');
+                            $("#zinco-box h2").addClass('erro');
+                        } else {
+                            $("#zinco-lista").html(respostaSuplementacao[3]);
+                            $("#zinco-box div").removeClass('erro');
+                            $("#zinco-box h2").removeClass('erro');
+                        }
+                        
+                    $("#zinco").css("display", "block");
+                    $(".input-data").removeClass('erro');
+                    $("button.suplementacao").removeClass('erro');
+                    $("#buttonSuplementar").html('<i class="fas fa-check"></i> SUPLEMENTADO');
+                    $("#lista-suplementacao").hide().fadeIn(300);
+                    scrollTo(".scrollHere");
+                    });
+
+                    } else {
+                        
+                        swal({
+                            title: "Recém Nascido À Termo",
+                            text: "Qual o peso de nascimento da criança?",
+                            icon: "warning",
+                            buttons: {
+                                cancel: "Menor que 2.500g",
+                                catch: {
+                                    text: "Maior que 2.500g",
+                                    value: "catch",
+                                }
+                            },
+                        })
+                        .then((value) => {
+                        
+                        switch(value) {
+                            
+                            default:
+                        $("#vitaminaA-box h2").html("Vitamina A");
+                        $("#vitaminaD-box h2").html("Vitamina D");
+                        $("#vitaminaD-icon").html('<i class="fas fa-bone"></i>');
+                        
+                        var respostaSuplementacao = suplementacao(idade, peso, maturidade, null, 1);
+                    
+                        if(respostaSuplementacao[0] == null) {
+                            respostaSuplementacao[0] = "<li> Não há necessidade da suplementação de Vitamina A, devendo ser iniciada após os 6 meses de vida e suspendendo após 6 anos de vida.</li>";
+                            $("#vitaminaA-lista").html(respostaSuplementacao[0]);
+                            $("#vitaminaA-box div").addClass('erro');
+                            $("#vitaminaA-box h2").addClass('erro');
+                        } else {
+                            $("#vitaminaA-lista").html(respostaSuplementacao[0]);
+                            $("#vitaminaA-box div").removeClass('erro');
+                            $("#vitaminaA-box h2").removeClass('erro');
+                        }
+                    
+                        if(respostaSuplementacao[1] == null) {
+                            respostaSuplementacao[1] = "<li> Não há necessidade da suplementação de Vitamina D, devendo ser iniciada após os 7 dias de vida ou peso superior a 1.500g e suspendendo após 2 anos de vida.</li>";
+                            $("#vitaminaD-lista").html(respostaSuplementacao[1]);
+                            $("#vitaminaD-box div").addClass('erro');
+                            $("#vitaminaD-box h2").addClass('erro');
+                        } else {
+                            $("#vitaminaD-lista").html(respostaSuplementacao[1]);
+                            $("#vitaminaD-box div").removeClass('erro');
+                            $("#vitaminaD-box h2").removeClass('erro');
+                        }
+                    
+                        if(respostaSuplementacao[2] == null) {
+                            
+                            if(maturidade == "RNT") {
+                                respostaSuplementacao[2] = "<li> Não há necessidade da suplementação de ferro.</li>";    
+                            } else {
+                                respostaSuplementacao[2] = "<li> Não há necessidade da suplementação de ferro.</li>";
+                            }
+                            
+                            $("#ferro-lista").html(respostaSuplementacao[2]);
+                            $("#ferro-box div").addClass('erro');
+                            $("#ferro-box h2").addClass('erro');
+                        } else {
+                            $("#ferro-lista").html(respostaSuplementacao[2]);
+                            $("#ferro-box div").removeClass('erro');
+                            $("#ferro-box h2").removeClass('erro');
+                        }
+                    
+                    $("#zinco").css("display", "none");
+                    $(".input-data").removeClass('erro');
+                    $("button.suplementacao").removeClass('erro');
+                    $("#buttonSuplementar").html('<i class="fas fa-check"></i> SUPLEMENTADO');
+                    $("#lista-suplementacao").hide().fadeIn(300);
+                    scrollTo(".scrollHere");
+                    break;
+                                
+                    case "catch":
+                        $("#vitaminaA-box h2").html("Vitamina A");
+                        $("#vitaminaD-box h2").html("Vitamina D");
+                        $("#vitaminaD-icon").html('<i class="fas fa-bone"></i>');
+                        
+                        var respostaSuplementacao = suplementacao(idade, peso, maturidade, null, null);
+                    
+                        if(respostaSuplementacao[0] == null) {
+                            respostaSuplementacao[0] = "<li> Não há necessidade da suplementação de Vitamina A, devendo ser iniciada após os 6 meses de vida e suspendendo após 6 anos de vida.</li>";
+                            $("#vitaminaA-lista").html(respostaSuplementacao[0]);
+                            $("#vitaminaA-box div").addClass('erro');
+                            $("#vitaminaA-box h2").addClass('erro');
+                        } else {
+                            $("#vitaminaA-lista").html(respostaSuplementacao[0]);
+                            $("#vitaminaA-box div").removeClass('erro');
+                            $("#vitaminaA-box h2").removeClass('erro');
+                        }
+                    
+                        if(respostaSuplementacao[1] == null) {
+                            respostaSuplementacao[1] = "<li> Não há necessidade da suplementação de Vitamina D, devendo ser iniciada após os 7 dias de vida ou peso superior a 1.500g e suspendendo após 2 anos de vida.</li>";
+                            $("#vitaminaD-lista").html(respostaSuplementacao[1]);
+                            $("#vitaminaD-box div").addClass('erro');
+                            $("#vitaminaD-box h2").addClass('erro');
+                        } else {
+                            $("#vitaminaD-lista").html(respostaSuplementacao[1]);
+                            $("#vitaminaD-box div").removeClass('erro');
+                            $("#vitaminaD-box h2").removeClass('erro');
+                        }
+                    
+                        if(respostaSuplementacao[2] == null) {
+                            
+                            if(maturidade == "RNT") {
+                                respostaSuplementacao[2] = "<li> Não há necessidade da suplementação de ferro.</li>";    
+                            } else {
+                                respostaSuplementacao[2] = "<li> Não há necessidade da suplementação de ferro.</li>";
+                            }
+                            
+                            $("#ferro-lista").html(respostaSuplementacao[2]);
+                            $("#ferro-box div").addClass('erro');
+                            $("#ferro-box h2").addClass('erro');
+                        } else {
+                            $("#ferro-lista").html(respostaSuplementacao[2]);
+                            $("#ferro-box div").removeClass('erro');
+                            $("#ferro-box h2").removeClass('erro');
+                        }
+                    
+                    $("#zinco").css("display", "none");
+                    $(".input-data").removeClass('erro');
+                    $("button.suplementacao").removeClass('erro');
+                    $("#buttonSuplementar").html('<i class="fas fa-check"></i> SUPLEMENTADO');
+                    $("#lista-suplementacao").hide().fadeIn(300);
+                    scrollTo(".scrollHere");
+                    break;
+                                
+                        }
+                                
+                    });         
+                                
+                    }
+                    
+                }
+                
+                event.preventDefault();
+            });
+            
+            
+        </script>
+        <!-- [END] JS -->
+        
+    </body>
+    
+
+<!-- Mirrored from pedajuda.com.br/puericultura-suplementacao.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Aug 2023 19:56:34 GMT -->
+</html>

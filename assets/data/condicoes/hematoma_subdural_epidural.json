@@ -1,0 +1,206 @@
+{
+  "PT": {
+    "titulo": "Hematoma Subdural e Epidural",
+    "definicao": "Os hematomas subdural e epidural são acúmulos hemorrágicos intracranianos decorrentes principalmente de trauma cranioencefálico, localizando-se entre as membranas meníngeas: o epidural entre o osso e a dura-máter, e o subdural entre a dura-máter e a aracnoide. São emergências neurocirúrgicas que exigem diagnóstico precoce e intervenção imediata para prevenir herniação cerebral, isquemia cortical e morte.",
+    "epidemiologia": "O hematoma epidural é mais prevalente em pacientes jovens do sexo masculino, frequentemente associado a trauma fechado com fratura do osso temporal e laceração da artéria meníngea média. O subdural agudo é mais comum em idosos e alcoólatras, por atrofia cerebral e estiramento das veias ponte, e pode ocorrer mesmo após traumas leves. A mortalidade do hematoma subdural agudo pode ultrapassar 60% em pacientes com Glasgow inicial ≤ 8.",
+    "fisiopatologia": "No hematoma epidural, a origem arterial promove acúmulo rápido de sangue, gerando hipertensão intracraniana aguda e possível herniação transtentorial. Já no hematoma subdural, o sangramento venoso subaracnoideo causa compressão progressiva do parênquima cerebral. Ambos resultam em deslocamento de estruturas encefálicas, compressão de vasos, aumento da PIC e disfunção neurológica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipertensão e bradicardia (reflexo de Cushing em hipertensão intracraniana).",
+        "Instabilidade hemodinâmica em sangramentos volumosos ou lesões associadas.",
+        "Padrões autonômicos anormais em herniação de tronco encefálico."
+      ],
+      "respiratorias": [
+        "Bradipneia, apneia ou padrão respiratório irregular.",
+        "Aspiração com insuficiência respiratória secundária ao rebaixamento de consciência.",
+        "Indicação de intubação orotraqueal para proteção de vias aéreas."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Intervalo lúcido seguido de deterioração neurológica (característico do hematoma epidural).",
+        "Déficits motores focais, anisocoria, hemiparesia ou postura de descerebração.",
+        "Glasgow < 13, convulsões, vômitos em jato e sinais de herniação cerebral."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Deve-se suspeitar de hematoma epidural ou subdural em todo paciente com trauma craniano e alteração do nível de consciência, déficits focais ou deterioração súbita. A história de trauma recente, uso de anticoagulantes e idade avançada aumentam o risco de hematoma subdural.",
+      "exames_essenciais": [
+        "Tomografia de crânio sem contraste: método de escolha. Hematoma epidural aparece como coleção biconvexa hiperdensa, e o subdural como imagem em crescente (semilunar).",
+        "Ressonância magnética: útil para diagnóstico de hematomas subagudos ou crônicos, especialmente nos frontotemporais laminares.",
+        "Coagulograma e função plaquetária: obrigatórios em pacientes anticoagulados.",
+        "Gasometria arterial e eletrólitos: avaliar fatores agravantes metabólicos.",
+        "Glasgow seriado e pupilometria: essenciais no monitoramento neurológico objetivo."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Escala de coma de Glasgow ≤ 8.",
+      "Sinais de herniação (anisocoria, rigidez de descerebração, bradicardia).",
+      "Crises convulsivas prolongadas ou instabilidade respiratória.",
+      "Necessidade de sedação e controle ventilatório para reduzir a PIC."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Via aérea protegida, cabeceira elevada a 30°, controle de glicemia e normotermia.",
+        "Tomografia imediata com avaliação neurocirúrgica urgente.",
+        "Craniotomia descompressiva em hematomas volumosos ou com desvio de linha média > 5 mm.",
+        "Trepanação de urgência em hospitais sem neurocirurgião, com encaminhamento imediato.",
+        "Manitol 0,25–1 g/kg IV ou salina hipertônica em PIC elevada.",
+        "Anticonvulsivantes de profilaxia por 7 dias (ex: fenitoína, levetiracetam).",
+        "Monitorização em UTI com controle hemodinâmico, respiratório e neurológico intensivo."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico está diretamente relacionado à pontuação inicial no Glasgow, intervalo até a intervenção cirúrgica e presença de herniação cerebral. Hematomas epidurais têm melhores desfechos quando tratados precocemente. Hematomas subdurais agudos estão associados a maior mortalidade, principalmente em idosos ou pacientes com múltiplas comorbidades."
+    },
+    "notas_adicionais": [
+      "Evitar hiperventilação prolongada (PaCO₂ < 30 mmHg) após estabilização inicial.",
+      "Monitorar diurese, osmolaridade e sódio sérico durante uso de osmoterapia.",
+      "Controlar a pressão arterial de forma rigorosa para manter perfusão cerebral sem exacerbar sangramento.",
+      "Repetir imagem de controle em 6 a 12 horas ou com qualquer piora clínica.",
+      "Indicar reabilitação neurológica precoce para pacientes com déficits pós-operatórios.",
+      "Buscar causas espontâneas em hematomas sem história clara de trauma (ex: coagulopatias, aneurismas, neoplasias)."
+    ],
+    "fontes_bibliograficas": [
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 70 – Trauma Crânio-Encefálico.",
+      "ATLS – Advanced Trauma Life Support. American College of Surgeons, 10ª ed.",
+      "UpToDate. Acute subdural and epidural hematomas in adults. 2024.",
+      "Sociedade Brasileira de Neurocirurgia – Diretrizes de TCE. 2023."
+    ]
+  },
+  "US": {
+    "title": "Subdural and Epidural Hematomas",
+    "definition": "Subdural and epidural hematomas are intracranial hemorrhagic collections typically caused by traumatic brain injury. An epidural hematoma is located between the skull and the dura mater, while a subdural hematoma accumulates between the dura and the arachnoid. Both are neurosurgical emergencies that require prompt diagnosis and management to prevent brain herniation, ischemia, and death.",
+    "epidemiology": "Epidural hematomas are more common in young males after blunt head trauma, often involving temporal bone fractures and middle meningeal artery rupture. Acute subdural hematomas are frequent in elderly and alcohol-dependent patients due to cerebral atrophy and stretching of bridging veins, and may occur even after minor trauma. Mortality exceeds 60% in acute subdural hematomas with initial Glasgow Coma Scale (GCS) ≤ 8.",
+    "pathophysiology": "Epidural hematomas typically result from arterial bleeding and rapidly increase intracranial pressure (ICP), leading to transtentorial herniation. Subdural hematomas, often from venous origin, compress brain parenchyma more gradually. Both can cause mass effect, midline shift, impaired cerebral perfusion, and neuronal dysfunction.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hypertension and bradycardia (Cushing reflex from raised ICP).",
+        "Hemodynamic instability in large-volume hemorrhage or associated trauma.",
+        "Autonomic dysfunction in cases of brainstem herniation."
+      ],
+      "respiratorias": [
+        "Bradypnea, apnea, or irregular respiratory patterns.",
+        "Aspiration risk due to depressed mental status.",
+        "Need for intubation to protect airway and manage ICP."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Lucid interval followed by rapid neurological decline (classically epidural).",
+        "Focal motor deficits, anisocoria, hemiparesis, or decerebrate posturing.",
+        "GCS < 13, seizures, projectile vomiting, and signs of brain herniation."
+      ]
+    },
+    "diagnosis": {
+      "abordagem_clinica": "Diagnosis should be suspected in any patient with head trauma, altered consciousness, focal neurological signs, or sudden deterioration. A history of recent trauma, anticoagulant use, and advanced age increase the likelihood of subdural hematomas.",
+      "exames_essenciais": [
+        "Non-contrast head CT: gold standard. Epidural hematomas appear as hyperdense biconvex (lens-shaped) collections; subdural as crescent-shaped.",
+        "MRI: useful for subacute or chronic hematomas, especially thin frontotemporal collections.",
+        "Coagulation studies and platelet count: mandatory in anticoagulated patients.",
+        "Arterial blood gases and electrolytes: assess metabolic derangements.",
+        "Serial GCS and pupillometry: essential for neurological monitoring."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "GCS ≤ 8.",
+      "Signs of impending herniation (anisocoria, decerebrate posturing, bradycardia).",
+      "Prolonged seizures or respiratory instability.",
+      "Need for sedation and controlled ventilation to manage elevated ICP."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Secure airway, elevate head of bed to 30°, control blood glucose and temperature.",
+        "Immediate CT and urgent neurosurgical consultation.",
+        "Decompressive craniotomy for large hematomas or midline shift > 5 mm.",
+        "Emergency burr hole evacuation in settings without neurosurgery, followed by transfer.",
+        "Osmotherapy: mannitol 0.25–1 g/kg IV or 3% saline for high ICP.",
+        "Seizure prophylaxis (e.g., phenytoin, levetiracetam) for 7 days.",
+        "ICU-level monitoring of hemodynamics, respiratory status, and neurology."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on initial GCS, time to surgical intervention, and presence of brain herniation. Epidural hematomas have favorable outcomes if treated promptly. Acute subdural hematomas have higher mortality, especially in elderly patients or those with comorbidities."
+    },
+    "additional_notes": [
+      "Avoid prolonged hyperventilation (PaCO₂ < 30 mmHg) beyond the initial phase.",
+      "Monitor urine output, serum sodium, and osmolality during osmotherapy.",
+      "Maintain adequate cerebral perfusion without exacerbating bleeding.",
+      "Repeat imaging within 6–12 hours or with clinical worsening.",
+      "Initiate early neurorehabilitation for post-surgical deficits.",
+      "Investigate spontaneous hematomas for underlying causes (e.g., coagulopathy, aneurysms, neoplasms)."
+    ],
+    "references": [
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 70 – Traumatic Brain Injury.",
+      "ATLS – Advanced Trauma Life Support. American College of Surgeons, 10th ed.",
+      "UpToDate. Acute subdural and epidural hematomas in adults. 2024.",
+      "Brazilian Society of Neurosurgery – TBI Guidelines. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Hematoma Subdural y Epidural",
+    "definicion": "Los hematomas subdurales y epidurales son acumulaciones hemorrágicas intracraneales provocadas habitualmente por traumatismo craneoencefálico. El hematoma epidural se localiza entre el cráneo y la duramadre, mientras que el subdural se sitúa entre la duramadre y la aracnoides. Ambas entidades representan urgencias neuroquirúrgicas que requieren diagnóstico e intervención precoz para evitar herniación cerebral, isquemia y muerte.",
+    "epidemiologia": "El hematoma epidural es más frecuente en varones jóvenes con traumatismo craneal cerrado, especialmente asociado a fractura del hueso temporal y laceración de la arteria meníngea media. El hematoma subdural agudo es más común en ancianos y personas alcohólicas, debido a la atrofia cerebral que favorece la tracción de las venas puente, y puede desarrollarse incluso tras traumatismos leves. La mortalidad del hematoma subdural agudo con GCS ≤ 8 puede superar el 60%.",
+    "fisiopatologia": "El hematoma epidural, de origen habitualmente arterial, se acumula rápidamente y eleva la presión intracraneal, provocando herniación transtentorial. El hematoma subdural, de origen venoso, comprime progresivamente el parénquima cerebral. Ambos tipos pueden causar desplazamiento de estructuras cerebrales, compresión vascular, isquemia cortical y disfunción neurológica.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipertensión y bradicardia (reflejo de Cushing en hipertensión endocraneana).",
+        "Inestabilidad hemodinámica en hemorragias extensas o traumatismos asociados.",
+        "Disfunción autonómica en casos de herniación del tronco encefálico."
+      ],
+      "respiratorias": [
+        "Bradipnea, apnea o patrón respiratorio irregular.",
+        "Riesgo de aspiración por disminución del nivel de conciencia.",
+        "Indicación de intubación orotraqueal para protección de la vía aérea."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Intervalo lúcido seguido de deterioro neurológico (clásico del hematoma epidural).",
+        "Déficits motores, anisocoria, hemiparesia o postura de descerebración.",
+        "GCS < 13, crisis convulsivas, vómitos en proyectil y signos de herniación cerebral."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "Se debe sospechar hematoma subdural o epidural en todo paciente con trauma craneal, alteración del estado mental o déficit neurológico focal. La historia reciente de traumatismo, el uso de anticoagulantes y la edad avanzada aumentan el riesgo.",
+      "exames_essenciais": [
+        "TC de cráneo sin contraste: estudio de elección. El hematoma epidural aparece como imagen biconvexa hiperdensa y el subdural como imagen semilunar.",
+        "RM cerebral: útil para hematomas subagudos o crónicos, especialmente en regiones frontotemporales.",
+        "Estudios de coagulación y plaquetas: obligatorios en pacientes anticoagulados.",
+        "Gasometría arterial y electrólitos: valorar alteraciones metabólicas.",
+        "Valoración neurológica seriada con escala de Glasgow y pupilas."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Glasgow ≤ 8.",
+      "Signos de herniación cerebral inminente (anisocoria, postura de descerebración, bradicardia).",
+      "Crisis convulsivas prolongadas o deterioro respiratorio.",
+      "Necesidad de sedación y ventilación controlada para manejo de PIC elevada."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Asegurar vía aérea, elevar la cabecera a 30°, controlar glucemia y temperatura.",
+        "Realizar TC de cráneo urgente y evaluación neuroquirúrgica inmediata.",
+        "Craneotomía descompresiva en hematomas voluminosos o con desplazamiento de línea media > 5 mm.",
+        "Trepanación de urgencia en centros sin neurocirujano con derivación rápida.",
+        "Manitol 0,25–1 g/kg IV o solución salina hipertónica al 3% ante PIC elevada.",
+        "Profilaxis anticonvulsiva por 7 días (por ejemplo, fenitoína o levetiracetam).",
+        "Monitorización en UCI con control hemodinámico, respiratorio y neurológico intensivo."
+      ]
+    },
+    "prognosis": {
+      "comment": "El pronóstico depende del nivel inicial de conciencia (GCS), del tiempo hasta la intervención quirúrgica y de la presencia de herniación cerebral. Los hematomas epidurales tienen mejor pronóstico si se tratan de forma precoz. Los hematomas subdurales agudos se asocian a mayor mortalidad, especialmente en ancianos o con comorbilidades importantes."
+    },
+    "additional_notes": [
+      "Evitar hiperventilación prolongada (PaCO₂ < 30 mmHg) más allá de la fase inicial.",
+      "Monitorear diuresis, osmolaridad y sodio durante osmoterapia.",
+      "Mantener perfusión cerebral adecuada sin empeorar el sangrado.",
+      "Repetir imagen en 6–12 horas o ante deterioro clínico.",
+      "Iniciar rehabilitación neurológica precoz tras estabilización.",
+      "Buscar causas espontáneas si no hay antecedente traumático claro (por ejemplo, coagulopatías, aneurismas, neoplasias)."
+    ],
+    "references": [
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 70 – Traumatismo Craneal.",
+      "ATLS – Advanced Trauma Life Support. American College of Surgeons, 10ª ed.",
+      "UpToDate. Hematomas subdurales y epidurales agudos en adultos. 2024.",
+      "Sociedad Brasileña de Neurocirugía – Guías de TEC. 2023."
+    ]
+  }
+}

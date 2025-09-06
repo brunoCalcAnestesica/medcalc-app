@@ -1,0 +1,248 @@
+{
+  "PT": {
+    "titulo": "Cetoacidose Diabética com Rebaixamento de Consciência",
+    "definicao": "A cetoacidose diabética (CAD) é uma emergência metabólica aguda associada principalmente ao diabetes mellitus tipo 1, caracterizada por hiperglicemia, cetonemia e acidose metabólica com ânion gap aumentado. Quando evolui com rebaixamento do nível de consciência, a gravidade é significativamente maior, e está frequentemente associada a hiperosmolaridade, acidemia severa, distúrbios hidroeletrolíticos ou complicações infecciosas. O coma hiperglicêmico-cetótico é uma manifestação neurológica crítica, e exige intervenção imediata.",
+    "sinais_e_sintomas": [
+      "Poliúria e polidipsia progressivas",
+      "Desidratação severa (pele seca, olhos encovados, hipotensão)",
+      "Respiração de Kussmaul (hiperventilação compensatória)",
+      "Hálito cetônico (odor adocicado/frutado)",
+      "Dor abdominal, náuseas e vômitos",
+      "Alteração do estado mental: torpor, letargia, coma"
+    ],
+    "diagnostico": {
+      "criterios_laboratoriais": [
+        "Glicemia > 250 mg/dL",
+        "pH arterial < 7,3",
+        "Bicarbonato < 15–18 mEq/L",
+        "Cetonemia/cetonúria positiva (ácido β-hidroxibutírico)",
+        "Ânion gap aumentado (> 12 mEq/L)",
+        "Osmolaridade plasmática: geralmente entre 300–320 mOsm/kg"
+      ],
+      "avaliacao_complementar": [
+        "Gasometria arterial e lactato",
+        "Eletrólitos com atenção ao potássio sérico",
+        "Função renal (ureia e creatinina)",
+        "ECG: sinais de hipercalemia ou hipocalemia",
+        "Pesquisa de foco infeccioso: leucograma, PCR, urocultura, radiografia de tórax",
+        "Avaliação neurológica frequente (Glasgow)"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Reposição volêmica vigorosa com SF 0,9% (15–20 mL/kg/h na 1ª hora)",
+        "Reposição de potássio antes da insulina se K+ < 3,3 mEq/L",
+        "Insulina regular: bolus de 0,1 U/kg + infusão contínua 0,1 U/kg/h",
+        "Monitoramento glicêmico, eletrolítico e gasométrico rigoroso",
+        "Iniciar SG 5% quando glicemia < 250 mg/dL para evitar hipoglicemia",
+        "Investigar e tratar fator desencadeante: infecção, omissão de insulina, IAM"
+      ],
+      "cuidados_avancados": [
+        "Admissão em UTI para casos com coma, hipotensão, hipocalemia grave ou falência orgânica",
+        "Intubação orotraqueal em rebaixamento neurológico profundo (Glasgow < 8)",
+        "Evitar correção rápida de osmolaridade para prevenir edema cerebral, especialmente em jovens",
+        "Uso criterioso de bicarbonato de sódio apenas se pH < 6,9 com instabilidade hemodinâmica"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Insulina Regular",
+          "uso": "Correção da hiperglicemia e cetose",
+          "dose": "Bolus 0,1 U/kg + infusão de 0,1 U/kg/h"
+        },
+        {
+          "nome": "Cloreto de Potássio",
+          "uso": "Reposição eletrolítica",
+          "dose": "20–40 mEq/L em SF, conforme níveis séricos e ritmo cardíaco"
+        },
+        {
+          "nome": "Solução Fisiológica 0,9%",
+          "uso": "Expansão volêmica inicial",
+          "dose": "15–20 mL/kg na 1ª hora, depois ajustar conforme perfusão"
+        },
+        {
+          "nome": "Glicose 5%",
+          "uso": "Evitar hipoglicemia durante tratamento com insulina",
+          "dose": "Adicionar quando glicemia < 250 mg/dL"
+        },
+        {
+          "nome": "Bicarbonato de Sódio",
+          "uso": "Acidose refratária grave (pH < 6,9)",
+          "dose": "50–100 mEq em 1h com reavaliação gasométrica"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "Com tratamento precoce, a CAD tem taxa de mortalidade < 5%. No entanto, a presença de coma, choque séptico, insuficiência renal ou edema cerebral eleva o risco de complicações e óbito. O manejo em ambiente de terapia intensiva com monitoramento contínuo e abordagem multidisciplinar é essencial."
+    },
+    "fontes_bibliograficas": [
+      "Sociedade Brasileira de Diabetes – Diretrizes 2022",
+      "American Diabetes Association – Standards of Medical Care in Diabetes 2023",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "UpToDate – Diabetic ketoacidosis in adults: Clinical features and management"
+    ]
+  },
+  "US": {
+    "titulo": "Diabetic Ketoacidosis with Decreased Consciousness",
+    "definicao": "Diabetic ketoacidosis (DKA) is a life-threatening metabolic emergency associated primarily with type 1 diabetes mellitus, characterized by hyperglycemia, metabolic acidosis with high anion gap, and ketonemia. When accompanied by a decreased level of consciousness or coma, it reflects severe physiological derangement, typically involving hyperosmolarity, acidemia, electrolyte disturbances, and often underlying infection or poor insulin adherence. Prompt recognition and management are critical to avoid neurological deterioration and death.",
+    "sinais_e_sintomas": [
+      "Progressive polyuria and polydipsia",
+      "Signs of severe dehydration (dry mucosa, hypotension, sunken eyes)",
+      "Kussmaul respiration (deep, labored breathing)",
+      "Fruity odor on the breath (ketones)",
+      "Abdominal pain, nausea, vomiting",
+      "Altered mental status: confusion, stupor, or coma"
+    ],
+    "diagnostico": {
+      "criterios_laboratoriais": [
+        "Blood glucose > 250 mg/dL",
+        "Arterial pH < 7.3",
+        "Serum bicarbonate < 15–18 mEq/L",
+        "Positive serum or urinary ketones (β-hydroxybutyrate)",
+        "Elevated anion gap (> 12 mEq/L)",
+        "Serum osmolality often between 300–320 mOsm/kg"
+      ],
+      "avaliacao_complementar": [
+        "Arterial blood gas and lactate",
+        "Serum electrolytes with close potassium monitoring",
+        "Renal function (urea, creatinine)",
+        "ECG for signs of hypo- or hyperkalemia",
+        "Evaluation for precipitating factors: CBC, urinalysis, cultures, chest X-ray",
+        "Serial neurological assessment (Glasgow Coma Scale)"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Aggressive fluid resuscitation with 0.9% NaCl (15–20 mL/kg/hr initially)",
+        "Potassium replacement before insulin if K+ < 3.3 mEq/L",
+        "Regular insulin: 0.1 U/kg IV bolus + 0.1 U/kg/h IV infusion",
+        "Hourly monitoring of glucose, electrolytes, and acid-base status",
+        "Add 5% dextrose once glucose falls < 250 mg/dL to prevent hypoglycemia",
+        "Identification and treatment of precipitating cause (e.g., infection, missed insulin, myocardial infarction)"
+      ],
+      "cuidados_avancados": [
+        "ICU admission for coma, hypotension, renal failure, or severe acidosis",
+        "Endotracheal intubation in GCS < 8 or respiratory failure",
+        "Avoid rapid correction of osmolality to prevent cerebral edema, especially in young patients",
+        "Use bicarbonate only if pH < 6.9 with hemodynamic instability"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Regular Insulin",
+          "uso": "Correction of hyperglycemia and ketosis",
+          "dose": "0.1 U/kg IV bolus + 0.1 U/kg/h IV infusion"
+        },
+        {
+          "nome": "Potassium Chloride",
+          "uso": "Electrolyte replacement",
+          "dose": "20–40 mEq/L in IV fluids depending on serum levels"
+        },
+        {
+          "nome": "0.9% Sodium Chloride",
+          "uso": "Initial volume resuscitation",
+          "dose": "15–20 mL/kg in the first hour, then adjusted based on perfusion"
+        },
+        {
+          "nome": "Dextrose 5%",
+          "uso": "Prevent hypoglycemia during insulin therapy",
+          "dose": "Add when blood glucose < 250 mg/dL"
+        },
+        {
+          "nome": "Sodium Bicarbonate",
+          "uso": "Severe refractory acidemia (pH < 6.9)",
+          "dose": "50–100 mEq over 1 hour with follow-up ABG"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "With timely and appropriate treatment, DKA has a mortality rate below 5%. However, the presence of coma, septic shock, renal failure, or cerebral edema significantly increases the risk of complications and death. Intensive care with continuous monitoring and multidisciplinary management is essential to ensure recovery."
+    },
+    "fontes_bibliograficas": [
+      "American Diabetes Association – Standards of Medical Care in Diabetes 2023",
+      "UpToDate – Diabetic ketoacidosis in adults: Clinical features and management",
+      "Marino PL. The ICU Book. 4th ed.",
+      "Sociedade Brasileira de Diabetes – Diretrizes 2022"
+    ]
+  },
+  "ES": {
+    "titulo": "Cetoacidosis Diabética con Disminución del Nivel de Conciencia",
+    "definicao": "La cetoacidosis diabética (CAD) es una emergencia metabólica aguda, típicamente asociada a la diabetes mellitus tipo 1, que se caracteriza por hiperglucemia, acidosis metabólica con anión gap elevado y cetonemia. Cuando se acompaña de disminución del nivel de conciencia o coma, indica un cuadro grave, frecuentemente relacionado con hiperosmolaridad, acidemia severa, desequilibrio hidroelectrolítico y etiologías precipitantes como infecciones. El tratamiento precoz e intensivo es fundamental para prevenir complicaciones neurológicas y la mortalidad.",
+    "sinais_e_sintomas": [
+      "Poliuria y polidipsia progresiva",
+      "Signos de deshidratación severa (mucosas secas, hipotensión, ojos hundidos)",
+      "Respiración de Kussmaul (profunda y acelerada)",
+      "Aliento cetónico con olor afrutado",
+      "Dolor abdominal, náuseas, vómitos",
+      "Trastornos neurológicos: confusión, letargo, estupor, coma"
+    ],
+    "diagnostico": {
+      "criterios_laboratoriais": [
+        "Glucosa > 250 mg/dL",
+        "pH arterial < 7.3",
+        "Bicarbonato sérico < 15–18 mEq/L",
+        "Cetonemia o cetonuria positiva (β-hidroxibutirato)",
+        "Anión gap elevado (> 12 mEq/L)",
+        "Osmolaridad plasmática frecuentemente entre 300–320 mOsm/kg"
+      ],
+      "avaliacao_complementar": [
+        "Gasometría arterial y lactato",
+        "Electrolitos con monitoreo estrecho del potasio sérico",
+        "Función renal (urea, creatinina)",
+        "ECG: evaluación de trastornos del potasio",
+        "Búsqueda de causas precipitantes: hemograma, urocultivo, Rx de tórax",
+        "Evaluación neurológica seriada (escala de Glasgow)"
+      ]
+    },
+    "tratamento": {
+      "abordagem_inicial": [
+        "Reanimación con solución salina al 0.9% (15–20 mL/kg/hora inicialmente)",
+        "Reposición de potasio antes de iniciar insulina si K+ < 3.3 mEq/L",
+        "Insulina regular: bolo IV de 0.1 U/kg seguido de infusión de 0.1 U/kg/h",
+        "Monitoreo horario de glucosa, electrolitos y equilibrio ácido-base",
+        "Añadir glucosa al 5% cuando glucemia < 250 mg/dL",
+        "Tratamiento de la causa desencadenante (infección, omisión de insulina, infarto agudo de miocardio)"
+      ],
+      "cuidados_avancados": [
+        "Admisión en UCI en casos de coma, hipotensión, insuficiencia renal o acidosis severa",
+        "Intubación endotraqueal si GCS < 8 o deterioro respiratorio",
+        "Evitar corrección rápida de la osmolaridad para prevenir edema cerebral",
+        "Uso de bicarbonato solo si pH < 6.9 con inestabilidad hemodinámica"
+      ],
+      "medicamentos_uso_comum": [
+        {
+          "nome": "Insulina Regular",
+          "uso": "Reducción de hiperglucemia y cetosis",
+          "dose": "Bolo de 0.1 U/kg IV + infusión continua de 0.1 U/kg/h"
+        },
+        {
+          "nome": "Cloruro de Potasio",
+          "uso": "Reposición de electrolitos",
+          "dose": "20–40 mEq/L según niveles séricos"
+        },
+        {
+          "nome": "Solución Salina 0.9%",
+          "uso": "Rehidratación inicial",
+          "dose": "15–20 mL/kg en la primera hora"
+        },
+        {
+          "nome": "Glucosa al 5%",
+          "uso": "Prevención de hipoglucemia durante la insulinoterapia",
+          "dose": "Añadir cuando glucemia < 250 mg/dL"
+        },
+        {
+          "nome": "Bicarbonato de Sodio",
+          "uso": "Acidosis severa (pH < 6.9)",
+          "dose": "50–100 mEq en 1 hora con control de gasometría"
+        }
+      ]
+    },
+    "prognostico": {
+      "comentario": "Con tratamiento oportuno, la CAD tiene una tasa de mortalidad inferior al 5%. Sin embargo, en presencia de coma, shock séptico, insuficiencia renal o edema cerebral, el riesgo de complicaciones aumenta considerablemente. El manejo en unidad de cuidados intensivos con monitoreo continuo y equipo multidisciplinario es esencial para un pronóstico favorable."
+    },
+    "fontes_bibliograficas": [
+      "Asociación Americana de Diabetes – Guías 2023",
+      "UpToDate – Diabetic ketoacidosis in adults: Clinical features and management",
+      "Marino PL. The ICU Book. 4ª ed.",
+      "Sociedad Brasileña de Diabetes – Directrices 2022"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "nome": "Ibuprofeno",
+  "nomeIngles": "Ibuprofen",
+  "nomeEspanhol": "Ibuprofeno",
+  "classificacao": "Anti-inflamatório não esteroidal (AINE); inibidor não seletivo da COX",
+  "mecanismoAcao": "Inibe competitivamente a ciclooxigenase (COX-1 e COX-2), bloqueando a síntese de prostaglandinas pró-inflamatórias. Possui efeito analgésico, anti-inflamatório e antipirético.",
+  "farmacocinetica": "Absorção IV rápida, pico 15-30 min, vida média 2-4h, metabolismo hepático, excreção renal (90%) e fecal (10%).",
+  "farmacodinamica": "Anti-inflamatório, analgésico e antipirético de potência moderada. Reduz inflamação, edema e dor. Efeito máximo em 1-2h. Via IV oferece início mais rápido que via oral.",
+  "apresentacoes": [
+    {
+      "concentracao": "400 mg/4 mL",
+      "apresentacao": "Ampola 4 mL",
+      "via": "IV"
+    },
+    {
+      "concentracao": "800 mg/8 mL",
+      "apresentacao": "Ampola 8 mL",
+      "via": "IV"
+    }
+  ],
+  "preparacao": "• Diluir em 50-100 mL de SF 0,9%\n• Infusão lenta (30-60 min)\n• Não misturar com outras drogas\n• Proteger da luz\n• Agitar suavemente antes do uso",
+  "indicacoesClinicas": [
+    {
+      "indicacao": "Dor aguda moderada",
+      "dose": "400-800 mg IV",
+      "frequencia": "6-8h",
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Febre refratária",
+      "dose": "400-800 mg IV",
+      "frequencia": "6-8h",
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Dor pós-operatória",
+      "dose": "400-800 mg IV",
+      "frequencia": "6-8h",
+      "duracao": "Máximo 3 dias"
+    },
+    {
+      "indicacao": "Cefaleia tensional",
+      "dose": "400-800 mg IV",
+      "frequencia": "6-8h",
+      "duracao": "Máximo 3 dias"
+    }
+  ],
+  "observacoes": "• Disponibilidade restrita no Brasil (off-label)\n• Monitorar função renal e hepática\n• Cuidado em idosos e pacientes com insuficiência renal\n• Suspender 48h antes de cirurgias eletivas\n• Monitorar sangramento",
+  "metabolismo": "Metabolizado no fígado por hidroxilação e conjugação. Forma metabólitos ativos e inativos. Excreção renal (90%) e fecal (10%).",
+  "contraindicacoes": [
+    "Hipersensibilidade ao ibuprofeno ou outros AINEs",
+    "Úlcera péptica ativa",
+    "Insuficiência renal grave (ClCr <30 mL/min)",
+    "Insuficiência hepática grave",
+    "Gravidez (terceiro trimestre)",
+    "Lactação",
+    "História de asma induzida por AINEs",
+    "Síndrome de Stevens-Johnson prévia",
+    "Uso concomitante com outros AINEs"
+  ],
+  "reacoesAdversas": [
+    "Gastrintestinais: náusea, vômito, dor epigástrica, úlcera péptica, sangramento GI",
+    "Renais: insuficiência renal aguda, retenção hídrica, proteinúria",
+    "Cardiovasculares: edema, hipertensão, insuficiência cardíaca",
+    "Hematológicas: trombocitopenia, anemia, leucopenia, sangramento",
+    "Hepáticas: elevação de transaminases, hepatite",
+    "Alérgicas: rash, urticária, anafilaxia, asma",
+    "Outras: cefaleia, tontura, sonolência, zumbido"
+  ],
+  "interacaoMedicamento": "• Aumenta risco de sangramento com anticoagulantes, antiagregantes\n• Reduz efeito de diuréticos e anti-hipertensivos\n• Aumenta toxicidade de lítio e metotrexato\n• Interfere com probenecida\n• Cuidado com inibidores de CYP2C9"
+} 

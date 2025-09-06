@@ -1,0 +1,188 @@
+{
+  "PT": {
+    "titulo": "Trauma Maxilofacial",
+    "definicao": "O trauma maxilofacial refere-se a qualquer lesão envolvendo os ossos da face (maxila, mandíbula, zigoma, ossos nasais, órbitas) e tecidos moles adjacentes, resultante de mecanismos contusos, penetrantes ou mistos. Pode comprometer funções vitais como via aérea, visão, deglutição, fonação e estética facial, sendo frequentemente associado a traumatismos cranioencefálicos e lesões cervicais.",
+    "epidemiologia": "É comum em vítimas de acidentes de trânsito, agressões físicas, quedas e ferimentos por projéteis. Homens jovens representam a maioria dos casos. A mandíbula é o osso mais frequentemente fraturado, seguida dos ossos nasais e do complexo zigomático-orbitário. A coexistência com trauma craniano ocorre em até 50% dos casos graves.",
+    "fisiopatologia": "O impacto traumático direto ou indireto leva a fraturas, deslocamentos ósseos, lacerações, hematomas e edema. As fraturas podem ser classificadas como simples, cominutivas, expostas ou deslocadas, e podem afetar estruturas críticas como o canal óptico, órbitas, base do crânio ou vias aéreas superiores. O risco de sangramento significativo, aspiração de secreções (saliva, sangue, vômito), deslocamento dentário ou colapso da via aérea é elevado, especialmente em fraturas cominutivas, panfaciais ou com envolvimento da base de crânio. A presença de corpo estranho ou sangue na orofaringe aumenta o risco de obstrução súbita e parada respiratória.",
+    "manifestações_clinicas": {
+      "gerais": [
+        "Dor facial, edema e equimose periorbitária ou perinasal.",
+        "Epistaxe, hematoma sublingual ou em assoalho oral.",
+        "Deformidade facial visível, crepitação óssea ou mobilidade anormal.",
+        "Maloclusão dentária, trismo, fraturas dentárias.",
+        "Diplopia, visão turva, enoftalmia ou proptose ocular.",
+        "Sinais de fratura de base de crânio: otorragia, rinorreia, sinal de Battle, olhos de guaxinim."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "A avaliação deve seguir o protocolo de trauma (ABCDE), com ênfase na estabilização da via aérea e controle de sangramentos. A inspeção e palpação da face devem ser sistemáticas, avaliando simetria, mobilidade óssea e integridade dos tecidos. Exame oftalmológico e neurológico são mandatórios.",
+      "exames_essenciais": [
+        "Tomografia computadorizada de face (padrão-ouro).",
+        "TC de crânio e coluna cervical em casos associados.",
+        "Radiografias panorâmicas e de seios paranasais (em locais sem TC).",
+        "Angiotomografia se suspeita de lesão vascular ou fratura complexa do terço médio.",
+        "Avaliação oftalmológica e odontológica especializada."
+      ]
+    },
+    "indicações_para_suporte_ventilatorio": [
+      "Obstrução de via aérea por sangramento, fraturas ou edema.",
+      "Comprometimento do nível de consciência (Glasgow ≤ 8).",
+      "Aspiração ativa de sangue, dentes ou fragmentos ósseos.",
+      "Fraturas bilaterais da mandíbula com queda de língua.",
+      "Fraturas panfaciais com instabilidade estrutural grave."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Avaliação primária e estabilização hemodinâmica conforme ATLS.",
+        "Controle de via aérea com cânula orotraqueal ou cricotireoidotomia em casos extremos.",
+        "Compressão direta para sangramentos, tamponamento nasal se necessário.",
+        "Imobilização temporária com bandagens ou pinças de Barton em fraturas mandibulares.",
+        "Controle da dor e antibioticoterapia profilática em lesões abertas.",
+        "Encaminhamento urgente à cirurgia bucomaxilofacial, otorrinolaringologia ou neurocirurgia.",
+        "Intervenção cirúrgica com redução e fixação interna (ORIF) em fraturas instáveis ou deslocadas.",
+        "Reabilitação funcional (fonoaudiologia, fisioterapia orofacial) no pós-operatório."
+      ]
+    },
+    "prognostico": {
+      "comentario": "Depende da gravidade das fraturas, presença de lesões associadas (ocular, neurológica), tempo até o tratamento e complexidade cirúrgica. Intervenção precoce e adequada minimiza sequelas estéticas e funcionais. Lesões orbitárias podem levar a distúrbios visuais permanentes. Fraturas cominutivas e panfaciais têm pior prognóstico funcional e estético."
+    },
+    "notas_adicionais": [
+      "Sempre considerar lesão cervical associada em trauma facial de alta energia.",
+      "A via aérea deve ser priorizada antes de qualquer exploração facial.",
+      "Uso de cânula nasotraqueal é contraindicado em fraturas de base de crânio.",
+      "Presença de diplopia, redução de acuidade visual ou midríase fixa indicam avaliação oftalmológica imediata.",
+      "O acompanhamento multidisciplinar é fundamental para reabilitação plena."
+    ],
+    "fontes_bibliograficas": [
+      "Advanced Trauma Life Support (ATLS) – 10ª ed.",
+      "Miller’s Anesthesia – 8ª ed. Capítulo 81 – Trauma de Cabeça e Pescoço.",
+      "Manual de Cirurgia Bucomaxilofacial – Silva, L.C. 2022.",
+      "UpToDate. Maxillofacial trauma: evaluation and management. 2024.",
+      "Revista Brasileira de Cirurgia – Diretrizes em Trauma de Face. 2023."
+    ]
+  },
+  "US": {
+    "title": "Maxillofacial Trauma",
+    "definition": "Maxillofacial trauma refers to any injury involving the facial bones (maxilla, mandible, zygoma, nasal bones, orbits) and adjacent soft tissues, resulting from blunt, penetrating, or mixed mechanisms. It can compromise vital functions such as airway patency, vision, swallowing, speech, and facial aesthetics. These injuries are frequently associated with traumatic brain injury (TBI) and cervical spine trauma, requiring a multidisciplinary approach and rapid intervention.",
+    "epidemiology": "Common in victims of motor vehicle accidents, interpersonal violence, falls, and gunshot wounds. Young adult males represent the majority of cases. The mandible is the most frequently fractured facial bone, followed by the nasal bones and the zygomatic-orbital complex. Up to 50% of severe cases are associated with concomitant cranial trauma. Alcohol and drug use often contribute to the mechanism of injury.",
+    "pathophysiology": "Direct or indirect trauma causes bone fractures, displacements, soft tissue lacerations, hematomas, and edema. Fractures may be simple, comminuted, open, or displaced, and can affect critical structures like the optic canal, orbits, skull base, or upper airway. There is a high risk of significant hemorrhage, aspiration of blood, saliva, vomitus, dislodged teeth, or bony fragments, and airway collapse—especially in panfacial trauma or fractures involving the skull base. The presence of foreign bodies or blood in the oropharynx may precipitate sudden obstruction and respiratory arrest.",
+    "clinical_manifestations": {
+      "general": [
+        "Facial pain, edema, and periorbital or perinasal ecchymosis.",
+        "Epistaxis, sublingual or floor-of-mouth hematoma.",
+        "Visible facial deformity, bony crepitus, or abnormal mobility.",
+        "Malocclusion, trismus, dental fractures or avulsions.",
+        "Diplopia, blurred vision, enophthalmos or proptosis.",
+        "Signs of basilar skull fracture: otorrhagia, rhinorrhea, Battle’s sign, raccoon eyes."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Evaluation should follow the trauma protocol (ABCDE), prioritizing airway stabilization and hemorrhage control. Facial inspection and palpation should assess symmetry, mobility, and tissue integrity. Mandatory evaluations include neurologic and ophthalmologic exams, especially in periorbital trauma.",
+      "essential_tests": [
+        "Facial computed tomography (CT) – gold standard.",
+        "Head and cervical spine CT in suspected associated injuries.",
+        "Panoramic X-rays and sinus films when CT is unavailable.",
+        "CT angiography if vascular injury or complex midface fracture is suspected.",
+        "Ophthalmologic and dental specialist evaluations."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Airway obstruction due to bleeding, edema, or displaced fractures.",
+      "Altered mental status (GCS ≤ 8) with loss of protective reflexes.",
+      "Active aspiration of blood, teeth, or bony fragments.",
+      "Bilateral mandibular fractures with posterior tongue displacement.",
+      "Severe panfacial fractures with structural instability."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Primary survey and hemodynamic stabilization following ATLS protocol.",
+        "Airway control with orotracheal tube or emergency cricothyrotomy as needed.",
+        "Direct pressure for hemorrhage; nasal packing if epistaxis is severe.",
+        "Temporary mandibular immobilization with Barton bandages or splints.",
+        "Pain control and prophylactic antibiotics for open injuries.",
+        "Urgent referral to oral and maxillofacial surgery, otolaryngology, or neurosurgery.",
+        "Surgical intervention with open reduction and internal fixation (ORIF) for displaced or unstable fractures.",
+        "Functional rehabilitation (speech therapy, maxillofacial physiotherapy) postoperatively."
+      ]
+    },
+    "prognosis": {
+      "comment": "Prognosis depends on fracture severity, presence of associated injuries (ocular, neurologic), timing of intervention, and surgical complexity. Early, appropriate treatment minimizes aesthetic and functional sequelae. Orbital injuries may lead to permanent vision disturbances. Comminuted and panfacial fractures are associated with poorer functional and cosmetic outcomes."
+    },
+    "additional_notes": [
+      "Always evaluate for concurrent cervical spine injury in high-energy facial trauma.",
+      "Airway management takes precedence over facial assessment.",
+      "Nasotracheal intubation is contraindicated in suspected basilar skull fractures.",
+      "Diplopia, decreased visual acuity, or fixed mydriasis warrant immediate ophthalmologic evaluation.",
+      "Multidisciplinary follow-up is critical for comprehensive rehabilitation."
+    ],
+    "references": [
+      "Advanced Trauma Life Support (ATLS) – 10th ed.",
+      "Miller’s Anesthesia – 8th ed. Chapter 81 – Head and Neck Trauma.",
+      "Maxillofacial Surgery Manual – Silva, L.C. 2022.",
+      "UpToDate. Maxillofacial trauma: evaluation and management. 2024.",
+      "Brazilian Journal of Surgery – Facial Trauma Guidelines. 2023."
+    ]
+  },
+  "ES": {
+    "titulo": "Traumatismo Maxilofacial",
+    "definicion": "El traumatismo maxilofacial abarca cualquier lesión que afecte los huesos de la cara (maxilar, mandíbula, pómulo, huesos nasales, órbitas) y los tejidos blandos adyacentes, causada por mecanismos contusos, penetrantes o mixtos. Estas lesiones pueden comprometer funciones vitales como la vía aérea, la visión, la deglución, la fonación y la estética facial. Frecuentemente se asocian a traumatismo craneoencefálico (TCE) y lesiones cervicales.",
+    "epidemiologia": "Es común en víctimas de accidentes de tráfico, agresiones físicas, caídas y heridas por arma de fuego. Predomina en hombres jóvenes adultos. La mandíbula es el hueso más frecuentemente fracturado, seguido por los huesos nasales y el complejo cigomático-orbitario. Hasta el 50% de los casos graves presentan traumatismo craneal asociado. El consumo de alcohol y drogas es un factor de riesgo frecuente.",
+    "fisiopatologia": "El trauma directo o indirecto genera fracturas óseas, desplazamientos, laceraciones de tejidos, hematomas y edema. Las fracturas pueden clasificarse como simples, conminutas, abiertas o desplazadas, y pueden afectar estructuras críticas como el canal óptico, órbitas, base del cráneo o vía aérea superior. Existe un alto riesgo de hemorragia significativa, aspiración de sangre, saliva, vómito, dientes o fragmentos óseos y colapso de la vía aérea, especialmente en fracturas panfaciales o con compromiso de base craneal. La presencia de sangre o cuerpos extraños en orofaringe puede causar obstrucción súbita y paro respiratorio.",
+    "manifestaciones_clinicas": {
+      "generales": [
+        "Dolor facial, edema y equimosis periorbitaria o perinasal.",
+        "Epistaxis, hematoma sublingual o en el suelo de la boca.",
+        "Deformidad facial visible, crepitación ósea o movilidad anormal.",
+        "Maloclusión dental, trismo, fracturas o pérdida dentaria.",
+        "Diplopía, visión borrosa, enoftalmos o proptosis.",
+        "Signos de fractura de base de cráneo: otorragia, rinorrea, signo de Battle, ojos de mapache."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "La evaluación sigue el protocolo ABCDE de trauma, con énfasis en estabilizar la vía aérea y controlar hemorragias. Se debe realizar inspección y palpación sistemática de la cara para evaluar simetría, movilidad ósea e integridad de tejidos. Es obligatorio el examen neurológico y oftalmológico.",
+      "examenes_esenciales": [
+        "Tomografía computarizada facial (estándar de oro).",
+        "TC de cráneo y columna cervical si hay sospecha de lesiones asociadas.",
+        "Radiografías panorámicas y de senos paranasales cuando no hay TC disponible.",
+        "Angio-TC si se sospecha lesión vascular o fractura compleja del tercio medio.",
+        "Evaluación especializada oftalmológica y odontológica."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Obstrucción de la vía aérea por sangrado, edema o fracturas desplazadas.",
+      "Disminución del nivel de conciencia (GCS ≤ 8).",
+      "Aspiración activa de sangre, dientes o fragmentos óseos.",
+      "Fracturas mandibulares bilaterales con caída posterior de la lengua.",
+      "Fracturas panfaciales con inestabilidad estructural grave."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Evaluación primaria y estabilización hemodinámica según protocolo ATLS.",
+        "Control de vía aérea con intubación orotraqueal o cricotiroidotomía en casos extremos.",
+        "Presión directa para sangrados, taponamiento nasal si se requiere.",
+        "Inmovilización temporal de mandíbula con vendajes o férulas de Barton.",
+        "Control del dolor y antibióticos profilácticos en lesiones abiertas.",
+        "Derivación urgente a cirugía bucomaxilofacial, otorrinolaringología o neurocirugía.",
+        "Reducción quirúrgica con fijación interna (ORIF) en fracturas desplazadas o inestables.",
+        "Rehabilitación funcional (fonoaudiología, fisioterapia orofacial) en el postoperatorio."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico depende de la gravedad de las fracturas, lesiones asociadas (ocular, neurológica), el tiempo hasta el tratamiento y la complejidad quirúrgica. El manejo precoz y adecuado reduce las secuelas estéticas y funcionales. Las fracturas orbitarias pueden causar alteraciones visuales permanentes. Las fracturas conminutas y panfaciales tienen peor pronóstico funcional y estético."
+    },
+    "notas_adicionales": [
+      "Siempre considerar lesión cervical asociada en trauma facial de alta energía.",
+      "Priorizar el control de la vía aérea antes de la exploración facial.",
+      "La intubación nasotraqueal está contraindicada en sospecha de fractura de base de cráneo.",
+      "La presencia de diplopía, reducción de agudeza visual o midriasis fija requiere evaluación oftalmológica inmediata.",
+      "El seguimiento multidisciplinario es esencial para una rehabilitación completa."
+    ],
+    "referencias": [
+      "Advanced Trauma Life Support (ATLS) – 10ª ed.",
+      "Miller’s Anesthesia – 8ª ed. Capítulo 81 – Trauma de Cabeza y Cuello.",
+      "Manual de Cirugía Bucomaxilofacial – Silva, L.C. 2022.",
+      "UpToDate. Traumatismo maxilofacial: evaluación y manejo. 2024.",
+      "Revista Brasileña de Cirugía – Guías en Trauma Facial. 2023."
+    ]
+  }
+}

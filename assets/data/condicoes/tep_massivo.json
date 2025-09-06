@@ -1,0 +1,233 @@
+{
+  "PT": {
+    "titulo": "Tromboembolismo Pulmonar Maciço",
+    "definicao": "O tromboembolismo pulmonar (TEP) maciço é definido como a obstrução aguda e significativa da circulação arterial pulmonar, geralmente por trombo originado do sistema venoso profundo, que resulta em instabilidade hemodinâmica grave, caracterizada por hipotensão sustentada (PAS < 90 mmHg por ≥ 15 minutos), necessidade de suporte vasopressor ou parada cardíaca. Trata-se de uma emergência cardiovascular de alta letalidade, com mortalidade superior a 30% sem tratamento imediato.",
+    "epidemiologia": "O TEP é a terceira principal causa de morte cardiovascular após o infarto agudo do miocárdio e o acidente vascular cerebral. A forma maciça ocorre em cerca de 5–10% dos casos e é mais prevalente em pacientes com fatores de risco como imobilização, cirurgia recente, trauma, câncer, trombofilias hereditárias ou adquiridas e história prévia de TEP ou TVP. A mortalidade pode chegar a 65% em casos com parada cardíaca associada.",
+    "fisiopatologia": "A obstrução maciça da artéria pulmonar ou de seus ramos principais provoca aumento abrupto da resistência vascular pulmonar, levando à sobrecarga aguda do ventrículo direito (VD). A falência do VD reduz o débito cardíaco, agrava a hipoxemia e precipita colapso cardiovascular. A isquemia subendocárdica e a liberação de mediadores pró-inflamatórios contribuem para o agravamento da disfunção ventricular. Em casos extremos, o resultado final é a atividade elétrica sem pulso ou morte súbita.",
+    "manifestações_clinicas": {
+      "hemodinamicas": [
+        "Hipotensão arterial sistêmica persistente (PAS < 90 mmHg ou queda > 40 mmHg do basal).",
+        "Taquicardia sinusal, distensão das jugulares e pulso paradoxal.",
+        "Sinais de baixo débito: extremidades frias, oligúria, lactato elevado.",
+        "Parada cardíaca com atividade elétrica sem pulso (AESP) em até 50% dos casos graves."
+      ],
+      "respiratorias": [
+        "Dispneia intensa e súbita, acompanhada de taquipneia (>30 irpm).",
+        "Dor torácica ventilatório-dependente ou retroesternal em casos centrais.",
+        "Hemoptise, estertores ou sibilância em TEP com infarto pulmonar.",
+        "Hipoxemia grave, hipocapnia inicial e alcalose respiratória compensatória."
+      ],
+      "neurologicas_e_metabolicas": [
+        "Síncope, rebaixamento do nível de consciência ou agitação psicomotora.",
+        "Acidose metabólica com hiperlactatemia.",
+        "Sinais de choque obstrutivo: extremidades cianóticas, tempo de enchimento capilar prolongado.",
+        "Elevação de troponinas e BNP por sobrecarga aguda do VD, sem infarto coronariano associado."
+      ]
+    },
+    "diagnostico": {
+      "abordagem_clinica": "O diagnóstico deve ser considerado em todo paciente com quadro agudo de dispneia, síncope ou hipotensão de causa inexplicada, especialmente na presença de fatores de risco tromboembólicos. Em instabilidade hemodinâmica, o ecocardiograma à beira do leito é o principal exame inicial. Quando possível, a angiotomografia de tórax com contraste confirma o diagnóstico. A investigação de TVP pode reforçar a decisão terapêutica mesmo na ausência de imagem pulmonar.",
+      "exames_essenciais": [
+        "ECG: taquicardia sinusal, padrão S1Q3T3, bloqueio de ramo direito, inversão de T em V1–V3.",
+        "Gasometria arterial: hipoxemia, hipocapnia e alcalose respiratória; acidose láctica em choque.",
+        "Ecocardiograma: sinais de disfunção do VD (dilatação, hipocinesia), septo interventricular em D, sinal de McConnell.",
+        "Angiotomografia pulmonar com contraste: exame padrão-ouro em pacientes estáveis.",
+        "Ultrassonografia venosa dos membros inferiores: pesquisa de TVP proximal.",
+        "Laboratoriais: dímero-D elevado em pacientes de baixo a moderado risco clínico; troponina e BNP para estratificação de risco.",
+        "Radiografia de tórax: frequentemente normal, mas útil na exclusão de outras causas.",
+        "Lactato sérico e parâmetros de função orgânica (creatinina, AST/ALT, coagulograma) para avaliação do impacto sistêmico."
+      ]
+    },
+    "indicações_para_suporte_ventilatório": [
+      "Insuficiência respiratória com hipoxemia refratária (PaO₂ < 60 mmHg com FiO₂ > 0,6).",
+      "Alteração do nível de consciência com risco de aspiração.",
+      "Acidose respiratória progressiva com fadiga muscular.",
+      "Parada cardíaca ou instabilidade respiratória durante a trombólise ou procedimentos invasivos."
+    ],
+    "conduta_geral": {
+      "abordagem_inicial": [
+        "Monitorização contínua com ECG, SpO₂, pressão arterial invasiva e débito urinário.",
+        "Oxigenoterapia suplementar com meta de SpO₂ > 92%.",
+        "Anticoagulação imediata com heparina não fracionada (bolus de 80 U/kg e infusão contínua) preferida na vigência de instabilidade ou risco de trombólise.",
+        "Terapia trombolítica sistêmica com alteplase (100 mg em 2 horas) ou tenecteplase (bolus único) nos pacientes sem contraindicações.",
+        "Suporte com vasopressores (noradrenalina) para PAM ≥ 65 mmHg e inotrópicos (dobutamina) se disfunção ventricular direita grave.",
+        "Ventilação mecânica invasiva com estratégia protetora em falência respiratória.",
+        "ECMO como ponte terapêutica em falência circulatória ou respiratória refratária à terapêutica convencional.",
+        "Alternativas: trombólise dirigida por cateter, fragmentação mecânica ou embolectomia cirúrgica nos centros especializados.",
+        "Profilaxia secundária com anticoagulantes orais diretos ou antagonistas da vitamina K após estabilização.",
+        "Investigação etiológica completa para trombofilias, câncer oculto e causas secundárias após a fase aguda."
+      ]
+    },
+    "prognostico": {
+      "comentario": "O prognóstico do TEP maciço depende da precocidade do diagnóstico e da instituição imediata de medidas de reperfusão. A mortalidade pode ser reduzida de forma significativa com o uso adequado de trombólise e suporte intensivo. Sobreviventes devem ser acompanhados de forma sistemática para avaliar a recuperação do VD, risco de recorrência e desenvolvimento de hipertensão pulmonar tromboembólica crônica (HPTEC)."
+    },
+    "notas_adicionais": [
+      "Iniciar tratamento empírico em pacientes com alto índice de suspeição clínica, mesmo antes da confirmação por imagem.",
+      "Evitar administração excessiva de fluidos, que pode agravar a sobrecarga do VD.",
+      "Monitorar sinais de sangramento após trombólise (gengivorragia, hemorragia digestiva, hemorragia intracraniana).",
+      "Considerar filtro de veia cava inferior em pacientes com contraindicação absoluta à anticoagulação.",
+      "Encaminhar pacientes com HPTEC para avaliação em centros especializados com protocolo de tromboendarterectomia pulmonar ou balão angioplastia.",
+      "Planejar reabilitação precoce e educação do paciente sobre sinais de alerta para recorrência tromboembólica."
+    ],
+    "fontes_bibliograficas": [
+      "UpToDate. Massive pulmonary embolism (high-risk PE): Management. 2024.",
+      "ESC Guidelines on the diagnosis and management of acute pulmonary embolism. European Heart Journal. 2019.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 50 – Embolia Pulmonar.",
+      "Diretrizes da Sociedade Brasileira de Cardiologia sobre TEP. 2022."
+    ]
+  },
+  "US": {
+    "title": "Massive Pulmonary Embolism",
+    "definition": "Massive pulmonary embolism (PE) refers to an acute obstruction of the pulmonary arteries that results in hemodynamic instability, typically defined as sustained hypotension (systolic BP < 90 mmHg for ≥15 minutes), need for vasopressors, or cardiac arrest. It is a life-threatening cardiovascular emergency associated with high mortality if not promptly diagnosed and treated.",
+    "epidemiology": "PE is the third most common cause of cardiovascular death, following myocardial infarction and stroke. Massive PE accounts for approximately 5–10% of all cases and has a mortality rate exceeding 30%. Risk factors include recent surgery, trauma, cancer, prolonged immobilization, prior DVT/PE, and inherited or acquired thrombophilias. Mortality may reach 65% in patients experiencing cardiac arrest.",
+    "pathophysiology": "Massive PE causes abrupt obstruction of pulmonary blood flow, leading to a sudden increase in pulmonary vascular resistance and acute right ventricular (RV) pressure overload. RV dilation and dysfunction result in reduced left ventricular preload and cardiac output, worsening hypoxemia and systemic hypotension. The release of inflammatory mediators exacerbates pulmonary vasoconstriction and endothelial injury, increasing the risk of death from cardiovascular collapse or pulseless electrical activity (PEA).",
+    "clinical_manifestations": {
+      "hemodynamic": [
+        "Persistent hypotension (SBP < 90 mmHg or > 40 mmHg drop from baseline for ≥15 minutes).",
+        "Tachycardia, jugular venous distension, and pulsus paradoxus.",
+        "Signs of low cardiac output: cool extremities, oliguria, elevated lactate.",
+        "Cardiac arrest with pulseless electrical activity (PEA) occurs in up to 50% of massive PE cases."
+      ],
+      "respiratory": [
+        "Sudden onset of dyspnea and tachypnea (>30 bpm).",
+        "Pleuritic or retrosternal chest pain.",
+        "Hemoptysis, wheezing, or rales in pulmonary infarction.",
+        "Severe hypoxemia and respiratory alkalosis due to hyperventilation; hypercapnia may occur late."
+      ],
+      "neurologic_and_metabolic": [
+        "Syncope, altered mental status, or agitation.",
+        "Lactic acidosis secondary to tissue hypoperfusion.",
+        "Shock signs: cyanosis, prolonged capillary refill, skin mottling.",
+        "Elevated troponins and BNP due to acute RV strain, even in the absence of myocardial infarction."
+      ]
+    },
+    "diagnosis": {
+      "clinical_approach": "Massive PE should be suspected in patients with sudden unexplained hypotension, dyspnea, or syncope, particularly with thromboembolic risk factors. In unstable patients, bedside transthoracic echocardiography is the initial diagnostic tool. CT pulmonary angiography is the gold standard in stable patients. Lower limb venous ultrasound may support diagnosis when pulmonary imaging is not immediately available.",
+      "essential_tests": [
+        "ECG: sinus tachycardia, S1Q3T3 pattern, right bundle branch block, T-wave inversion in V1–V3.",
+        "Arterial blood gas: hypoxemia, hypocapnia, and respiratory alkalosis; lactic acidosis in shock.",
+        "Echocardiography: RV dilation, hypokinesia, McConnell's sign, interventricular septal flattening.",
+        "CT pulmonary angiography: confirms diagnosis in stable patients.",
+        "Lower extremity venous duplex ultrasound: assesses for proximal DVT.",
+        "Laboratory: elevated D-dimer (low to intermediate-risk patients), troponin and BNP for risk stratification.",
+        "Chest X-ray: often normal; useful to rule out alternative diagnoses.",
+        "Serum lactate and organ function markers (creatinine, transaminases, coagulation profile) to assess systemic impact."
+      ]
+    },
+    "indications_for_ventilatory_support": [
+      "Respiratory failure with refractory hypoxemia (PaO₂ < 60 mmHg on FiO₂ > 0.6).",
+      "Altered mental status with aspiration risk.",
+      "Progressive respiratory acidosis with ventilatory muscle fatigue.",
+      "Cardiac arrest or respiratory collapse during thrombolysis or invasive procedures."
+    ],
+    "general_management": {
+      "initial_approach": [
+        "Continuous monitoring (ECG, SpO₂, invasive BP, urine output).",
+        "Supplemental oxygen to maintain SpO₂ > 92%.",
+        "Immediate anticoagulation with unfractionated heparin (80 U/kg bolus, continuous infusion), preferred in unstable patients or those at risk for thrombolysis.",
+        "Systemic thrombolysis with alteplase (100 mg over 2 hours) or tenecteplase (single bolus) in eligible patients without contraindications.",
+        "Vasopressors (norepinephrine) to maintain MAP ≥ 65 mmHg; consider inotropes (dobutamine) if RV failure is predominant.",
+        "Mechanical ventilation with lung-protective strategy for respiratory failure.",
+        "ECMO as a bridge to recovery in refractory circulatory or respiratory collapse.",
+        "Alternatives: catheter-directed thrombolysis, mechanical clot fragmentation, or surgical embolectomy in specialized centers.",
+        "Secondary prevention: transition to oral anticoagulation (DOACs or vitamin K antagonists) after stabilization.",
+        "Comprehensive etiologic workup for thrombophilia, occult malignancy, or secondary triggers post-acute phase."
+      ]
+    },
+    "prognosis": {
+      "comment": "The prognosis of massive PE is strongly influenced by early recognition and prompt reperfusion therapy. Mortality decreases significantly with effective thrombolysis and hemodynamic support. Survivors require long-term monitoring to assess RV recovery, recurrence risk, and screening for chronic thromboembolic pulmonary hypertension (CTEPH)."
+    },
+    "additional_notes": [
+      "Empiric treatment should be initiated in high clinical suspicion cases, even before imaging confirmation.",
+      "Avoid aggressive fluid resuscitation, which may worsen RV overload.",
+      "Monitor for hemorrhagic complications following thrombolysis (e.g., GI bleeding, intracranial hemorrhage).",
+      "IVC filter placement may be considered in patients with absolute contraindications to anticoagulation.",
+      "Refer patients with suspected CTEPH to specialized centers for evaluation for pulmonary thromboendarterectomy or balloon angioplasty.",
+      "Initiate early rehabilitation and educate patients on thromboembolism recurrence warning signs."
+    ],
+    "references": [
+      "UpToDate. Massive pulmonary embolism (high-risk PE): Management. 2024.",
+      "ESC Guidelines on the diagnosis and management of acute pulmonary embolism. European Heart Journal. 2019.",
+      "Harrison’s Principles of Internal Medicine. 21st ed.",
+      "Miller’s Anesthesia. 8th ed. Chapter 50 – Pulmonary Embolism.",
+      "Brazilian Society of Cardiology Guidelines on Pulmonary Embolism. 2022."
+    ]
+  },
+  "ES": {
+    "titulo": "Embolia Pulmonar Masiva",
+    "definicion": "La embolia pulmonar (EP) masiva se define como una obstrucción aguda y significativa del flujo sanguíneo en la circulación pulmonar, que conduce a inestabilidad hemodinámica grave. Clínicamente, se manifiesta con hipotensión sostenida (PAS < 90 mmHg por ≥ 15 minutos), necesidad de vasopresores o paro cardíaco. Representa una emergencia cardiovascular con una tasa de mortalidad alta si no se trata rápidamente.",
+    "epidemiologia": "La EP es la tercera causa más frecuente de muerte cardiovascular, después del infarto agudo de miocardio y el accidente cerebrovascular. La forma masiva representa entre el 5% y el 10% de todos los casos y está asociada a una mortalidad hospitalaria que supera el 30%. Los factores de riesgo incluyen inmovilización prolongada, cirugía reciente, trauma, cáncer, trombofilias y antecedentes de EP o trombosis venosa profunda (TVP).",
+    "fisiopatologia": "La EP masiva causa un aumento brusco de la resistencia vascular pulmonar, lo que provoca sobrecarga aguda y disfunción del ventrículo derecho (VD). Esto conduce a una reducción del gasto cardíaco, hipoxemia y colapso hemodinámico. La isquemia subendocárdica del VD, junto con la liberación de mediadores vasoconstrictores e inflamatorios, agravan la disfunción ventricular y aumentan el riesgo de paro cardiorrespiratorio.",
+    "manifestaciones_clinicas": {
+      "hemodinamicas": [
+        "Hipotensión sistémica persistente (PAS < 90 mmHg o caída > 40 mmHg respecto al basal).",
+        "Taquicardia, distensión yugular, pulso paradójico.",
+        "Signos de bajo gasto: piel fría, oliguria, lactato elevado.",
+        "Paro cardíaco con actividad eléctrica sin pulso (AESP), presente hasta en el 50% de los casos graves."
+      ],
+      "respiratorias": [
+        "Disnea intensa y repentina, taquipnea (>30 rpm).",
+        "Dolor torácico de tipo pleurítico o retroesternal.",
+        "Hemoptisis, sibilancias o estertores si hay infarto pulmonar.",
+        "Hipoxemia severa, hipocapnia inicial y alcalosis respiratoria compensadora."
+      ],
+      "neurologicas_y_metabolicas": [
+        "Síncope, alteración del estado de conciencia, agitación.",
+        "Acidosis láctica por hipoperfusión tisular.",
+        "Signos de choque obstructivo: cianosis, tiempo de llenado capilar prolongado.",
+        "Elevación de troponinas y BNP por sobrecarga aguda del VD."
+      ]
+    },
+    "diagnostico": {
+      "enfoque_clinico": "El diagnóstico debe considerarse ante cualquier paciente con disnea súbita, síncope o hipotensión sin causa evidente, especialmente si existen factores de riesgo tromboembólicos. En pacientes inestables, el ecocardiograma transtorácico a pie de cama es el estudio inicial de elección. En pacientes estables, la angiotomografía pulmonar con contraste es el método diagnóstico de referencia.",
+      "examenes_esenciales": [
+        "ECG: taquicardia sinusal, patrón S1Q3T3, bloqueo de rama derecha, inversión de T en V1–V3.",
+        "Gasometría arterial: hipoxemia, hipocapnia y alcalosis respiratoria; acidosis láctica en casos de choque.",
+        "Ecocardiograma: dilatación del VD, hipocinesia, signo de McConnell, desplazamiento septal.",
+        "Angiotomografía pulmonar: confirma el diagnóstico en pacientes estables.",
+        "Ecografía venosa de miembros inferiores: útil para detectar TVP proximal.",
+        "Laboratorios: dímero-D (en pacientes de bajo riesgo), troponina y BNP para estratificación.",
+        "Radiografía de tórax: puede ser normal; ayuda a descartar diagnósticos diferenciales.",
+        "Lactato sérico y pruebas de función orgánica: creatinina, transaminasas, coagulación."
+      ]
+    },
+    "indicaciones_para_soporte_ventilatorio": [
+      "Hipoxemia refractaria (PaO₂ < 60 mmHg con FiO₂ > 0,6).",
+      "Alteración del estado de conciencia con riesgo de aspiración.",
+      "Acidosis respiratoria progresiva con fatiga muscular.",
+      "Paro cardíaco o colapso respiratorio durante trombólisis o procedimientos invasivos."
+    ],
+    "manejo_general": {
+      "enfoque_inicial": [
+        "Monitorización continua con ECG, SpO₂, presión arterial invasiva, diuresis.",
+        "Oxigenoterapia suplementaria para mantener SpO₂ > 92%.",
+        "Anticoagulación inmediata con heparina no fraccionada (80 U/kg en bolo y perfusión continua), preferida si existe inestabilidad hemodinámica.",
+        "Terapia trombolítica sistémica con alteplasa (100 mg en 2 horas) o tenecteplasa en bolo.",
+        "Uso de vasopresores (noradrenalina) para mantener PAM ≥ 65 mmHg e inotrópicos (dobutamina) si hay disfunción severa del VD.",
+        "Ventilación mecánica con estrategia protectora en insuficiencia respiratoria.",
+        "ECMO como puente en colapso circulatorio o respiratorio refractario.",
+        "Alternativas: trombólisis dirigida por catéter, embolectomía quirúrgica o fragmentación mecánica.",
+        "Profilaxis secundaria con anticoagulantes orales tras estabilización.",
+        "Evaluación etiológica completa post-aguda para trombofilias o neoplasias ocultas."
+      ]
+    },
+    "pronostico": {
+      "comentario": "El pronóstico de la EP masiva depende de la rapidez del diagnóstico y el inicio de la reperfusión. El uso oportuno de trombólisis y soporte hemodinámico reduce significativamente la mortalidad. Los sobrevivientes deben ser evaluados para recuperación del VD, riesgo de recurrencia y desarrollo de hipertensión pulmonar tromboembólica crónica (HPTEC)."
+    },
+    "notas_adicionales": [
+      "Comenzar tratamiento empírico ante alta sospecha clínica incluso antes de la confirmación por imagen.",
+      "Evitar sobrecarga de volumen que pueda agravar la disfunción del VD.",
+      "Vigilar complicaciones hemorrágicas posteriores a la trombólisis.",
+      "Considerar filtro de vena cava inferior si hay contraindicación absoluta para anticoagulación.",
+      "Referir pacientes con HPTEC a centros especializados para endarterectomía pulmonar o angioplastia con balón.",
+      "Iniciar rehabilitación precoz y educación sobre signos de recurrencia."
+    ],
+    "referencias": [
+      "UpToDate. Manejo de la embolia pulmonar masiva. 2024.",
+      "Guías ESC sobre el diagnóstico y manejo de la embolia pulmonar aguda. European Heart Journal. 2019.",
+      "Harrison’s Principles of Internal Medicine. 21ª ed.",
+      "Miller’s Anesthesia. 8ª ed. Capítulo 50 – Embolia Pulmonar.",
+      "Guías de la Sociedad Brasileña de Cardiología sobre EP. 2022."
+    ]
+  }
+}

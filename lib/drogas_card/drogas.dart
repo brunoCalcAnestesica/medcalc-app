@@ -874,6 +874,29 @@ class _DrogasPageState extends State<DrogasPage> {
       }
     });
   }
+
+  Future<Widget> _buildMedicationCard(Map<String, dynamic> med) async {
+    try {
+      final builderResult = med['builder']();
+      
+      // Se o resultado é um Future<Widget>, aguardar
+      if (builderResult is Future<Widget>) {
+        return await builderResult;
+      } else {
+        // Se é um Widget, retornar diretamente
+        return builderResult as Widget;
+      }
+    } catch (e) {
+      // Retornar um widget de erro
+      return Card(
+        child: ListTile(
+          leading: const Icon(Icons.error, color: Colors.red),
+          title: Text('Erro ao carregar ${med['nome']}'),
+          subtitle: Text('$e'),
+        ),
+      );
+    }
+  }
   
   // Método para limpar todos os estados de expansão (pode ser chamado de um botão ou menu)
   void _limparEstadosExpansao() {
@@ -1942,51 +1965,40 @@ class _DrogasPageState extends State<DrogasPage> {
                   itemBuilder: (context, index) {
                     final med = medicamentosFiltrados[index];
                     try {
-                      final builderResult = med['builder']();
-                      
-                      // Verificar se o resultado é um Future<Widget>
-                      if (builderResult is Future<Widget>) {
-                        return KeyedSubtree(
-                          key: ValueKey('med_${med['nome']}_$index'),
-                          child: FutureBuilder<Widget>(
-                            future: builderResult,
-                            builder: (context, snapshot) {
-                              if (snapshot.connectionState == ConnectionState.waiting) {
-                                return const Card(
-                                  child: ListTile(
-                                    leading: CircularProgressIndicator(),
-                                    title: Text('Carregando...'),
-                                  ),
-                                );
-                              }
-                              
-                              if (snapshot.hasError) {
-                                return Card(
-                                  child: ListTile(
-                                    leading: const Icon(Icons.error, color: Colors.red),
-                                    title: Text('Erro: ${snapshot.error}'),
-                                  ),
-                                );
-                              }
-                              
-                              return snapshot.data ?? const SizedBox.shrink();
-                            },
-                          ),
-                        );
-                      } else {
-                        // Se não é Future, usar diretamente
-                        return KeyedSubtree(
-                          key: ValueKey('med_${med['nome']}_$index'),
-                          child: builderResult as Widget,
-                        );
-                      }
+                      return KeyedSubtree(
+                        key: ValueKey('med_${med['nome']}_$index'),
+                        child: FutureBuilder<Widget>(
+                          future: _buildMedicationCard(med),
+                          builder: (context, snapshot) {
+                            if (snapshot.connectionState == ConnectionState.waiting) {
+                              return const Card(
+                                child: ListTile(
+                                  leading: CircularProgressIndicator(),
+                                  title: Text('Carregando...'),
+                                ),
+                              );
+                            }
+                            
+                            if (snapshot.hasError) {
+                              return Card(
+                                child: ListTile(
+                                  leading: const Icon(Icons.error, color: Colors.red),
+                                  title: Text('Erro: ${snapshot.error}'),
+                                ),
+                              );
+                            }
+                            
+                            return snapshot.data ?? const SizedBox.shrink();
+                          },
+                        ),
+                      );
                     } catch (e) {
                       print('Erro ao carregar ${med['nome']}: $e');
-                      return Padding(
-                        padding: const EdgeInsets.all(8.0),
-                        child: Text(
-                          'Erro ao carregar ${med['nome']}: $e',
-                          style: const TextStyle(color: Colors.red),
+                      return Card(
+                        child: ListTile(
+                          leading: const Icon(Icons.error, color: Colors.red),
+                          title: Text('Erro ao carregar ${med['nome']}'),
+                          subtitle: Text('$e'),
                         ),
                       );
                     }

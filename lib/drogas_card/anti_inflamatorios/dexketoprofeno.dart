@@ -1,10 +1,12 @@
+
+
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart';
 import '../../shared_data.dart';
 
 class Dexketoprofeno {
-  static Future<Widget> buildCard(BuildContext context) async {
+static Future<Widget> buildCard(BuildContext context) async {
     return FutureBuilder<String>(
       future: rootBundle.loadString('assets/medicamentos/dexketoprofeno.json'),
       builder: (context, snapshot) {
@@ -46,7 +48,7 @@ class Dexketoprofeno {
             elevation: 2,
             margin: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
             child: ExpansionTile(
-              key: GlobalKey(),
+              key: GlobalKey<ExpansionTileState>(),
               leading: IconButton(
                 icon: Icon(
                   SharedData.favoritos.contains(nome) 

@@ -46,7 +46,7 @@ class Tenoxicam {
             elevation: 2,
             margin: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
             child: ExpansionTile(
-              key: GlobalKey(),
+              key: GlobalKey<ExpansionTileState>(),
               leading: IconButton(
                 icon: Icon(
                   SharedData.favoritos.contains(nome) 

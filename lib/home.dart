@@ -71,15 +71,67 @@ class _HomePageState extends State<HomePage> {
   String _sexoSelecionado = 'Masculino';
 
   void _atualizarDados() {
-    double? idadeBruta = double.tryParse(_idadeController.text.replaceAll(',', '.'));
-    double? pesoBruto = double.tryParse(_pesoAtualController.text.replaceAll(',', '.'));
-    double? alturaBruta = double.tryParse(_alturaController.text.replaceAll(',', '.'));
+    // Limpar espaços em branco e validar campos
+    String idadeText = _idadeController.text.trim();
+    String pesoText = _pesoAtualController.text.trim();
+    String alturaText = _alturaController.text.trim();
+
+    // Verificar se os campos não estão vazios
+    if (idadeText.isEmpty || pesoText.isEmpty || alturaText.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Por favor, preencha todos os campos.'),
+          backgroundColor: Colors.redAccent,
+          behavior: SnackBarBehavior.floating,
+        ),
+      );
+      return;
+    }
+
+    // Converter para double com tratamento de vírgula
+    double? idadeBruta = double.tryParse(idadeText.replaceAll(',', '.'));
+    double? pesoBruto = double.tryParse(pesoText.replaceAll(',', '.'));
+    double? alturaBruta = double.tryParse(alturaText.replaceAll(',', '.'));
 
     setState(() {
       if (idadeBruta == null || pesoBruto == null || alturaBruta == null) {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
-            content: Text('Por favor, preencha todos os campos corretamente.'),
+            content: Text('Por favor, insira valores numéricos válidos.'),
+            backgroundColor: Colors.redAccent,
+            behavior: SnackBarBehavior.floating,
+          ),
+        );
+        return;
+      }
+
+      // Validações específicas
+      if (pesoBruto <= 0 || pesoBruto > 200) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Peso deve estar entre 0.1 e 200 kg.'),
+            backgroundColor: Colors.redAccent,
+            behavior: SnackBarBehavior.floating,
+          ),
+        );
+        return;
+      }
+
+      if (alturaBruta <= 0 || alturaBruta > 220) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Altura deve estar entre 0.1 e 220 cm.'),
+            backgroundColor: Colors.redAccent,
+            behavior: SnackBarBehavior.floating,
+          ),
+        );
+        return;
+      }
+
+      if (idadeBruta <= 0) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Idade deve ser maior que zero.'),
             backgroundColor: Colors.redAccent,
             behavior: SnackBarBehavior.floating,
           ),
@@ -112,6 +164,15 @@ class _HomePageState extends State<HomePage> {
 
       // Garante que o teclado virtual seja fechado após preencher os campos e atualizar os dados.
       FocusScope.of(context).unfocus();
+
+      // Mostrar confirmação
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Dados atualizados com sucesso!'),
+          backgroundColor: Colors.green,
+          behavior: SnackBarBehavior.floating,
+        ),
+      );
 
       // Ir para próxima aba
       _currentIndex = 1;
@@ -255,12 +316,15 @@ class _HomePageState extends State<HomePage> {
                       controller: _pesoAtualController,
                       keyboardType: const TextInputType.numberWithOptions(decimal: true),
                       inputFormatters: [
-                        FilteringTextInputFormatter.allow(RegExp(r'^\d{0,3}([.,]?\d{0,3})?$')),
                         PesoMaximo200Com3DecimaisFormatter(),
                       ],
                       decoration: const InputDecoration(
                         labelText: 'Peso (kg)',
                         prefixIcon: Icon(Icons.monitor_weight),
+                        hintText: 'Ex: 70.5',
+                        border: OutlineInputBorder(),
+                        filled: true,
+                        fillColor: Colors.white,
                       ),
                       onChanged: (value) {
                         setState(() {
@@ -273,18 +337,21 @@ class _HomePageState extends State<HomePage> {
                   Expanded(
                     child: TextField(
                       controller: _idadeController,
-                      keyboardType: TextInputType.number,
+                      keyboardType: const TextInputType.numberWithOptions(decimal: true),
                       inputFormatters: [
-                        LengthLimitingTextInputFormatter(2), // Máximo de 2 dígitos
-                        FilteringTextInputFormatter.digitsOnly, // Apenas números inteiros (sem vírgulas ou pontos)
+                        IdadeFormatter(),
                       ],
                       decoration: const InputDecoration(
                         labelText: 'Idade',
                         prefixIcon: Icon(Icons.cake),
+                        hintText: 'Ex: 30',
+                        border: OutlineInputBorder(),
+                        filled: true,
+                        fillColor: Colors.white,
                       ),
                       onChanged: (value) {
                         setState(() {
-                          double? idade = double.tryParse(value);
+                          double? idade = double.tryParse(value.replaceAll(',', '.'));
                           if (idade != null) {
                             if (_idadeTipo == 'dias') {
                               SharedData.idade = idade / 365.0;
@@ -305,6 +372,9 @@ class _HomePageState extends State<HomePage> {
                       decoration: const InputDecoration(
                         labelText: 'D/M/A',
                         prefixIcon: Icon(Icons.calendar_today),
+                        border: OutlineInputBorder(),
+                        filled: true,
+                        fillColor: Colors.white,
                       ),
                       borderRadius: BorderRadius.circular(10),
                       isExpanded: true,
@@ -333,15 +403,18 @@ class _HomePageState extends State<HomePage> {
                       controller: _alturaController,
                       keyboardType: const TextInputType.numberWithOptions(decimal: true),
                       inputFormatters: [
-                        FilteringTextInputFormatter.allow(RegExp(r'^\d{0,3}([.,]?\d{0,3})?$')),
                         AlturaMaxima220Com3DecimaisFormatter(),
                       ],
                       decoration: InputDecoration(
                         labelText: 'Altura (cm)',
+                        hintText: 'Ex: 175.5',
                         prefixIcon: Transform.rotate(
                           angle: 90 * 3.14159 / 180, // 90 graus em radianos
                           child: Icon(Icons.straighten),
                         ),
+                        border: OutlineInputBorder(),
+                        filled: true,
+                        fillColor: Colors.white,
                       ),
                       onChanged: (value) {
                         setState(() {
@@ -356,7 +429,9 @@ class _HomePageState extends State<HomePage> {
                       value: _sexoSelecionado,
                       decoration: const InputDecoration(
                         labelText: 'Sexo',
-                        //prefixIcon: Icon(Icons.transgender),
+                        border: OutlineInputBorder(),
+                        filled: true,
+                        fillColor: Colors.white,
                       ),
                       borderRadius: BorderRadius.circular(10),
                       isExpanded: true,

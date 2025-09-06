@@ -1942,10 +1942,44 @@ class _DrogasPageState extends State<DrogasPage> {
                   itemBuilder: (context, index) {
                     final med = medicamentosFiltrados[index];
                     try {
-                      return KeyedSubtree(
-                        key: ValueKey('med_${med['nome']}_$index'),
-                        child: med['builder'](),
-                      );
+                      final builderResult = med['builder']();
+                      
+                      // Verificar se o resultado é um Future<Widget>
+                      if (builderResult is Future<Widget>) {
+                        return KeyedSubtree(
+                          key: ValueKey('med_${med['nome']}_$index'),
+                          child: FutureBuilder<Widget>(
+                            future: builderResult,
+                            builder: (context, snapshot) {
+                              if (snapshot.connectionState == ConnectionState.waiting) {
+                                return const Card(
+                                  child: ListTile(
+                                    leading: CircularProgressIndicator(),
+                                    title: Text('Carregando...'),
+                                  ),
+                                );
+                              }
+                              
+                              if (snapshot.hasError) {
+                                return Card(
+                                  child: ListTile(
+                                    leading: const Icon(Icons.error, color: Colors.red),
+                                    title: Text('Erro: ${snapshot.error}'),
+                                  ),
+                                );
+                              }
+                              
+                              return snapshot.data ?? const SizedBox.shrink();
+                            },
+                          ),
+                        );
+                      } else {
+                        // Se não é Future, usar diretamente
+                        return KeyedSubtree(
+                          key: ValueKey('med_${med['nome']}_$index'),
+                          child: builderResult as Widget,
+                        );
+                      }
                     } catch (e) {
                       print('Erro ao carregar ${med['nome']}: $e');
                       return Padding(

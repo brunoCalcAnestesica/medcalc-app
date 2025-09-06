@@ -71,23 +71,13 @@ class _HomePageState extends State<HomePage> {
   String _sexoSelecionado = 'Masculino';
 
   void _atualizarDados() {
-    print('=== INÍCIO DA ATUALIZAÇÃO ===');
-    
     // Obter valores dos campos
     String pesoText = _pesoAtualController.text.trim();
     String idadeText = _idadeController.text.trim();
     String alturaText = _alturaController.text.trim();
-    
-    print('Valores dos campos:');
-    print('Peso: "$pesoText"');
-    print('Idade: "$idadeText"');
-    print('Altura: "$alturaText"');
-    print('Tipo: $_idadeTipo');
-    print('Sexo: $_sexoSelecionado');
 
     // Verificar se os campos não estão vazios
     if (pesoText.isEmpty || idadeText.isEmpty || alturaText.isEmpty) {
-      print('ERRO: Campos vazios');
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Por favor, preencha todos os campos.'),
@@ -103,13 +93,7 @@ class _HomePageState extends State<HomePage> {
     double? idade = double.tryParse(idadeText.replaceAll(',', '.'));
     double? altura = double.tryParse(alturaText.replaceAll(',', '.'));
 
-    print('Valores convertidos:');
-    print('Peso: $peso');
-    print('Idade: $idade');
-    print('Altura: $altura');
-
     if (peso == null || idade == null || altura == null) {
-      print('ERRO: Valores inválidos');
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Por favor, insira valores numéricos válidos.'),
@@ -136,12 +120,6 @@ class _HomePageState extends State<HomePage> {
     SharedData.sexo = _sexoSelecionado;
     SharedData.idadeTipo = _idadeTipo;
 
-    print('SharedData atualizado:');
-    print('Peso: ${SharedData.peso}');
-    print('Idade: ${SharedData.idade}');
-    print('Altura: ${SharedData.altura}');
-    print('Sexo: ${SharedData.sexo}');
-
     // Atualizar UI
     setState(() {
       _faixaEtaria = SharedData.faixaEtaria;
@@ -161,8 +139,6 @@ class _HomePageState extends State<HomePage> {
         behavior: SnackBarBehavior.floating,
       ),
     );
-
-    print('=== ATUALIZAÇÃO CONCLUÍDA ===');
   }
 
 
@@ -306,7 +282,6 @@ class _HomePageState extends State<HomePage> {
                   fillColor: Colors.white,
                 ),
                 onChanged: (value) {
-                  print('Peso digitado: $value'); // Debug
                   setState(() {
                     SharedData.peso = double.tryParse(value.replaceAll(',', '.'));
                   });
@@ -329,7 +304,6 @@ class _HomePageState extends State<HomePage> {
                   fillColor: Colors.white,
                 ),
                 onChanged: (value) {
-                  print('Idade digitada: $value'); // Debug
                   setState(() {
                     double? idade = double.tryParse(value.replaceAll(',', '.'));
                     if (idade != null) {
@@ -361,7 +335,6 @@ class _HomePageState extends State<HomePage> {
                   fillColor: Colors.white,
                 ),
                 onChanged: (value) {
-                  print('Altura digitada: $value'); // Debug
                   setState(() {
                     SharedData.altura = double.tryParse(value.replaceAll(',', '.'));
                   });
@@ -386,7 +359,6 @@ class _HomePageState extends State<HomePage> {
                   DropdownMenuItem(value: 'anos', child: Text('Anos')),
                 ],
                 onChanged: (value) {
-                  print('Tipo de idade selecionado: $value'); // Debug
                   setState(() {
                     _idadeTipo = value!;
                   });
@@ -427,7 +399,6 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ],
                 onChanged: (value) {
-                  print('Sexo selecionado: $value'); // Debug
                   setState(() {
                     _sexoSelecionado = value!;
                   });
@@ -438,13 +409,7 @@ class _HomePageState extends State<HomePage> {
 
               // Botão de Atualizar
               ElevatedButton.icon(
-                onPressed: () {
-                  print('Botão pressionado!'); // Debug
-                  print('Peso: ${_pesoAtualController.text}');
-                  print('Idade: ${_idadeController.text}');
-                  print('Altura: ${_alturaController.text}');
-                  _atualizarDados();
-                },
+                onPressed: _atualizarDados,
                 icon: const Icon(Icons.check_circle),
                 label: const Text('Atualizar Dados'),
                 style: ElevatedButton.styleFrom(
@@ -452,31 +417,6 @@ class _HomePageState extends State<HomePage> {
                   foregroundColor: Colors.white,
                   padding: const EdgeInsets.symmetric(vertical: 16),
                   shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-                ),
-              ),
-
-              const SizedBox(height: 20),
-
-              // Debug info
-              Container(
-                padding: const EdgeInsets.all(8),
-                decoration: BoxDecoration(
-                  color: Colors.grey[100],
-                  borderRadius: BorderRadius.circular(8),
-                ),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text('Debug Info:', style: TextStyle(fontWeight: FontWeight.bold)),
-                    Text('Peso: ${_pesoAtualController.text}'),
-                    Text('Idade: ${_idadeController.text}'),
-                    Text('Altura: ${_alturaController.text}'),
-                    Text('Tipo: $_idadeTipo'),
-                    Text('Sexo: $_sexoSelecionado'),
-                    Text('SharedData.peso: ${SharedData.peso}'),
-                    Text('SharedData.idade: ${SharedData.idade}'),
-                    Text('SharedData.altura: ${SharedData.altura}'),
-                  ],
                 ),
               ),
 

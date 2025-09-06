@@ -1,0 +1,94 @@
+name: CI - Continuous Integration
+
+on:
+  push:
+    branches: [ master, main, develop ]
+  pull_request:
+    branches: [ master, main, develop ]
+
+jobs:
+  test:
+    name: Test Flutter App
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Flutter
+      uses: subosito/flutter-action@v2
+      with:
+        flutter-version: '3.32.5'
+        channel: 'stable'
+        cache: true
+        
+    - name: Install dependencies
+      run: flutter pub get
+      
+    - name: Verify formatting
+      run: flutter format --output=none --set-exit-if-changed .
+      
+    - name: Analyze project source
+      run: flutter analyze
+      
+    - name: Run tests
+      run: flutter test
+      
+    - name: Check for unused dependencies
+      run: |
+        flutter pub deps --json | jq '.packages | keys | .[]' | xargs -I {} sh -c 'if ! grep -q "import.*{}" lib/**/*.dart; then echo "Unused dependency: {}"; fi'
+
+  build:
+    name: Build Flutter App
+    runs-on: ubuntu-latest
+    needs: test
+    
+    strategy:
+      matrix:
+        platform: [android, web, windows, macos, linux]
+        
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Flutter
+      uses: subosito/flutter-action@v2
+      with:
+        flutter-version: '3.32.5'
+        channel: 'stable'
+        cache: true
+        
+    - name: Install dependencies
+      run: flutter pub get
+      
+    - name: Build for ${{ matrix.platform }}
+      run: |
+        case "${{ matrix.platform }}" in
+          android)
+            flutter build apk --release
+            ;;
+          web)
+            flutter build web --release
+            ;;
+          windows)
+            flutter build windows --release
+            ;;
+          macos)
+            flutter build macos --release
+            ;;
+          linux)
+            flutter build linux --release
+            ;;
+        esac
+        
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: build-${{ matrix.platform }}
+        path: |
+          build/app/outputs/flutter-apk/*.apk
+          build/web/
+          build/windows/runner/Release/
+          build/macos/Build/Products/Release/
+          build/linux/x64/release/bundle/
+        if-no-files-found: warn

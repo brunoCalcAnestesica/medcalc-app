@@ -1,0 +1,113 @@
+name: Release Management
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to release (e.g., v1.0.0)'
+        required: true
+        type: string
+
+jobs:
+  create-release:
+    name: Create Release
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Flutter
+      uses: subosito/flutter-action@v2
+      with:
+        flutter-version: '3.32.5'
+        channel: 'stable'
+        cache: true
+        
+    - name: Install dependencies
+      run: flutter pub get
+      
+    - name: Get version
+      id: version
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "version=${{ github.event.inputs.version }}" >> $GITHUB_OUTPUT
+        else
+          echo "version=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Build Android APK
+      run: flutter build apk --release
+      
+    - name: Build Android App Bundle
+      run: flutter build appbundle --release
+      
+    - name: Build Web App
+      run: flutter build web --release --web-renderer html
+      
+    - name: Build Windows App
+      run: flutter build windows --release
+      
+    - name: Build macOS App
+      run: flutter build macos --release
+      
+    - name: Build Linux App
+      run: flutter build linux --release
+      
+    - name: Create release notes
+      id: release_notes
+      run: |
+        echo "## MedCalc ${{ steps.version.outputs.version }}" >> release_notes.md
+        echo "" >> release_notes.md
+        echo "### 🏥 Medical Calculator App for Anesthesiologists and Intensivists" >> release_notes.md
+        echo "" >> release_notes.md
+        echo "### 📱 Available Platforms" >> release_notes.md
+        echo "- **Android**: APK and App Bundle included" >> release_notes.md
+        echo "- **Web**: Available at [GitHub Pages](https://brunoCalcAnestesica.github.io/medcalc-app/)" >> release_notes.md
+        echo "- **Desktop**: Windows, macOS, and Linux builds included" >> release_notes.md
+        echo "" >> release_notes.md
+        echo "### 🚀 Features" >> release_notes.md
+        echo "- Patient data management with automatic calculations" >> release_notes.md
+        echo "- 200+ medications with dose calculations" >> release_notes.md
+        echo "- Physiological parameters calculator" >> release_notes.md
+        echo "- Anesthesia induction protocols" >> release_notes.md
+        echo "- Integrated drug database" >> release_notes.md
+        echo "- Multi-platform support" >> release_notes.md
+        echo "- Internationalization (PT, EN, ES, ZH)" >> release_notes.md
+        echo "" >> release_notes.md
+        echo "### 📥 Installation" >> release_notes.md
+        echo "1. **Android**: Download and install the APK file" >> release_notes.md
+        echo "2. **Web**: Visit the GitHub Pages link above" >> release_notes.md
+        echo "3. **Desktop**: Extract and run the appropriate executable for your platform" >> release_notes.md
+        echo "" >> release_notes.md
+        echo "### 🔧 Technical Details" >> release_notes.md
+        echo "- Flutter 3.32.5" >> release_notes.md
+        echo "- Dart 3.8.1" >> release_notes.md
+        echo "- Multi-platform support" >> release_notes.md
+        echo "" >> release_notes.md
+        echo "### 📋 Changelog" >> release_notes.md
+        echo "See the [commit history](https://github.com/brunoCalcAnestesica/medcalc-app/commits/${{ steps.version.outputs.version }}) for detailed changes." >> release_notes.md
+        
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: ${{ steps.version.outputs.version }}
+        name: MedCalc ${{ steps.version.outputs.version }}
+        body_path: release_notes.md
+        files: |
+          build/app/outputs/flutter-apk/*.apk
+          build/app/outputs/bundle/release/*.aab
+          build/web/**/*
+          build/windows/runner/Release/**/*
+          build/macos/Build/Products/Release/**/*
+          build/linux/x64/release/bundle/**/*
+        draft: false
+        prerelease: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Cleanup
+      run: rm -f release_notes.md

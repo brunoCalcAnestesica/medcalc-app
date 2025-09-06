@@ -37,15 +37,6 @@ O **MedCalc** é um aplicativo Flutter desenvolvido especificamente para profiss
 - **Gerenciamento de Estado**: SharedPreferences
 - **Internacionalização**: flutter_localizations
 
-## 📱 Capturas de Tela
-
-<div align="center">
-  <img src="assets/screenshots/home.png" alt="Tela Principal" width="200">
-  <img src="assets/screenshots/medications.png" alt="Medicamentos" width="200">
-  <img src="assets/screenshots/physiology.png" alt="Fisiologia" width="200">
-  <img src="assets/screenshots/induction.png" alt="Indução" width="200">
-</div>
-
 ## 🏗️ Estrutura do Projeto
 
 ```
